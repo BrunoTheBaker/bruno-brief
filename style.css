@@ -1,0 +1,255 @@
+/* ============================================================
+   Bruno Brief — iOS-native-feeling PWA stylesheet
+   Dark by default, respects prefers-color-scheme.
+   Uses safe-area-inset-* for notch/home indicator.
+   ============================================================ */
+
+:root {
+  /* Palette — true-black surface for OLED, soft white text */
+  --bg: #000000;
+  --bg-elev: #111114;
+  --bg-card: #1c1c1f;
+  --border: rgba(255, 255, 255, 0.08);
+  --text: #f2f2f7;
+  --text-dim: #aeaeb2;
+  --text-faint: #6e6e73;
+  --accent: #0a84ff;          /* iOS system blue */
+  --accent-pressed: #0066cc;
+  --radius: 14px;
+  --radius-sm: 10px;
+
+  /* iOS system font stack */
+  --font-system: -apple-system, BlinkMacSystemFont, "SF Pro Display",
+                 "SF Pro Text", "Segoe UI", Roboto, Helvetica, Arial,
+                   "Apple Color Emoji", "Segoe UI Emoji", sans-serif;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg: #f2f2f7;
+    --bg-elev: #ffffff;
+    --bg-card: #ffffff;
+    --border: rgba(0, 0, 0, 0.08);
+    --text: #1c1c1e;
+    --text-dim: #545458;
+    --text-faint: #8e8e93;
+  }
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-system);
+  font-size: 16px;
+  line-height: 1.45;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  /* Prevent iOS rubber-band on the body; main content scrolls */
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  min-height: -webkit-fill-available;
+  /* Honor safe-area so content doesn't sit under the notch / home bar */
+  padding-top: env(safe-area-inset-top);
+  padding-bottom: env(safe-area-inset-bottom);
+  padding-left: env(safe-area-inset-left);
+  padding-right: env(safe-area-inset-right);
+}
+
+/* ---------- Header ---------- */
+.app-header {
+  padding: 14px 16px 8px;
+  background: var(--bg);
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  /* Subtle hairline under header */
+  border-bottom: 1px solid var(--border);
+}
+
+.app-title {
+  margin: 0;
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.app-date {
+  margin: 2px 0 0;
+  font-size: 13px;
+  color: var(--text-dim);
+  font-weight: 500;
+}
+
+/* ---------- Main / Stories ---------- */
+.main {
+  flex: 1 0 auto;
+  padding: 12px 16px 24px;
+}
+
+.bucket {
+  margin: 18px 0 8px;
+}
+
+.bucket:first-child { margin-top: 4px; }
+
+.bucket-header {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 10px;
+  padding: 0 2px;
+  font-size: 13px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--text-dim);
+}
+
+.bucket-emoji {
+  font-size: 16px;
+  line-height: 1;
+}
+
+/* ---------- Story card ---------- */
+.card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 14px 14px 12px;
+  margin: 0 0 10px;
+  display: block;
+  /* Subtle iOS-like shadow on dark; hairline border does the work on light */
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card-emoji {
+  font-size: 15px;
+  margin-right: 6px;
+  vertical-align: -2px;
+}
+
+.card-headline {
+  margin: 0 0 6px;
+  font-size: 17px;
+  font-weight: 600;
+  line-height: 1.3;
+  color: var(--text);
+  letter-spacing: -0.01em;
+}
+
+.card-summary {
+  margin: 0 0 10px;
+  font-size: 15px;
+  line-height: 1.45;
+  color: var(--text-dim);
+}
+
+.card-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin-top: 8px;
+}
+
+.card-sources {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.source-tag {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--text-dim);
+  background: rgba(255, 255, 255, 0.06);
+  padding: 3px 8px;
+  border-radius: 999px;
+  letter-spacing: 0.02em;
+}
+
+@media (prefers-color-scheme: light) {
+  .source-tag { background: rgba(0, 0, 0, 0.05); }
+}
+
+/* Deep-dive button — a real <a>, styled like iOS */
+.deep-dive {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--accent);
+  text-decoration: none;
+  padding: 6px 10px;
+  margin: -6px -10px -6px 0; /* keep card padding visually balanced */
+  border-radius: var(--radius-sm);
+  -webkit-tap-highlight-color: rgba(10, 132, 255, 0.18);
+}
+
+.deep-dive:hover { color: var(--accent-pressed); }
+.deep-dive:active { background: rgba(10, 132, 255, 0.12); }
+
+/* ---------- Empty / Error states ---------- */
+.empty-state {
+  text-align: center;
+  padding: 48px 16px 24px;
+  color: var(--text-dim);
+}
+
+.empty-emoji {
+  font-size: 40px;
+  line-height: 1;
+  margin-bottom: 12px;
+}
+
+.empty-title {
+  margin: 0 0 6px;
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.empty-body {
+  margin: 0 auto;
+  max-width: 320px;
+  font-size: 15px;
+  line-height: 1.45;
+}
+
+.empty-body code {
+  font-family: ui-monospace, "SF Mono", Menlo, monospace;
+  font-size: 13px;
+  background: var(--bg-card);
+  padding: 1px 6px;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+}
+
+/* ---------- Footer ---------- */
+.app-footer {
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 12px;
+  color: var(--text-faint);
+  padding: 12px 16px;
+  /* Sit above the iPhone home indicator */
+  padding-bottom: calc(12px + env(safe-area-inset-bottom));
+  border-top: 1px solid var(--border);
+}
+
+/* ---------- Reduced motion ---------- */
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}

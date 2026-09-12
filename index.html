@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Bruno Brief</title>
+  <meta name="description" content="Daily world-news briefing from Bruno." />
+
+  <!-- Theme color for address bar / PWA shell -->
+  <meta name="theme-color" content="#000000" />
+
+  <!-- iPhone Add-to-Home-Screen -->
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-title" content="Bruno Brief" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="format-detection" content="telephone=no" />
+
+  <!-- iPhone home-screen icon (Bruno will provide the PNGs) -->
+  <link rel="apple-touch-icon" href="icons/icon-180.png" />
+
+  <!-- PWA manifest -->
+  <link rel="manifest" href="manifest.webmanifest" />
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="app-header" role="banner">
+    <h1 class="app-title">Bruno Brief</h1>
+    <p class="app-date" id="app-date" aria-live="polite">—</p>
+  </header>
+
+  <main id="main" class="main">
+    <!-- Stories render here, grouped by bucket -->
+    <section id="stories" class="stories" aria-label="Stories"></section>
+
+    <!-- Empty state (rendered when feed.json has no stories) -->
+    <section id="empty-state" class="empty-state" hidden>
+      <div class="empty-emoji" aria-hidden="true">📭</div>
+      <h2 class="empty-title">No briefing yet today</h2>
+      <p class="empty-body">
+        Bruno's morning run hasn't posted a feed yet. Pull down to refresh,
+        or check back after the daily cron fires.
+      </p>
+    </section>
+
+    <!-- Error state (fetch failed and no cache) -->
+    <section id="error-state" class="empty-state" hidden>
+      <div class="empty-emoji" aria-hidden="true">⚠️</div>
+      <h2 class="empty-title">Couldn't load the brief</h2>
+      <p class="empty-body">
+        We couldn't reach <code>feed.json</code> and have no cached copy.
+        Check your connection and try again.
+      </p>
+    </section>
+  </main>
+
+  <footer class="app-footer" role="contentinfo">
+    <span>Daily briefing · powered by Bruno</span>
+  </footer>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
