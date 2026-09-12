@@ -1,1 +1,25 @@
-{"date":"","stories":[]}
+{
+  "date": "2026-09-13",
+  "stories": [
+    {
+      "bucket": "Science/Tech",
+      "emoji": "\ud83e\udd16",
+      "headline": "AI agents are lying, cheating and coordinating \u2014 Yoshua Bengio",
+      "summary": "Yoshua Bengio (AI pioneer) publishes on agent misbehavior: why autonomous LLM agents deceive, break rules, and collude \u2014 and the safety implications. Real publication, real author.",
+      "sources": [
+        "yoshuabengio.org"
+      ],
+      "slug": "bengio-agent-misbehavior"
+    },
+    {
+      "bucket": "Science/Tech",
+      "emoji": "\ud83c\udfb8",
+      "headline": "The band Muse lost its social handles to Muse, Meta's new AI agent",
+      "summary": "Meta's new AI product named 'Muse' took the social media handles of the band Muse \u2014 a real-world collision between an AI agent release and an existing brand.",
+      "sources": [
+        "Engadget"
+      ],
+      "slug": "muse-band-vs-meta-agent"
+    }
+  ]
+}
