@@ -67,6 +67,122 @@
           "slug": "oil-tops-100-iran-conflict"
         }
       ]
+    },
+    {
+      "date": "2026-09-12",
+      "stories": [
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "18th BRICS Summit opens in New Delhi as Modi hosts Putin and Xi",
+          "summary": "India hosts the 18th BRICS Summit at Bharat Mandapam in New Delhi on Sep 12–13 under its 2026 chairship, with Narendra Modi hosting Vladimir Putin, Xi Jinping and the bloc's leaders for talks on trade, finance and a shared currency agenda.",
+          "sources": [
+            "Al Jazeera",
+            "NPR"
+          ],
+          "slug": "brics-summit-new-delhi",
+          "url": "https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters"
+        },
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "Saudi Arabia's oil 'lifeline' attacked as oil climbs toward $110",
+          "summary": "Attacks on Saudi oil infrastructure compounded an already-tight market, pushing crude toward $110 a barrel, deepening inflation pressure and keeping Treasury yields elevated on rate-hike bets.",
+          "sources": [
+            "New York Times",
+            "Reuters"
+          ],
+          "slug": "saudi-oil-attack-supply"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Europe's maize harvest at 50-year low as soil deficits deepen",
+          "summary": "France's maize harvest hit a 50-year low and Romania is losing over a million hectares, with 2026 soil moisture deficits running 5 to 11 times more likely under climate-driven drought, straining EU agricultural policy.",
+          "sources": [
+            "Euronews"
+          ],
+          "slug": "europe-drought-maize-harvest"
+        },
+        {
+          "bucket": "Australia Politics",
+          "emoji": "🇦🇺",
+          "headline": "Coalition warns Labor 'failed' on immigration as migration talks continue",
+          "summary": "Liberal frontbencher Andrew Hastie said Coalition MPs believe Labor has 'failed' on immigration, even as the two major parties hold private negotiations to find common ground on net overseas migration targets.",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "australia-immigration-failed"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Houthis consolidate control over Bab al-Mandab as Red Sea shipping faces new threat",
+          "summary": "Yemen's Houthis moved to consolidate power over the Bab al-Mandab Strait, a vital maritime choke point, pledging not to disrupt international shipping while reiterating threats against Saudi-linked vessels.",
+          "sources": [
+            "Democracy Now!",
+            "Havana Times"
+          ],
+          "slug": "houthis-bab-al-mandab"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "stories": [
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "World marks 25th anniversary of 9/11 attacks",
+          "summary": "On the 25th anniversary of the September 11, 2001 attacks, the UN Secretary-General honoured victims, survivors and first responders, calling the assault 'an assault on humanity itself', as US politicians gathered at the World Trade Center site.",
+          "sources": [
+            "UN News",
+            "Democracy Now!"
+          ],
+          "slug": "september-11-25th-anniversary"
+        },
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "Oil surges toward $110 a barrel as more ships struck near Strait of Hormuz",
+          "summary": "Additional vessel attacks near the Strait of Hormuz sent oil prices toward $110 a barrel and pushed US diesel above $6 a gallon for the first time, an energy shock feeding into inflation and rates expectations.",
+          "sources": [
+            "Democracy Now!",
+            "Reuters"
+          ],
+          "slug": "oil-surge-110-hormuz"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Documentary 'NAZA' reveals Israel's AI targeting systems in Gaza",
+          "summary": "A new documentary exposes how Israeli forces use AI-powered systems to select targets in Gaza, reigniting global debate over autonomous and AI-assisted targeting in dense urban warfare.",
+          "sources": [
+            "Democracy Now!"
+          ],
+          "slug": "documentary-naza-ai-targeting"
+        },
+        {
+          "bucket": "Australia Politics",
+          "emoji": "🇦🇺",
+          "headline": "Wholesale inflation climbs as Houthi shipping disruption raises costs",
+          "summary": "Rising wholesale inflation, partly driven by energy and shipping disruption from the Red Sea conflict, added to pressure on the Reserve Bank amid the global inflation repricing.",
+          "sources": [
+            "WNG"
+          ],
+          "slug": "wholesale-inflation-climbs"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "Rubio wraps South America tour after winning new security cooperation",
+          "summary": "US Secretary of State Marco Rubio wrapped up a South America tour after securing new security cooperation agreements, part of a broader US push to counter influence in the region.",
+          "sources": [
+            "WNG"
+          ],
+          "slug": "rubio-south-america-security"
+        }
+      ]
     }
   ]
 }

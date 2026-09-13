@@ -99,6 +99,68 @@
         ],
         "updated": "2026-09-13"
       }
+    },
+    "2026-09-12": {
+      "brics-summit-new-delhi": {
+        "headline": "18th BRICS Summit opens in New Delhi as Modi hosts Putin and Xi",
+        "summary": "India hosts the 18th BRICS Summit under its 2026 chairship, bringing Putin, Xi and the bloc's leaders together for trade, finance and currency talks.",
+        "detail": "India is hosting the 18th BRICS Summit at Bharat Mandapam in New Delhi from September 12–13, 2026, under India's BRICS chairship. Prime Minister Narendra Modi opened proceedings by hosting the bloc's leaders, including Russian President Vladimir Putin, Chinese President Xi Jinping and other heads of state, starting with a gala dinner for the assembled leaders.\n\nOn the agenda are trade integration, reform of global financial institutions, and the bloc's long-running push toward a shared BRICS currency and de-dollarisation agenda — a subject that has drawn intense Western attention as the grouping expands. The summit is being watched as a test of whether BRICS can translate its growing membership into concrete financial and trade mechanisms.\n\nThe New Delhi location is symbolically significant: it lets India balance its ties to both Russia and the West while positioning itself as a leader of the expanding non-Western bloc.",
+        "sources": [
+          "Al Jazeera",
+          "NPR",
+          "Firstpost"
+        ],
+        "source_urls": [
+          "https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters",
+          "https://www.npr.org/sections/world/",
+          "https://www.firstpost.com"
+        ],
+        "updated": "2026-09-12"
+      },
+      "saudi-oil-attack-supply": {
+        "headline": "Saudi Arabia's oil 'lifeline' attacked as oil climbs toward $110",
+        "summary": "Attacks on Saudi oil infrastructure worsened an already-tight market, pushing crude toward $110 a barrel and adding to inflation and rate-hike pressure.",
+        "detail": "Saudi Arabia's oil 'lifeline' came under attack as the Middle East conflict widened, and the New York Times framed the strikes on Saudi energy infrastructure as a direct threat to global supply. Coming on top of the Strait of Hormuz disruptions and Houthi activity in the Red Sea, the attacks compounded a market already running hot.\n\nCrude prices climbed toward $110 a barrel, adding to a multi-week rally that had begun with the collapse of the July ceasefire. For financial markets, the implications ripple through: higher energy costs feed directly into inflation expectations, which is precisely what bond markets are pricing in as they bet on the Federal Reserve moving rates higher.\n\nThe convergence of Gulf supply risks, US–Iran tit-for-tat strikes, and attacks on Saudi infrastructure means energy, not labour data, has become the dominant swing factor in the inflation outlook.",
+        "sources": [
+          "New York Times",
+          "Reuters"
+        ],
+        "source_urls": [
+          "https://www.nytimes.com/international/section/world",
+          "https://www.reuters.com/business/energy/"
+        ],
+        "updated": "2026-09-12"
+      }
+    },
+    "2026-09-11": {
+      "september-11-25th-anniversary": {
+        "headline": "World marks 25th anniversary of 9/11 attacks",
+        "summary": "On the 25th anniversary of the September 11, 2001 attacks, the UN and US officials honoured victims, survivors and first responders.",
+        "detail": "The world marked the 25th anniversary of the September 11, 2001 attacks on Thursday 11 September, 2026. UN Secretary-General António Guterres issued a statement honouring the victims, survivors and first responders, calling the attacks 'an assault on humanity itself'.\n\nIn New York, state, local and national politicians gathered at the site of the former World Trade Center towers for commemorations. September 11th Families for Peaceful Tomorrows held a vigil ahead of the anniversary, and Democracy Now! revisited its coverage of the attacks and how the 'war on terror' reshaped the United States and the world.\n\nTwo and a half decades on, the anniversary prompted reflection not only on the attacks themselves but on the long arc of the counterterrorism response — from wars in Afghanistan and Iraq to evolving surveillance and military doctrines.",
+        "sources": [
+          "UN News",
+          "Democracy Now!"
+        ],
+        "source_urls": [
+          "https://news.un.org/en/audio/2026/09/1168316",
+          "https://www.democracynow.org/2026/9/11/headlines"
+        ],
+        "updated": "2026-09-11"
+      },
+      "oil-surge-110-hormuz": {
+        "headline": "Oil surges toward $110 a barrel as more ships struck near Strait of Hormuz",
+        "summary": "Heightened vessel attacks near the Strait of Hormuz pushed oil toward $110 a barrel and diesel above $6 a gallon for the first time.",
+        "detail": "Oil prices surged toward $110 a barrel on Friday, September 11, 2026, as more ships came under attack near the Strait of Hormuz, the world's most critical energy chokepoint. The escalation pushed US diesel prices above $6 a gallon for the first time ever, a painful milestone for consumers and businesses alike.\n\nDemocracy Now! and Reuters reported the deepening supply disruption as the maritime conflict around the Gulf intensified. The attacks compound an already-precarious supply picture: the effective closure of much of the strait's traffic had already been squeezing physical and futures prices for weeks.\n\nFor the macro picture, the oil spike is the central driver of the renewed inflation scare and a key reason bond markets keep pricing higher central-bank rates. Every incremental barrel of price pressure translates into firmer bets on rate rises rather than cuts.",
+        "sources": [
+          "Democracy Now!",
+          "Reuters"
+        ],
+        "source_urls": [
+          "https://www.democracynow.org/2026/9/11/headlines",
+          "https://www.reuters.com/business/energy/"
+        ],
+        "updated": "2026-09-11"
+      }
     }
   }
 }
