@@ -1,6 +1,115 @@
 {
   "days": [
     {
+      "date": "2026-09-14",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "US bond sell-off persists as 10-year yield hovers near 4.97%",
+          "summary": "A sustained sell-off has pushed long-term Treasury yields to their highest since 2007, with the 10-year around 4.97%, as investors weigh sticky inflation, the ongoing Iran war and record US debt. Analysts warn elevated borrowing costs may be 'here to stay'.",
+          "sources": ["The Guardian", "TradingEconomics"],
+          "slug": "us-bond-selloff-2026-09-14"
+        },
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "Bond market rebuffs Treasury's $6bn buyback plan",
+          "summary": "The US Treasury's plan to buy back $6bn in government debt met a cool market reception, a sign of weak demand for longer-dated paper that is keeping yields elevated and complicating the government's borrowing program.",
+          "sources": ["The Guardian"],
+          "slug": "treasury-buyback-rebuffed-2026-09-14"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "One Nation unveils plan to cut 750,000 temporary visa holders and reset migration to zero",
+          "summary": "Pauline Hanson's One Nation has announced it would slash the number of temporary visa holders and unlawful non-citizens by more than 750,000 over three years by targeting international students and families of skilled migrants, in a plan to 'reset' net overseas migration toward zero.",
+          "sources": ["AFR", "ABC News", "Nine"],
+          "slug": "one-nation-migration-plan-2026-09-14"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Voters lose faith in PM on economy as migration battle intensifies",
+          "summary": "New polling suggests public confidence in the Prime Minister's handling of the economy is slipping, just as One Nation's migration proposals pressure the major parties and a personal row erupts over Pauline Hanson's attack on the PM's late mother.",
+          "sources": ["WA Today", "Nine"],
+          "slug": "voters-pm-economy-2026-09-14"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Sweden's razor-thin election: centre-left leads exit polls as far right slips",
+          "summary": "Sweden's general election was too close to call, with exit polls showing the centre-left opposition bloc on 51.3% against the governing right-wing bloc's 46.8%. With half the vote counted, the far right appeared to be losing ground and parliamentary arithmetic could go either way.",
+          "sources": ["Al Jazeera", "France 24"],
+          "slug": "sweden-election-2026-09-14"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "EU plenary opens as MEPs prepare for State of the Union debate with von der Leyen",
+          "summary": "The European Parliament's 14–17 September plenary opens with political groups preparing for the State of the European Union debate with Commission President Ursula von der Leyen, and a scheduled address from Canada's Prime Minister Mark Carney.",
+          "sources": ["European Parliament"],
+          "slug": "eu-plenary-soteu-2026-09-14"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "OpenAI launches ChatGPT for Financial Services powered by GPT-6 Astra",
+          "summary": "OpenAI released a dedicated ChatGPT product for investment banks and equity researchers, combining its GPT-6 Astra model with built-in data from LSEG, PitchBook, Daloopa and Crunchbase. Morgan Stanley and Evercore acted as design partners; Wall Street data firms are eyeing shared sign-in integrations.",
+          "sources": ["Reuters", "OpenAI", "VentureBeat"],
+          "slug": "openai-chatgpt-financial-services-2026-09-14"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "'Model fatigue' sets in as AI labs race out new releases",
+          "summary": "Anthropic, OpenAI, Meta and Google all shipped fresh model updates within days of each other, an accelerating cadence CNBC says is starting to tire customers. Google is meanwhile readying a coding-focused 'Gemini 3.8 Flash' to close the gap with rivals.",
+          "sources": ["CNBC", "Quartz"],
+          "slug": "ai-model-fatigue-2026-09-14"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Ukraine presses drone strikes on Russian logistics hubs; overnight deaths on both sides",
+          "summary": "Ukraine continued its campaign of drone strikes against Russian infrastructure, notably Wildberries logistics hubs it accuses of handling military goods, as overnight attacks left five dead in Ukraine and four in Russia. Kyiv says the strikes aim to damage the economic base of Russia's war effort.",
+          "sources": ["Reuters", "BBC", "Al Jazeera"],
+          "slug": "ukraine-wildberries-strikes-2026-09-14"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "🌍",
+          "headline": "Heavy fighting in Yemen as Houthis and Saudi Arabia trade strikes over Bab al-Mandab",
+          "summary": "The Iran war widened into Yemen, with heavy fighting erupting as Houthi forces and Saudi Arabia exchanged strikes over the Bab al-Mandab strait. An Iranian commercial vessel was also attacked near Qeshm Island, killing one and wounding four, with Tehran blaming the US.",
+          "sources": ["Al Jazeera"],
+          "slug": "iran-yemen-bab-al-mandab-2026-09-14"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🚀",
+          "headline": "Roman Space Telescope powers on its planet-imaging coronagraph",
+          "summary": "NASA's Nancy Grace Roman Space Telescope, launched Aug 30, has successfully activated its Coronagraph Instrument — described as the most advanced coronagraph ever flown — to directly image planets and dusty disks. Calibration will run several months ahead of full science operations.",
+          "sources": ["NASA", "Space.com"],
+          "slug": "roman-coronagraph-power-on-2026-09-14"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "2026 Lasker Awards honour breakthroughs in sleep, hemophilia and cell biology",
+          "summary": "The Lasker Foundation named this year's winners: Emmanuel Mignot and Masashi Yanagisawa for identifying the wakefulness peptide orexin and its role in narcolepsy, and Japan's Chugai scientists for a bispecific antibody that prevents bleeding in hemophilia A — plus awards for basic and cell biology research.",
+          "sources": ["Lasker Foundation", "Live Science"],
+          "slug": "lasker-awards-2026-09-14"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Brent holds near $104 as Iran signals Gulf talks on the Strait of Hormuz",
+          "summary": "Brent crude settled around $104 a barrel, up roughly 17.6% over the month and 56% year-on-year, as the market weighed diplomatic signals that Tehran would meet Gulf states in Oman about the Strait of Hormuz against continued fighting and shipping attacks in the region.",
+          "sources": ["TradingEconomics", "The Guardian", "CNBC"],
+          "slug": "oil-brent-104-hormuz-2026-09-14"
+        }
+      ]
+    },
+    {
       "date": "2026-09-13",
       "stories": [
         {
@@ -8,10 +117,7 @@
           "emoji": "🇺🇸",
           "headline": "Fed rate-hike odds surge to 90% as core inflation runs hot",
           "summary": "Markets now price a 90% chance the Federal Reserve raises rates by 25bp at its Sept 16 meeting after August core CPI came in hotter than expected. The 10-year Treasury closed at its highest yield since 2007, with oil above $100 adding pressure.",
-          "sources": [
-            "Reuters",
-            "CNBC"
-          ],
+          "sources": ["Reuters", "CNBC"],
           "slug": "fed-rate-hike-september"
         },
         {
@@ -19,9 +125,7 @@
           "emoji": "🇦🇺",
           "headline": "Labor and Coalition hold immigration talks as Malinauskas warns of 'race to the bottom'",
           "summary": "The federal government is negotiating immigration policy with the opposition while SA Premier Peter Malinauskas warns the major parties against a 'political race to the bottom' with One Nation on migration cuts.",
-          "sources": [
-            "ABC News"
-          ],
+          "sources": ["ABC News"],
           "slug": "australia-immigration-politics"
         },
         {
@@ -29,9 +133,7 @@
           "emoji": "⚔️",
           "headline": "Ukraine's prosecutor general resigns amid corruption scandal",
           "summary": "Ruslan Kravchenko quit as Ukraine's top prosecutor after an anti-corruption probe exposed an alleged protection racket run from his office shielding scam call centres, the latest casualty among senior Zelensky allies.",
-          "sources": [
-            "Reuters"
-          ],
+          "sources": ["Reuters"],
           "slug": "ukraine-prosecutor-general-resigns"
         },
         {
@@ -39,10 +141,7 @@
           "emoji": "🤖",
           "headline": "NASA and IBM release open-source AI foundation model for lunar science",
           "summary": "The NASA-IBM Lunar Foundation Model, trained on ~2 million images from the Lunar Reconnaissance Orbiter, helps scientists map craters, spot young volcanic features and predict where lunar polar ice may be stable. Free on Hugging Face.",
-          "sources": [
-            "NASA",
-            "Space.com"
-          ],
+          "sources": ["NASA", "Space.com"],
           "slug": "nasa-ibm-lunar-ai-model"
         },
         {
@@ -50,9 +149,7 @@
           "emoji": "🚀",
           "headline": "AI plots an interstellar trajectory to Alpha Centauri",
           "summary": "The Fermi Explorer Mission aims to launch a probe to our nearest star system by 2029, using an orbital route discovered by an AI physics tool, Get Physics Done, from the startup Physical Superintelligence.",
-          "sources": [
-            "MIT Technology Review"
-          ],
+          "sources": ["MIT Technology Review"],
           "slug": "ai-alpha-centauri-trajectory"
         },
         {
@@ -60,10 +157,7 @@
           "emoji": "🚨",
           "headline": "Oil tops $100 a barrel as the US–Iran conflict escalates",
           "summary": "Brent crude rose above $101 in the latest tit-for-tat exchange of fire between the US and Iran, the first time since July. The spike is compounding inflation fears and reinforcing bets on higher central-bank rates.",
-          "sources": [
-            "The Guardian",
-            "NYT"
-          ],
+          "sources": ["The Guardian", "NYT"],
           "slug": "oil-tops-100-iran-conflict"
         }
       ]
@@ -76,10 +170,7 @@
           "emoji": "🚨",
           "headline": "18th BRICS Summit opens in New Delhi as Modi hosts Putin and Xi",
           "summary": "India hosts the 18th BRICS Summit at Bharat Mandapam in New Delhi on Sep 12–13 under its 2026 chairship, with Narendra Modi hosting Vladimir Putin, Xi Jinping and the bloc's leaders for talks on trade, finance and a shared currency agenda.",
-          "sources": [
-            "Al Jazeera",
-            "NPR"
-          ],
+          "sources": ["Al Jazeera", "NPR"],
           "slug": "brics-summit-new-delhi",
           "url": "https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters"
         },
@@ -88,10 +179,7 @@
           "emoji": "🇺🇸",
           "headline": "Saudi Arabia's oil 'lifeline' attacked as oil climbs toward $110",
           "summary": "Attacks on Saudi oil infrastructure compounded an already-tight market, pushing crude toward $110 a barrel, deepening inflation pressure and keeping Treasury yields elevated on rate-hike bets.",
-          "sources": [
-            "New York Times",
-            "Reuters"
-          ],
+          "sources": ["New York Times", "Reuters"],
           "slug": "saudi-oil-attack-supply"
         },
         {
@@ -99,9 +187,7 @@
           "emoji": "🇪🇺",
           "headline": "Europe's maize harvest at 50-year low as soil deficits deepen",
           "summary": "France's maize harvest hit a 50-year low and Romania is losing over a million hectares, with 2026 soil moisture deficits running 5 to 11 times more likely under climate-driven drought, straining EU agricultural policy.",
-          "sources": [
-            "Euronews"
-          ],
+          "sources": ["Euronews"],
           "slug": "europe-drought-maize-harvest"
         },
         {
@@ -109,9 +195,7 @@
           "emoji": "🇦🇺",
           "headline": "Coalition warns Labor 'failed' on immigration as migration talks continue",
           "summary": "Liberal frontbencher Andrew Hastie said Coalition MPs believe Labor has 'failed' on immigration, even as the two major parties hold private negotiations to find common ground on net overseas migration targets.",
-          "sources": [
-            "ABC News"
-          ],
+          "sources": ["ABC News"],
           "slug": "australia-immigration-failed"
         },
         {
@@ -119,10 +203,7 @@
           "emoji": "⚔️",
           "headline": "Houthis consolidate control over Bab al-Mandab as Red Sea shipping faces new threat",
           "summary": "Yemen's Houthis moved to consolidate power over the Bab al-Mandab Strait, a vital maritime choke point, pledging not to disrupt international shipping while reiterating threats against Saudi-linked vessels.",
-          "sources": [
-            "Democracy Now!",
-            "Havana Times"
-          ],
+          "sources": ["Democracy Now!", "Havana Times"],
           "slug": "houthis-bab-al-mandab"
         }
       ]
@@ -135,10 +216,7 @@
           "emoji": "🚨",
           "headline": "World marks 25th anniversary of 9/11 attacks",
           "summary": "On the 25th anniversary of the September 11, 2001 attacks, the UN Secretary-General honoured victims, survivors and first responders, calling the assault 'an assault on humanity itself', as US politicians gathered at the World Trade Center site.",
-          "sources": [
-            "UN News",
-            "Democracy Now!"
-          ],
+          "sources": ["UN News", "Democracy Now!"],
           "slug": "september-11-25th-anniversary"
         },
         {
@@ -146,10 +224,7 @@
           "emoji": "🇺🇸",
           "headline": "Oil surges toward $110 a barrel as more ships struck near Strait of Hormuz",
           "summary": "Additional vessel attacks near the Strait of Hormuz sent oil prices toward $110 a barrel and pushed US diesel above $6 a gallon for the first time, an energy shock feeding into inflation and rates expectations.",
-          "sources": [
-            "Democracy Now!",
-            "Reuters"
-          ],
+          "sources": ["Democracy Now!", "Reuters"],
           "slug": "oil-surge-110-hormuz"
         },
         {
@@ -157,9 +232,7 @@
           "emoji": "⚔️",
           "headline": "Documentary 'NAZA' reveals Israel's AI targeting systems in Gaza",
           "summary": "A new documentary exposes how Israeli forces use AI-powered systems to select targets in Gaza, reigniting global debate over autonomous and AI-assisted targeting in dense urban warfare.",
-          "sources": [
-            "Democracy Now!"
-          ],
+          "sources": ["Democracy Now!"],
           "slug": "documentary-naza-ai-targeting"
         },
         {
@@ -167,9 +240,7 @@
           "emoji": "🇦🇺",
           "headline": "Wholesale inflation climbs as Houthi shipping disruption raises costs",
           "summary": "Rising wholesale inflation, partly driven by energy and shipping disruption from the Red Sea conflict, added to pressure on the Reserve Bank amid the global inflation repricing.",
-          "sources": [
-            "WNG"
-          ],
+          "sources": ["WNG"],
           "slug": "wholesale-inflation-climbs"
         },
         {
@@ -177,9 +248,7 @@
           "emoji": "🔬",
           "headline": "Rubio wraps South America tour after winning new security cooperation",
           "summary": "US Secretary of State Marco Rubio wrapped up a South America tour after securing new security cooperation agreements, part of a broader US push to counter influence in the region.",
-          "sources": [
-            "WNG"
-          ],
+          "sources": ["WNG"],
           "slug": "rubio-south-america-security"
         }
       ]

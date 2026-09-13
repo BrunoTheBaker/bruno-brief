@@ -1,15 +1,166 @@
 {
   "deepdives": {
+    "2026-09-14": {
+      "us-bond-selloff-2026-09-14": {
+        "headline": "US bond sell-off persists as 10-year yield hovers near 4.97%",
+        "summary": "Long-term Treasury yields remain near their highest since 2007, at roughly 4.97% on the 10-year, as sticky inflation, the Iran war and record US debt keep the sell-off going.",
+        "detail": "The US Treasury market has been in a sustained sell-off that sent long-term yields to levels not seen in nearly two decades. The 10-year note was trading around 4.97%, and the Guardian reported that at the end of February the 10-year yield stood at 3.95% before climbing toward 4.8% by early September — a striking move higher in the space of a few months.\n\nUnderlying the repricing are three forces running at once: inflation that is proving stickier than hoped, the ongoing US–Iran war and its effect on oil and shipping, and the government's record national debt that has investors demanding more compensation for holding longer-dated paper. TradingEconomics data showed the US 10-year bond yield around 4.97% on September 14, with the 20-year constant maturity yield at 5.39% as of mid-September.\n\nThe implications run well beyond fixed income. Higher long-term yields raise borrowing costs for households and companies, put downward pressure on stocks and feed back into an inflation narrative that shapes expectations for the Federal Reserve. Analysts framed the move as a warning that elevated costs — for mortgages, credit and government borrowing — may be here to stay rather than a temporary spike.",
+        "sources": ["The Guardian", "TradingEconomics", "FRED"],
+        "source_urls": [
+          "https://www.theguardian.com/business/2026/sep/10/bond-market-higher-costs",
+          "https://tradingeconomics.com/united-states/government-bond-yield",
+          "https://fred.stlouisfed.org/series/DGS20"
+        ],
+        "updated": "2026-09-14"
+      },
+      "treasury-buyback-rebuffed-2026-09-14": {
+        "headline": "Bond market rebuffs Treasury's $6bn buyback plan",
+        "summary": "The Treasury's plan to buy back $6bn of government debt met a cool reception, a sign of weak demand for longer-dated paper that is keeping yields elevated.",
+        "detail": "The US Treasury has been using buybacks as one tool to manage the shape of its debt profile, but the market pushed back. A Guardian report headlined the development as the bond market 'rebuffing' the US Treasury's plan to buy back $6 billion in government debt.\n\nThe cool reception matters because it reveals thin demand for longer-dated Treasuries exactly when the government needs to fund a record deficit. If buybacks are meant to improve liquidity in older, off-the-run issues, a market that declines to sell into them weakens the signal that the program is achieving its aim.\n\nFor investors this is another data point in the same story as the broader yield backup: the Treasury is issuing a lot of paper, and it is doing so into a market already worried about inflation and deficits. That combination is a core reason yields have climbed and why the cost of government borrowing keeps drifting higher.",
+        "sources": ["The Guardian"],
+        "source_urls": [
+          "https://www.theguardian.com/business/2026/sep/09/treasury-bond-buyback"
+        ],
+        "updated": "2026-09-14"
+      },
+      "one-nation-migration-plan-2026-09-14": {
+        "headline": "One Nation unveils plan to cut 750,000 temporary visa holders and reset migration to zero",
+        "summary": "Pauline Hanson's One Nation would cut temporary visa holders and unlawful non-citizens by more than 750,000 over three years, targeting international students and families of skilled migrants.",
+        "detail": "One Nation released its latest immigration policy on Sunday night, declaring it would 'slash the number of temporary visa holders and unlawful non-citizens in the country by more than 750,000 over three years'. The Australian Financial Review reported the plan would target international students and the families of skilled migrants in particular.\n\nParty leader Pauline Hanson framed the proposal as a 'reset' of Australia's net overseas migration toward zero, saying 'tinkering around the edges will not fix the damage' and that the policy was about 'giving Australians breathing space' by drastically cutting the stock of temporary migrants. The plan was explicitly designed to pressure the major parties into revealing their own positions on migration.\n\nThe intervention lands at a charged moment. Labor and the Coalition have been holding private talks on migration targets, with Labor reported to want net overseas migration around 245,000 against roughly 301,000 last financial year — while One Nation's pitch is far more aggressive. The Australian's live coverage framed Hanson's release as an attempt to shock the major parties into clarity, and the personal edge of the debate sharpened further when the Prime Minister was reported to be 'stunned' by a Hanson attack on his late mother.",
+        "sources": ["AFR", "ABC News", "Nine", "The Australian", "news.com.au"],
+        "source_urls": [
+          "https://www.afr.com/politics/federal/one-nation-migration-plan-to-cut-750-000-over-three-years-20260913-p60ww4",
+          "https://www.nine.com.au/australia-news/one-nation-announced-migration-cuts-plan-20260914-p60x05.html",
+          "https://www.abc.net.au/news/2026-09-14/politics-live-blog-one-nation-migration-parliament-sept-14/106327416",
+          "https://www.news.com.au/national/politics/one-nation-unveils-shock-plan-to-reset-net-migration-to-zero/news-story/991af5270ed70bd151671aad2b906d22"
+        ],
+        "updated": "2026-09-14"
+      },
+      "voters-pm-economy-2026-09-14": {
+        "headline": "Voters lose faith in PM on economy as migration battle intensifies",
+        "summary": "Polling suggests confidence in the Prime Minister's economic stewardship is slipping, while One Nation's migration plan and a personal row over comments about his late mother dominate the week.",
+        "detail": "WA Today's September 14 live blog rounded up a set of developing political stories under the headline 'voters lose faith in PM on economy'. It came as One Nation revealed its migration plan to cut temporary visa numbers by 750,000 over three years, alongside reporting that President Trump had downplayed the AI threat and that the government faced renewed scrutiny over its economic record.\n\nThe economic polling is significant because it touches the central battleground for the federal government. With inflation and borrowing costs elevated, and cost-of-living pressures ongoing, erosion of confidence in the Prime Minister's economic management gives the opposition and minor parties an opening ahead of the next election.\n\nThe week's migration debate has a personal dimension too. Nine reported the Prime Minister was 'stunned' over Pauline Hanson's attack on his late mother — a sign of how heated the migration fight has become. Combined with One Nation's aggressive plan, the episode underscores the pressure on Labor to either match tougher rhetoric or defend a more moderate migration program.",
+        "sources": ["WA Today", "Nine"],
+        "source_urls": [
+          "https://www.watoday.com.au/national/australia-news-live-one-nation-reveals-migration-plan-trump-downplays-ai-threat-voters-lose-faith-in-pm-on-economy-20260914-p60x06.html",
+          "https://www.nine.com.au/australia-news/one-nation-announced-migration-cuts-plan-20260914-p60x05.html"
+        ],
+        "updated": "2026-09-14"
+      },
+      "sweden-election-2026-09-14": {
+        "headline": "Sweden's razor-thin election: centre-left leads exit polls as far right slips",
+        "summary": "Sweden's general election is too close to call, with exit polls putting the centre-left opposition bloc on 51.3% versus the governing right-wing bloc's 46.8%.",
+        "detail": "Sweden went to the polls on Sunday, September 13, 2026, and the result is hanging by a thread. An exit poll by public broadcaster SVT projected the centre-left opposition bloc on 51.3% of the vote against 46.8% for the governing right-wing bloc, leading Al Jazeera to describe the election as too close to call with half the votes counted.\n\nThe far right appears to be slipping. France 24 reported that the far right was seen losing ground in the exit polls, which is notable given its role in the outgoing Tidö government. The opposition Red-Green bloc includes several parties, and one factor that could tip the parliamentary arithmetic is whether the small Liberalerna party clears the 4% parliamentary threshold, which would tighten the gap between the blocs.\n\nWith the margins this fine, a change of government is far from guaranteed despite the opposition's poll lead. The composition of the next Riksdag and the ability to form a working majority will determine whether Sweden sees a shift to the centre-left or the retention of the right-wing coalition.",
+        "sources": ["Al Jazeera", "France 24", "Election Stats"],
+        "source_urls": [
+          "https://www.aljazeera.com/news/2026/9/13/centre-left-opposition-bloc-leads-in-swedish-vote-poll-shows",
+          "https://www.france24.com/en/europe/20260913-sweden-s-centre-left-opposition-leads-election-as-far-right-slips-exit-polls-show",
+          "https://www.elections-stats.com/se/2026-general/"
+        ],
+        "updated": "2026-09-14"
+      },
+      "eu-plenary-soteu-2026-09-14": {
+        "headline": "EU plenary opens as MEPs prepare for State of the Union debate with von der Leyen",
+        "summary": "The European Parliament's mid-September plenary precedes the State of the European Union debate with Commission President Ursula von der Leyen and an address from Canada's PM Mark Carney.",
+        "detail": "The European Parliament opened its 14–17 September plenary session this week, with political groups preparing for the annual State of the European Union (SOTEU) debate. Commission President Ursula von der Leyen is scheduled to debate the state of the Union with MEPs, and the session is also set to hear from Canada's Prime Minister Mark Carney.\n\nSOTEU is the EU's headline political moment of the autumn — the Commission president's assessment of the past year and her agenda for the year ahead. Ahead of the debate, von der Leyen has emphasised the single market as a cornerstone of European trade and the need for digital innovation and competitiveness.\n\nThe debate comes against a backdrop of an EU grappling with security concerns, an economic slowdown, migration pressures and the recent spike in energy prices tied to conflict in the Gulf. How von der Leyen frames competitiveness, defence and the bloc's approach to a turbulent global economy will set the tone for the Commission's agenda into 2027.",
+        "sources": ["European Parliament", "EU audiovisual", "Reuters Europe"],
+        "source_urls": [
+          "https://www.europarl.europa.eu/news/en/agenda/plenary-news/2026-09-14/0/state-of-the-european-union-debate-with-ursula-von-der-leyen",
+          "https://audiovisual.ec.europa.eu/en/media/video/I-289505",
+          "https://www.reuters.com/world/europe/"
+        ],
+        "updated": "2026-09-14"
+      },
+      "openai-chatgpt-financial-services-2026-09-14": {
+        "headline": "OpenAI launches ChatGPT for Financial Services powered by GPT-6 Astra",
+        "summary": "OpenAI released a ChatGPT product for investment banks and equity researchers, pairing GPT-6 Astra with built-in financial data from LSEG, PitchBook, Daloopa and Crunchbase.",
+        "detail": "OpenAI launched ChatGPT for Financial Services on September 10, a tailored ChatGPT Work experience that combines built-in financial data with the reasoning of its GPT-6 Astra model. Reuters reported the product was developed with Morgan Stanley and Evercore as design partners and targets investment bankers and equity researchers.\n\nThe service includes premium datasets from providers including LSEG News, PitchBook and Daloopa — covering earnings transcripts, financial statements, company fundamentals and private-company data — indexed and hosted on OpenAI's infrastructure. OpenAI says teams can research across sources, run financial analysis and synthesize results into documents, spreadsheets and slides.\n\nOpenAI is betting on turning ChatGPT into a governed workspace for professional financial work rather than just another chatbot. Administrators get enterprise controls including SSO, SCIM and role-based access, plus template publishing so firms can enforce their own formats. The company is also working on shared sign-in integrations with S&P Capital IQ, LSEG, MSCI, Dow Jones Factiva and Moody's so data providers can recognise a ChatGPT user and apply their existing entitlements.",
+        "sources": ["Reuters", "OpenAI", "VentureBeat"],
+        "source_urls": [
+          "https://www.reuters.com/business/openai-launches-chatgpt-financial-services-industry-2026-09-10/",
+          "https://openai.com/index/introducing-chatgpt-financial-services/",
+          "https://venturebeat.com/data/openai-launches-chatgpt-for-financial-services-with-integrated-data-sources-it-pulls-research-cites-it-and-builds-decks-in-minutes"
+        ],
+        "updated": "2026-09-14"
+      },
+      "ai-model-fatigue-2026-09-14": {
+        "headline": "'Model fatigue' sets in as AI labs race out new releases",
+        "summary": "Anthropic, OpenAI, Meta and Google all shipped new models within days of each other, an accelerating cadence that is starting to tire customers.",
+        "detail": "The pace of frontier AI releases has become frenetic. CNBC reported that Anthropic, OpenAI, Meta and Google all rolled out model updates within a single week, describing a phenomenon of 'model fatigue' as both developers and customers struggle to keep up with the accelerating cadence.\n\nRecent months have seen a wave of launches: OpenAI's GPT-6 line, Google's Gemini family and Anthropic's Claude releases all landed close together. Meanwhile Google is reportedly readying Gemini 3.8 Flash — internally codenamed 'Skimaki' — a coding-focused model aimed at narrowing the gap with Anthropic and OpenAI in software engineering capabilities.\n\nThe business question is whether model churn helps or hurts adoption. Rapid iteration keeps labs competitive and pushes capability forward, but it also burdens customers who must re-evaluate, migrate and re-tune against each new release. CNBC's reporting suggests some buyers are beginning to tire of that churn — a potential turning point as the industry moves from raw capability races toward reliability, cost and integration as differentiators.",
+        "sources": ["CNBC", "Quartz", "Llama Stats"],
+        "source_urls": [
+          "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+          "https://llm-stats.com/ai-news",
+          "https://llm-stats.com/llm-updates"
+        ],
+        "updated": "2026-09-14"
+      },
+      "ukraine-wildberries-strikes-2026-09-14": {
+        "headline": "Ukraine presses drone strikes on Russian logistics hubs; overnight deaths on both sides",
+        "summary": "Ukraine kept up drone strikes on Russian infrastructure including Wildberries logistics hubs it says handle military goods, as overnight attacks killed five in Ukraine and four in Russia.",
+        "detail": "Ukraine has been systematically targeting Wildberries, Russia's largest online retailer, in what Reuters says is a wider campaign to damage Russian economic infrastructure that underpins Moscow's military effort. Kyiv accuses Wildberries of handling military goods, and Ukrainian drones have struck at least two dozen of its warehouses since mid-July.\n\nOvernight attacks continued to exact a toll on both sides. BBC reported five deaths in Ukraine and four in Russia as the two sides launched new waves of drone strikes. The strikes have sparked fires at facilities including the NORSI refinery and multiple Wildberries logistics hubs, and Russian President Vladimir Putin has ordered the government to help rebuild warehouses destroyed in the campaign.\n\nThe strategy reflects a deliberate Ukrainian approach: instead of only striking military targets, Kyiv is attacking the commercial logistics and energy grid that funds and fuels the war. The economic targeting compounds pressure on the Russian home front, even as the fighting itself grinds on with reciprocal drone and missile exchanges.",
+        "sources": ["Reuters", "BBC", "Al Jazeera"],
+        "source_urls": [
+          "https://www.reuters.com/world/ukraine-russia-war/",
+          "https://www.bbc.com/news/war-in-ukraine",
+          "https://en.wikipedia.org/wiki/Ukrainian_strikes_on_Wildberries_warehouses"
+        ],
+        "updated": "2026-09-14"
+      },
+      "iran-yemen-bab-al-mandab-2026-09-14": {
+        "headline": "Heavy fighting in Yemen as Houthis and Saudi Arabia trade strikes over Bab al-Mandab",
+        "summary": "The Iran war widened into Yemen, with heavy fighting as Houthi forces and Saudi Arabia exchanged strikes over the Bab al-Mandab strait and an Iranian vessel was attacked near Qeshm.",
+        "detail": "The Iran war has spread into Yemen. An Al Jazeera live blog on the conflict described heavy fighting erupting as Houthi forces and Saudi Arabia traded strikes over the strategic Bab al-Mandab strait, the chokepoint at the southern entrance to the Red Sea that carries a major share of global shipping.\n\nThe Bab al-Mandab is one of the world's most vital maritime passages, and fighting over it directly threatens the flow of trade between Europe and Asia. Yemen's Houthis, who had earlier moved to consolidate control over parts of the strait, remain a key escalation vector in the broader US–Iran conflict.\n\nSeparately, an Iranian commercial vessel was attacked near Qeshm Island, killing one person and wounding four others, with an official blaming the United States. The overlapping frontlines — the Gulf, the Strait of Hormuz and now Yemen — illustrate how the conflict has widened well beyond a single confrontation, with tanker attacks, strikes on infrastructure and chokepoint politics all feeding into higher oil prices and global supply worries.",
+        "sources": ["Al Jazeera"],
+        "source_urls": [
+          "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb",
+          "https://en.wikipedia.org/wiki/2026_Iran_war"
+        ],
+        "updated": "2026-09-14"
+      },
+      "roman-coronagraph-power-on-2026-09-14": {
+        "headline": "Roman Space Telescope powers on its planet-imaging coronagraph",
+        "summary": "NASA's Roman Space Telescope has activated its Coronagraph Instrument, the most advanced coronagraph ever flown, to directly image planets and dusty disks around other stars.",
+        "detail": "NASA has successfully activated the Coronagraph Instrument aboard the Nancy Grace Roman Space Telescope, launched August 30, 2026. The power-on began at 7:27 a.m. EDT and completed at 8:22 a.m. on September 1, marking a key milestone as the observatory moves toward full science operations.\n\nThe coronagraph is described as the most advanced ever put in space — and the first 'active' coronagraph to fly. It has hundreds of tiny pistons built into its mirrors that make them deformable, allowing real-time correction of distortions. This lets it block the glare of a star and detect light from planets around it that are roughly 100 million times fainter than their host star.\n\nOver the coming months the team will calibrate and test the instrument before beginning full science in the first half of operations. Roman will use its Wide Field Instrument to survey enormous swaths of sky — potentially unveiling as many as 100,000 new exoplanets on top of the roughly 6,000 known today — while the coronagraph dives deeper into the most interesting worlds, including Jupiter-like planets and the dusty debris disks that could hold clues to how planets form.",
+        "sources": ["NASA", "Space.com", "Eos"],
+        "source_urls": [
+          "https://science.nasa.gov/blogs/roman/2026/09/01/nasa-romans-planet-imager-has-powered-on/",
+          "https://www.space.com/astronomy/exoplanets/nasas-newly-launched-roman-space-telescope-will-directly-image-exoplanets-but-what-does-that-mean",
+          "https://eos.org/research-and-developments/roman-telescope-begins-quest-to-reveal-evolving-universe"
+        ],
+        "updated": "2026-09-14"
+      },
+      "lasker-awards-2026-09-14": {
+        "headline": "2026 Lasker Awards honour breakthroughs in sleep, hemophilia and cell biology",
+        "summary": "The Lasker Foundation named Emmanuel Mignot and Masashi Yanagisawa (orexin and narcolepsy), Chugai's hemophilia antibody team, and others as 2026 winners of America's top medical prizes.",
+        "detail": "The Lasker Foundation, which runs the United States' most prestigious biomedical awards, announced its 2026 winners. The Albert Lasker Basic Medical Research Award honoured Emmanuel Mignot of Stanford and Masashi Yanagisawa of the University of Tsukuba for the identification of orexin, a brain peptide that maintains wakefulness, and the discovery that orexin deficiency causes the uncontrolled sleep seen in narcolepsy.\n\nThe Lasker–DeBakey Clinical Medical Research Award went to three scientists from Japan's Chugai Pharmaceutical — Kunihiro Hattori, Tomoyuki Igawa and Takehisa Kitazawa — for inventing a bispecific antibody that prevents uncontrolled bleeding in hemophilia A by linking blood-clotting factors IX and X. The 2026 cohort also included awards for basic and cell biology research.\n\nThe orexin discovery was particularly significant: it transformed understanding of sleep-wake regulation and opened the door to a new class of treatments for narcolepsy and other sleep disorders. The hemophilia antibody work, meanwhile, demonstrates how engineered bispecific molecules can address rare genetic bleeding conditions. The awards underscore how fundamental biological insight and creative drug design can both translate directly into patient benefit.",
+        "sources": ["Lasker Foundation", "Live Science"],
+        "source_urls": [
+          "https://laskerfoundation.org/winners/2026-winners/",
+          "https://laskerfoundation.org/wp-content/uploads/2026/09/2026-press-release2.pdf",
+          "https://www.brightsurf.com/news/LN24QQ41/lasker-foundation-announces-2026-lasker-award-winners.html"
+        ],
+        "updated": "2026-09-14"
+      },
+      "oil-brent-104-hormuz-2026-09-14": {
+        "headline": "Brent holds near $104 as Iran signals Gulf talks on the Strait of Hormuz",
+        "summary": "Brent settled around $104 a barrel, up ~17.6% over the month and 56% year-on-year, as the market weighed Iran's signal it would meet Gulf states over Hormuz against continued fighting.",
+        "detail": "Oil prices paused their steep rally on Friday, with Brent settling around $104 a barrel. TradingEconomics data showed Brent at 104.61 USD on September 11, down 2.81% on the day but up 17.57% over the past month and 56.16% versus a year earlier — figures that capture how far the market has repriced supply risk.\n\nThe pause came as Iranian state media said Tehran would meet Gulf states in Oman to discuss the Strait of Hormuz, a diplomatic signal that briefly eased panic. Yet Brent still ended the week almost 9% higher as investors weighed those talks against continued fighting, tanker attacks and the effective disruption of shipping through one of the world's most critical energy chokepoints.\n\nThe oil surge is the central driver of the renewed inflation scare. With WTI also near the $100 mark and physical oil prices having run far above futures for weeks, higher energy costs are flowing straight into consumer prices and keeping central banks — including the US Federal Reserve — under pressure to respond with higher rather than lower rates. The question now is whether diplomacy in Oman can cool the market or whether further escalation pushes Brent back toward the heights seen earlier in the war.",
+        "sources": ["TradingEconomics", "The Guardian", "CNBC"],
+        "source_urls": [
+          "https://tradingeconomics.com/commodity/brent-crude-oil",
+          "https://www.theguardian.com/business/2026/sep/09/oil-prices-rise-iran-war-brent-crude-inflation-higher-interest-rates",
+          "https://www.cnbc.com/2026/09/09/oil-prices-today-wti-brent-us-iran-hormuz-attacks.html"
+        ],
+        "updated": "2026-09-14"
+      }
+    },
     "2026-09-13": {
       "fed-rate-hike-september": {
         "headline": "Fed rate-hike odds surge to 90% as core inflation runs hot",
         "summary": "Markets now price a high probability the Federal Reserve raises rates at its September meeting after August core CPI came in hotter than expected, with the 10-year Treasury at its highest yield since 2007 and oil above $100 adding pressure.",
         "detail": "The bond market is daring the Federal Reserve to act. Fed funds futures recently put the odds of a quarter-point rate hike at next week's September 16 meeting at roughly 75%, climbing toward 90% as traders digested hotter-than-expected core inflation figures for August. The repricing has pushed the 10-year Treasury yield to its highest level since before the 2008 financial crisis, with intraday prints near 4.9% to 4.99%.\n\nThe dynamic is genuinely unusual: rather than betting on rate cuts, which has been the dominant expectation for much of the post-2024 tightening cycle, futures markets now lean toward a hike. Fed Chair Kevin Warsh has signalled the Committee will not be rushed, but longer-run inflation compensation, measured through real yields and longer-dated TIPS breakevens, has ticked up.\n\nThe extra pressure is coming from energy. With Brent crude above $100 a barrel and West Texas Intermediate back over $100 for the first time since May, the inflation narrative has shifted. Physical oil and fuel prices had already been above $100 for days before the benchmark futures caught up. For borrowers, the message is that cheap money is not returning soon: futures pricing also implies the effective federal funds rate drifting up through year-end rather than down.",
-        "sources": [
-          "Fortune",
-          "TradingEconomics",
-          "Federal Reserve"
-        ],
+        "sources": ["Fortune", "TradingEconomics", "Federal Reserve"],
         "source_urls": [
           "https://fortune.com/2026/09/10/10-year-treasury-yield-inflation-fed/",
           "https://tradingeconomics.com/united-states/government-bond-yield",
@@ -21,11 +172,7 @@
         "headline": "Labor and Coalition hold immigration talks as Malinauskas warns of 'race to the bottom'",
         "summary": "The federal government is negotiating immigration policy with the opposition while South Australian Premier Peter Malinauskas warns the major parties against a 'political race to the bottom' with One Nation on migration cuts.",
         "detail": "Behind the scenes, Prime Minister Anthony Albanese and Opposition Leader Angus Taylor are trying to find common ground on migration. Labor does not hold a Senate majority, so any overhaul of immigration settings needs either the Greens or the Coalition to pass, and the Greens are highly unlikely to support cuts. That leaves negotiation with the Coalition as the practical route, and government sources say an agreement could clear the way for the migration plan to reach parliament as early as next week.\n\nThe numbers on the table are big. Net overseas migration (NOM) was about 301,000 last financial year; the government wants to trim it to around 245,000 this year. Taylor asked for roughly 50,000 fewer than Labor's target, while One Nation leader Pauline Hanson wants NOM near 130,000 and some Coalition frontbenchers have nominated figures around 180,000.\n\nThat is where the political tension sharpens. South Australian Labor Premier Peter Malinauskas, speaking at the Sydney Institute, called cutting skilled migration an act of economic self-harm and warned that mainstream parties entering a 'numerical race to the bottom' on who can cut migration the most would hurt every Australian economically. He framed the correct response to anti-immigration populism as preserving a strong migration program rather than appeasement. With One Nation outpolling the major parties in some polling, the risk of either side pandering to that base is the crux of the internal Labor debate — whether to move via regulation or legislation.",
-        "sources": [
-          "ABC News",
-          "Sydney Morning Herald",
-          "The Guardian"
-        ],
+        "sources": ["ABC News", "Sydney Morning Herald", "The Guardian"],
         "source_urls": [
           "https://www.abc.net.au/news/2026-09-10/immigration-talks-labor-coalition-malinauskas-warning/107137098",
           "https://www.smh.com.au/politics/federal/albanese-taylor-hold-talks-on-migration-as-labor-eyes-low-key-policy-reveal-20260909-p60vyn.html",
@@ -37,12 +184,7 @@
         "headline": "Ukraine's prosecutor general resigns amid corruption scandal",
         "summary": "Ruslan Kravchenko resigned as Ukraine's top prosecutor after investigators uncovered an alleged protection racket that shielded fraudulent call centres, with proceeds laundered through property and third-party assets.",
         "detail": "Ukraine's Prosecutor General Ruslan Kravchenko resigned after NABU, the national anti-corruption agency, exposed an alleged criminal organisation within his own office protecting illegal call centres from prosecution. Investigators allege members took bribes from fraudulent call centres and laundered millions, with proceeds funnelled through property purchases, assets registered to third parties, and associate bank accounts.\n\nKey figures have been named. NABU detained Serhii Kropyva, a deputy head of the Prosecutor General's Office international cooperation department, who is suspected of laundering assets worth more than Hr 89 million (about $2 million) and was remanded in custody by Ukraine's High Anti-Corruption Court. Another suspect, Yelyzaveta Ivakhnenko, was detained with bail set at Hr 20 million (about $450,000).\n\nThe case reaches close to Kravchenko himself. Recordings released by NABU refer to a 'boss' whose patronymic is Andriiovych and who previously headed the State Tax Service — details that correspond to Kravchenko. An anti-corruption prosecutor also flagged Kropyva's close relationship with Kravchenko, and case materials allege Kropyva arranged repair work at a house in the elite area south of Kyiv where Kravchenko lives. Kravchenko's office was searched; he denied any involvement, saying he never facilitated the operation of illegal call centres.",
-        "sources": [
-          "Kyiv Independent",
-          "BBC",
-          "Euronews",
-          "The Record"
-        ],
+        "sources": ["Kyiv Independent", "BBC", "Euronews", "The Record"],
         "source_urls": [
           "https://kyivindependent.com/breaking-ukraines-prosecutor-general-resigns-amid-major-corruption-scandal/",
           "https://www.bbc.com/news/articles/c780nlgyd79o",
@@ -55,11 +197,7 @@
         "headline": "NASA and IBM release open-source AI foundation model for lunar science",
         "summary": "The NASA-IBM Lunar Foundation Model, trained on roughly 2 million images from the Lunar Reconnaissance Orbiter, helps scientists map craters and predict where lunar polar ice may be stable, and is now free on Hugging Face.",
         "detail": "NASA and IBM Research released one of the first open-source AI foundation models built specifically for lunar science — the NASA-IBM Lunar Foundation Model. It is a multimodal, multi-resolution model trained from scratch on SomBench, a dataset of about 2 million co-registered lunar tile bundles spanning 11 modalities at two spatial scales: high-resolution LROC NAC imagery at roughly 1 metre per pixel and wide-angle LROC WAC at about 100 metres per pixel.\n\nRather than a single-purpose detector, the model acts as a reusable base for a range of downstream lunar tasks. Researchers can fine-tune it to map craters, identify young volcanic features, and predict where lunar polar ice might be stable — the kind of terrain mapping that informs landing-site selection and resource planning for future missions.\n\nTests against baselines found the model matched or beat several existing approaches, with independent reporting noting error reductions on the order of 23% for some vision tasks. Importantly, the model is open: the weights are free to download on Hugging Face and the codebase is on GitHub, consistent with NASA's push to make AI research infrastructure broadly reusable across the planetary science community.",
-        "sources": [
-          "NASA Science",
-          "IBM Research",
-          "Hugging Face"
-        ],
+        "sources": ["NASA Science", "IBM Research", "Hugging Face"],
         "source_urls": [
           "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/",
           "https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model",
@@ -71,11 +209,7 @@
         "headline": "AI plots an interstellar trajectory to Alpha Centauri",
         "summary": "The Fermi Explorer Mission aims to launch a probe toward our nearest star system by 2029, using an orbital route discovered by an AI physics tool called Get Physics Done from the startup Physical Superintelligence.",
         "detail": "The Fermi Explorer Mission is an attempt to build the first spacecraft aimed at another star — Alpha Centauri, about 4.4 light-years away — with an eye to launching by the end of 2029 on a budget understood to be around $15 million. Writing in MIT Technology Review, reporter Michelle Kim described how the team repeatedly struggled to find a trajectory that would both set the probe onto an escape path from the solar system and keep propellant requirements in check.\n\nThe breakthrough came from an AI system. Physical Superintelligence (PSI), an AI physics research lab, developed an open-source tool called Get Physics Done, which the team used to simulate candidate trajectories. The AI proposed a route that differed from the flight profile the human engineers had settled on, and that novel trajectory is what Fermi Explorer intends to follow.\n\nSome coverage frames the outcome as an 80,000-year voyage given current propulsion — an extraordinarily long mission. The larger significance is process: an AI physics engine out-engineering a human-chosen trajectory on a hard orbital-mechanics problem, which points at a future where such tools become standard for cutting-edge space mission design.",
-        "sources": [
-          "MIT Technology Review",
-          "IEEE Spectrum",
-          "Centauri Dreams"
-        ],
+        "sources": ["MIT Technology Review", "IEEE Spectrum", "Centauri Dreams"],
         "source_urls": [
           "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
           "https://spectrum.ieee.org/alpha-centauri-fermi-explorer-mission",
@@ -87,11 +221,7 @@
         "headline": "Oil tops $100 a barrel as the US–Iran conflict escalates",
         "summary": "Brent crude rose above $100 for the first time since July as escalating US–Iranian fighting and Houthi attacks in Saudi Arabia deepened fears over Gulf supply, compounding global inflation pressure.",
         "detail": "Oil prices surged back above $100 a barrel for the first time since late July as the Middle East conflict escalated sharply. Brent crude breached the level on Wednesday and then settled up about 6.3% at over $107 a barrel on Thursday, its highest since mid-May, while West Texas Intermediate crossed $100 for the first time since May 21.\n\nThe trigger was a wave of attacks. In tit-for-tat exchanges, the US military said it had destroyed multiple Iranian tankers after Tehran attempted to strike a US Navy warship with ballistic missiles, and attacks on shipping widened — the biggest spike in attacks on vessels since the Iran war began. Iran-aligned Houthis also attacked four cities in Saudi Arabia and were reported to have seized control of part of Yemen's coastline, feeding supply fears.\n\nThis matters well beyond the pump. The effective closure of the Strait of Hormuz — which carries roughly a fifth of the world's oil and LNG — has gutted seaborne traffic and pushed physical oil prices above futures for days. OPEC has cut its 2026 world oil demand growth forecast, and the rally is compounding inflation fears and reinforcing the market's bet that central banks, including the US Federal Reserve, may be forced to raise rather than cut rates. Barrel prices remain below the war's earlier peak near $126 in April, but the trajectory is upward.",
-        "sources": [
-          "Reuters",
-          "BBC",
-          "The Guardian"
-        ],
+        "sources": ["Reuters", "BBC", "The Guardian"],
         "source_urls": [
           "https://www.reuters.com/business/energy/brent-holds-above-100-tanker-attacks-deepen-supply-fear-2026-09-10/",
           "https://www.bbc.com/news/articles/cyvznqypz0yo",
@@ -105,11 +235,7 @@
         "headline": "18th BRICS Summit opens in New Delhi as Modi hosts Putin and Xi",
         "summary": "India hosts the 18th BRICS Summit under its 2026 chairship, bringing Putin, Xi and the bloc's leaders together for trade, finance and currency talks.",
         "detail": "India is hosting the 18th BRICS Summit at Bharat Mandapam in New Delhi from September 12–13, 2026, under India's BRICS chairship. Prime Minister Narendra Modi opened proceedings by hosting the bloc's leaders, including Russian President Vladimir Putin, Chinese President Xi Jinping and other heads of state, starting with a gala dinner for the assembled leaders.\n\nOn the agenda are trade integration, reform of global financial institutions, and the bloc's long-running push toward a shared BRICS currency and de-dollarisation agenda — a subject that has drawn intense Western attention as the grouping expands. The summit is being watched as a test of whether BRICS can translate its growing membership into concrete financial and trade mechanisms.\n\nThe New Delhi location is symbolically significant: it lets India balance its ties to both Russia and the West while positioning itself as a leader of the expanding non-Western bloc.",
-        "sources": [
-          "Al Jazeera",
-          "NPR",
-          "Firstpost"
-        ],
+        "sources": ["Al Jazeera", "NPR", "Firstpost"],
         "source_urls": [
           "https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters",
           "https://www.npr.org/sections/world/",
@@ -121,10 +247,7 @@
         "headline": "Saudi Arabia's oil 'lifeline' attacked as oil climbs toward $110",
         "summary": "Attacks on Saudi oil infrastructure worsened an already-tight market, pushing crude toward $110 a barrel and adding to inflation and rate-hike pressure.",
         "detail": "Saudi Arabia's oil 'lifeline' came under attack as the Middle East conflict widened, and the New York Times framed the strikes on Saudi energy infrastructure as a direct threat to global supply. Coming on top of the Strait of Hormuz disruptions and Houthi activity in the Red Sea, the attacks compounded a market already running hot.\n\nCrude prices climbed toward $110 a barrel, adding to a multi-week rally that had begun with the collapse of the July ceasefire. For financial markets, the implications ripple through: higher energy costs feed directly into inflation expectations, which is precisely what bond markets are pricing in as they bet on the Federal Reserve moving rates higher.\n\nThe convergence of Gulf supply risks, US–Iran tit-for-tat strikes, and attacks on Saudi infrastructure means energy, not labour data, has become the dominant swing factor in the inflation outlook.",
-        "sources": [
-          "New York Times",
-          "Reuters"
-        ],
+        "sources": ["New York Times", "Reuters"],
         "source_urls": [
           "https://www.nytimes.com/international/section/world",
           "https://www.reuters.com/business/energy/"
@@ -137,10 +260,7 @@
         "headline": "World marks 25th anniversary of 9/11 attacks",
         "summary": "On the 25th anniversary of the September 11, 2001 attacks, the UN and US officials honoured victims, survivors and first responders.",
         "detail": "The world marked the 25th anniversary of the September 11, 2001 attacks on Thursday 11 September, 2026. UN Secretary-General António Guterres issued a statement honouring the victims, survivors and first responders, calling the attacks 'an assault on humanity itself'.\n\nIn New York, state, local and national politicians gathered at the site of the former World Trade Center towers for commemorations. September 11th Families for Peaceful Tomorrows held a vigil ahead of the anniversary, and Democracy Now! revisited its coverage of the attacks and how the 'war on terror' reshaped the United States and the world.\n\nTwo and a half decades on, the anniversary prompted reflection not only on the attacks themselves but on the long arc of the counterterrorism response — from wars in Afghanistan and Iraq to evolving surveillance and military doctrines.",
-        "sources": [
-          "UN News",
-          "Democracy Now!"
-        ],
+        "sources": ["UN News", "Democracy Now!"],
         "source_urls": [
           "https://news.un.org/en/audio/2026/09/1168316",
           "https://www.democracynow.org/2026/9/11/headlines"
@@ -151,10 +271,7 @@
         "headline": "Oil surges toward $110 a barrel as more ships struck near Strait of Hormuz",
         "summary": "Heightened vessel attacks near the Strait of Hormuz pushed oil toward $110 a barrel and diesel above $6 a gallon for the first time.",
         "detail": "Oil prices surged toward $110 a barrel on Friday, September 11, 2026, as more ships came under attack near the Strait of Hormuz, the world's most critical energy chokepoint. The escalation pushed US diesel prices above $6 a gallon for the first time ever, a painful milestone for consumers and businesses alike.\n\nDemocracy Now! and Reuters reported the deepening supply disruption as the maritime conflict around the Gulf intensified. The attacks compound an already-precarious supply picture: the effective closure of much of the strait's traffic had already been squeezing physical and futures prices for weeks.\n\nFor the macro picture, the oil spike is the central driver of the renewed inflation scare and a key reason bond markets keep pricing higher central-bank rates. Every incremental barrel of price pressure translates into firmer bets on rate rises rather than cuts.",
-        "sources": [
-          "Democracy Now!",
-          "Reuters"
-        ],
+        "sources": ["Democracy Now!", "Reuters"],
         "source_urls": [
           "https://www.democracynow.org/2026/9/11/headlines",
           "https://www.reuters.com/business/energy/"
