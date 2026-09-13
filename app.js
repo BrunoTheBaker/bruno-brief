@@ -115,7 +115,7 @@
 
   // ----- Rendering -------------------------------------------------------
 
-  function renderStoryCard(story) {
+  function renderStoryCard(story, dayDate) {
     var emoji     = story.emoji || '';
     var bucket    = story.bucket || '';
     var headline  = story.headline || 'Untitled';
@@ -141,6 +141,7 @@
       +     '<div class="card-sources">' + sourceTags + '</div>'
       +     '<a class="deep-dive" href="' + escapeHtml(deepDiveUrl) + '" '
       +        'data-slug="' + escapeHtml(slug) + '" '
+      +        'data-date="' + escapeHtml(dayDate || '') + '" '
       +        'data-bucket="' + escapeHtml(bucket) + '" '
       +        'data-emoji="' + escapeHtml(emoji) + '" '
       +        'rel="noopener" target="_blank">Deep dive →</a>'
@@ -148,9 +149,9 @@
       + '</article>';
   }
 
-  function renderBucketSection(bucket, stories) {
+  function renderBucketSection(bucket, stories, dayDate) {
     if (!stories || stories.length === 0) return '';
-    var cards = stories.map(renderStoryCard).join('');
+    var cards = stories.map(function (s) { return renderStoryCard(s, dayDate); }).join('');
     return ''
       + '<section class="bucket" aria-label="' + escapeHtml(bucket.key) + '">'
       +   '<h2 class="bucket-header">'
@@ -161,11 +162,77 @@
       + '</section>';
   }
 
-  function render(feed) {
-    var stories = (feed && Array.isArray(feed.stories)) ? feed.stories : [];
-    dateEl.textContent = formatDate(feed && feed.date);
+  // Parse YYYY-MM-DD (local) -> Date or null.
+  function parseLocalDate(iso) {
+    if (!iso) return null;
+    var parts = String(iso).split('-').map(Number);
+    if (parts.length !== 3 || parts.some(function (n) { return isNaN(n); })) {
+      var d = new Date(iso);
+      return isNaN(d.getTime()) ? null : d;
+    }
+    return new Date(parts[0], parts[1] - 1, parts[2]);
+  }
 
-    if (stories.length === 0) {
+  // Whole-day diff between two local dates (a - b).
+  function wholeDaysBetween(a, b) {
+    if (!a || !b) return 0;
+    var ms = a.getTime() - b.getTime();
+    return Math.round(ms / 86400000);
+  }
+
+  // Normalize a feed into an array of {date, stories[]} (newest-first).
+  // Supports both the multi-day {days:[...]} shape and the legacy single-day
+  // {date, stories[]} shape.
+  function normalizeDays(feed) {
+    if (!feed || typeof feed !== 'object') return [];
+    if (Array.isArray(feed.days)) {
+      return feed.days
+        .filter(function (d) { return d && Array.isArray(d.stories); })
+        .map(function (d) { return { date: d.date || '', stories: d.stories }; });
+    }
+    // Backwards-compat: legacy single-day shape.
+    if (Array.isArray(feed.stories)) {
+      return [{ date: feed.date || '', stories: feed.stories }];
+    }
+    return [];
+  }
+
+  function renderDaySection(day, isNewest, daysAgo) {
+    var dateLabel = formatDate(day.date);
+    var pill = '';
+    if (isNewest) {
+      pill = '<span class="day-header-pill" aria-label="Newest">Newest</span>';
+    } else if (daysAgo === 1) {
+      pill = '<span class="day-header-ago">Yesterday</span>';
+    } else if (daysAgo > 1) {
+      pill = '<span class="day-header-ago">' + escapeHtml(daysAgo) + ' days ago</span>';
+    }
+    var groups = groupStories(day.stories);
+    var body = '';
+    BUCKET_ORDER.forEach(function (bucket) {
+      body += renderBucketSection(bucket, groups[bucket.key] || [], day.date);
+    });
+    return ''
+      + '<section class="day-section" data-date="' + escapeHtml(day.date || '') + '" '
+      +           'aria-label="Briefing for ' + escapeHtml(dateLabel) + '">'
+      +   '<header class="day-header">'
+      +     '<h2 class="day-header-date">' + escapeHtml(dateLabel) + '</h2>'
+      +     pill
+      +   '</header>'
+      +   body
+      + '</section>';
+  }
+
+  function render(feed) {
+    var days = normalizeDays(feed);
+
+    // Header date shows the newest day for backwards display compat.
+    var headerDate = days.length ? (days[0].date || '') : (feed && feed.date) || '';
+    dateEl.textContent = formatDate(headerDate);
+
+    var totalStories = days.reduce(function (n, d) { return n + d.stories.length; }, 0);
+
+    if (totalStories === 0) {
       storiesEl.innerHTML = '';
       storiesEl.hidden = true;
       emptyEl.hidden = false;
@@ -177,11 +244,13 @@
     errorEl.hidden = true;
     storiesEl.hidden = false;
 
-    var groups = groupStories(stories);
+    var latestDate = parseLocalDate(days[0].date);
     var html = '';
-    BUCKET_ORDER.forEach(function (bucket) {
-      html += renderBucketSection(bucket, groups[bucket.key] || []);
-    });
+    for (var i = 0; i < days.length; i++) {
+      var day = days[i];
+      var daysAgo = i === 0 ? 0 : wholeDaysBetween(latestDate, parseLocalDate(day.date));
+      html += renderDaySection(day, i === 0, daysAgo);
+    }
     storiesEl.innerHTML = html;
   }
 
@@ -245,18 +314,25 @@
     return deepCache;
   }
 
-  function openDeepDive(slug, meta) {
+  function openDeepDive(slug, dateIso, meta) {
     var dd = null;
-    loadDeepDives().then(function (d) { dd = d.deepdives[slug]; })
-      .then(function () {
-        if (!dd) {
-          // No in-app detail — fall back to the Telegram deepdive link.
-          var fallback = DEEP_DIVE_BASE + encodeURIComponent(slug);
-          window.open(fallback, '_blank');
-          return;
+    loadDeepDives().then(function (d) {
+      var byDate = (d && d.deepdives) || {};
+      if (dateIso) {
+        var bucket = byDate[dateIso];
+        if (bucket && Object.prototype.hasOwnProperty.call(bucket, slug)) {
+          dd = bucket[slug];
         }
-        renderDeepDive(dd, meta);
-      });
+      }
+    }).then(function () {
+      if (!dd) {
+        // No in-app detail — fall back to the Telegram deepdive link.
+        var fallback = DEEP_DIVE_BASE + encodeURIComponent(slug);
+        window.open(fallback, '_blank');
+        return;
+      }
+      renderDeepDive(dd, meta);
+    });
   }
 
   function renderDeepDive(dd, meta) {
@@ -311,6 +387,7 @@
       if (!anchor) return;
       var slug = anchor.getAttribute('data-slug') || '';
       if (!slug) return;
+      var dateIso = anchor.getAttribute('data-date') || '';
       var meta = {
         headline: (anchor.closest('.card') && anchor.closest('.card').querySelector('.card-headline'))
             ? anchor.closest('.card').querySelector('.card-headline').textContent.trim() : null,
@@ -319,7 +396,7 @@
       };
       ev.preventDefault();
       ev.stopPropagation();
-      openDeepDive(slug, meta);
+      openDeepDive(slug, dateIso, meta);
       return false;
     });
 

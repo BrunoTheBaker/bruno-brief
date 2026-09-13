@@ -90,6 +90,71 @@ body {
   font-weight: 500;
 }
 
+/* ---------- Day sections ---------- */
+/* Each day in the multi-day feed is wrapped in a .day-section so it can
+   carry its own header (date + optional "Newest" / "N days ago" pill) and
+   be visually separated from neighbouring days. */
+.day-section {
+  margin: 0 0 22px;
+  padding: 0;
+}
+
+.day-section:first-child { margin-top: 0; }
+
+/* A subtle divider sits ABOVE every day except the first, so the newest day
+   visually anchors to the top of the feed. */
+.day-section + .day-section {
+  padding-top: 18px;
+  border-top: 1px solid var(--border);
+}
+
+.day-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 10px;
+  margin: 0 0 12px;
+  padding: 0 2px;
+}
+
+.day-header-date {
+  margin: 0;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: var(--text);
+}
+
+/* The "Newest" pill — small, accent-tinted, sits to the right of the date. */
+.day-header-pill {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--accent);
+  background: rgba(10, 132, 255, 0.12);
+  padding: 3px 8px;
+  border-radius: 999px;
+  border: 1px solid rgba(10, 132, 255, 0.25);
+  -webkit-tap-highlight-color: transparent;
+}
+
+@media (prefers-color-scheme: light) {
+  .day-header-pill {
+    background: rgba(10, 132, 255, 0.10);
+    border-color: rgba(10, 132, 255, 0.30);
+  }
+}
+
+/* "N days ago" / "Yesterday" — quieter, sits to the right of older dates. */
+.day-header-ago {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text-faint);
+  letter-spacing: 0.01em;
+}
+
 /* ---------- Main / Stories ---------- */
 .main {
   flex: 1 0 auto;

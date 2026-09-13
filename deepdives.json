@@ -1,77 +1,104 @@
 {
   "deepdives": {
-    "fed-rate-hike-september": {
-      "headline": "Fed rate-hike odds surge to 90% as core inflation runs hot",
-      "summary": "Markets now price a high probability the Federal Reserve raises rates at its September meeting after August core CPI came in hotter than expected, with the 10-year Treasury at its highest yield since 2007 and oil above $100 adding pressure.",
-      "detail": "The bond market is daring the Federal Reserve to act. Fed funds futures recently put the odds of a quarter-point rate hike at next week's September 16 meeting at roughly 75%, climbing toward 90% as traders digested hotter-than-expected core inflation figures for August. The repricing has pushed the 10-year Treasury yield to its highest level since before the 2008 financial crisis, with intraday prints near 4.9% to 4.99%.\n\nThe dynamic is genuinely unusual: rather than betting on rate cuts, which has been the dominant expectation for much of the post-2024 tightening cycle, futures markets now lean toward a hike. Fed Chair Kevin Warsh has signalled the Committee will not be rushed, but longer-run inflation compensation, measured through real yields and longer-dated TIPS breakevens, has ticked up.\n\nThe extra pressure is coming from energy. With Brent crude above $100 a barrel and West Texas Intermediate back over $100 for the first time since May, the inflation narrative has shifted. Physical oil and fuel prices had already been above $100 for days before the benchmark futures caught up. For borrowers, the message is that cheap money is not returning soon: futures pricing also implies the effective federal funds rate drifting up through year-end rather than down.",
-      "sources": ["Fortune", "TradingEconomics", "Federal Reserve"],
-      "source_urls": [
-        "https://fortune.com/2026/09/10/10-year-treasury-yield-inflation-fed/",
-        "https://tradingeconomics.com/united-states/government-bond-yield",
-        "https://www.federalreserve.gov/releases/h15/"
-      ],
-      "updated": "2026-09-13"
-    },
-    "australia-immigration-politics": {
-      "headline": "Labor and Coalition hold immigration talks as Malinauskas warns of 'race to the bottom'",
-      "summary": "The federal government is negotiating immigration policy with the opposition while South Australian Premier Peter Malinauskas warns the major parties against a 'political race to the bottom' with One Nation on migration cuts.",
-      "detail": "Behind the scenes, Prime Minister Anthony Albanese and Opposition Leader Angus Taylor are trying to find common ground on migration. Labor does not hold a Senate majority, so any overhaul of immigration settings needs either the Greens or the Coalition to pass, and the Greens are highly unlikely to support cuts. That leaves negotiation with the Coalition as the practical route, and government sources say an agreement could clear the way for the migration plan to reach parliament as early as next week.\n\nThe numbers on the table are big. Net overseas migration (NOM) was about 301,000 last financial year; the government wants to trim it to around 245,000 this year. Taylor asked for roughly 50,000 fewer than Labor's target, while One Nation leader Pauline Hanson wants NOM near 130,000 and some Coalition frontbenchers have nominated figures around 180,000.\n\nThat is where the political tension sharpens. South Australian Labor Premier Peter Malinauskas, speaking at the Sydney Institute, called cutting skilled migration an act of economic self-harm and warned that mainstream parties entering a 'numerical race to the bottom' on who can cut migration the most would hurt every Australian economically. He framed the correct response to anti-immigration populism as preserving a strong migration program rather than appeasement. With One Nation outpolling the major parties in some polling, the risk of either side pandering to that base is the crux of the internal Labor debate — whether to move via regulation or legislation.",
-      "sources": ["ABC News", "Sydney Morning Herald", "The Guardian"],
-      "source_urls": [
-        "https://www.abc.net.au/news/2026-09-10/immigration-talks-labor-coalition-malinauskas-warning/107137098",
-        "https://www.smh.com.au/politics/federal/albanese-taylor-hold-talks-on-migration-as-labor-eyes-low-key-policy-reveal-20260909-p60vyn.html",
-        "https://www.theguardian.com/business/2026/sep/10/labor-premiers-join-business-groups-in-warning-albanese-government-over-immigration-cuts"
-      ],
-      "updated": "2026-09-13"
-    },
-    "ukraine-prosecutor-general-resigns": {
-      "headline": "Ukraine's prosecutor general resigns amid corruption scandal",
-      "summary": "Ruslan Kravchenko resigned as Ukraine's top prosecutor after investigators uncovered an alleged protection racket that shielded fraudulent call centres, with proceeds laundered through property and third-party assets.",
-      "detail": "Ukraine's Prosecutor General Ruslan Kravchenko resigned after NABU, the national anti-corruption agency, exposed an alleged criminal organisation within his own office protecting illegal call centres from prosecution. Investigators allege members took bribes from fraudulent call centres and laundered millions, with proceeds funnelled through property purchases, assets registered to third parties, and associate bank accounts.\n\nKey figures have been named. NABU detained Serhii Kropyva, a deputy head of the Prosecutor General's Office international cooperation department, who is suspected of laundering assets worth more than Hr 89 million (about $2 million) and was remanded in custody by Ukraine's High Anti-Corruption Court. Another suspect, Yelyzaveta Ivakhnenko, was detained with bail set at Hr 20 million (about $450,000).\n\nThe case reaches close to Kravchenko himself. Recordings released by NABU refer to a 'boss' whose patronymic is Andriiovych and who previously headed the State Tax Service — details that correspond to Kravchenko. An anti-corruption prosecutor also flagged Kropyva's close relationship with Kravchenko, and case materials allege Kropyva arranged repair work at a house in the elite area south of Kyiv where Kravchenko lives. Kravchenko's office was searched; he denied any involvement, saying he never facilitated the operation of illegal call centres.",
-      "sources": ["Kyiv Independent", "BBC", "Euronews", "The Record"],
-      "source_urls": [
-        "https://kyivindependent.com/breaking-ukraines-prosecutor-general-resigns-amid-major-corruption-scandal/",
-        "https://www.bbc.com/news/articles/c780nlgyd79o",
-        "https://www.euronews.com/my-europe/2026/09/08/ukraines-prosecutor-general-resigns-amid-major-corruption-investigation",
-        "https://therecord.media/ukraine-prosecutor-general-scam-center"
-      ],
-      "updated": "2026-09-13"
-    },
-    "nasa-ibm-lunar-ai-model": {
-      "headline": "NASA and IBM release open-source AI foundation model for lunar science",
-      "summary": "The NASA-IBM Lunar Foundation Model, trained on roughly 2 million images from the Lunar Reconnaissance Orbiter, helps scientists map craters and predict where lunar polar ice may be stable, and is now free on Hugging Face.",
-      "detail": "NASA and IBM Research released one of the first open-source AI foundation models built specifically for lunar science — the NASA-IBM Lunar Foundation Model. It is a multimodal, multi-resolution model trained from scratch on SomBench, a dataset of about 2 million co-registered lunar tile bundles spanning 11 modalities at two spatial scales: high-resolution LROC NAC imagery at roughly 1 metre per pixel and wide-angle LROC WAC at about 100 metres per pixel.\n\nRather than a single-purpose detector, the model acts as a reusable base for a range of downstream lunar tasks. Researchers can fine-tune it to map craters, identify young volcanic features, and predict where lunar polar ice might be stable — the kind of terrain mapping that informs landing-site selection and resource planning for future missions.\n\nTests against baselines found the model matched or beat several existing approaches, with independent reporting noting error reductions on the order of 23% for some vision tasks. Importantly, the model is open: the weights are free to download on Hugging Face and the codebase is on GitHub, consistent with NASA's push to make AI research infrastructure broadly reusable across the planetary science community.",
-      "sources": ["NASA Science", "IBM Research", "Hugging Face"],
-      "source_urls": [
-        "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/",
-        "https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model",
-        "https://huggingface.co/nasa-ibm-ai4science/NASA-IBM-Lunar-Foundation-Model"
-      ],
-      "updated": "2026-09-13"
-    },
-    "ai-alpha-centauri-trajectory": {
-      "headline": "AI plots an interstellar trajectory to Alpha Centauri",
-      "summary": "The Fermi Explorer Mission aims to launch a probe toward our nearest star system by 2029, using an orbital route discovered by an AI physics tool called Get Physics Done from the startup Physical Superintelligence.",
-      "detail": "The Fermi Explorer Mission is an attempt to build the first spacecraft aimed at another star — Alpha Centauri, about 4.4 light-years away — with an eye to launching by the end of 2029 on a budget understood to be around $15 million. Writing in MIT Technology Review, reporter Michelle Kim described how the team repeatedly struggled to find a trajectory that would both set the probe onto an escape path from the solar system and keep propellant requirements in check.\n\nThe breakthrough came from an AI system. Physical Superintelligence (PSI), an AI physics research lab, developed an open-source tool called Get Physics Done, which the team used to simulate candidate trajectories. The AI proposed a route that differed from the flight profile the human engineers had settled on, and that novel trajectory is what Fermi Explorer intends to follow.\n\nSome coverage frames the outcome as an 80,000-year voyage given current propulsion — an extraordinarily long mission. The larger significance is process: an AI physics engine out-engineering a human-chosen trajectory on a hard orbital-mechanics problem, which points at a future where such tools become standard for cutting-edge space mission design.",
-      "sources": ["MIT Technology Review", "IEEE Spectrum", "Centauri Dreams"],
-      "source_urls": [
-        "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
-        "https://spectrum.ieee.org/alpha-centauri-fermi-explorer-mission",
-        "https://www.centauri-dreams.org/2026/09/02/fermi-explorer-building-the-first-mission-to-another-star/"
-      ],
-      "updated": "2026-09-13"
-    },
-    "oil-tops-100-iran-conflict": {
-      "headline": "Oil tops $100 a barrel as the US–Iran conflict escalates",
-      "summary": "Brent crude rose above $100 for the first time since July as escalating US–Iranian fighting and Houthi attacks in Saudi Arabia deepened fears over Gulf supply, compounding global inflation pressure.",
-      "detail": "Oil prices surged back above $100 a barrel for the first time since late July as the Middle East conflict escalated sharply. Brent crude breached the level on Wednesday and then settled up about 6.3% at over $107 a barrel on Thursday, its highest since mid-May, while West Texas Intermediate crossed $100 for the first time since May 21.\n\nThe trigger was a wave of attacks. In tit-for-tat exchanges, the US military said it had destroyed multiple Iranian tankers after Tehran attempted to strike a US Navy warship with ballistic missiles, and attacks on shipping widened — the biggest spike in attacks on vessels since the Iran war began. Iran-aligned Houthis also attacked four cities in Saudi Arabia and were reported to have seized control of part of Yemen's coastline, feeding supply fears.\n\nThis matters well beyond the pump. The effective closure of the Strait of Hormuz — which carries roughly a fifth of the world's oil and LNG — has gutted seaborne traffic and pushed physical oil prices above futures for days. OPEC has cut its 2026 world oil demand growth forecast, and the rally is compounding inflation fears and reinforcing the market's bet that central banks, including the US Federal Reserve, may be forced to raise rather than cut rates. Barrel prices remain below the war's earlier peak near $126 in April, but the trajectory is upward.",
-      "sources": ["Reuters", "BBC", "The Guardian"],
-      "source_urls": [
-        "https://www.reuters.com/business/energy/brent-holds-above-100-tanker-attacks-deepen-supply-fear-2026-09-10/",
-        "https://www.bbc.com/news/articles/cyvznqypz0yo",
-        "https://www.theguardian.com/business/2026/sep/09/oil-prices-rise-iran-war-brent-crude-inflation-higher-interest-rates"
-      ],
-      "updated": "2026-09-13"
+    "2026-09-13": {
+      "fed-rate-hike-september": {
+        "headline": "Fed rate-hike odds surge to 90% as core inflation runs hot",
+        "summary": "Markets now price a high probability the Federal Reserve raises rates at its September meeting after August core CPI came in hotter than expected, with the 10-year Treasury at its highest yield since 2007 and oil above $100 adding pressure.",
+        "detail": "The bond market is daring the Federal Reserve to act. Fed funds futures recently put the odds of a quarter-point rate hike at next week's September 16 meeting at roughly 75%, climbing toward 90% as traders digested hotter-than-expected core inflation figures for August. The repricing has pushed the 10-year Treasury yield to its highest level since before the 2008 financial crisis, with intraday prints near 4.9% to 4.99%.\n\nThe dynamic is genuinely unusual: rather than betting on rate cuts, which has been the dominant expectation for much of the post-2024 tightening cycle, futures markets now lean toward a hike. Fed Chair Kevin Warsh has signalled the Committee will not be rushed, but longer-run inflation compensation, measured through real yields and longer-dated TIPS breakevens, has ticked up.\n\nThe extra pressure is coming from energy. With Brent crude above $100 a barrel and West Texas Intermediate back over $100 for the first time since May, the inflation narrative has shifted. Physical oil and fuel prices had already been above $100 for days before the benchmark futures caught up. For borrowers, the message is that cheap money is not returning soon: futures pricing also implies the effective federal funds rate drifting up through year-end rather than down.",
+        "sources": [
+          "Fortune",
+          "TradingEconomics",
+          "Federal Reserve"
+        ],
+        "source_urls": [
+          "https://fortune.com/2026/09/10/10-year-treasury-yield-inflation-fed/",
+          "https://tradingeconomics.com/united-states/government-bond-yield",
+          "https://www.federalreserve.gov/releases/h15/"
+        ],
+        "updated": "2026-09-13"
+      },
+      "australia-immigration-politics": {
+        "headline": "Labor and Coalition hold immigration talks as Malinauskas warns of 'race to the bottom'",
+        "summary": "The federal government is negotiating immigration policy with the opposition while South Australian Premier Peter Malinauskas warns the major parties against a 'political race to the bottom' with One Nation on migration cuts.",
+        "detail": "Behind the scenes, Prime Minister Anthony Albanese and Opposition Leader Angus Taylor are trying to find common ground on migration. Labor does not hold a Senate majority, so any overhaul of immigration settings needs either the Greens or the Coalition to pass, and the Greens are highly unlikely to support cuts. That leaves negotiation with the Coalition as the practical route, and government sources say an agreement could clear the way for the migration plan to reach parliament as early as next week.\n\nThe numbers on the table are big. Net overseas migration (NOM) was about 301,000 last financial year; the government wants to trim it to around 245,000 this year. Taylor asked for roughly 50,000 fewer than Labor's target, while One Nation leader Pauline Hanson wants NOM near 130,000 and some Coalition frontbenchers have nominated figures around 180,000.\n\nThat is where the political tension sharpens. South Australian Labor Premier Peter Malinauskas, speaking at the Sydney Institute, called cutting skilled migration an act of economic self-harm and warned that mainstream parties entering a 'numerical race to the bottom' on who can cut migration the most would hurt every Australian economically. He framed the correct response to anti-immigration populism as preserving a strong migration program rather than appeasement. With One Nation outpolling the major parties in some polling, the risk of either side pandering to that base is the crux of the internal Labor debate — whether to move via regulation or legislation.",
+        "sources": [
+          "ABC News",
+          "Sydney Morning Herald",
+          "The Guardian"
+        ],
+        "source_urls": [
+          "https://www.abc.net.au/news/2026-09-10/immigration-talks-labor-coalition-malinauskas-warning/107137098",
+          "https://www.smh.com.au/politics/federal/albanese-taylor-hold-talks-on-migration-as-labor-eyes-low-key-policy-reveal-20260909-p60vyn.html",
+          "https://www.theguardian.com/business/2026/sep/10/labor-premiers-join-business-groups-in-warning-albanese-government-over-immigration-cuts"
+        ],
+        "updated": "2026-09-13"
+      },
+      "ukraine-prosecutor-general-resigns": {
+        "headline": "Ukraine's prosecutor general resigns amid corruption scandal",
+        "summary": "Ruslan Kravchenko resigned as Ukraine's top prosecutor after investigators uncovered an alleged protection racket that shielded fraudulent call centres, with proceeds laundered through property and third-party assets.",
+        "detail": "Ukraine's Prosecutor General Ruslan Kravchenko resigned after NABU, the national anti-corruption agency, exposed an alleged criminal organisation within his own office protecting illegal call centres from prosecution. Investigators allege members took bribes from fraudulent call centres and laundered millions, with proceeds funnelled through property purchases, assets registered to third parties, and associate bank accounts.\n\nKey figures have been named. NABU detained Serhii Kropyva, a deputy head of the Prosecutor General's Office international cooperation department, who is suspected of laundering assets worth more than Hr 89 million (about $2 million) and was remanded in custody by Ukraine's High Anti-Corruption Court. Another suspect, Yelyzaveta Ivakhnenko, was detained with bail set at Hr 20 million (about $450,000).\n\nThe case reaches close to Kravchenko himself. Recordings released by NABU refer to a 'boss' whose patronymic is Andriiovych and who previously headed the State Tax Service — details that correspond to Kravchenko. An anti-corruption prosecutor also flagged Kropyva's close relationship with Kravchenko, and case materials allege Kropyva arranged repair work at a house in the elite area south of Kyiv where Kravchenko lives. Kravchenko's office was searched; he denied any involvement, saying he never facilitated the operation of illegal call centres.",
+        "sources": [
+          "Kyiv Independent",
+          "BBC",
+          "Euronews",
+          "The Record"
+        ],
+        "source_urls": [
+          "https://kyivindependent.com/breaking-ukraines-prosecutor-general-resigns-amid-major-corruption-scandal/",
+          "https://www.bbc.com/news/articles/c780nlgyd79o",
+          "https://www.euronews.com/my-europe/2026/09/08/ukraines-prosecutor-general-resigns-amid-major-corruption-investigation",
+          "https://therecord.media/ukraine-prosecutor-general-scam-center"
+        ],
+        "updated": "2026-09-13"
+      },
+      "nasa-ibm-lunar-ai-model": {
+        "headline": "NASA and IBM release open-source AI foundation model for lunar science",
+        "summary": "The NASA-IBM Lunar Foundation Model, trained on roughly 2 million images from the Lunar Reconnaissance Orbiter, helps scientists map craters and predict where lunar polar ice may be stable, and is now free on Hugging Face.",
+        "detail": "NASA and IBM Research released one of the first open-source AI foundation models built specifically for lunar science — the NASA-IBM Lunar Foundation Model. It is a multimodal, multi-resolution model trained from scratch on SomBench, a dataset of about 2 million co-registered lunar tile bundles spanning 11 modalities at two spatial scales: high-resolution LROC NAC imagery at roughly 1 metre per pixel and wide-angle LROC WAC at about 100 metres per pixel.\n\nRather than a single-purpose detector, the model acts as a reusable base for a range of downstream lunar tasks. Researchers can fine-tune it to map craters, identify young volcanic features, and predict where lunar polar ice might be stable — the kind of terrain mapping that informs landing-site selection and resource planning for future missions.\n\nTests against baselines found the model matched or beat several existing approaches, with independent reporting noting error reductions on the order of 23% for some vision tasks. Importantly, the model is open: the weights are free to download on Hugging Face and the codebase is on GitHub, consistent with NASA's push to make AI research infrastructure broadly reusable across the planetary science community.",
+        "sources": [
+          "NASA Science",
+          "IBM Research",
+          "Hugging Face"
+        ],
+        "source_urls": [
+          "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/",
+          "https://research.ibm.com/blog/nasa-ibm-lunar-foundation-model",
+          "https://huggingface.co/nasa-ibm-ai4science/NASA-IBM-Lunar-Foundation-Model"
+        ],
+        "updated": "2026-09-13"
+      },
+      "ai-alpha-centauri-trajectory": {
+        "headline": "AI plots an interstellar trajectory to Alpha Centauri",
+        "summary": "The Fermi Explorer Mission aims to launch a probe toward our nearest star system by 2029, using an orbital route discovered by an AI physics tool called Get Physics Done from the startup Physical Superintelligence.",
+        "detail": "The Fermi Explorer Mission is an attempt to build the first spacecraft aimed at another star — Alpha Centauri, about 4.4 light-years away — with an eye to launching by the end of 2029 on a budget understood to be around $15 million. Writing in MIT Technology Review, reporter Michelle Kim described how the team repeatedly struggled to find a trajectory that would both set the probe onto an escape path from the solar system and keep propellant requirements in check.\n\nThe breakthrough came from an AI system. Physical Superintelligence (PSI), an AI physics research lab, developed an open-source tool called Get Physics Done, which the team used to simulate candidate trajectories. The AI proposed a route that differed from the flight profile the human engineers had settled on, and that novel trajectory is what Fermi Explorer intends to follow.\n\nSome coverage frames the outcome as an 80,000-year voyage given current propulsion — an extraordinarily long mission. The larger significance is process: an AI physics engine out-engineering a human-chosen trajectory on a hard orbital-mechanics problem, which points at a future where such tools become standard for cutting-edge space mission design.",
+        "sources": [
+          "MIT Technology Review",
+          "IEEE Spectrum",
+          "Centauri Dreams"
+        ],
+        "source_urls": [
+          "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+          "https://spectrum.ieee.org/alpha-centauri-fermi-explorer-mission",
+          "https://www.centauri-dreams.org/2026/09/02/fermi-explorer-building-the-first-mission-to-another-star/"
+        ],
+        "updated": "2026-09-13"
+      },
+      "oil-tops-100-iran-conflict": {
+        "headline": "Oil tops $100 a barrel as the US–Iran conflict escalates",
+        "summary": "Brent crude rose above $100 for the first time since July as escalating US–Iranian fighting and Houthi attacks in Saudi Arabia deepened fears over Gulf supply, compounding global inflation pressure.",
+        "detail": "Oil prices surged back above $100 a barrel for the first time since late July as the Middle East conflict escalated sharply. Brent crude breached the level on Wednesday and then settled up about 6.3% at over $107 a barrel on Thursday, its highest since mid-May, while West Texas Intermediate crossed $100 for the first time since May 21.\n\nThe trigger was a wave of attacks. In tit-for-tat exchanges, the US military said it had destroyed multiple Iranian tankers after Tehran attempted to strike a US Navy warship with ballistic missiles, and attacks on shipping widened — the biggest spike in attacks on vessels since the Iran war began. Iran-aligned Houthis also attacked four cities in Saudi Arabia and were reported to have seized control of part of Yemen's coastline, feeding supply fears.\n\nThis matters well beyond the pump. The effective closure of the Strait of Hormuz — which carries roughly a fifth of the world's oil and LNG — has gutted seaborne traffic and pushed physical oil prices above futures for days. OPEC has cut its 2026 world oil demand growth forecast, and the rally is compounding inflation fears and reinforcing the market's bet that central banks, including the US Federal Reserve, may be forced to raise rather than cut rates. Barrel prices remain below the war's earlier peak near $126 in April, but the trajectory is upward.",
+        "sources": [
+          "Reuters",
+          "BBC",
+          "The Guardian"
+        ],
+        "source_urls": [
+          "https://www.reuters.com/business/energy/brent-holds-above-100-tanker-attacks-deepen-supply-fear-2026-09-10/",
+          "https://www.bbc.com/news/articles/cyvznqypz0yo",
+          "https://www.theguardian.com/business/2026/sep/09/oil-prices-rise-iran-war-brent-crude-inflation-higher-interest-rates"
+        ],
+        "updated": "2026-09-13"
+      }
     }
   }
 }

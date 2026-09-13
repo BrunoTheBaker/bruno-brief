@@ -1,53 +1,72 @@
 {
-  "date": "2026-09-13",
-  "stories": [
+  "days": [
     {
-      "bucket": "US Bond Market",
-      "emoji": "🇺🇸",
-      "headline": "Fed rate-hike odds surge to 90% as core inflation runs hot",
-      "summary": "Markets now price a 90% chance the Federal Reserve raises rates by 25bp at its Sept 16 meeting after August core CPI came in hotter than expected. The 10-year Treasury closed at its highest yield since 2007, with oil above $100 adding pressure.",
-      "sources": ["Reuters", "CNBC"],
-      "slug": "fed-rate-hike-september"
-    },
-    {
-      "bucket": "Australian Politics",
-      "emoji": "🇦🇺",
-      "headline": "Labor and Coalition hold immigration talks as Malinauskas warns of 'race to the bottom'",
-      "summary": "The federal government is negotiating immigration policy with the opposition while SA Premier Peter Malinauskas warns the major parties against a 'political race to the bottom' with One Nation on migration cuts.",
-      "sources": ["ABC News"],
-      "slug": "australia-immigration-politics"
-    },
-    {
-      "bucket": "Conflicts",
-      "emoji": "⚔️",
-      "headline": "Ukraine's prosecutor general resigns amid corruption scandal",
-      "summary": "Ruslan Kravchenko quit as Ukraine's top prosecutor after an anti-corruption probe exposed an alleged protection racket run from his office shielding scam call centres, the latest casualty among senior Zelensky allies.",
-      "sources": ["Reuters"],
-      "slug": "ukraine-prosecutor-general-resigns"
-    },
-    {
-      "bucket": "Science/Tech",
-      "emoji": "🤖",
-      "headline": "NASA and IBM release open-source AI foundation model for lunar science",
-      "summary": "The NASA-IBM Lunar Foundation Model, trained on ~2 million images from the Lunar Reconnaissance Orbiter, helps scientists map craters, spot young volcanic features and predict where lunar polar ice may be stable. Free on Hugging Face.",
-      "sources": ["NASA", "Space.com"],
-      "slug": "nasa-ibm-lunar-ai-model"
-    },
-    {
-      "bucket": "Science/Tech",
-      "emoji": "🚀",
-      "headline": "AI plots an interstellar trajectory to Alpha Centauri",
-      "summary": "The Fermi Explorer Mission aims to launch a probe to our nearest star system by 2029, using an orbital route discovered by an AI physics tool, Get Physics Done, from the startup Physical Superintelligence.",
-      "sources": ["MIT Technology Review"],
-      "slug": "ai-alpha-centauri-trajectory"
-    },
-    {
-      "bucket": "Blowing Up Today",
-      "emoji": "🚨",
-      "headline": "Oil tops $100 a barrel as the US–Iran conflict escalates",
-      "summary": "Brent crude rose above $101 in the latest tit-for-tat exchange of fire between the US and Iran, the first time since July. The spike is compounding inflation fears and reinforcing bets on higher central-bank rates.",
-      "sources": ["The Guardian", "NYT"],
-      "slug": "oil-tops-100-iran-conflict"
+      "date": "2026-09-13",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "Fed rate-hike odds surge to 90% as core inflation runs hot",
+          "summary": "Markets now price a 90% chance the Federal Reserve raises rates by 25bp at its Sept 16 meeting after August core CPI came in hotter than expected. The 10-year Treasury closed at its highest yield since 2007, with oil above $100 adding pressure.",
+          "sources": [
+            "Reuters",
+            "CNBC"
+          ],
+          "slug": "fed-rate-hike-september"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Labor and Coalition hold immigration talks as Malinauskas warns of 'race to the bottom'",
+          "summary": "The federal government is negotiating immigration policy with the opposition while SA Premier Peter Malinauskas warns the major parties against a 'political race to the bottom' with One Nation on migration cuts.",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "australia-immigration-politics"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Ukraine's prosecutor general resigns amid corruption scandal",
+          "summary": "Ruslan Kravchenko quit as Ukraine's top prosecutor after an anti-corruption probe exposed an alleged protection racket run from his office shielding scam call centres, the latest casualty among senior Zelensky allies.",
+          "sources": [
+            "Reuters"
+          ],
+          "slug": "ukraine-prosecutor-general-resigns"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🤖",
+          "headline": "NASA and IBM release open-source AI foundation model for lunar science",
+          "summary": "The NASA-IBM Lunar Foundation Model, trained on ~2 million images from the Lunar Reconnaissance Orbiter, helps scientists map craters, spot young volcanic features and predict where lunar polar ice may be stable. Free on Hugging Face.",
+          "sources": [
+            "NASA",
+            "Space.com"
+          ],
+          "slug": "nasa-ibm-lunar-ai-model"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🚀",
+          "headline": "AI plots an interstellar trajectory to Alpha Centauri",
+          "summary": "The Fermi Explorer Mission aims to launch a probe to our nearest star system by 2029, using an orbital route discovered by an AI physics tool, Get Physics Done, from the startup Physical Superintelligence.",
+          "sources": [
+            "MIT Technology Review"
+          ],
+          "slug": "ai-alpha-centauri-trajectory"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Oil tops $100 a barrel as the US–Iran conflict escalates",
+          "summary": "Brent crude rose above $101 in the latest tit-for-tat exchange of fire between the US and Iran, the first time since July. The spike is compounding inflation fears and reinforcing bets on higher central-bank rates.",
+          "sources": [
+            "The Guardian",
+            "NYT"
+          ],
+          "slug": "oil-tops-100-iran-conflict"
+        }
+      ]
     }
   ]
 }
