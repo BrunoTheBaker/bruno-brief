@@ -12,6 +12,7 @@ const SHELL_ASSETS = [
   'style.css',
   'app.js',
   'manifest.webmanifest',
+  'deepdives.json',
   'icons/icon-180.png',
   'icons/icon-192.png',
   'icons/icon-512.png'
@@ -62,8 +63,9 @@ self.addEventListener('fetch', (event) => {
   const url = new URL(req.url);
   if (url.origin !== self.location.origin) return;
 
-  // Network-first for feed.json, with cache fallback.
-  if (url.pathname.endsWith('/feed.json') || url.pathname.endsWith('feed.json')) {
+  // Network-first for feed.json and deepdives.json, with cache fallback.
+  if (url.pathname.endsWith('/feed.json') || url.pathname.endsWith('feed.json') ||
+      url.pathname.endsWith('/deepdives.json') || url.pathname.endsWith('deepdives.json')) {
     event.respondWith(networkFirst(req));
     return;
   }

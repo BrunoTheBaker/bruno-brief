@@ -33,6 +33,15 @@
   var errorEl      = document.getElementById('error-state');
   var dateEl       = document.getElementById('app-date');
 
+  // Deep-dive overlay refs
+  var overlayEl    = document.getElementById('deepdive-overlay');
+  var ddHeadline   = document.getElementById('dd-headline');
+  var ddSummary    = document.getElementById('dd-summary');
+  var ddUpdated    = document.getElementById('dd-updated');
+  var ddDetail     = document.getElementById('dd-detail');
+  var ddSources    = document.getElementById('dd-sources');
+  var ddBucket     = document.getElementById('dd-bucket');
+
   // ----- Helpers ---------------------------------------------------------
 
   function escapeHtml(s) {
@@ -131,6 +140,9 @@
       +   '<div class="card-meta">'
       +     '<div class="card-sources">' + sourceTags + '</div>'
       +     '<a class="deep-dive" href="' + escapeHtml(deepDiveUrl) + '" '
+      +        'data-slug="' + escapeHtml(slug) + '" '
+      +        'data-bucket="' + escapeHtml(bucket) + '" '
+      +        'data-emoji="' + escapeHtml(emoji) + '" '
       +        'rel="noopener" target="_blank">Deep dive →</a>'
       +   '</div>'
       + '</article>';
@@ -204,6 +216,123 @@
         showError();
       });
   }
+
+  // ----- Deep dive (in-app detail) ---------------------------------------
+
+  var deepCache = null; // lazy singleton: {deepdives: {slug: {...}}}
+
+  function loadDeepDives(force) {
+    // Return a cached promise of deepdives.json (network-first, cache fallback).
+    if (deepCache && !force) return deepCache;
+    var url = 'deepdives.json?_=' + Date.now();
+    deepCache = fetch(url, { cache: 'no-store' })
+      .then(function (res) {
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        return res.json();
+      })
+      .catch(function () {
+        return caches.match('deepdives.json').then(function (cached) {
+          if (!cached) throw new Error('no cached deepdives');
+          return cached.json();
+        });
+      })
+      .then(function (data) {
+        return (data && data.deepdives) ? data : { deepdives: {} };
+      })
+      .catch(function () {
+        return { deepdives: {} };
+      });
+    return deepCache;
+  }
+
+  function openDeepDive(slug, meta) {
+    var dd = null;
+    loadDeepDives().then(function (d) { dd = d.deepdives[slug]; })
+      .then(function () {
+        if (!dd) {
+          // No in-app detail — fall back to the Telegram deepdive link.
+          var fallback = DEEP_DIVE_BASE + encodeURIComponent(slug);
+          window.open(fallback, '_blank');
+          return;
+        }
+        renderDeepDive(dd, meta);
+      });
+  }
+
+  function renderDeepDive(dd, meta) {
+    ddHeadline.textContent = dd.headline || (meta && meta.headline) || 'Deep dive';
+    ddSummary.textContent  = dd.summary || '';
+    ddUpdated.textContent  = dd.updated ? ('Updated ' + formatDate(dd.updated)) : '';
+
+    var paragraphs = String((dd.detail || '') + '').split(/\n{2,}|\n/).filter(Boolean);
+    var detailHtml = paragraphs.map(function (p) {
+      return '<p>' + escapeHtml(p.trim()) + '</p>';
+    }).join('');
+    ddDetail.innerHTML = detailHtml || '<p>No detail available yet.</p>';
+
+    var srcList = Array.isArray(dd.sources) ? dd.sources : [];
+    var urlList = Array.isArray(dd.source_urls) ? dd.source_urls : [];
+    var srcHtml = '';
+    for (var i = 0; i < srcList.length; i++) {
+      var lbl = escapeHtml(srcList[i]);
+      if (urlList[i]) {
+        srcHtml += '<a class="dd-source-link" href="' + escapeHtml(urlList[i]) + '" rel="noopener" target="_blank">' + lbl + ' ↗</a>';
+      } else {
+        srcHtml += '<span class="dd-source-link">' + lbl + '</span>';
+      }
+    }
+    ddSources.innerHTML = srcHtml;
+
+    ddBucket.textContent = (meta && (meta.bucket || meta.emoji))
+      ? (meta.emoji ? meta.emoji + ' ' : '') + (meta.bucket || '')
+      : '';
+    showOverlay();
+  }
+
+  function showOverlay() {
+    overlayEl.hidden = false;
+    overlayEl.setAttribute('aria-hidden', 'false');
+    if (document.body) document.body.classList.add('dd-open');
+    var f = overlayEl.querySelector('.deepdive-back, .deepdive-close, button');
+    if (f && f.focus) f.focus();
+  }
+
+  function closeOverlay() {
+    overlayEl.hidden = true;
+    overlayEl.setAttribute('aria-hidden', 'true');
+    if (document.body) document.body.classList.remove('dd-open');
+  }
+
+  function bindDeepDiveEvents() {
+    // Intercept every "Deep dive" tap on the stories list.
+    storiesEl.addEventListener('click', function (ev) {
+      var target = ev.target;
+      var anchor = target.closest ? target.closest('a.deep-dive') : null;
+      if (!anchor) return;
+      var slug = anchor.getAttribute('data-slug') || '';
+      if (!slug) return;
+      var meta = {
+        headline: (anchor.closest('.card') && anchor.closest('.card').querySelector('.card-headline'))
+            ? anchor.closest('.card').querySelector('.card-headline').textContent.trim() : null,
+        bucket: anchor.getAttribute('data-bucket') || '',
+        emoji: anchor.getAttribute('data-emoji') || ''
+      };
+      ev.preventDefault();
+      ev.stopPropagation();
+      openDeepDive(slug, meta);
+      return false;
+    });
+
+    // Close affordances: backdrop tap, back button, Escape key.
+    var closeEls = overlayEl ? Array.prototype.slice.call(overlayEl.querySelectorAll('[data-dd-close]')) : [];
+    closeEls.forEach(function (el) {
+      el.addEventListener('click', closeOverlay);
+    });
+    window.addEventListener('keydown', function (ev) {
+      if (ev.key === 'Escape' && overlayEl && overlayEl.hidden === false) closeOverlay();
+    });
+  }
+  bindDeepDiveEvents();
 
   // ----- Service worker --------------------------------------------------
 

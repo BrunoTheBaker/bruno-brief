@@ -59,6 +59,36 @@
     <span>Daily briefing · powered by Bruno</span>
   </footer>
 
+  <!-- In-app deep-dive overlay (role=dialog, aria-modal). Hidden until a
+       story with a matching slug in deepdives.json is tapped. -->
+  <div id="deepdive-overlay"
+       class="deepdive-overlay"
+       role="dialog"
+       aria-modal="true"
+       aria-labelledby="dd-headline"
+       aria-hidden="true"
+       hidden
+       tabindex="-1">
+    <div class="deepdive-backdrop" data-dd-close></div>
+    <div class="deepdive-sheet" role="document">
+      <header class="deepdive-header">
+        <button class="deepdive-back"
+                type="button"
+                data-dd-close
+                aria-label="Close deep dive">‹ Back</button>
+        <span class="deepdive-bucket" id="dd-bucket"></span>
+      </header>
+
+      <div class="deepdive-body">
+        <h2 class="deepdive-headline" id="dd-headline"></h2>
+        <p class="deepdive-summary" id="dd-summary"></p>
+        <p class="deepdive-updated" id="dd-updated"></p>
+        <div class="deepdive-detail" id="dd-detail"></div>
+        <div class="deepdive-sources" id="dd-sources"></div>
+      </div>
+    </div>
+  </div>
+
   <script src="app.js" defer></script>
 </body>
 </html>
