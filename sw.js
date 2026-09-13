@@ -5,7 +5,7 @@
    - Cache-first for everything else in the shell.
    ============================================================ */
 
-const CACHE_VERSION = 'bruno-brief-v2';
+const CACHE_VERSION = 'bruno-brief-v3';
 const SHELL_ASSETS = [
   './',
   'index.html',
