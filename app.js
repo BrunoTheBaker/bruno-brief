@@ -14,6 +14,8 @@
   var BUCKET_ORDER = [
     { key: 'US Bond Market',     emoji: '🇺🇸' },
     { key: 'Australian Politics', emoji: '🦘' },
+    { key: 'European Politics',  emoji: '🇪🇺' },
+    { key: 'AI News',            emoji: '🤖' },
     { key: 'Conflicts',          emoji: '⚔️' },
     { key: 'Science/Tech',       emoji: '🔬' },
     { key: 'Blowing Up Today',   emoji: '🔥' }
