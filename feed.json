@@ -1,6 +1,107 @@
 {
   "days": [
     {
+      "date": "2026-09-15",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "10-year Treasury yield hits 4.99% on eve of Fed decision",
+          "summary": "The 10-year Treasury yield rose to 4.99% on Sept 14, its highest in nearly two decades, as markets weigh the outcome of the FOMC's September 15-16 meeting. Prediction markets now show a near coin-flip between holding rates and a 25bp hike, with Reuters reporting many analysts still expect the Fed to hold and defy the market.",
+          "sources": ["TradingEconomics", "Reuters"],
+          "slug": "us-10y-499-fed-decision-2026-09-15"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Hanson 'Americanising' politics as parliament opens; Labor defends Catherine King's Qantas gift",
+          "summary": "Liberal frontbencher Andrew Hastie questioned why Pauline Hanson unveiled her immigration policy via a prerecorded video rather than fronting the media, an approach critics called 'Americanising' politics. Separately, Labor defended minister Catherine King's top-tier Qantas membership gift. Parliament also launched a grants inquiry into a $6m Marrickville Golf Club decision.",
+          "sources": ["The Guardian", "ABC News"],
+          "slug": "parliament-hanson-king-qantas-2026-09-15"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "One Nation names 26 'red-list' countries it wants to bar from migration",
+          "summary": "Following its plan to cut 750,000 temporary visa holders, One Nation is narrowing in on 26 countries it wants to pause migration from, citing Department of Foreign Affairs 'do not travel' advice. India, Australia's largest migration source, is among those flagged, drawing an immediate Labor pushback.",
+          "sources": ["Nine", "AFR"],
+          "slug": "one-nation-26-red-list-2026-09-15"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Europe must build its own AI or risk being cut off by US or China, Lagarde warns",
+          "summary": "ECB President Christine Lagarde said Europe must become a producer of AI technology and build more datacentres to preserve its autonomy and achieve the efficiency gains needed to maintain its way of life, warning of an 'unprecedented' risk of being cut off from AI by Washington or Beijing.",
+          "sources": ["Reuters", "The Guardian", "ECB"],
+          "slug": "lagarde-eu-ai-autonomy-2026-09-15"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Anthropic's September threat report details AI-fueled influence ops and surveillance tools",
+          "summary": "Anthropic's latest threat-intelligence report documents how threat actors used its Claude model to build surveillance systems in Iran, run an influence operation that impersonated people to recruit inside the country, mass-produce fake-news headlines targeting rural Bangladesh, and manipulate an election in Malaysia — alongside cyber and biological-misuse cases.",
+          "sources": ["Anthropic"],
+          "slug": "anthropic-threat-report-sep-2026-09-15"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "🌍",
+          "headline": "Houthis strike Saudi Arabia as Iran-Gulf talks on a Hormuz shipping lane are postponed",
+          "summary": "A planned meeting in Oman between Iran, Gulf Cooperation Council states and Iraq to create a temporary shipping lane through the Strait of Hormuz was postponed after a request from Saudi Arabia, which is frustrated by continued Houthi attacks on its territory. Iran's foreign ministry called the delay 'a diversion from the root causes of this crisis'.",
+          "sources": ["Bloomberg", "Reuters"],
+          "slug": "houthis-saudi-hormuz-talks-2026-09-15"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Saudi Arabia's East-West oil pipeline shut for weeks as Houthis seize Red Sea islands",
+          "summary": "Saudi Arabia shut its 745-mile East-West pipeline — which carries about 4 million barrels a day, ~4% of global output — after drone attacks, with officials saying it will be closed for weeks. Meanwhile Houthi rebels captured the Greater and Lesser Hanish islands in the southern Red Sea, tightening their grip on shipping routes around the Bab el-Mandeb strait.",
+          "sources": ["AP", "NewsNation"],
+          "slug": "saudi-pipeline-hanish-islands-2026-09-15"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "🌍",
+          "headline": "Syria fuel price hikes trigger widest protests since Assad's fall",
+          "summary": "A sharp rise in fuel prices — diesel up to 40% and gasoline around 28-30% — has sparked protests across Syria, the most widespread demonstrations since Bashar al-Assad was ousted nearly two years ago. Demonstrators burned tyres and blocked key roads in Aleppo and other cities, calling for the hikes to be cancelled.",
+          "sources": ["Reuters", "Haaretz", "DW"],
+          "slug": "syria-fuel-protests-2026-09-15"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Trump says Russia and Ukraine agreed to avoid energy attacks as diesel tops $6",
+          "summary": "President Trump said Russia and Ukraine had agreed not to strike each other's energy targets as global fuel prices surge amid the Iran war. It follows his weekend push for Ukraine to stop hitting Russia's oil refineries and diesel supplies, which Kyiv says help fund Russia's war effort.",
+          "sources": ["The Hill", "CNBC", "Reuters"],
+          "slug": "trump-russia-ukraine-energy-2026-09-15"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "Brain's short-range wiring shields cognition as gray matter shrinks with age",
+          "summary": "A new study finds that the brain's short-range wiring may help protect cognitive function even as gray matter shrinks with age, with healthier structural connectivity linked to better preservation of mental performance in older adults.",
+          "sources": ["ScienceDaily"],
+          "slug": "brain-short-range-wiring-2026-09-15"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Brent tops $108 as Iran rules out reopening Hormuz until US meets its demands",
+          "summary": "Brent crude topped $108 a barrel as Iran said it will not reopen the Strait of Hormuz until Washington meets its conditions for ending the war. A tanker caught fire after being struck in the strait, Saudi's key pipeline is down, and US diesel has passed $6 a gallon for the first time ever.",
+          "sources": ["Bloomberg", "NewsNation", "Reuters"],
+          "slug": "oil-108-hormuz-2026-09-15"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🫨",
+          "headline": "Trump says Iran 'wants to make a deal' as war enters midterm politics",
+          "summary": "With just over 50 days to the US midterms, soaring pump prices have become a political liability for Republicans. Trump posted that 'the failing Nation of Iran wants to make a deal, quickly and badly', even as Iran launches missiles at US targets in Jordan and says the US must meet conditions before opening the strait.",
+          "sources": ["CBS News", "NewsNation"],
+          "slug": "trump-iran-deal-midterms-2026-09-15"
+        }
+      ]
+    },
+    {
       "date": "2026-09-14",
       "stories": [
         {
@@ -171,8 +272,7 @@
           "headline": "18th BRICS Summit opens in New Delhi as Modi hosts Putin and Xi",
           "summary": "India hosts the 18th BRICS Summit at Bharat Mandapam in New Delhi on Sep 12–13 under its 2026 chairship, with Narendra Modi hosting Vladimir Putin, Xi Jinping and the bloc's leaders for talks on trade, finance and a shared currency agenda.",
           "sources": ["Al Jazeera", "NPR"],
-          "slug": "brics-summit-new-delhi",
-          "url": "https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters"
+          "slug": "brics-summit-new-delhi"
         },
         {
           "bucket": "US Bond Market",
