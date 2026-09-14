@@ -1,11 +1,15 @@
 /* ============================================================
    Bruno Brief — service worker
-   - Pre-cache the app shell on install.
-   - Network-first for feed.json with cache fallback.
-   - Cache-first for everything else in the shell.
+   Network-first for EVERYTHING (with cache fallback).
+   Rationale: this is a daily-changing news app. Opening the app
+   must always try the network for the latest build + feed, and only
+   fall back to the cache when offline. This means app-code updates
+   and new daily stories appear WITHOUT the user having to re-add the
+   home-screen icon or clear cache — the previous cache-first shell
+   caused stale builds that required a manual re-add to fix.
    ============================================================ */
 
-const CACHE_VERSION = 'bruno-brief-v3';
+const CACHE_VERSION = 'bruno-brief-v4';
 const SHELL_ASSETS = [
   './',
   'index.html',
@@ -22,15 +26,12 @@ const SHELL_ASSETS = [
 self.addEventListener('install', (event) => {
   event.waitUntil(
     caches.open(CACHE_VERSION).then((cache) => {
-      // Use { cache: 'reload' } so we always get the latest from the server
-      // for the first install, even if HTTP cache would otherwise 304 us.
+      // Use { cache: 'reload' } so first install always gets the latest.
       return Promise.all(
         SHELL_ASSETS.map((url) =>
           fetch(url, { cache: 'reload' })
             .then((res) => {
-              if (res && res.ok) {
-                return cache.put(url, res.clone());
-              }
+              if (res && res.ok) return cache.put(url, res.clone());
               return null;
             })
             .catch(() => null) // best-effort: missing icons shouldn't block install
@@ -53,25 +54,16 @@ self.addEventListener('activate', (event) => {
   );
 });
 
-// ----- Fetch: routing -------------------------------------------------
+// ----- Fetch: NETWORK-FIRST for all same-origin GETs ------------------
 self.addEventListener('fetch', (event) => {
   const req = event.request;
-
-  // Only handle GET requests on our own scope.
   if (req.method !== 'GET') return;
 
   const url = new URL(req.url);
   if (url.origin !== self.location.origin) return;
 
-  // Network-first for feed.json and deepdives.json, with cache fallback.
-  if (url.pathname.endsWith('/feed.json') || url.pathname.endsWith('feed.json') ||
-      url.pathname.endsWith('/deepdives.json') || url.pathname.endsWith('deepdives.json')) {
-    event.respondWith(networkFirst(req));
-    return;
-  }
-
-  // Cache-first for shell assets (index, css, js, manifest, icons).
-  event.respondWith(cacheFirst(req));
+  // Network-first for everything — latest app + feed always tried first.
+  event.respondWith(networkFirst(req));
 });
 
 async function networkFirst(req) {
@@ -85,33 +77,17 @@ async function networkFirst(req) {
   } catch (err) {
     const cached = await caches.match(req);
     if (cached) return cached;
-    // Last resort: return a minimal offline feed so the UI shows empty state
-    // rather than crashing.
-    return new Response(
-      JSON.stringify({ date: '', stories: [] }),
-      {
-        status: 200,
-        headers: { 'Content-Type': 'application/json' }
-      }
-    );
-  }
-}
-
-async function cacheFirst(req) {
-  const cached = await caches.match(req);
-  if (cached) return cached;
-  try {
-    const fresh = await fetch(req);
-    if (fresh && fresh.ok) {
-      const cache = await caches.open(CACHE_VERSION);
-      cache.put(req, fresh.clone());
-    }
-    return fresh;
-  } catch (err) {
     // Offline navigation fallback: serve the cached index if we have it.
     if (req.mode === 'navigate') {
       const index = await caches.match('index.html');
       if (index) return index;
+    }
+    // Last resort for data files: minimal offline response.
+    if (req.url.includes('feed.json') || req.url.includes('deepdives.json')) {
+      return new Response(
+        JSON.stringify({ days: [], deepdives: {} }),
+        { status: 200, headers: { 'Content-Type': 'application/json' } }
+      );
     }
     throw err;
   }
