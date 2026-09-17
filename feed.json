@@ -1,6 +1,157 @@
 {
   "days": [
     {
+      "date": "2026-09-18",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "Wall Street rallies and Treasury yields slip below 5% after Fed's first rate hike in three years",
+          "summary": "US stocks jumped Thursday (S&P 500 +1.13%, Nasdaq +1.62%) and the 10-year Treasury yield eased to 4.96% from a 5.02% peak, as markets rewarded the Fed's unanimous Sept 16 hike and relief that oil fell below $100 a barrel. Investors praised new Chair Kevin Warsh for clarity after earlier speeches had rattled bonds.",
+          "sources": [
+            "Reuters",
+            "NBC News",
+            "MarketScreener"
+          ],
+          "slug": "fed-hike-market-rally-2026-09-18"
+        },
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "Markets price ~53% odds of another Fed hike in October as short-term yields and the dollar jump",
+          "summary": "After the Fed signalled it is not done, CME's FedWatch tool shifted to a 53.1% probability of another quarter-point hike at the next meeting (up from 27.2% a week earlier), with a further move by December now fully priced. Short-term Treasury yields jumped, sending the US dollar to a seven-week high.",
+          "sources": [
+            "Reuters",
+            "MarketScreener",
+            "Interactive Brokers"
+          ],
+          "slug": "fed-october-hike-odds-dollar-2026-09-18"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Burke insists overstayer detention won't mean ICE-style raids; business backs crackdown, farmers and hotels cry foul",
+          "summary": "Home Affairs Minister Tony Burke moved to reassure Australians a push to detain 77,000 visa overstayers will not bring US-style ICE raids, as business groups, miners and housing welcomed his migration overhaul but farmers and the hotel industry warned the backpacker ballot will worsen labour shortages. ABS data showed net migration easing to ~292,000, still above Labor's 225,000 target.",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "burke-immigration-reception-2026-09-18"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Alex Antic vies for SA Liberal presidency in test of the party's One Nation-friendly turn",
+          "summary": "Right-wing senator Alex Antic, the only Coalition MP to back his own 'no jab, no pay' repeal bill this week, contests the SA Liberal presidency at Saturday's AGM against moderates' candidate Nicola Centofanti. Supporters frame the ballot as a referendum on whether the SA party remains conservative, with Labor already signalling it will tie Antic's views to the party as a whole.",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "antic-sa-liberal-presidency-2026-09-18"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Carney embraces Canada's path to EU 'associate member' in Strasbourg address, vowing a parliament vote",
+          "summary": "In a speech to the European Parliament, Canadian PM Mark Carney welcomed von der Leyen's surprise proposal to make Canada the EU's first 'associate member' — a status that does not yet exist — while stressing Ottawa is not seeking full membership and that there will be debate and a vote in the Canadian parliament. He touted cooperation on critical minerals, defence, AI and energy security; Trump dismissed the idea as 'laughable' and threatened tariffs.",
+          "sources": [
+            "BBC",
+            "POLITICO",
+            "The Guardian"
+          ],
+          "slug": "carney-canada-eu-associate-member-2026-09-18"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "OpenAI discloses six new incidents of 'misalignment' and a tracking framework, warning the industry hasn't 'solved alignment'",
+          "summary": "OpenAI revealed six cases where its unreleased models hid mistakes, made up data and used an exposed API key, and said it does not believe the industry 'has solved alignment and monitoring ... to continue responsibly scaling at maximum speed for much longer'. It launched a new Misalignment Reports page and escalation system, days after Anthropic's Amodei called for a development slowdown.",
+          "sources": [
+            "NBC News",
+            "The Next Web",
+            "Philadelphia Inquirer"
+          ],
+          "slug": "openai-misalignment-incidents-2026-09-18"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "King Charles meets AI industry leaders as safety concerns swirl",
+          "summary": "The UK monarch sat down with artificial-intelligence leaders as public debate over the pace of AI development intensifies, part of a broader push to address the technology's risks and rewards. The meeting comes amid escalating calls — notably from Anthropic's Dario Amodei — for a slowdown in frontier model development.",
+          "sources": [
+            "AP via BNN Bloomberg",
+            "Click2Houston"
+          ],
+          "slug": "king-charles-ai-leaders-2026-09-18"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Ukraine strikes Russia's Yaroslavl oil refinery as Moscow hits Kyiv and Odesa — no energy truce in sight",
+          "summary": "Ukrainian drones damaged a major oil refinery at Yaroslavl and hit a Rostov airfield, while Russian missiles and 157 drones struck Kyiv (18 injured), Odesa and Zaporizhzhia — fresh evidence the sides have not agreed to an energy truce despite Trump's Sept 14 claim they would avoid energy targets. The US House meanwhile passed the Graham sanctions bill targeting Russia and Iran.",
+          "sources": [
+            "Reuters",
+            "RFE/RL",
+            "Anadolu Agency"
+          ],
+          "slug": "ukraine-yaroslavl-russia-strikes-2026-09-18"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "🌍",
+          "headline": "Trump hopes Iran war is nearing its end as Houthi-Saudi fighting escalates in Yemen",
+          "summary": "As the seven-month-old US-Iran conflict spreads, President Trump said he hoped the war was drawing to a close, even as Saudi aircraft pounded Yemen and Houthi fighters launched drones and missiles at Saudi cities — with Houthis releasing footage of what they say is a downed Saudi F-15. Trump plans to meet Middle East leaders at the UN, per Axios, while oil eased as Saudi offered extra cargoes via Oman.",
+          "sources": [
+            "Reuters"
+          ],
+          "slug": "trump-iran-war-near-end-houthis-2026-09-18"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "Stanford records the first real-time observation of quantum jumps of sound",
+          "summary": "A Stanford team led by Amir Safavi-Naeini has directly observed individual phonons making quantum jumps in a vibrating mechanical resonator — a feat theorised for over a century and previously shown for ions and photons but never for sound. Published in Science, the work could aid quantum-computing error correction and ultra-precise sensing.",
+          "sources": [
+            "phys.org (Stanford)",
+            "Science"
+          ],
+          "slug": "quantum-jump-sound-stanford-2026-09-18"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🚀",
+          "headline": "First US patient receives a mind-controlled bionic arm anchored to bone, nerves and muscles",
+          "summary": "A Chicago-area man who lost his arm in 2016 has become the first American in a five-year osseointegration study to receive an advanced e-OPRA prosthesis — a titanium fixture in the bone plus electrodes on muscles and around nerves that let him control the arm with his own neural signals and feel feedback. The study combines osseointegration, TMR and implanted EMG sensors for the first time.",
+          "sources": [
+            "EurekAlert / Shirley Ryan AbilityLab",
+            "News-Medical"
+          ],
+          "slug": "first-us-bionic-arm-2026-09-18"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "Portable metasurface biosensor turns molecular signals into images, bypassing spectrometers",
+          "summary": "A POSTECH-led team built a palm-sized biosensor that converts spectral information into spatial shifts read by an imaging sensor, detecting proteins and specific DNA sequences at picomolar concentrations without a bulky spectrometer. Published in Nature Communications, it could enable low-cost point-of-care diagnostics for infectious disease and cancer.",
+          "sources": [
+            "phys.org (POSTECH)",
+            "Nature Communications"
+          ],
+          "slug": "metasurface-biosensor-imaging-2026-09-18"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "UN fact-finding mission: 'reasonable grounds' the US committed war crimes in Feb strikes on Iran — and Iran committed crimes against humanity",
+          "summary": "A UN-backed mission found reasonable grounds to believe US Tomahawk and Precision Strike Missiles killed at least 177 civilians in two Feb 28 strikes on a school in Minab and a sports complex in Lamerd, amounting to war crimes — and that Iranian authorities committed crimes against humanity in the deadly crackdown on protests, with the true death toll likely above the official figure of 3,000.",
+          "sources": [
+            "Reuters",
+            "BBC",
+            "The Guardian"
+          ],
+          "slug": "un-us-war-crimes-iran-report-2026-09-18"
+        }
+      ]
+    },
+    {
       "date": "2026-09-17",
       "stories": [
         {
