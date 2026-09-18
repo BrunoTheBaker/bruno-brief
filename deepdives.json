@@ -877,6 +877,196 @@
         ],
         "updated": "2026-09-18"
       }
+    },
+    "2026-09-19": {
+      "us-10y-499-two-decade-high-2026-09-19": {
+        "headline": "10-year Treasury yield hovers near 4.99%, a whisker from the two-decade highs struck after the Fed's hike",
+        "summary": "The 10-year note traded near 4.99% on Sept 18, just below the 5.02% peak set after the Fed's first rate hike in three years, with the full curve from 1-month to 30-year keeping long-end pressure elevated.",
+        "detail": "The US Treasury market entered the weekend with the 10-year yield at roughly 4.99% on Sept 18, according to TradingEconomics and bondScovery, staying a hair below the 5.02% intraday peak it touched after the Federal Reserve's Sept 16 hike. The curve sloped steeply upward across the board, from a 1-month rate near 4.08% up to about 5.37% at the 30-year tenor — a shape that signals investors are still demanding hefty compensation for holding long-dated paper.\n\nThe backup to two-decade highs has been driven by three overlapping forces: inflation that is proving stickier than hoped, the US-Iran war and its effect on oil and shipping, and record federal debt that has investors asking for more premium to lend to Washington long-term. Against that backdrop, the Fed's first quarter-point increase in more than three years under new Chair Kevin Warsh has not relieved the pressure, because policymakers signalled they are not necessarily done.\n\nWhat prevented a renewed break higher this week was oil. After spiking above $108, Brent has pulled back to just under $100 and WTI to the mid-$90s as supply fears eased and diplomacy in the Gulf picked up. Cheaper energy, all else equal, takes a little heat off inflation expectations and the term premium. The question into the weekend is whether that relief holds or whether renewed escalation in the Gulf pushes crude — and with it the 10-year — back toward and beyond the 5% mark.",
+        "sources": [
+          "TradingEconomics",
+          "Bloomberg",
+          "bondScovery"
+        ],
+        "source_urls": [
+          "https://tradingeconomics.com/united-states/government-bond-yield",
+          "https://bondscovery.com/yield-curve/us-treasury",
+          "https://www.bloomberg.com/news/articles/2026-09-17/latest-oil-market-news-and-analysis-for-sept-18"
+        ],
+        "updated": "2026-09-19"
+      },
+      "rba-sensible-level-hearing-2026-09-19": {
+        "headline": "RBA's Bullock and top officials warn interest rates are only 'just getting back to a sensible level'",
+        "summary": "RBA Governor Michele Bullock and three senior officials told a parliamentary hearing that current interest rates are merely 'sensible' after the pandemic era, casting doubt on near-term relief.",
+        "detail": "Appearing before the Senate economics committee on Sept 18, RBA Governor Michele Bullock and three senior officials delivered a deliberately sobering message: interest rates have only just returned to a 'more sensible level' after being held painfully low during the pandemic. The framing was unmistakably aimed at resetting expectations among borrowers who hope rates are about to fall.\n\nThe hearings come barely a week before the Reserve Bank's Sept 29 board decision, which markets now see as heavily skewed toward another hike. In the wake of the US Federal Reserve's rate increase and a global bond sell-off that has pushed Australian ten-year yields above 5%, expectations of a fourth RBA hike in 2026 have climbed sharply.\n\nBullock's language matters because the RBA has been wary of over-committing. By characterising current settings as merely 'normalisation', it signals that the bank sees itself as correcting an anomaly rather than squeezing the economy — a stance that makes a cut harder to justify and keeps the bias toward further tightening while inflation and energy costs stay elevated. For mortgage holders, the practical implication is that relief is unlikely to be imminent.",
+        "sources": [
+          "ABC News"
+        ],
+        "source_urls": [
+          "https://www.abc.net.au/news/2026-09-18/rba-governor-talks-interest-rates-at-parliamentary-hearing/107167676"
+        ],
+        "updated": "2026-09-19"
+      },
+      "gallagher-nt-funding-bypass-2026-09-19": {
+        "headline": "Finance Minister Gallagher threatens to bypass NT government over federal funding",
+        "summary": "Katy Gallagher signalled Canberra may route federally-funded programs around the CLP government after meeting the acting NT chief minister.",
+        "detail": "Finance Minister Katy Gallagher met the acting NT chief minister on Sept 18 to discuss how federally-funded programs are being administered by the Country Liberal Party government, and emerged signalling that Canberra could route Commonwealth money around the Territory administration if it judges funds are not being delivered as intended.\n\nThe dispute touches a sore point in federal-territory relations: the NT relies heavily on Commonwealth funding but the CLP government's priorities on crime and spending have repeatedly clashed with Canberra's conditions. Gallagher's suggested escalation — bypassing the Territory government — would be a significant and unusual step that effectively treats the NT as unable or unwilling to administer federal programs.\n\nWith the NT facing unique challenges from remote-service delivery costs to housing and law-and-order spending, the standoff underscores how federal funding conditions are becoming a sharper political weapon. The exact programs at issue were not fully specified, but the framing indicates the Commonwealth is prepared to enforce tighter control over how its money is spent in the Territory.",
+        "sources": [
+          "ABC News"
+        ],
+        "source_urls": [
+          "https://www.abc.net.au/news/2026-09-18/nt-government-spending-scrutiny-katy-gallagher-commonwealth-meet/107168216"
+        ],
+        "updated": "2026-09-19"
+      },
+      "eu-budget-germany-spain-2026-09-19": {
+        "headline": "Germany and Spain go head-to-head in the EU's next €2 trillion budget fight",
+        "summary": "Five net-contributor leaders led by Germany's Merz clashed publicly with Spain's Cuerpo over the size of the EU's 2028-34 budget.",
+        "detail": "The EU's next seven-year budget, the multiannual financial framework (MFF) for 2028-34, is heading into its crunch phase and the dividing lines have gone public. POLITICO reported that Germany and Spain clashed via rival opinion pieces: Spain's economy minister Carlos Cuerpo argued the budget should rise to a ceiling of 2% of EU gross national income and proposed delaying post-Covid debt repayments to free up roughly €11 billion a year for agriculture, defence and competitiveness.\n\nOn the other side, German Chancellor Friedrich Merz and the leaders of Denmark, the Netherlands, Austria and Finland — whose countries finance about 40% of the EU budget — rejected both ideas. They called the Commission's proposed nominal increase of around 60% 'simply not realistic', insisted the pandemic-era debt already burdens the next framework by almost €170 billion, and urged Ireland, which holds the EU presidency and is steering the talks, to cut hundreds of billions from its next negotiating document.\n\nCuerpo's debt-delay proposal has backing from the Commission and a growing list of countries including Italy, France, Portugal and Poland, but Germany and its allies have traditionally opposed joint EU borrowing and argue postponing principal repayments is no substitute for trimming the overall budget. With a deal sought before an informal end-of-year deadline — and elections in France, Italy, Spain and Poland next year threatening to derail talks — European Council President António Costa has been touring capitals, stopping in Dublin on Thursday, to try to find a landing zone. The stakes are high: the MFF governs spending from farm subsidies to student exchange and defence investment.",
+        "sources": [
+          "POLITICO"
+        ],
+        "source_urls": [
+          "https://www.politico.eu/article/germany-and-spain-go-head-to-head-in-eu-budget-fight/",
+          "https://www.politico.eu/article/five-eu-leaders-europe-must-spend-better-not-just-more/"
+        ],
+        "updated": "2026-09-19"
+      },
+      "macron-russia-hybrid-infrastructure-2026-09-19": {
+        "headline": "Macron orders a plan to shield French critical infrastructure from 'intensifying' Russian hybrid attacks",
+        "summary": "France's president has ordered a plan to protect critical infrastructure and defence sites from drone and cyberattacks, citing an intensifying Russian hybrid threat.",
+        "detail": "French President Emmanuel Macron said on Friday (Sept 18) he had asked his government to prepare a plan to protect France's critical infrastructure, including sensitive defence-industry sites, against drone attacks, cyberattacks and the broader destabilisation campaign he attributes to Moscow. 'In recent weeks, the threat — particularly the Russian hybrid threat — facing Europeans and France has intensified,' he told reporters after meeting party leaders.\n\nThe move reflects a widening European consensus that Russia's shadow operations — sabotage, cyberattacks, disinformation and interference — are escalating even as the war in Ukraine grinds on. Macron warned the attacks would not go unanswered and accused Moscow of trying to intimidate Europeans into weakening their support for Ukraine, insisting 'we are not intimidated'.\n\nThe plan touches a real vulnerability: critical infrastructure across Europe has been a persistent target in the years since the invasion, and adding French defence-industry sites to the list signals the threat is seen as concrete rather than rhetorical. The announcement slots into a broader push, including within NATO and the EU, to harden civilian and military networks against hybrid attacks and to underscore that backing Ukraine is an investment in European security.",
+        "sources": [
+          "AP",
+          "France 24",
+          "ABC News",
+          "Le Monde"
+        ],
+        "source_urls": [
+          "https://apnews.com/article/russia-macron-france-cyberattacks-29767a3fe6723ecffed343f0a4847e95",
+          "https://www.france24.com/en/france/20260918-macron-orders-plan-to-protect-france-critical-infrastructure-against-russian-hybrid-attacks",
+          "https://www.abc.net.au/news/2026-09-19/france-threatened-by-russian-attacks/107171406"
+        ],
+        "updated": "2026-09-19"
+      },
+      "anthropic-lsvp-bioscience-2026-09-19": {
+        "headline": "Anthropic opens its Life Sciences Verification Program, giving vetted researchers gated access to frontier models",
+        "summary": "In beta, the LSVP grants verified life-science organisations access to Mythos, Opus and Sonnet with classifiers retuned for legitimate biology work.",
+        "detail": "Anthropic announced the Life Sciences Verification Program (LSVP) on Sept 17, a beta program that for the first time gives verified life-science organisations gated access to its frontier models — Mythos, Opus and Sonnet — under a refined set of safeguards tuned to be more permissive for legitimate biology-related work. Organisations already onboarded include dozens of research teams, and Anthropic is now opening applications more broadly to the life-science community.\n\nThe program is a direct answer to a problem Anthropic laid out in its September threat-intelligence report: increasingly sophisticated biological misuse. The report documents five biological-misuse case studies it disrupted between December 2025 and August 2026, including a gain-of-function grant application involving chikungunya-virus research intended for a military institute, blocked by Anthropic's biological-safety classifier in May, and a researcher in an unsupported region planning mammalian-adaptation experiments.\n\nThe design is a bet on 'verified trust': instead of locking down biological tools indiscriminately, Anthropic vets who gets access and then relaxes the safety classifiers to let legitimate science progress. It is a meaningful split from a simple safety-first posture — a recognition that frontier models can advance public health research if safeguards are targeted at the highest-risk misuse cases. The tension, as ever, is that the same retuned models could be probed by bad actors, and the program will be watched as a test of whether gated access can thread that needle.",
+        "sources": [
+          "Anthropic",
+          "Unite.AI"
+        ],
+        "source_urls": [
+          "https://www.anthropic.com/news/life-sciences-verification-program",
+          "https://www.unite.ai/anthropic-launches-life-sciences-verification-program-in-beta/"
+        ],
+        "updated": "2026-09-19"
+      },
+      "hacktron-claude-openai-hack-2026-09-19": {
+        "headline": "Researchers use Anthropic's Claude to hack into OpenAI, taking over employee accounts in under 72 hours",
+        "summary": "Indian startup Hacktron AI used Anthropic's Claude to exploit two OpenAI vulnerabilities, reaching employee accounts and an internal code repository, and earned a $6,500 bug bounty.",
+        "detail": "Security researchers at the Indian startup Hacktron AI used Anthropic's Claude model to hack into OpenAI's systems, taking over employee accounts and reaching an internal code repository — in under 72 hours and for less than $3,000, according to TechCrunch and other outlet reports on Sept 18.\n\nThe team exploited two vulnerabilities in OpenAI's systems, using Claude as an AI co-pilot to help identify and chain the flaws. They gained access to employee accounts and the services connected to them, including Outlook, Slack and GitHub, and went so far as to prompt an OpenAI employee's Codex account to suggest changes in OpenAI's internal code repository — a harmless pull request made to prove the depth of the access. They then reported the issues through OpenAI's bug-bounty program and received a $6,500 reward.\n\nWhat makes the story notable is the symmetry: OpenAI built and operates Codex and ChatGPT, yet a competitor's model, Anthropic's Claude, was used to breach it. It is a vivid demonstration that frontier AI lowers the cost of sophisticated offensive security research — and that the same tools can be turned against the labs that build other frontier models. It also underscores how quickly white-hat researchers are learning to weaponise LLMs for vulnerability discovery, a trend that cuts both ways for the industry's security posture.",
+        "sources": [
+          "TechCrunch",
+          "Business Insider",
+          "Cybernews"
+        ],
+        "source_urls": [
+          "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+          "https://www.businessinsider.com/hacktron-ai-cybersecurity-startup-hack-openai-using-claude-2026-9",
+          "https://cybernews.com/security/claude-hacked-openai-accounts-chatgpt-affected/"
+        ],
+        "updated": "2026-09-19"
+      },
+      "openai-copyright-unredacted-2026-09-19": {
+        "headline": "Microsoft-OpenAI copyright fight escalates after unredacted filings reveal mass use of publishers' work",
+        "summary": "Newly unredacted filings in the NYT's copyright case against Microsoft and OpenAI allege the firms used more than 91,000 copies of publishers' works in training datasets.",
+        "detail": "The copyright litigation pitting The New York Times against Microsoft and OpenAI intensified this week after newly unredacted court filings exposed internal discussions and alleged scale of unauthorised use. Tech Startups reported that the material alleges the companies used more than 91,000 copies of works from the Times, the New York Daily News and the Center for Investigative Reporting in certain mid-training datasets.\n\nThe case is one of the defining legal fronts for the AI industry: whether training large language models on copyrighted news and books without a licence infringes copyright, and whether fair-use exceptions protect it. The newly surfaced figures give plaintiffs concrete numbers to point to, and the internal-document angle could prove damaging if it suggests executives were aware their training pipelines leaned heavily on publisher content despite public assurances.\n\nFor Microsoft's and OpenAI's investors and customers, the case is a long-tail liability. Copyright rulings against the companies could force licensing fees, retroactive payments, or changes to how models are built. The revelation of the scale of copied publisher works adds pressure toward negotiated licensing deals — many publishers have already struck them — but for the holdouts, the litigation now has a sharper evidentiary basis.",
+        "sources": [
+          "Tech Startups",
+          "Reuters"
+        ],
+        "source_urls": [
+          "https://techstartups.com/2026/09/18/top-tech-news-today-september-18-2026-anthropic-google-meta-nvidia-openai-more/"
+        ],
+        "updated": "2026-09-19"
+      },
+      "kyiv-missile-attack-2026-09-19": {
+        "headline": "Kyiv comes under Russian missile attack as air defences respond",
+        "summary": "Russian missiles targeting Kyiv on Sept 18 sent Ukrainian air defences into action, with no immediate casualties reported and the alert lifted after about 40 minutes.",
+        "detail": "Ukraine's capital came under attack from Russian missiles on the morning of Friday, Sept 18, with Mayor Vitali Klitschko saying air-defence units were in action against incoming missiles as Reuters witnesses heard explosions across the city. Air-defence authorities lifted the alert after roughly 40 minutes, and there were no immediate reports of casualties or major damage.\n\nThe strike was the latest in a renewed campaign of attacks on Kyiv that resumed after US peace envoys Jared Kushner and Steve Witkoff left the country earlier in the week. Russia had paused strikes on the capital for the envoys' visit, then resumed with drones and ballistic missiles — an overnight barrage a few days earlier injured at least 20 people and damaged an education facility.\n\nThe pattern underscores how fragile the diplomatic track is. The Trump administration is pushing for talks to end the nearly five-year war, but on the ground there is no pause: both sides continue long-range strikes, and Kyiv repeatedly appeals for more interceptor missiles. Friday's attack, with its quick air-alert window and no reported casualties, points to Ukraine's air defence degrading Moscow's effectiveness even as the threat persists daily.",
+        "sources": [
+          "Reuters",
+          "Kyiv Independent"
+        ],
+        "source_urls": [
+          "https://www.reuters.com/world/ukrainian-capital-kyiv-under-missile-attack-mayor-says-2026-09-18/"
+        ],
+        "updated": "2026-09-19"
+      },
+      "russia-border-crossings-strikes-2026-09-19": {
+        "headline": "Russia strikes Ukraine's border crossings with Poland and Moldova as its eastern offensives stall",
+        "summary": "Russia hit Ukraine's border crossings with Poland and Moldova even as its eastern offensives peter out amid a Ukrainian counter-push.",
+        "detail": "Al Jazeera reported on Sept 18 that Russia had struck Ukraine's border crossings with Poland and Moldova, even as its offensives in the east 'peter out'. The strikes on border infrastructure with NATO-member Poland and neighbouring Moldova highlight the risk of the war spilling beyond Ukraine's borders and of attacks on the routes used for Western military aid.\n\nAt the same time, the front-line picture is shifting. Ukrainian forces have been pressing counter-offensives, and reports of an elite Russian drone unit pulling back from northern Donetsk Oblast suggest Moscow's forces are stretched even as they continue long-range missile and drone barrages against cities. The combination of stalled ground advances and continued deep strikes is characteristic of a grinding, attritional phase.\n\nWith no energy truce in place and peace negotiations stalled after the brief pause for US envoys, the border strikes are a reminder that the fighting has no clean containment. Attacks near Poland's and Moldova's borders carry the constant risk of miscalculation that could draw NATO in — the very scenario Western capitals have spent the war trying to avoid.",
+        "sources": [
+          "Al Jazeera",
+          "Kyiv Independent"
+        ],
+        "source_urls": [
+          "https://www.aljazeera.com/tag/ukraine-russia-crisis/",
+          "https://kyivindependent.com/"
+        ],
+        "updated": "2026-09-19"
+      },
+      "mice-brain-video-reconstruction-2026-09-19": {
+        "headline": "Scientists reconstruct videos of what mice saw, purely from brain activity",
+        "summary": "A UCL-led team reconstructed 10-second movies from single-cell recordings in the mouse visual cortex, reaching a pixel-level correlation of 0.57.",
+        "detail": "Researchers led by University College London have reconstructed videos of what a mouse was watching purely from the activity of neurons in its visual cortex. Using two-photon calcium imaging to identify firing individual brain cells, the team ran an iterative gradient-descent algorithm through a state-of-the-art neural encoding model, gradually refining a blank movie until it matched what the mouse actually saw.\n\nPublishing in eLife, the researchers reported high-quality reconstructions of 10-second clips at 30 frames per second, with a pixel-by-pixel correlation of 0.57 between reconstructed and original footage — a substantial improvement over earlier reconstructions of static images from awake mouse cortex, which managed around 0.24. Crucially, they showed the method could reconstruct an unseen video, not just re-derive clips from the training set.\n\nThe work is a step toward 'reading out' perception at the level of individual cells, with implications for understanding how the brain reshapes raw visual input into conscious experience. The researchers noted that reconstruction quality scaled with the number of recorded neurons and benefited from ensembling multiple models. Beyond basic neuroscience, it points toward more powerful brain-computer interfaces and new tools for probing how different species see the world.",
+        "sources": [
+          "ScienceDaily",
+          "eLife",
+          "University College London"
+        ],
+        "source_urls": [
+          "https://www.sciencedaily.com/releases/2026/09/260914102449.htm",
+          "https://elifesciences.org/articles/105081",
+          "https://www.sainsburywellcome.org/blog/lights-neurons-action-reconstructing-movies-mouse-brain-activity"
+        ],
+        "updated": "2026-09-19"
+      },
+      "oil-plunge-supply-ease-2026-09-19": {
+        "headline": "Oil slides for a third day — Brent back under $100 as supply fears ease and Iran diplomacy picks up",
+        "summary": "Brent fell to about $98.7 and WTI to $95.4 on Sept 18, down ~5-6% on the day, as supply concerns eased and Iran diplomacy picked up.",
+        "detail": "Oil prices slid for a third consecutive session on Sept 18, with Brent falling to about $98.7 a barrel and West Texas Intermediate to $95.4 — a drop of roughly 5-6% on the day, according to energy data monitors including World Oil Monitor. Crude had spiked above $108 in recent weeks as the US-Iran war and Houthi attacks rattled Gulf supply.\n\nThe retreat came as traders looked to the next round of diplomacy shaping the conflict. Signals that Iran and Gulf states are moving toward talks over the Strait of Hormuz, and expectations that Gulf shipments could rebound once the strait reopens under an interim deal, pulled the risk premium out of the market. Bloomberg characterised the move as supply concerns easing alongside a pick-up in Iran diplomacy.\n\nThe pullback matters well beyond the pump. Falling crude eases some of the inflation pressure that had pushed Treasury yields toward two-decade highs and reinforced the market's bet that central banks, including the Fed and the RBA, might have to keep tightening. If the diplomatic track holds and Gulf exports recover, the oil-driven inflation scare could fade — but with the East-West pipeline down, Red Sea routes under pressure and talks fragile, a renewed shock is still on the table.",
+        "sources": [
+          "Bloomberg",
+          "World Oil Monitor",
+          "Yahoo Finance"
+        ],
+        "source_urls": [
+          "https://www.bloomberg.com/news/articles/2026-09-17/latest-oil-market-news-and-analysis-for-sept-18",
+          "https://worldoilmonitor.com/",
+          "https://finance.yahoo.com/energy/articles/current-price-oil-september-18-120000466.html"
+        ],
+        "updated": "2026-09-19"
+      },
+      "saudis-oil-export-losses-2026-09-19": {
+        "headline": "Saudi Arabia faces a 'disastrous' loss of oil exports as attacks keep escalating",
+        "summary": "Saudi Arabia, running out of options to restore supply lines, confronts a severe energy crisis with global implications amid pipeline shutdowns and Red Sea pressure.",
+        "detail": "Saudi Arabia is confronting the prospect of a severe energy crisis with global implications, running out of options as attacks continue to force the shutdown of its key export infrastructure. Reporting syndicated by the Seattle Times described the kingdom facing a 'disastrous' loss of oil if the disruption to export routes persists.\n\nThe immediate problem is twofold. Saudi Arabia's East-West pipeline — a 745-mile artery that carries roughly 4 million barrels a day, about 4% of global output, and was long a workaround when the Strait of Hormuz was blocked — was shut after drone attacks. Satellite images from The Guardian showed the extent of damage. At the same time, Houthi forces have advanced along Yemen's Red Sea coast, threatening the Bab el-Mandeb — the alternative sea route on which Saudi exports increasingly depend.\n\nThe pressure on Saudi export capacity is a core part of the global oil story: even as traders bid prices down on hopes that Hormuz will reopen, the physical capacity to move crude has been severely degraded. Analysts have warned the kingdom may run out of oil available for export if the pipeline stays down and Red Sea routes remain hazardous. How fast Saudi can restore the pipeline or reroute exports will be decisive for whether the current price relief is durable or a pause before the next leg higher.",
+        "sources": [
+          "AP via Seattle Times",
+          "The Guardian",
+          "Reuters"
+        ],
+        "source_urls": [
+          "https://www.seattletimes.com/business/saudi-pipeline-attack-risks-disastrous-loss-of-oil-as-fighting-escalates/",
+          "https://www.theguardian.com/world/2026/sep/14/saudi-pipeline-drone-attack-houthis-global-oil-supply-prices",
+          "https://www.reuters.com/business/energy/saudis-shut-down-oil-pipeline-houthis-tighten-grip-red-sea-shipping-2026-09-12/"
+        ],
+        "updated": "2026-09-19"
+      }
     }
   }
 }

@@ -1,6 +1,154 @@
 {
   "days": [
     {
+      "date": "2026-09-19",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "10-year Treasury yield hovers near 4.99%, a whisker from the two-decade highs struck after the Fed's hike",
+          "summary": "The 10-year note traded around 4.99% on Sept 18, just below the 5.02% peak hit after the Fed's first rate hike in three years, with the whole curve from the 1-month (4.08%) to the 30-year (5.37%) keeping long-end pressure elevated. A retreat in oil through the week provided modest relief as investors weighed sticky inflation against the cooling energy shock.",
+          "sources": [
+            "TradingEconomics",
+            "Bloomberg",
+            "bondScovery"
+          ],
+          "slug": "us-10y-499-two-decade-high-2026-09-19"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "RBA's Bullock and top officials warn interest rates are only 'just getting back to a sensible level'",
+          "summary": "At a parliamentary economics hearing on Sept 18, RBA Governor Michele Bullock and three senior officials delivered a sobering message to borrowers: current rates are merely 'sensible' after the pandemic era, all but ruling out quick relief and sharpening the stakes for the Reserve Bank's Sept 29 board decision.",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "rba-sensible-level-hearing-2026-09-19"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Finance Minister Gallagher threatens to bypass NT government over federal funding",
+          "summary": "Katy Gallagher, after meeting the acting NT chief minister, signalled Canberra may route federally-funded programs around the Country Liberal Party government if they are not being administered as intended, escalating a federal-territory funding dispute over how Commonwealth money reaches Territorians.",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "gallagher-nt-funding-bypass-2026-09-19"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Germany and Spain go head-to-head in the EU's next €2 trillion budget fight",
+          "summary": "Five net-contributor leaders led by Germany's Friedrich Merz sparred publicly with Spain's economy minister Carlos Cuerpo over the size of the EU's 2028-34 budget: Spain wants the ceiling lifted to 2% of EU gross national income and Covid-debt repayments delayed, while the 'frugals' insist the Commission's ~60% nominal increase is unrealistic and wants hundreds of billions cut.",
+          "sources": [
+            "POLITICO"
+          ],
+          "slug": "eu-budget-germany-spain-2026-09-19"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Macron orders a plan to shield French critical infrastructure from 'intensifying' Russian hybrid attacks",
+          "summary": "France's president asked the government to prepare a plan to protect critical infrastructure and sensitive defence-industry sites against drone and cyberattacks, warning that the Russian hybrid threat facing Europe 'has intensified in recent weeks' and insisting France will not be intimidated into weakening its support for Ukraine.",
+          "sources": [
+            "AP",
+            "France 24",
+            "ABC News"
+          ],
+          "slug": "macron-russia-hybrid-infrastructure-2026-09-19"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Anthropic opens its Life Sciences Verification Program, giving vetted researchers gated access to frontier models",
+          "summary": "In beta, the LSVP grants verified life-science organisations access to Mythos, Opus and Sonnet with classifiers retuned to be more permissive for legitimate biology work — a response to five biological-misuse case studies in Anthropic's September threat report, including a chikungunya gain-of-function grant application blocked in May.",
+          "sources": [
+            "Anthropic",
+            "Unite.AI"
+          ],
+          "slug": "anthropic-lsvp-bioscience-2026-09-19"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Researchers use Anthropic's Claude to hack into OpenAI, taking over employee accounts in under 72 hours",
+          "summary": "Indian startup Hacktron AI exploited two OpenAI vulnerabilities with help from Claude, gaining access to employee accounts and an internal code repository and making a harmless pull request before reporting it via bug bounty for a $6,500 reward — a striking example of one frontier lab's AI turned against another.",
+          "sources": [
+            "TechCrunch",
+            "Business Insider",
+            "Cybernews"
+          ],
+          "slug": "hacktron-claude-openai-hack-2026-09-19"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Microsoft-OpenAI copyright fight escalates after unredacted filings reveal mass use of publishers' work",
+          "summary": "Newly unredacted material in The New York Times' copyright case against Microsoft and OpenAI exposed internal discussions and allegations that the firms used more than 91,000 copies of works from the Times, the New York Daily News and the Center for Investigative Reporting in certain mid-training datasets, sharpening the legal battle over AI training data.",
+          "sources": [
+            "Tech Startups"
+          ],
+          "slug": "openai-copyright-unredacted-2026-09-19"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Kyiv comes under Russian missile attack as air defences respond",
+          "summary": "On Friday (Sept 18), Russian missiles targeting Kyiv sent Ukrainian air defences into action, with no immediate reports of casualties or damage and the air alert lifted after about 40 minutes — the latest in a resumption of strikes on the capital since US peace envoys left Ukraine.",
+          "sources": [
+            "Reuters"
+          ],
+          "slug": "kyiv-missile-attack-2026-09-19"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "🌍",
+          "headline": "Russia strikes Ukraine's border crossings with Poland and Moldova as its eastern offensives stall",
+          "summary": "Russia hit Ukraine's border crossings with Poland and Moldova even as its offensives in the east 'peter out' amid a Ukrainian counter-push — a reminder that with no energy truce and peace talks stalled, the war is grinding on far from any settlement.",
+          "sources": [
+            "Al Jazeera"
+          ],
+          "slug": "russia-border-crossings-strikes-2026-09-19"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "Scientists reconstruct videos of what mice saw, purely from brain activity",
+          "summary": "A UCL-led team used single-cell recordings from the mouse visual cortex and a neural encoding model to reconstruct 10-second movies a mouse was watching, achieving a pixel-level correlation of 0.57 — a big jump over earlier static-image reconstructions and a new window into how the brain turns raw input into perception.",
+          "sources": [
+            "ScienceDaily",
+            "eLife",
+            "University College London"
+          ],
+          "slug": "mice-brain-video-reconstruction-2026-09-19"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🔥",
+          "headline": "Oil slides for a third day — Brent back under $100 as supply fears ease and Iran diplomacy picks up",
+          "summary": "Brent fell to about $98.7 and WTI to $95.4 on Sept 18, down roughly 5-6% on the day, as traders looked to renewed diplomacy shaping the US-Iran war and easing supply concerns, backing crude away from the $108 peaks of recent weeks.",
+          "sources": [
+            "Bloomberg",
+            "World Oil Monitor",
+            "Yahoo Finance"
+          ],
+          "slug": "oil-plunge-supply-ease-2026-09-19"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Saudi Arabia faces a 'disastrous' loss of oil exports as attacks keep escalating",
+          "summary": "The kingdom, running low on options to restore supply lines, confronts the prospect of a severe energy crisis with global implications — its East-West pipeline down and Red Sea routes under Houthi pressure — even as traders look ahead to Gulf shipments rebounding when the Strait of Hormuz reopens under the interim deal.",
+          "sources": [
+            "AP via Seattle Times",
+            "The Guardian",
+            "Reuters"
+          ],
+          "slug": "saudis-oil-export-losses-2026-09-19"
+        }
+      ]
+    },
+    {
       "date": "2026-09-18",
       "stories": [
         {
