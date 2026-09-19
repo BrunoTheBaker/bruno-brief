@@ -1,6 +1,158 @@
 {
   "days": [
     {
+      "date": "2026-09-20",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "US 10-year Treasury yield back to 5.00% — rebound after a week at two-decade highs as oil retreat eases inflation fears",
+          "summary": "The 10-year note rose to 5.00% on Friday (Sept 18), up ~6bp on the session after the curve had slipped below 5% midweek as softer oil prices cooled inflation concerns in the wake of the Fed's Sept 16 hike. Long-end borrowing costs remain pinned near levels not seen since 2007, keeping the whole curve, from the 1-month to the 30-year, elevated.",
+          "sources": [
+            "TradingEconomics",
+            "CNBC"
+          ],
+          "slug": "us-10y-back-5-percent-2026-09-20"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Coalition unveils 'root and branch' school reform built on 'Western values'",
+          "summary": "Shadow Education Minister Julian Leeser's plan would strip cross-curricular units on Indigenous history and Asian studies from the curriculum and refocus students on Western values — civics, literature and philosophy — as the Coalition lays out its answer to Australia's sliding academic results.",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "coalition-education-western-values-2026-09-20"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Labor's 225,000 migration target is 'an auction it can't win'",
+          "summary": "Analysis argues Tony Burke has turned a Treasury forecast into a binding target, legitimising a numbers contest in which One Nation (130,000) and the Coalition (150-170k) can always bid lower — while pollsters say migration moves few voters beyond One Nation's base anyway, leaving Labor adding fight without reward.",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "labor-migration-target-auction-2026-09-20"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Germany votes today: state elections seen as a referendum on Merz's survival",
+          "summary": "Sunday's polls in Mecklenburg-Western Pomerania — where the CDU risks falling below the 5% threshold for the first time in the post-war era — and Berlin could decide Chancellor Friedrich Merz's fate, two weeks after the AfD's landslide win in Saxony-Anhalt. Eight CDU state premiers have publicly backed him, but Merz has cancelled his UN General Assembly speech to manage the fallout.",
+          "sources": [
+            "POLITICO",
+            "Bloomberg",
+            "DW"
+          ],
+          "slug": "german-state-elections-merz-2026-09-20"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "European leaders warn of an 'intensified' Russian hybrid threat; Macron orders a critical-infrastructure plan",
+          "summary": "After Poland's Donald Tusk warned Moscow could stage 'accidental' drone or rocket strikes on NATO territory, Emmanuel Macron said the Russian hybrid threat 'has intensified' and ordered a plan to shield critical infrastructure and sensitive defence sites from drone and cyberattacks. Europe has recorded roughly 100 attributed hybrid incidents so far this year, up from 60 in the same period in 2025.",
+          "sources": [
+            "POLITICO",
+            "BBC",
+            "Reuters"
+          ],
+          "slug": "eu-russia-hybrid-threat-warning-2026-09-20"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Zero-click 'Plugin4Shell' flaw hits the plugin systems of four AI coding agents at once",
+          "summary": "A disclosed vulnerability lets attackers achieve remote code execution on Claude Code, Codex, GitHub Copilot and Gemini CLI with no user action, because the agents auto-update installed plugins in the background by default. Researchers flag a shared design assumption four independent teams built in, with Claude Code and Codex since issuing fixes.",
+          "sources": [
+            "Help Net Security",
+            "Cybersecurity News"
+          ],
+          "slug": "plugin4shell-ai-coding-agents-2026-09-20"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "OpenAI rules out a 2026 IPO as a global AI-stock selloff follows leaders' 'slow down' warnings",
+          "summary": "Sam Altman told Fortune the company won't go public this year — 'given everything happening with safety, right now would be an ill-advised moment' — as tech shares tumbled worldwide after Anthropic's Dario Amodei, backed by Elon Musk, urged a slower frontier, hammering chip and memory makers (Nvidia, SK Hynix, Samsung, Arm) hardest while software stocks rallied.",
+          "sources": [
+            "NBC News",
+            "CBS News",
+            "Morningstar"
+          ],
+          "slug": "openai-ipo-ai-stock-selloff-2026-09-20"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Russia reports cyberattacks on voting systems on the second day of its three-day parliamentary election",
+          "summary": "Russian authorities said Moscow's online-voting system was hit by a strong overnight attack and that an attempted sabotage of Far East communication lines was thwarted, with no disruption confirmed per state media. Kremlin-aligned officials blamed Ukraine as voting runs Sept 18-20, with residents of occupied Donetsk, Lugansk, Kherson and Zaporozhye voting for the first time.",
+          "sources": [
+            "Reuters",
+            "RFE/RL",
+            "TASS"
+          ],
+          "slug": "russia-election-cyberattacks-2026-09-20"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "🌍",
+          "headline": "Hundreds of thousands rally in Tehran in Iran's biggest show of defiance since the war began",
+          "summary": "In a government-organised 'Janfaday-e Iran' (sacrifice for Iran) demonstration on Friday, Tehran's Revolutionary Guard chief said over 600,000 have signed up for volunteer military training, as the rial falls past 2.3 million to the dollar under a US naval blockade and fresh sanctions. Iran also claimed a strike on a Togo-flagged tanker in the Strait of Hormuz.",
+          "sources": [
+            "AP via PBS",
+            "The Independent",
+            "Iran International"
+          ],
+          "slug": "iran-tehran-rally-volunteers-2026-09-20"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "Irish team builds a DNA 'molecular computer' that runs 100-bit calculations with no electricity",
+          "summary": "Researchers at Maynooth University created a Scaffolded DNA Computer that uses self-assembling strands to execute 10 molecular programs — arithmetic and 100-bit calculations — powered purely by chemical reactions, published in Nature. It points to new possibilities in long-term data storage, energy-efficient computation, and eventually molecular systems that operate inside cells for disease detection.",
+          "sources": [
+            "Tom's Hardware",
+            "Nature"
+          ],
+          "slug": "dna-molecular-computer-ireland-2026-09-20"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🚀",
+          "headline": "JWST watches a tiny asteroid's rings change over a decade — one denser, one nearly gone",
+          "summary": "New James Webb Space Telescope observations of Chariklo — a body barely 250km across with two rings — show one ring has grown denser while the other has almost vanished, likely a real physical evolution of the planetary rings over time, per a study in Science Advances. It suggests even small-body rings shift just as giant-planet rings do.",
+          "sources": [
+            "Ars Technica",
+            "Science Advances"
+          ],
+          "slug": "chariklo-rings-changing-2026-09-20"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Oil ends a volatile week near $100 as Saudi supply fears ease but Hormuz stays badly restricted",
+          "summary": "Brent closed at US$103.87 and WTI at US$100.30 on Friday after touching US$108.75 intraweek, as Saudi exports via Oman ship-to-ship transfers and China urging Iran to restrain Houthi attacks eased supply fears — yet only four commodity vessels crossed the Strait of Hormuz on Thursday versus a ~16 average, leaving the waterway severely constrained.",
+          "sources": [
+            "Reuters",
+            "EnergyNow",
+            "MarketScreener"
+          ],
+          "slug": "oil-week-hormuz-saudis-2026-09-20"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🔥",
+          "headline": "Saudi Arabia tells European refiners to expect no crude in October as its East-West pipeline stays damaged",
+          "summary": "Saudi Aramco suspended Yanbu loadings and told at least two European refiners they will receive no crude next month after drone attacks damaged three pumping stations on the East-West pipeline, with roughly only half its capacity being restored. North Sea-to-Mediterranean crude differentials are surging to records and European diesel stays exceptionally tight.",
+          "sources": [
+            "EnergyNow",
+            "The Business Times"
+          ],
+          "slug": "saudi-october-europe-crude-2026-09-20"
+        }
+      ]
+    },
+    {
       "date": "2026-09-19",
       "stories": [
         {
