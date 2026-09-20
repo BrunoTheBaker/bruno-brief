@@ -340,17 +340,22 @@
     ddSummary.textContent  = dd.summary || '';
     ddUpdated.textContent  = dd.updated ? ('Updated ' + formatDate(dd.updated)) : '';
 
-    var paragraphs = String((dd.detail || '') + '').split(/\n{2,}|\n/).filter(Boolean);
+    var bodyText = dd.detail || dd.content || '';
+    var paragraphs = String(bodyText).split(/\n{2,}|\n/).filter(Boolean);
     var detailHtml = paragraphs.map(function (p) {
       return '<p>' + escapeHtml(p.trim()) + '</p>';
     }).join('');
     ddDetail.innerHTML = detailHtml || '<p>No detail available yet.</p>';
 
-    var srcList = Array.isArray(dd.sources) ? dd.sources : [];
+    var srcNames = Array.isArray(dd.sources) ? dd.sources : [];
     var urlList = Array.isArray(dd.source_urls) ? dd.source_urls : [];
+    // If sources has no names but source_urls exists, show the URLs as labels.
+    if (!srcNames.length && urlList.length) {
+      srcNames = urlList;
+    }
     var srcHtml = '';
-    for (var i = 0; i < srcList.length; i++) {
-      var lbl = escapeHtml(srcList[i]);
+    for (var i = 0; i < srcNames.length; i++) {
+      var lbl = escapeHtml(srcNames[i]);
       if (urlList[i]) {
         srcHtml += '<a class="dd-source-link" href="' + escapeHtml(urlList[i]) + '" rel="noopener" target="_blank">' + lbl + ' ↗</a>';
       } else {
