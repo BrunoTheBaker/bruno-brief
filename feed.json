@@ -1,6 +1,144 @@
 {
   "days": [
     {
+      "date": "2026-09-21",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "US 10-year yield holds near 4.94% after Friday's retreat — long bonds still near two-decade highs post-Fed hike",
+          "summary": "The benchmark 10-year Treasury note settled around 4.94% on Friday (Sept 18), down almost 10bp on the session as softer oil prices eased inflation fears, retreating from the 19-year highs hit after the Federal Reserve's Sept 16 rate hike. With Washington in a quiet market stretch ahead of fresh data, the long end remains pinned at levels not seen since 2007.",
+          "sources": [
+            "TradingEconomics",
+            "FRED/St. Louis Fed"
+          ],
+          "slug": "us-10y-friday-close-2026-09-21"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Intergenerational Report: Australia heads toward 39.3 million people by 2066 as lives lengthen and births fall",
+          "summary": "Treasurer Jim Chalmers released the latest Intergenerational Report Monday, projecting the population reaches just under 40 million in four decades (39.3m in 2065-66) but with growth slowing sharply from 1.4% to 0.9% a year. Life expectancy rises to 89.5 years for women and 86.1 for men, and fertility falls as the nation ages.",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "aus-intergenerational-report-2066-2026-09-21"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Petrol prices rising again as the Iran war drags on — ACCC ramps up weekly fuel monitoring",
+          "summary": "With crude and refined-fuel benchmarks under persistent upward pressure from the Middle East conflict, the ACCC is publishing weekly fuel-price monitoring updates across capital cities and 190+ regional locations. The ABC reports unleaded and diesel prices are once more climbing steeply, becoming a rising cost-of-living and political issue.",
+          "sources": [
+            "ABC News",
+            "ACCC"
+          ],
+          "slug": "aus-petrol-prices-iran-2026-09-21"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Germany's CDU suffers 'disaster' in two state elections as far-right AfD surges",
+          "summary": "Exit polls showed the Alternative for Germany making strong gains in two regional elections on Sunday, leaving Chancellor Friedrich Merz's conservatives deeply shaken after 16 months in office. Merz called the CDU's heavy losses a 'disaster' but vowed to press on with his reform drive — with the result testing Germany's 'firewall' against the far right.",
+          "sources": [
+            "France 24",
+            "ABC News",
+            "Reuters"
+          ],
+          "slug": "germany-afd-state-elections-2026-09-21"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Digital euro takes a first step: ECB's 'Pontes' platform goes live for banks",
+          "summary": "The European Central Bank launched Pontes — the digital euro for banks — on Monday (Sept 21), a wholesale payment platform usable only by credit institutions. President Christine Lagarde said it marks the start of the pilot phase for the digital euro, with the ECB awaiting completion of the EU legislative process and targeting a broader pilot in mid-2027.",
+          "sources": [
+            "Eunews",
+            "ECB"
+          ],
+          "slug": "digital-euro-pontes-launch-2026-09-21"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "OpenAI concedes it cannot yet reach safe 'recursive self-improvement'; xAI targets full automation by end-2027",
+          "summary": "In a widely-cited Fortune report, OpenAI acknowledged it does not know how to safely get all the way to aligned, full recursive self-improvement (RSI), while xAI's Elon Musk said humans are 'gradually getting less in the loop' on Grok and targets full automation by end-2027. Anthropic said Claude now leads 26% of its model R&D under human supervision.",
+          "sources": [
+            "Fortune",
+            "AI Weekly"
+          ],
+          "slug": "ai-rsi-autonomy-concessions-2026-09-21"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Alibaba's DAMO Academy releases 'Damo Radar' — an open vision-language model trained on 420,000+ abdominal CT exams",
+          "summary": "Alibaba DAMO Academy open-sourced Damo Radar, a vision-language medical model trained on more than 420,000 contrast-enhanced abdominal CT exams and 15 million anatomy-focused image-text pairs, with weights, code and training framework released on GitHub and Hugging Face.",
+          "sources": [
+            "AI Weekly"
+          ],
+          "slug": "alibaba-damo-radar-2026-09-21"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Ukraine fires more than 1,000 drones at Russia, including its largest-ever attack on Moscow",
+          "summary": "Russian officials said Ukrainian forces launched over 1,000 drones at Russia overnight, including hundreds targeting Moscow on the final day of Russian parliamentary elections. The escalation marked the largest aerial attack on the capital of the war, part of a long-range strike duel along the 1,250km front line.",
+          "sources": [
+            "AP",
+            "US News",
+            "LA Times"
+          ],
+          "slug": "ukraine-1000-drones-moscow-2026-09-21"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Russia holds its first parliamentary election since the 2022 invasion as annexed regions vote for the first time",
+          "summary": "The three-day vote to fill the 450-seat State Duma is the first nationwide parliamentary election since Russia's full-scale invasion of Ukraine, with 3.5 million residents of Donetsk, Luhansk, Kherson and Zaporizhzhia casting ballots as Russian citizens for the first time. Kremlin-aligned United Russia is widely expected to retain its dominance.",
+          "sources": [
+            "RFE/RL",
+            "TIME"
+          ],
+          "slug": "russia-first-election-since-2022-2026-09-21"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "🌍",
+          "headline": "Russian strike hits shopping centre in Zaporizhzhia, sparking a major fire",
+          "summary": "A Russian strike struck a shopping centre in Zaporizhzhia, southeastern Ukraine, touching off a large fire, according to Al Jazeera. The attack came amid an intense week of cross-border aerial strikes between Moscow and Kyiv along the eastern and southern front lines.",
+          "sources": [
+            "Al Jazeera"
+          ],
+          "slug": "zaporizhzhia-strike-2026-09-21"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "3D genome mapping reveals new layer of Alzheimer's biology — active and inactive DNA 'mingle' in diseased brain cells",
+          "summary": "A study in Science led by Carnegie Mellon, Pittsburgh and Washington universities used single-cell 3D genome mapping and a new deep-learning model (Hicformer) to show that in Alzheimer's-affected brain cells, normally separate active and inactive DNA compartments physically mix more — linked to lower gene activity in neurons. It opens a previously underexplored layer of the disease and potential therapeutic targets.",
+          "sources": [
+            "NIH",
+            "Carnegie Mellon University",
+            "Science"
+          ],
+          "slug": "alzheimers-3d-genome-science-2026-09-21"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🔥",
+          "headline": "The Iran war's energy shock is back — oil benchmarks and fuel prices climb again",
+          "summary": "Crude oil and international refined-fuel benchmarks are under renewed upward pressure as the US-Iran conflict drags on, pushing retail petrol and diesel prices higher across economies including Australia. Regulators and governments are monitoring the strain on household budgets and warning of fresh pressure on inflation at a time central banks are already wary.",
+          "sources": [
+            "Reuters",
+            "ACCC",
+            "ABC News"
+          ],
+          "slug": "iran-war-oil-fuel-shock-2026-09-21"
+        }
+      ]
+    },
+    {
       "date": "2026-09-20",
       "stories": [
         {
