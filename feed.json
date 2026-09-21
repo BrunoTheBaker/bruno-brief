@@ -1,6 +1,141 @@
 {
   "days": [
     {
+      "date": "2026-09-22",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "US 10-year yield hovers near 4.97% as traders bet on another Fed hike and await a week of central-bank speeches",
+          "summary": "The 10-year Treasury slipped about 3bp to 4.97% on Monday, easing off the two-decade highs hit after the Fed's September rate hike, as traders dialled in expectations for one more 25bp increase this year. Investors now await a string of Federal Reserve appearances this week for clues on how much further the tightening cycle runs.",
+          "sources": [
+            "TradingEconomics",
+            "CNBC"
+          ],
+          "slug": "us-10y-497-fed-speeches-2026-09-22"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Albanese joins 22 world leaders demanding AI stay 'under human control' on eve of the UN General Assembly",
+          "summary": "Anthony Albanese is among 22 signatories to a statement warning that the pace of AI development 'could outpace our ability to manage emerging risks', urging mandatory pre-deployment testing, independent evaluation and a UN-style body to set standards. The push, released ahead of the UNGA in New York, is a bid by middle powers to set global guardrails in a domain where the US and China are competing for dominance.",
+          "sources": [
+            "ABC News",
+            "AFR"
+          ],
+          "slug": "australia-ai-human-control-2026-09-22"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "City of Sydney bans 'pervert' smart glasses from pools, raising pressure for national rules",
+          "summary": "The City of Sydney on Monday joined Canterbury-Bankstown, Brisbane and Melbourne's Yarra in banning AI smart glasses from swimming pools and aquatic centres amid fears over covert recording and privacy. Lifeguards will be able to confiscate the devices and evict users who refuse to comply, as councils push the federal government to bring in national restrictions.",
+          "sources": [
+            "Nine",
+            "ABC News"
+          ],
+          "slug": "sydney-smartglasses-pool-ban-2026-09-22"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "CDU suffers historic defeat in German state elections as AfD tops Mecklenburg-Vorpommern and the Left wins Berlin",
+          "summary": "Final results hand Friedrich Merz's CDU its worst-ever regional showings: it missed the 5% threshold in Mecklenburg-Western Pomerania for the first time in its history, where the far-right AfD led with 38% (almost double its 2021 share), while the socialist Left Party won Berlin with nearly 26%. Merz called the result a 'disaster' but vowed to stay on — his third electoral defeat in two weeks.",
+          "sources": [
+            "Reuters",
+            "DW",
+            "Euronews"
+          ],
+          "slug": "germany-state-elections-final-2026-09-22"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "EU unveils data-centre sustainability rules to monitor the water and energy use of energy-hungry facilities",
+          "summary": "The European Commission has proposed new sustainability rules aimed at monitoring the water and energy consumption of data centres, though binding minimum performance standards would only arrive from 2027. It is part of the bloc's push to limit the environmental footprint of the computing boom underpinning AI while Europe builds domestic capacity.",
+          "sources": [
+            "Euronews"
+          ],
+          "slug": "eu-datacentre-sustainability-rules-2026-09-22"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "xAI finally ships Grok 4.7 — a 2.1-trillion-parameter model that arrives late but lands squarely in second place",
+          "summary": "Elon Musk's xAI released Grok 4.7 on Monday after at least five delays since July, calling it a 'notable improvement' over Grok 4.6 at the same price and speed. The 2.1-trillion-parameter model (up 40%) is live immediately in the Grok app, Cursor, Grok Build and the xAI API, but benchmarks from GDPval to CursorBench still put it behind Anthropic's Claude Fable 5.1.",
+          "sources": [
+            "Decrypt",
+            "Unite.AI"
+          ],
+          "slug": "xai-grok-4-7-launch-2026-09-22"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Xiaomi open-sources MiMo-V2.6, releasing the reinforcement-learning machinery behind its omnimodal models",
+          "summary": "Xiaomi published open repositories for MiMo-V2.6-Pro (1.02 trillion parameters, sparse MoE) and MiMo-V2.6-Flash, both accepting text, image, video and audio with a claimed 1-million-token context window. The company also open-sourced the training environments and RL code used to build them — a transparency push in the frontier-model race at unchanged API prices.",
+          "sources": [
+            "RuntimeWire"
+          ],
+          "slug": "xiaomi-mimo-v2-6-open-source-2026-09-22"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "🌍",
+          "headline": "Trump threatens to 'blow the entire nation up' while Iran warns of 'painful' retaliation as the US weighs resuming strikes",
+          "summary": "With Iranian leaders heading to New York for the UN General Assembly, Trump told Fox News he was in 'deciding mode', offering to 'wipe out' Iran, let its economy 'rot' or strike a deal. Iran's military command says intelligence shows the US is preparing to resume strikes and has threatened sustained retaliation against US bases and regional countries that support Washington; a tanker was struck by a projectile entering the Strait of Hormuz.",
+          "sources": [
+            "Al Jazeera",
+            "CNBC",
+            "The Independent"
+          ],
+          "slug": "iran-trump-threats-strikes-resume-2026-09-22"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Australia, Canada, New Zealand and Norway join Britain in condemning Russia's Duma votes in occupied Ukraine",
+          "summary": "The four Western allies joined the UK in criticising Russian parliamentary elections held in Ukraine's occupied territories — Crimea, Donetsk, Kherson, Luhansk and Zaporizhzhia — as illegitimate. The criticism comes as Zelenskyy responded to a Trump social-media post claiming Russia was 'losing control of diesel oil' amid Ukraine's long-range refinery strikes.",
+          "sources": [
+            "Sky News"
+          ],
+          "slug": "russia-occupied-vote-criticised-2026-09-22"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "NASA finds Mars' Jezero 'Margin Unit' was shaped by ancient lakes, groundwater and hydrothermal fluids",
+          "summary": "A new NASA-led study of Jezero Crater's enigmatic Margin Unit reveals it was reshaped by a complex sequence of lakes, groundwater systems and hydrothermal fluids. Analyses of igneous rocks collected by the Perseverance rover show the rocks interacted with water on at least three separate occasions, publishing Monday in Communications Earth & Environment.",
+          "sources": [
+            "NASA JPL"
+          ],
+          "slug": "mars-jezero-water-systems-2026-09-22"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🚀",
+          "headline": "Astronomers confirm Elias 2-24 b as the youngest exoplanet ever found — a giant still growing in its star's disk",
+          "summary": "Re-analysing five-year-old Keck Observatory archive data, a team led by Universidad Diego Portales confirmed Elias 2-24 b as the youngest planet on record — a young giant sitting 55 times farther from its star than Earth is from the Sun and still forming. It solves a decade-old puzzle about a gap in the young star's dusty disk and shows what NASA's Roman telescope will soon find routinely.",
+          "sources": [
+            "Earth.com"
+          ],
+          "slug": "youngest-exoplanet-2026-09-22"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Oil slides for a fourth straight day — Brent near $100 and WTI at its lowest close since September 8",
+          "summary": "Brent fell 3.4% to $100.34 and WTI dropped 4.5% to $95.78 on Monday, their lowest closes in two weeks, as easing Saudi supply fears and hopes for Gulf shipments outweighed the Iran escalation. But the relief is fragile: Hormuz traffic remains a fraction of normal and analysts see Brent trading in a $90-110 band through year-end.",
+          "sources": [
+            "MarketWatch",
+            "Business Insider",
+            "CNBC"
+          ],
+          "slug": "oil-fourth-day-slide-2026-09-22"
+        }
+      ]
+    },
+    {
       "date": "2026-09-21",
       "stories": [
         {
