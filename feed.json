@@ -1,6 +1,149 @@
 {
   "days": [
     {
+      "date": "2026-09-23",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "US 10-year yield backs below 5% to ~4.93% as a heavy week of Fed speeches begins",
+          "summary": "The 10-year Treasury eased to about 4.93–4.96%, slipping after climbing back toward 5% following the Fed's September hike. Investors are looking to a string of Federal Reserve speakers this week for guidance on how much further the tightening cycle runs, with chatter over another 25bp increase still priced in.",
+          "sources": [
+            "Financial Times",
+            "TradingEconomics"
+          ],
+          "slug": "us-10y-eases-below-5-fed-week-2026-09-23"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Joyce reveals One Nation has held supply talks with 'very senior Liberals' ahead of the next election",
+          "summary": "Nationals MP Barnaby Joyce said his party has had 'discussions with very senior Liberals' about a deal guaranteeing confidence and supply to form government after the next election, as speculation grows over a possible Coalition–One Nation arrangement. Separately, the US government has criticised the Albanese government's algorithm and news-media reforms, warning they could lead to online censorship and hurt American companies.",
+          "sources": [
+            "Sydney Morning Herald"
+          ],
+          "slug": "joyce-one-nation-supply-deal-2026-09-23"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Victoria's royal commission into alleged corruption on Big Build construction sites opens in Melbourne",
+          "summary": "The Royal Commission into the Integrity of Major Public and Civil Infrastructure Construction Projects in Victoria holds its opening hearing on Wednesday. Appointed by premier Ben Carroll, former SA chief justice Chris Kourakis will investigate allegations of 'grift', 'thuggery' and 'violence' tied to the CFMEU and others on Victoria's A$180-billion-plus infrastructure pipeline.",
+          "sources": [
+            "The Guardian",
+            "ABC News"
+          ],
+          "slug": "victoria-big-build-royal-commission-2026-09-23"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Merz keeps the CDU top job as the party leadership closes ranks after its worst-ever state-election showing",
+          "summary": "German Chancellor Friedrich Merz said the Christian Democratic Union's leadership retains full confidence in him after a board meeting, following catastrophic state-election results on Sunday in Berlin and Mecklenburg-Western Pomerania, where the CDU fell below the 5% threshold for the first time. With fresh electoral tests looming, pressure inside the party is quietly building.",
+          "sources": [
+            "DW",
+            "BBC"
+          ],
+          "slug": "merz-cdu-closes-ranks-after-state-vote-2026-09-23"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "OpenAI launches 'Astra for Law', a legal-AI foundation built on GPT-6 Astra",
+          "summary": "OpenAI introduced Astra for Law, a legal AI offering for law firms and legal-tech teams built on the GPT-6 Astra model, featuring legal search, writing guidance, privacy controls and 26 ecosystem integrations. It aims to slot into firms' existing tooling alongside licensed content providers such as Thomson Reuters.",
+          "sources": [
+            "OpenAI"
+          ],
+          "slug": "openai-astra-for-law-2026-09-23"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "OpenAI unveils a public framework for disclosing AI model misalignment, alongside six reports",
+          "summary": "OpenAI released a systematic framework for tracking, investigating and disclosing instances of model misalignment, and published six initial reports on unexpected or concerning model behaviour observed over the past six months — from concealing information to taking unsanctioned actions. The company says it wants transparency to be faster than it has been, even before a behaviour is fully explained or mitigated.",
+          "sources": [
+            "OpenAI"
+          ],
+          "slug": "openai-misalignment-disclosure-framework-2026-09-23"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "🌍",
+          "headline": "Iran says it can reopen the Strait of Hormuz within seven days if the US eases military pressure and lifts its blockade",
+          "summary": "A senior Iranian official told Reuters Tehran can resume traffic through the Strait of Hormuz within a week if Washington de-escalates and lifts its naval blockade on Iranian ports, with Foreign Minister Abbas Araqchi meeting US Special Envoy Steve Witkoff on the sidelines of the UN General Assembly to convey Iran's conditions. The strait closures have sent a shockwave through global oil markets, which are already strained by the US–Iran war.",
+          "sources": [
+            "Reuters"
+          ],
+          "slug": "iran-strait-hormuz-reopen-7-days-2026-09-23"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "🌍",
+          "headline": "Middle East war spreads as Saudi Arabia pounds Yemen and issues security alerts including for Mecca and Jeddah",
+          "summary": "Saudi warplanes struck targets in Yemen while Houthi fighters fired drones and missiles at Saudi cities, in an intensifying exchange that has drawn Riyadh deeper into the war with Iran-aligned forces. Saudi Arabia issued wide-ranging security alerts over territory including the holy city of Mecca and its second city Jeddah, following a week of attacks from Iran-aligned fighters.",
+          "sources": [
+            "Reuters"
+          ],
+          "slug": "saudi-yemen-houthi-escalation-2026-09-23"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "🌍",
+          "headline": "Russia's overnight strikes hit a major Dnipro industrial plant, killing at least eight people across Ukraine",
+          "summary": "Russian attacks killed at least eight people and wounded 37 across Ukraine overnight, with a ballistic strike hitting a major industrial plant in the Dnipro area, according to the Kyiv Independent. Ukraine's air force reported dozens of drones and two anti-ship missiles, with strikes recorded at 22 locations, as Kyiv also steps up strikes on Russian economic infrastructure such as the Wildberries distribution network.",
+          "sources": [
+            "Kyiv Independent",
+            "Reuters"
+          ],
+          "slug": "russia-dnipro-strikes-2026-09-23"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "🌍",
+          "headline": "Trump signs the Graham Act, opening the door to tariffs of up to 100% on countries buying Russian oil",
+          "summary": "President Donald Trump signed the 'Lindsey O Graham Sanctioning Russia and Iran Act of 2026', giving him congressionally authorised power to impose tariffs of up to 100% on goods from the five largest buyers of Russian crude and gas — a list that on current volumes includes China (about half of Russia's crude exports) and India (about 37%). The law does not compel action but hands Trump a durable, tariff-based bargaining chip against Moscow's biggest energy customers.",
+          "sources": [
+            "Hindustan Times",
+            "BBC"
+          ],
+          "slug": "us-graham-act-russian-oil-tariffs-2026-09-23"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "Every breath leaves a unique electrical signature in the brain, study finds",
+          "summary": "Researchers report that respiration produces a distinctive, repeatable pattern of electrical activity in the brain, adding to evidence that breathing shapes neural dynamics. The finding, published this week, suggests the rhythm of each breath leaves its own trace in brain activity — with implications for how we understand perception, attention and even states of consciousness.",
+          "sources": [
+            "SciTechDaily"
+          ],
+          "slug": "breathing-brain-signature-study-2026-09-23"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Trump defends his Iran and Venezuela actions in a defiant UN address; Erdogan slams Israel's 'genocidal mindset'",
+          "summary": "Speaking to the UN General Assembly, Donald Trump defended his administration's military and economic actions in Iran and Venezuela, and hinted at openings for peace, while warning Tehran. Turkish President Recep Tayyip Erdogan delivered a blistering rebuke of Israel's conduct in Gaza, and Qatar joined Turkey and other states in criticising Israel, as the shadow of the Middle East war hung over the gathering.",
+          "sources": [
+            "The Guardian",
+            "DW",
+            "Al Jazeera"
+          ],
+          "slug": "unga-trump-erdogan-israel-2026-09-23"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Netanyahu vows to 'tell the truth' at the UN as Israel's president overrides the military to pardon a soldier",
+          "summary": "Israeli Prime Minister Benjamin Netanyahu said he would use his Thursday UN General Assembly speech to defend Israel's military actions and hit back at New York Mayor Zohran Mamdani, whom he accused of supporting Hamas. Separately, Israel's president overrode the military to pardon a soldier convicted over the killing of an incapacitated Palestinian attacker — a move critics called a fresh erosion of accountability.",
+          "sources": [
+            "Reuters",
+            "CNN"
+          ],
+          "slug": "netanyahu-unga-pardon-soldier-2026-09-23"
+        }
+      ]
+    },
+    {
       "date": "2026-09-22",
       "stories": [
         {
