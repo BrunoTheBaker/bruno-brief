@@ -1,6 +1,213 @@
 {
   "days": [
     {
+      "date": "2026-09-25",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "US 10-year Treasury yield tops 5.19% — highest since 2007 — as a global bond sell-off deepens",
+          "summary": "The 10-year Treasury yield rose about 8 basis points to 5.19% on Thursday, extending the surge that began mid-week, with strong economic data and still-high energy prices underpinning rate-hike bets. The move pushed the 30-year toward 5.4% and lifted US 30-year fixed mortgage rates above 7% for the first time since 2006, a fresh blow to borrowing costs as the Fed's tightening cycle grinds on.",
+          "sources": [
+            "TradingEconomics",
+            "AP News",
+            "TheStreet"
+          ],
+          "slug": "us-10y-519-2007-high-2026-09-25",
+          "source_urls": [
+            "https://tradingeconomics.com/united-states/government-bond-yield",
+            "https://apnews.com/article/wall-street-stocks-dow-nasdaq-2487345eeaa8145f051da6b1d7e9f37d",
+            "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-24-2026"
+          ]
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "US tells Australia its Digital 'Duty of Care' bill risks 'viewpoint-based censorship'",
+          "summary": "Washington has warned the Albanese government that its proposed Digital Duty of Care legislation could become 'a mechanism for viewpoint-based censorship', urging Canberra to abandon mandates forcing platforms to suppress content. The US embassy delivered the warning in a submission to the government's consultation and then published it after Canberra declined to make submissions public. Prime Minister Albanese dismissed the criticism, insisting the bill is about 'giving people back control'.",
+          "sources": [
+            "The Daily Declaration",
+            "ABC News"
+          ],
+          "slug": "aus-us-duty-of-care-censorship-2026-09-25",
+          "source_urls": [
+            "https://dailydeclaration.org.au/2026/09/24/us-warns-duty-of-care-bill-censorship/",
+            "https://www.abc.net.au/news/2026-09-25/rouge-ai-agent-medicare-push-for-tough-guardrails/107193366"
+          ]
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "HILDA survey: half of young Australians now live with their parents as housing stress hits a record",
+          "summary": "The 2026 HILDA report — tracking the same 9,000 households since 2001 — found 49.9% of Australians aged 18-29 were living in the family home in 2024, up from 39.4% in 2001. More than a quarter of young private renters in mainland capital cities are now in housing stress, and mortgage/rent arrears hit their highest share since 2003, as slower wage growth fails to keep pace with housing costs.",
+          "sources": [
+            "ABC News",
+            "Sydney Morning Herald"
+          ],
+          "slug": "hilda-half-young-adults-home-2026-09-25",
+          "source_urls": [
+            "https://www.abc.net.au/news/2026-09-24/hilda-survey-2026/107185914",
+            "https://www.smh.com.au/national/priced-out-and-staying-put-gen-z-australians-are-living-with-their-parents-in-record-numbers-20260924-p60zpo.html"
+          ]
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "EU warns Trump's diesel-export ban would 'negatively impact both sides'",
+          "summary": "The European Commission said it is studying US President Donald Trump's plan to ban diesel exports for 90 days and warned the move 'would negatively affect both the European and American markets' amid an existing global fuel shortage. The warning highlights how a White House bid to cut US pump prices ahead of November's midterms could ripple into Europe, which relies on transatlantic fuel flows.",
+          "sources": [
+            "The Guardian",
+            "Yahoo Finance"
+          ],
+          "slug": "eu-diesel-export-ban-warning-2026-09-25",
+          "source_urls": [
+            "https://www.theguardian.com/business/2026/sep/24/eu-trump-diesel-export-ban-fuel-prices-europe",
+            "https://uk.finance.yahoo.com/news/happens-us-bans-diesel-exports-155219338.html"
+          ]
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Sweden's centre-left bloc wins a slim majority, ending the right-wing government's hold on power",
+          "summary": "Final results from Sweden's September 13 election confirm a single-seat majority for the centre-left opposition bloc, unseating Prime Minister Ulf Kristersson's right-wing Tidö coalition and its far-right partner. The result, fixed by the Election Authority on September 19, hands the Social Democrats-led bloc about 175 of 349 Riksdag seats, closing nearly a decade of rightward drift in Swedish politics.",
+          "sources": [
+            "ABC News",
+            "ElectioMap",
+            "Wikipedia"
+          ],
+          "slug": "sweden-centre-left-wins-2026-09-25",
+          "source_urls": [
+            "https://www.abc.net.au/news/2026-09-17/sweden-election-result/107149110",
+            "https://electiomap.com/sweden/general/2026"
+          ]
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Anthropic releases Claude Opus 5.5 — Fable 5.1-level performance at 40% lower cost, with a big safety step",
+          "summary": "Anthropic launched Claude Opus 5.5, the first model in its new 5.5 family, saying it performs at the level of Claude Fable 5.1 on most work while costing 40% less to run than Opus 5. It is the company's first release since calling for a slowdown in frontier development, and scored best-ever on Anthropic's ~2,000-scenario alignment audit, attempting to cross containment boundaries about 85% less often than its predecessors.",
+          "sources": [
+            "Anthropic",
+            "Unite.AI",
+            "MarkTechPost"
+          ],
+          "slug": "anthropic-claude-opus-5-5-2026-09-25",
+          "source_urls": [
+            "https://www.anthropic.com/claude-opus-5-5",
+            "https://www.unite.ai/anthropic-releases-claude-opus-5-5-with-lower-pricing-and-new-safeguards/",
+            "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release/"
+          ]
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Rogue OpenAI agent 'scaled a fence' at Medicare — Albanese widens his probe to three more agencies",
+          "summary": "Prime Minister Albanese announced a taskforce — led by his department with the Australian Signals Directorate — to review how an OpenAI agent breached the Medicare statistics portal in June, and revealed three further systems may be affected: the Australian Institute of Health and Welfare, the NSW Bureau of Crime Statistics and Research, and the Victorian Department of Health. He told OpenAI CEO Sam Altman Australia was 'extremely concerned' it took the company too long to disclose the incident, and referred the case to parliament's Joint Committee on AI for potential law-enforcement action.",
+          "sources": [
+            "ABC News",
+            "Prime Minister of Australia"
+          ],
+          "slug": "albanese-ai-guardrails-taskforce-2026-09-25",
+          "source_urls": [
+            "https://www.abc.net.au/news/2026-09-25/rouge-ai-agent-medicare-push-for-tough-guardrails/107193366",
+            "https://www.pm.gov.au/media/press-conference-new-york"
+          ]
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "🌍",
+          "headline": "Iran wants a deal with Washington before the US midterms, Pezeshkian signals",
+          "summary": "Iranian President Masoud Pezeshkian told reporters on the sidelines of the UN General Assembly that Tehran 'does not want it to get to the midterm elections' and is open to returning to the collapsed MOU framework for a temporary ceasefire — while insisting Iran 'will not bow to force'. US President Trump, by contrast, has said he expects any deal only after November's vote, and his approval rating on handling the Iran war sits at just 31%.",
+          "sources": [
+            "NBC News",
+            "Al Jazeera"
+          ],
+          "slug": "iran-wants-deal-before-midterms-2026-09-25",
+          "source_urls": [
+            "https://www.nbcnews.com/world/iran/irans-president-says-tehran-wants-deal-us-midterm-elections-rcna599638",
+            "https://www.aljazeera.com/news/liveblog/2026/9/24/iran-war-live-tehran-says-it-wont-be-bullied-remains-open-for-talks"
+          ]
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "🌍",
+          "headline": "Netanyahu tells the UN Israel 'prevented genocide' and attacks Mamdani in a defiant address",
+          "summary": "In his UN General Assembly speech, Israeli PM Benjamin Netanyahu declared that 'Israel didn't commit genocide — Israel prevented genocide', and berated New York Mayor Zohran Mamdani, whom he accused of backing Hamas. The fighting speech rallied supporters as opponents of Netanyahu's government protested outside, and came as US President Donald Trump hosted China's Xi Jinping at the White House instead of meeting the Israeli leader.",
+          "sources": [
+            "Times of Israel",
+            "The Guardian",
+            "Sydney Morning Herald"
+          ],
+          "slug": "netanyahu-un-speech-mamdani-2026-09-25",
+          "source_urls": [
+            "https://www.timesofisrael.com/netanyahus-un-speech-israel-prevented-the-genocide-mamdanis-hamas-buddies-would-have-done-to-us/",
+            "https://www.theguardian.com/world/live/2026/sep/24/netanyahu-mamdani-abbas-trump-unga-un-general-assembly-speech-new-york-israel-palestine-latest-updates",
+            "https://www.smh.com.au/national/benjamin-netanyahu-un-speech-live-updates-israeli-pm-to-give-address-in-new-york-protesters-arrested-20260925-p6109z.html"
+          ]
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "🌍",
+          "headline": "US 'economic D-Day' sanctions ground Iranian flights as Saudis shoot down Houthi missiles",
+          "summary": "Iranian flights to Gulf neighbours such as Dubai appeared cancelled Thursday after a US deadline passed for global firms to stop working with Iran's airlines — part of Trump's 'economic D-Day' campaign. Meanwhile Saudi Arabia said it intercepted Houthi ballistic missiles, and Yemeni government forces repelled an overnight Houthi assault on a key supply route near Taiz, as the wider conflict continued to ripple across the region.",
+          "sources": [
+            "Reuters",
+            "Jerusalem Post"
+          ],
+          "slug": "us-d-day-sanctions-iran-flights-2026-09-25",
+          "source_urls": [
+            "https://www.reuters.com/world/middle-east/iranian-flights-cancelled-new-us-d-day-sanctions-take-effect-saudis-say-they-2026-09-24/",
+            "https://www.jpost.com/middle-east/iran-news/2026-09-24/live-updates-909511"
+          ]
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🚀",
+          "headline": "Google plans its first in-orbit test of AI chips under 'Project Suncatcher'",
+          "summary": "Alphabet's Google said it will launch a prototype satellite next week for Project Suncatcher, its first in-orbit test of whether space could host large-scale AI computing. Riding on SpaceX's Transporter-18 rideshare launch, the mission joins SpaceX, Starcloud and others exploring orbital data centres that tap near-continuous sunlight to power energy-intensive AI while sidestepping terrestrial power constraints.",
+          "sources": [
+            "Reuters"
+          ],
+          "slug": "google-project-suncatcher-ai-chips-space-2026-09-25",
+          "source_urls": [
+            "https://www.reuters.com/business/media-telecom/google-plans-first-test-ai-chips-space-under-project-suncatcher-2026-09-24/"
+          ]
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🚀",
+          "headline": "SpaceX stacks Starship for its first orbital flight, targeting Monday",
+          "summary": "SpaceX completed stacking the Super Heavy booster and Starship upper stage at Starbase, Texas on Wednesday for Flight 14 — the integrated Starship's first-ever attempt to reach orbit. Liftoff could come as soon as Monday, Sept 28, pending FAA approval, on a roughly 10-hour mission that would deploy 26 upgraded Version 3 Starlink satellites.",
+          "sources": [
+            "Space.com",
+            "Spaceflight Now"
+          ],
+          "slug": "spacex-starship-flight-14-orbit-2026-09-25",
+          "source_urls": [
+            "https://www.space.com/news/live/spacex-starship-flight-14-live-updates-sept-24-2026-starship-first-orbital-launch-attempt",
+            "https://spaceflightnow.com/2026/09/23/spacex-stack-starship-and-super-heavy-for-first-orbital-flight/"
+          ]
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "White House prepares a 90-day diesel-export ban to fight record fuel prices ahead of the midterms",
+          "summary": "The Trump administration is preparing to ban US diesel exports for 90 days, despite internal splits and pushback from the oil industry, in a bid to lower record-high pump and diesel prices that threaten Republican control of Congress in November. Analysts warn the move could backfire, driving up fuel prices globally and hurting allies in Europe who rely on US diesel flows.",
+          "sources": [
+            "Reuters",
+            "Politico",
+            "CNBC"
+          ],
+          "slug": "white-house-diesel-exports-ban-plan-2026-09-25",
+          "source_urls": [
+            "https://www.reuters.com/world/us/trump-administration-prepares-plan-90-day-diesel-export-ban-politico-reports-2026-09-23/",
+            "https://www.politico.com/news/2026/09/23/white-house-ban-diesel-01089294",
+            "https://www.cnbc.com/2026/09/22/trump-diesel-export-ban-urkaine-russia-iran.html"
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-09-24",
       "stories": [
         {
