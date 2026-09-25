@@ -1,6 +1,196 @@
 {
   "days": [
     {
+      "date": "2026-09-26",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "30-year Treasury yield climbs to ~5.48%, highest since 2004, as a global bond sell-off deepens",
+          "summary": "Long-dated US borrowing costs hit their highest level in more than 20 years on Thursday, with the 30-year yield topping 5.44% and the 10-year reaching 5.20%, its highest since 2007. Strong US growth and inflation data have traders adding to bets that the Federal Reserve will keep raising rates, with oil near $105 adding inflationary pressure.",
+          "sources": [
+            "Reuters",
+            "CNBC",
+            "NBC News"
+          ],
+          "slug": "us-30y-selloff-2004-high-2026-09-26",
+          "source_urls": [
+            "https://www.reuters.com/business/us-30-year-bond-yield-rises-highest-since-2004-selloff-deepens-2026-09-24/",
+            "https://www.cnbc.com/2026/09/24/us-treasury-yields-bonds-fed-inflation.html",
+            "https://www.nbcnews.com/business/markets/bond-yields-oil-treasury-buyback-bessent-rcna599604"
+          ]
+        },
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "US 10-year yield eases to ~5.17% after a 19-year high, as oil at $105 stokes Fed rate-hike bets",
+          "summary": "The 10-year Treasury eased to 5.17% on Friday after hitting a 19-year high around 5.20% mid-week, as crude returning to $105 per barrel kept inflation fears alive. A Treasury buyback round pushed yields higher rather than lower — the opposite of what the administration intended — and 30-year yields held near their 2004 highs.",
+          "sources": [
+            "TradingEconomics",
+            "NBC News",
+            "Reuters"
+          ],
+          "slug": "us-10y-eases-517-fed-hike-bets-2026-09-26",
+          "source_urls": [
+            "https://tradingeconomics.com/united-states/government-bond-yield",
+            "https://www.nbcnews.com/business/markets/bond-yields-oil-treasury-buyback-bessent-rcna599604",
+            "https://finance.yahoo.com/markets/articles/u-30-bond-yield-rises-090404305.html"
+          ]
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Markets near-certain the RBA lifts the cash rate to 4.6% on Tuesday — its highest in nearly 16 years",
+          "summary": "All four big banks, 90% of economists surveyed by Finder and money-market traders expect the Reserve Bank to raise the cash rate by 25 basis points to 4.6% when it meets on 29 September, after inflation proved sticky and Middle East fuel prices surged. Nearly half of the panel also tip a further hike by Christmas, which would push rates to 4.85%, the highest since 2008.",
+          "sources": [
+            "Finder",
+            "SBS News",
+            "savings.com.au"
+          ],
+          "slug": "rba-rate-hike-460-2026-09-26",
+          "source_urls": [
+            "https://www.finder.com.au/news/finders-rba-survey-25-september-2026",
+            "https://www.sbs.com.au/news/article/dividend-sharemarket-card-payment-surcharges-inflation-unemployment/crxvj3k3j",
+            "https://www.savings.com.au/news/cash-rate-hike-to-douse-inflation-hotspots"
+          ]
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Albanese tightens his grip on Labor's factions; Health Minister Mark Butler emerges as the succession pick",
+          "summary": "A deep-dive in The Saturday Paper argues Anthony Albanese now wields control over Labor's faction system unmatched since WWII — the NSW Left holds 63 of 124 caucus seats — which helps explain his cautious, leader-driven policy agenda. Health Minister Mark Butler has become the Left's chosen successor, with Treasurer Jim Chalmers the main alternative.",
+          "sources": [
+            "The Saturday Paper"
+          ],
+          "slug": "albanese-factional-dominance-succession-2026-09-26",
+          "source_urls": [
+            "https://www.thesaturdaypaper.com.au/news/politics/2026/09/26/inside-albaneses-factional-dominance-theyve-all-been-executed-except-one"
+          ]
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "European leaders warn of an imminent Russian hybrid threat to their countries",
+          "summary": "France, the Netherlands, Finland, Lithuania and Switzerland have all warned citizens of increased threats from Russia, with Polish PM Donald Tusk citing intelligence that Moscow could launch 'hybrid drone and missile strikes' against NATO countries supporting Ukraine. Macron called the warnings 'sound and well-documented' and announced a new critical-infrastructure protection plan; a Danish assessment said Russia would escalate hybrid war and sabotage.",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "eu-leaders-russia-hybrid-threat-2026-09-26",
+          "source_urls": [
+            "https://www.abc.net.au/news/2026-09-26/european-leaders-warn-of-russian-threat/107192690"
+          ]
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Anthropic ships Claude Opus 5.5 with sandbox-escape guardrails as OpenAI counters with GPT-6 Sol and Luna",
+          "summary": "Anthropic released Opus 5.5 on 22 September, its strongest model yet, leading with cybersecurity safeguards against model escape attempts and cutting API prices by a fifth. The same week OpenAI launched GPT-6 Sol and Luna, cheaper, more accurate variants in its GPT-6 family — a flurry of frontier releases that gives developers cheaper options across the big labs.",
+          "sources": [
+            "Daily Inference",
+            "WION",
+            "ModelDex"
+          ],
+          "slug": "ai-claude-opus-5.5-gpt6-sol-luna-2026-09-26",
+          "source_urls": [
+            "https://dailyinference.com/p/claude-opus-gpt-qualcomm-ai",
+            "https://www.wionews.com/technology/claude-opus-5-5-is-here-anthropic-claims-it-can-finish-a-680-000-line-code-migration-in-less-than-a-day-1790233935692",
+            "https://modeldex.dev/news/topics/models"
+          ]
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "🌍",
+          "headline": "Iran hands Washington a 7-day plan to reopen the Strait of Hormuz and end the war",
+          "summary": "Iranian Foreign Minister Abbas Araghchi told reporters at the UN that Tehran had proposed a seven-day roadmap to end hostilities, reopen the vital Strait of Hormuz and launch comprehensive nuclear talks — provided Washington lifts its naval blockade, waives oil sanctions and ends Israel's attacks in Lebanon. Oil fell as Brent dipped to ~$105 amid easing supply fears, but US officials said they would not be rushed into a deal before the November midterms.",
+          "sources": [
+            "The Philadelphia Inquirer",
+            "AP",
+            "The Guardian",
+            "NBC News"
+          ],
+          "slug": "iran-seven-day-hormuz-plan-2026-09-26",
+          "source_urls": [
+            "https://www.inquirer.com/news/nation-world/iran-seven-day-plan-end-war-20260925.html",
+            "https://www.theguardian.com/world/2026/sep/25/trump-tough-choices-iran-accelerated-deal-reopen-hormuz-midterm-elections",
+            "https://www.nbcnews.com/world/iran/irans-president-says-tehran-wants-deal-us-midterm-elections-rcna599638"
+          ]
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "🌍",
+          "headline": "Putin says all Ukraine peace proposals are 'on the table' even as ArcelorMittal shuts its Kryvyi Rih steelworks",
+          "summary": "Putin told reporters in St Petersburg that all settlement proposals for the Ukraine war remain possible, though Moscow would weigh its response after what he called Ukrainian attacks on Russian polling stations. Separately, ArcelorMittal said Russian strikes forced it to halt its Kryvyi Rih steel plant, and flagged a roughly $1 billion impairment charge.",
+          "sources": [
+            "India Today",
+            "AFP",
+            "Kyiv Post"
+          ],
+          "slug": "putin-ukraine-settlement-arcelormittal-2026-09-26",
+          "source_urls": [
+            "https://www.indiatoday.in/world/story/putin-ukraine-war-talks-settlement-proposals-remain-open-3003287-2026-09-26",
+            "https://www.kyivpost.com/post/85445"
+          ]
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🚀",
+          "headline": "NASA's Roman Space Telescope should have fuel for at least 22 years of science — double its design life",
+          "summary": "NASA estimates the Nancy Grace Roman Space Telescope, set to launch to L2, now has enough fuel to support at least 22 years of operations, more than twice its original 10-year design life. The extended window vastly increases the observatory's survey capacity for dark energy, exoplanets and infrared surveys.",
+          "sources": [
+            "ScienceDaily"
+          ],
+          "slug": "nasa-roman-telescope-22-years-fuel-2026-09-26",
+          "source_urls": [
+            "https://www.sciencedaily.com/news/space_time/",
+            "https://en.wikipedia.org/wiki/2026_in_spaceflight"
+          ]
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🚀",
+          "headline": "James Webb finds water near our nearest supermassive black hole",
+          "summary": "The James Webb Space Telescope has detected water close to the supermassive black hole at the centre of our galaxy — a finding with signatures of recent accretion activity around Sagittarius A*. NASA released a new image of the region as its 'photo of the day' for late September.",
+          "sources": [
+            "Space.com",
+            "NASA"
+          ],
+          "slug": "jwst-water-supermassive-black-hole-2026-09-26",
+          "source_urls": [
+            "https://www.space.com/",
+            "https://www.sciencedaily.com/news/space_time/"
+          ]
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Six missing after a powerful explosion collapses a building in Athens' historic Plaka district",
+          "summary": "Search-and-rescue crews worked through the night after a strong blast collapsed a two-storey building on Lysikratous Street near the Acropolis, leaving six people unaccounted for, including an elderly couple and four visitors in a short-term rental. Athens Mayor Haris Doukas called the scale of destruction 'unprecedented' and said the likely cause was a gas explosion, though no official finding has been released.",
+          "sources": [
+            "Greek City Times"
+          ],
+          "slug": "athens-plaka-explosion-2026-09-26",
+          "source_urls": [
+            "https://greekcitytimes.com/2026/09/26/plaka-athens-explosion-six-missing-mayor-doukas/"
+          ]
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "US diesel tops $6.50 a gallon as the Iran war empties distillate inventories",
+          "summary": "US diesel prices have climbed above $6.50 a gallon while distillate inventories fell to their lowest for the time of year since 1982, as the loss of Middle Eastern and Russian fuel supplies deepens a global shortage analysts expect to run into 2027. JPMorgan says roughly 10 million barrels a day of oil supply has been disrupted and no clear exit from the war is in sight.",
+          "sources": [
+            "Yahoo Finance",
+            "Reuters",
+            "JPMorgan"
+          ],
+          "slug": "us-diesel-record-650-global-shortage-2026-09-26",
+          "source_urls": [
+            "https://finance.yahoo.com/energy/articles/5-energy-stocks-positioned-prolonged-000000170.html"
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-09-25",
       "stories": [
         {
