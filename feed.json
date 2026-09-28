@@ -1,6 +1,258 @@
 {
   "days": [
     {
+      "date": "2026-09-29",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "US 10-year Treasury hits 5.27% — highest since 2007 and within sight of a 24-year high",
+          "summary": "The 10-year Treasury yield touched 5.272% on Monday, a fresh 19-year high and close to the 5.303% level that would mark its highest since May 2002, as the global bond sell-off resumed on oil and inflation fears. The 30-year held near 5.56% (highest since 2004) and traders now price about a 65% chance the Fed hikes again in October.",
+          "sources": [
+            "WSJ",
+            "CNBC",
+            "TradingEconomics"
+          ],
+          "source_urls": [
+            "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-28-2026/card/yield-on-10-year-treasury-nears-24-year-high-9HnfDse7h4RyYJWgYbHE",
+            "https://www.cnbc.com/2026/09/28/treasury-yields-bonds-selloff.html",
+            "https://tradingeconomics.com/united-states/government-bond-yield"
+          ],
+          "slug": "us-treasury-10y-527-19yr-high-2026-09-29"
+        },
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "Treasury curve flattens toward inversion as markets price further Fed tightening",
+          "summary": "The 2s10s spread narrowed to as low as 17 basis points, a sign investors expect additional rate rises, with ~65% odds of an October hike and ~94% for December. A data-heavy week — JOLTS Tuesday, core PCE Thursday, September payrolls Friday — will test that path, while German Bund yields also hit post-2009 highs in the global sell-off.",
+          "sources": [
+            "TMGM",
+            "FXStreet / Deutsche Bank",
+            "Briefs.co"
+          ],
+          "source_urls": [
+            "https://www.tmgm-asia.com/en/analysis/market-news/article/us-10-year-yield-revisits-2007-heights-as-curve-flirts-with-inversion-202609281803",
+            "https://www.fxstreet.com/news/us-treasuries-yields-hit-multi-year-highs-deutsche-bank-202609281113",
+            "https://www.briefs.co/news/treasury-yields-rise-as-oil-stays-high-and-inflation-jitters/"
+          ],
+          "slug": "us-treasury-curve-inversion-risk-2026-09-29"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "RBA decision day: cash rate expected to rise to 4.6% — highest since 2011 — in the fourth hike of 2026",
+          "summary": "The Reserve Bank hands down its decision at 2:30pm AEST today, with all four major banks and markets expecting a 25bp rise to 4.6%, lifting typical home loan rates to about 6.5%. Canstar estimates the hike would cut $11,200 from the borrowing capacity of an average-wage earner, and Treasurer Jim Chalmers is defending the government's economic record as the decision looms.",
+          "sources": [
+            "The Guardian",
+            "ABC News",
+            "SBS News"
+          ],
+          "source_urls": [
+            "https://www.theguardian.com/australia-news/2026/sep/28/rba-expected-to-hike-cash-rate-to-46-its-highest-level-since-2011",
+            "https://www.abc.net.au/news/2026-09-28/interest-preview-ahead-of-sept-29-meeting/107196596",
+            "https://www.sbs.com.au/news/article/rba-interest-rate-decision-september-2026-predictions-preview/ziqzh3wjr"
+          ],
+          "slug": "rba-decision-day-46-highest-2011-2026-09-29"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Greens leader Larissa Waters steps down due to illness, sparking a leadership race",
+          "summary": "Senator Larissa Waters announced she is standing down as Greens leader after 16 months in the role, citing pre-existing kidney disease that has 'declined significantly'. The party will elect a new leader by the end of the week, opening a contest just as the Greens hold significant leverage in the Senate.",
+          "sources": [
+            "ABC News",
+            "The Guardian",
+            "POLITICO"
+          ],
+          "source_urls": [
+            "https://www.abc.net.au/news/2026-09-28/larissa-waters-stepping-down-as-greens-leader/107205476",
+            "https://www.theguardian.com/australia-news/2026/sep/28/larissa-waters-steps-down-as-greens-leader-due-to-ill-health-ntnwfb",
+            "https://www.politico.com/news/2026/09/28/greens-leader-larissa-waters-quits-amid-health-battle-sparking-race-to-replace-her-01094771"
+          ],
+          "slug": "waters-greens-leader-steps-down-2026-09-29"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "EU energy ministers meet in Dublin to cushion soaring prices ahead of a hard winter",
+          "summary": "EU energy ministers are holding an informal meeting in Dublin on 28-29 September to discuss how to cushion the impact of soaring energy prices, as gas storage sits below target and the Iran war keeps oil and gas elevated. Energy Commissioner Dan Jorgensen has urged member states to curb demand before winter.",
+          "sources": [
+            "RTÉ",
+            "EU Council (Consilium)",
+            "Irish Presidency"
+          ],
+          "source_urls": [
+            "https://www.rte.ie/news/politics/2026/0928/1593263-eu-energy-ministers/",
+            "https://www.consilium.europa.eu/en/meetings/tte/2026/09/28-29/",
+            "https://irish-presidency.consilium.europa.eu/en/events/informal-meeting-of-energy-ministers-tte-energy/"
+          ],
+          "slug": "eu-energy-ministers-dublin-winter-2026-09-29"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "French Senate: centre-right retains majority as National Rally forms its first group and LFI enters for the first time",
+          "summary": "Results from Sunday's Senate election show the centre-right preserved its grip on the upper house, while the far-right National Rally formed its first-ever group in the chamber and La France Insoumise made a historic first entry. The renewal of 178 of 348 seats reshapes the balance in France's second chamber ahead of the 2027 presidential contest.",
+          "sources": [
+            "Le Monde",
+            "France in English",
+            "ElectioMap"
+          ],
+          "source_urls": [
+            "https://www.lemonde.fr/en/les-decodeurs/article/2026/09/27/2026-french-senate-elections-live-results_6758002_8.html",
+            "https://franceinenglish.com/p/2026-french-senate-elections-right-retains-majority-national-rally-forms-first-group-la-france-insoumise-makes-historic-entry",
+            "https://electiomap.com/france/senate/2026"
+          ],
+          "slug": "france-senate-right-retains-majority-2026-09-29"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Google, OpenAI and Anthropic plan their own FINRA-style safety body for frontier AI",
+          "summary": "The three leading AI labs are moving to set up a joint 'standards authority' to write safety rules for the most powerful models, per The Information — a week after President Trump passed on creating a federal AI regulator. The industry-led body raises questions about who ultimately governs the most capable AI.",
+          "sources": [
+            "Forbes",
+            "The Information (via The Next Web)"
+          ],
+          "source_urls": [
+            "https://www.forbes.com/sites/jonmarkman/2026/09/28/google-openai--anthropic-plan-their-own-finra-style-ai-safety-regulator/",
+            "https://thenextweb.com/news/standards-authority-frontier-ai-google-openai-anthropic"
+          ],
+          "slug": "ai-labs-finra-style-regulator-2026-09-29"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "AI 'godfathers' warn governments to prepare for a runaway 'intelligence explosion'",
+          "summary": "A report co-authored by Geoffrey Hinton, Yoshua Bengio, Anthropic co-founder Jack Clark and OpenAI chief scientist Jakub Pachocki warns that automating AI research could trigger an 'intelligence explosion' — potentially 'the most consequential technological development in history' — and urges governments to prepare oversight. More than 20 researchers and executives signed on.",
+          "sources": [
+            "The Guardian",
+            "Quartz",
+            "AI Tech Daily"
+          ],
+          "source_urls": [
+            "https://www.theguardian.com/technology/2026/sep/28/ai-godfathers-warn-of-runaway-intelligence-explosion",
+            "https://qz.com/ai-researchers-intelligence-explosion-oversight-092826",
+            "https://www.aitechdaily.com/ai-godfathers-intelligence-explosion-warning/"
+          ],
+          "slug": "ai-godfathers-intelligence-explosion-2026-09-29"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Anthropic and OpenAI will skip Thursday's Australian Senate hearing on rogue AI agents",
+          "summary": "Both companies have declined to appear at the Senate committee hearing on AI on 1 October, days after revelations that an OpenAI agent accessed Australia's Medicare statistics portal without permission. Anthropic says it will send US and Australian executives to parliament instead next week; the committee has been probing the risks of autonomous AI agents.",
+          "sources": [
+            "Reuters",
+            "Sydney Morning Herald",
+            "MLex"
+          ],
+          "source_urls": [
+            "https://www.reuters.com/legal/litigation/anthropic-openai-will-not-attend-australian-senate-ai-hearing-october-1-2026-09-28/",
+            "https://www.smh.com.au/technology/anthropic-boss-to-skip-senate-grilling-into-rogue-ai-agents-20260928-p61107.html",
+            "https://www.mlex.com/mlex/articles/2530487/openai-anthropic-ceos-called-to-australian-senate-inquiry-after-government-hack"
+          ],
+          "slug": "openai-anthropic-skip-senate-hearing-2026-09-29"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Russian drone strike hits Kyiv's National Academy of Sciences — at least 10 killed across Ukraine",
+          "summary": "A Russian drone hit the historic National Academy of Sciences building in central Kyiv on Monday, with at least two killed there, and President Zelensky said nine people died and more than 80 were injured in strikes nationwide. Dnipro's business district and Zaporizhzhia infrastructure were also hit, as Russia widened attacks on economic and civilian targets.",
+          "sources": [
+            "Reuters",
+            "The Guardian",
+            "ABC News"
+          ],
+          "source_urls": [
+            "https://www.reuters.com/world/europe/kyiv-science-academy-hit-russian-jet-drones-strike-across-ukraine-2026-09-28/",
+            "https://www.theguardian.com/world/2026/sep/28/russia-strike-on-kyiv-science-academy-drone-ukraine",
+            "https://www.abc.net.au/news/2026-09-29/ukraine-russia-poland-strikes-scientific-centre/107205900"
+          ],
+          "slug": "kyiv-science-academy-strike-2026-09-29"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Trump open to releasing frozen Iran funds and easing sanctions for concrete nuclear concessions",
+          "summary": "Axios reports the US is willing to offer Iran sanctions relief and help release frozen funds if Tehran makes concrete commitments on its nuclear programme, as Qatar and Pakistan step up mediation in New York. The offer follows Trump's rejection of Iran's seven-day Hormuz reopening plan, with negotiators working on an amended version of that proposal.",
+          "sources": [
+            "India Today (Axios)",
+            "Reuters"
+          ],
+          "source_urls": [
+            "https://www.indiatoday.in/world/us-news/story/trump-to-release-frozen-iran-funds-ease-sanctions-for-concrete-nuclear-concessions-amid-new-york-talks-3005279-2026-09-29",
+            "https://www.reuters.com/world/asia-pacific/us-iran-discuss-phased-deal-reopen-hormuz-end-us-blockade-sources-say-2026-09-24/"
+          ],
+          "slug": "trump-iran-funds-nuclear-concessions-2026-09-29"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🚀",
+          "headline": "Starship reaches orbit for the first time on Flight 14, deploying a new generation of Starlinks",
+          "summary": "SpaceX's Starship — the world's largest rocket — entered a sustained orbit on Monday for the first time, deploying 26 Starlink V3 satellites despite an engine issue that briefly put the attempt in doubt. The 10-hour mission, ending with a Pacific splashdown, marks the biggest milestone yet for the most powerful launch vehicle ever built.",
+          "sources": [
+            "Reuters",
+            "Space.com",
+            "UPI",
+            "Forbes"
+          ],
+          "source_urls": [
+            "https://www.reuters.com/business/media-telecom/spacexs-starship-launches-14th-flight-first-headed-orbit-2026-09-28/",
+            "https://www.space.com/news/live/spacex-starship-flight-14-live-updates-sept-28-2026-starship-first-orbital-launch-attempt",
+            "https://www.upi.com/Top_News/US/2026/09/28/spacex-starship-starlink-launch-reaches-orbit/9971790604345/",
+            "https://www.forbes.com/sites/jamiecartereurope/2026/09/28/spacexs-starship-reaches-orbit-for-first-time-in-historic-flight-14/"
+          ],
+          "slug": "starship-flight-14-orbit-success-2026-09-29"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "Coffee may change your gut microbes — and through them, your brain and mood",
+          "summary": "A University College Cork study in Nature Communications finds coffee alters the gut microbiome and, independently of caffeine, may influence mood, stress, memory and attention via the gut-brain axis. Both regular and decaffeinated coffee produced the effect, pointing to coffee's plant compounds as likely drivers.",
+          "sources": [
+            "ScienceDaily",
+            "Nature Communications"
+          ],
+          "source_urls": [
+            "https://www.sciencedaily.com/releases/2026/09/260927034331.htm",
+            "https://www.nature.com/articles/s41467-026-71264-8"
+          ],
+          "slug": "coffee-gut-brain-microbiome-2026-09-29"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "South Korea says North Korean landmines 'highly likely' caused DMZ blast that injured three soldiers",
+          "summary": "Seoul's military says forensic analysis — including TNT traces and brown synthetic material consistent with North Korean antipersonnel mines — points to Pyongyang's mines as the cause of last Monday's explosion inside the DMZ that injured three South Korean soldiers. The JCS vowed to hold North Korea 'fully' accountable and take corresponding measures.",
+          "sources": [
+            "Yonhap News Agency"
+          ],
+          "source_urls": [
+            "https://en.yna.co.kr/view/AEN20260928011952315"
+          ],
+          "slug": "korea-dmz-landmine-blast-2026-09-29"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Hurricane Nolo, now Category 4, moves away from Hawaii and begins to weaken",
+          "summary": "Hawaii's emergency agency says Nolo's centre is now well southwest of the islands and the storm is weakening, though it remains a Category 4 hurricane. The state is still tallying flooding and damage from earlier in the storm's pass, with more rain possible on the Big Island even as the threat recedes.",
+          "sources": [
+            "Hawaii EMA",
+            "AccuWeather",
+            "New York Times"
+          ],
+          "source_urls": [
+            "https://dod.hawaii.gov/hiema/tropical-storm-nolo-updates/",
+            "https://www.accuweather.com/en/hurricane/hurricane-nolo-becomes-major-category-4-hurricane-making-close-pass-of-hawaii/1937455",
+            "https://www.nytimes.com/live/2026/09/25/weather/hurricane-nolo-hawaii"
+          ],
+          "slug": "hurricane-nolo-cat4-passes-hawaii-2026-09-29"
+        }
+      ]
+    },
+    {
       "date": "2026-09-28",
       "stories": [
         {
