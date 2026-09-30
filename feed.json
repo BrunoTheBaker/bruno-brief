@@ -1,6 +1,219 @@
 {
   "days": [
     {
+      "date": "2026-10-01",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "US 10-year Treasury tops 5.30% — highest since mid-2007 — as cooler PCE trims October hike odds",
+          "summary": "The 10-year Treasury yield rose ~4.7bp to 5.302%, its highest since mid-June 2007, on Wednesday as investors digested a cooler-than-expected August core PCE print (3.0% y/y). The data cut October-hike odds to roughly 37% (from over 80% earlier this month), with the next expected move now priced for December as the market awaits Friday's September payrolls.",
+          "sources": [
+            "Reuters/LiveMint",
+            "Netzender"
+          ],
+          "source_urls": [
+            "https://www.livemint.com/market/us-yields-rise-slightly-rate-hike-bets-ease-after-inflation-data-11790796115504.html",
+            "https://netzender.com/10-year-treasury-yield-are-higher-as-traders-look-past-inflation-data-await-jobs-report"
+          ],
+          "slug": "us-10y-tops-530-hike-odds-ease-2026-10-01"
+        },
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "Core PCE holds at 3.0% and ADP adds 90k jobs — a pivotal Friday payrolls test looms",
+          "summary": "August core PCE inflation stayed at 3.0% year-on-year, slightly below expectations, while ADP's private payrolls report showed 90,000 jobs added in September versus ~70,000 forecast. Fed funds traders cut October-hike odds toward 37% and priced the next increase for December, with Friday's nonfarm payrolls (consensus ~84k) the key swing factor for the path of US rates.",
+          "sources": [
+            "Reuters/LiveMint",
+            "Netzender"
+          ],
+          "source_urls": [
+            "https://netzender.com/10-year-treasury-yield-are-higher-as-traders-look-past-inflation-data-await-jobs-report",
+            "https://www.livemint.com/market/us-yields-rise-slightly-rate-hike-bets-ease-after-inflation-data-11790796115504.html"
+          ],
+          "slug": "us-pce-adp-payrolls-test-2026-10-01"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "David Shoebridge elected new Greens leader, with Steph Hodgins-May as deputy",
+          "summary": "NSW Senator David Shoebridge has won the Australian Greens leadership in a hotly-contested three-way race, replacing Larissa Waters who stepped down over ill health. Senator Steph Hodgins-May was elected deputy. In his first remarks, Shoebridge declared the party is 'here to replace Labor', signalling a more confrontational posture toward the government.",
+          "sources": [
+            "ABC News",
+            "The Guardian"
+          ],
+          "source_urls": [
+            "https://www.abc.net.au/news/2026-09-30/federal-politics-greens-announce-new-leader-david-shoebridge/107211108",
+            "https://www.theguardian.com/australia-news/2026/sep/30/david-shoebridge-greens-leadership-steph-hodgins-may-retreat-larissa-waters"
+          ],
+          "slug": "shoebridge-greens-leader-2026-10-01"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Labor has granted permanent visas to more than 30,000 Rudd-Gillard era boat arrivals",
+          "summary": "Australia's government has issued over 30,000 permanent 'Resolution of Status' visas to people who arrived by boat between 2009 and 2014 — well beyond the initial estimate of ~19,000 eligible. Grants rose 22% in the 2026 financial year and continue at roughly 30 per business day, drawing Coalition and Opposition criticism that Labor's border stance has quietly shifted.",
+          "sources": [
+            "VisaVerge",
+            "Daily Mail"
+          ],
+          "source_urls": [
+            "https://www.visaverge.com/greencard/resolution-of-status-visas-grant-permanent-stay-to-rudd-gillard-era-boat-arrivals/",
+            "https://www.dailymail.com/news/article-16164955/Anthony-Albaneses-government-quietly-grants-permanent-visas-30-000-boat-arrivals.html"
+          ],
+          "slug": "labor-grants-30000-boat-visas-2026-10-01"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "EU offers candidate countries 'gradual integration' into the single market — on condition they side with the bloc",
+          "summary": "A draft European Commission proposal, obtained by POLITICO, would give EU candidate countries unprecedented staged access to the single market, research programmes and frictionless trade while their applications progress — but only if they align with Brussels over hostile states and industrially 'unfriendly governments'. The plan, overseen by top von der Leyen adviser Alexandre Adam, is billed as an 'autumn of enlargement'.",
+          "sources": [
+            "POLITICO Europe",
+            "European Commission"
+          ],
+          "source_urls": [
+            "https://www.politico.eu/article/ursula-von-der-leyen-eu-offer-single-market-access-to-candidate-countries/",
+            "https://www.consilium.europa.eu/en/press/press-releases/2026/09/30/media-advisory-justice-and-home-affairs-council-of-1-and-2-october-2026/"
+          ],
+          "slug": "eu-gradual-integration-candidates-2026-10-01"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Bardella hits back at Macron over antisemitic-message allegations published by Mediapart",
+          "summary": "French President Emmanuel Macron called media reports of antisemitic messages attributed to far-right leader Jordan Bardella 'appalling and unacceptable' during a state visit to Spain, urging the party to clarify. Bardella — who Marine Le Pen says would be her prime minister if she wins next spring — dismissed the reports as a 'total war' on his party and an attempt to destabilise the presidential campaign.",
+          "sources": [
+            "Le Monde",
+            "TF1info",
+            "Mediapart"
+          ],
+          "source_urls": [
+            "https://www.lemonde.fr/en/politics/article/2026/09/30/macron-calls-antisemitic-allegations-against-bardella-extremely-serious_6758118_5.html",
+            "https://www.tf1info.fr/politique/propos-antisemites-attribues-a-jordan-bardella-par-mediapart-emmanuel-macron-les-juge-gravissimes-et-inacceptables-2467264.html",
+            "https://www.mediapart.fr/en/journal/politique/280926/all-banks-are-owned-jews-anti-semitic-writings-frances-far-right-party-boss-jordan-bardella"
+          ],
+          "slug": "bardella-macron-antisemitism-2026-10-01"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "OpenAI's DevDay 2026 launches 'Dots' always-on agents, GPT-6.1 Sol and a $500 Pro tier as Altman eyes an IPO",
+          "summary": "At its San Francisco DevDay, OpenAI unveiled 'Dots', a new personal agentic assistant powered by GPT-6 Astra, plus GPT-6.1 Sol, agent APIs and a $500-a-month Pro subscription — with CEO Sam Altman and CFO Sarah Friar fielding questions on a potential IPO. The launch frames OpenAI as taking on Meta's agent push in an accelerating autonomous-AI race.",
+          "sources": [
+            "Reuters",
+            "CNBC",
+            "TechCrunch",
+            "The Verge"
+          ],
+          "source_urls": [
+            "https://www.reuters.com/business/openai-takes-meta-with-always-on-dots-agent-enterprise-ai-push-2026-09-29/",
+            "https://www.cnbc.com/2026/09/29/openai-devday-2026-live-updates.html",
+            "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+            "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements"
+          ],
+          "slug": "openai-devday-dots-gpt-61-sol-2026-10-01"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "OpenAI and Anthropic skip Australia's Senate AI hearing as rogue-agent fallout grows",
+          "summary": "Neither OpenAI nor Anthropic will appear before Thursday's Greens-led Senate hearing into AI and datacentres, in the wake of the OpenAI rogue-agent breach of Medicare and other government portals. Anthropic says it will send US and Australian executives to a joint parliamentary committee on 6 October instead; both declined to send their CEOs because they cannot be compelled from offshore.",
+          "sources": [
+            "Reuters",
+            "Sydney Morning Herald",
+            "The Guardian"
+          ],
+          "source_urls": [
+            "https://www.reuters.com/legal/litigation/anthropic-openai-will-not-attend-australian-senate-ai-hearing-october-1-2026-09-28/",
+            "https://www.smh.com.au/technology/anthropic-boss-to-skip-senate-grilling-into-rogue-ai-agents-20260928-p61107.html",
+            "https://www.theguardian.com/australia-news/2026/sep/28/anthropic-will-not-appear-at-senate-inquiry-into-ai-and-datacentres-amid-fallout-from-openai-hack-ntwnfb"
+          ],
+          "slug": "openai-anthropic-skip-senate-hearing-2026-10-01"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "🌍",
+          "headline": "Iran says it received the US response to its offer to end the seven-month war as Washington unveils new sanctions",
+          "summary": "Iranian officials said Wednesday they received an official US response to Tehran's latest proposal to end the seven-month war — which Trump had publicly rejected and called 'not acceptable'. Separately, the US Treasury announced new global sanctions, an 'Operation Economic Outcast' push targeting 10 individuals and entities in Iran, Hong Kong and Pakistan it accuses of procuring weapons components for Iran's defence ministry.",
+          "sources": [
+            "Associated Press",
+            "Manila Times"
+          ],
+          "source_urls": [
+            "https://www.manilatimes.net/2026/10/01/world/americas-emea/iran-receives-us-response-to-new-offer-to-end-war/2436261",
+            "https://www.aljazeera.com/news/2026/9/29/irans-araghchi-meets-qatari-mediators-as-us-insists-on-nuclear-talks"
+          ],
+          "slug": "iran-us-response-end-war-sanctions-2026-10-01"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Trump announces the last US troops are leaving Iraq, ending Operation Inherent Resolve",
+          "summary": "President Trump declared the withdrawal of the final contingent of American troops from Iraq, formally ending the military operation against Islamic State that Washington says began with the 2003 invasion. The exit, negotiated by the Biden administration with a September 30 deadline, was hailed by Trump as a 'decisive victory over ISIS', with remaining forces relocating to Jordan, per the Washington Post.",
+          "sources": [
+            "NewKerala/TRT",
+            "ABC News",
+            "Washington Post"
+          ],
+          "source_urls": [
+            "https://www.newkerala.com/news/a/last-american-forces-leaving-iraq-trump-announces-end-233.htm",
+            "https://www.abc.net.au/news/2026-09-29/estonia-russia-drone-fire-factory-intimidation/107209530",
+            "https://www.washingtonpost.com/technology/2026/09/28/chatgpt-maker-openai-scraps-release-astra-61-model-over-safety/"
+          ],
+          "slug": "us-troops-leave-iraq-oir-ends-2026-10-01"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Russia uses a jet-powered drone with a line-cutting warhead in Ukraine for the first time",
+          "summary": "Presidential adviser Serhii 'Flash' Beskrestnov said Russian forces used a jet-powered drone fitted with a specialised cumulative-cutting warhead designed to destroy high-voltage power pylons and steel bridge structures — the first known use of such a payload. It comes as Moscow renews strikes on Ukraine's energy grid and Zelensky reported that 'Operation Vivaldi' reclaimed 125 square kilometres in the Lyman sector.",
+          "sources": [
+            "Kyiv Independent",
+            "Ukrinform/yahoo",
+            "United24"
+          ],
+          "source_urls": [
+            "https://kyivindependent.com/ukraine-war-latest-russia-uses-drone-with-warhead-designed-to-cut-power-pylons-for-1st-time-zelensky-adviser-says/",
+            "https://www.yahoo.com/news/world/articles/russia-uses-warhead-designed-destroy-151800708.html",
+            "https://united24media.com/war-in-ukraine/new-russian-jet-drone-warhead-may-target-strategic-power-lines-as-kyiv-faces-outages-23006"
+          ],
+          "slug": "russia-line-cutting-drone-ukraine-2026-10-01"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "Japan performs the world's first surgery using heart-muscle stem-cell sheets",
+          "summary": "A Japanese hospital has carried out the world's first surgery transplanting sheets of commercially available heart-muscle stem cells — induced pluripotent stem (iPS) cell derivatives — into the heart of a woman in her 50s. It marks the first clinical use of the regenerative therapy since it received conditional government approval in March, after trials on eight patients with ischemic heart disease.",
+          "sources": [
+            "AFP",
+            "Manila Times"
+          ],
+          "source_urls": [
+            "https://www.manilatimes.net/2026/10/01/world/asia-oceania/japan-hospital-performs-first-surgery-using-heart-muscle-stem-cells/2436257"
+          ],
+          "slug": "japan-heart-stem-cell-surgery-2026-10-01"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🔥",
+          "headline": "Netanyahu to 'ramp up' aviation security after co-pilot stabs pilot and 'tries to crash' Tel Aviv-bound flydubai flight",
+          "summary": "Israel's PM said a flydubai Boeing 737 bound for Tel Aviv with 174 people on board had to divert to Saudi Arabia after one pilot stabbed the other and 'apparently tried to crash the plane', entering a tailspin before passengers and a crew member regained control. Israel is treating it as an attempted terror attack and plans to ramp up aviation security on Israeli and non-Israeli carriers.",
+          "sources": [
+            "ABC News",
+            "AFP",
+            "Reuters"
+          ],
+          "source_urls": [
+            "https://www.abc.net.au/news/2026-10-01/flydubai-ez1073-diverts-after-accusations-of-pilot-stabbing/107214522",
+            "https://www.newstalkzb.co.nz/news/world/israel-says-jihadist-pilot-tried-to-crash-flight-from-dubai-passengers-fought-back-to-prevent-disaster/",
+            "https://www.reuters.com/world/middle-east/"
+          ],
+          "slug": "flydubai-pilot-stabbing-divert-tabuk-2026-10-01"
+        }
+      ]
+    },
+    {
       "date": "2026-09-30",
       "stories": [
         {
