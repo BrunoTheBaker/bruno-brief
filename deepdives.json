@@ -3371,6 +3371,79 @@
           "https://nypost.com/2026/10/01/us-news/rescue-audio-released-after-deadly-catalina-island-helicopter-crash/"
         ]
       }
+    },
+    "2026-10-04": {
+      "us-10y-generational-5p34-2002-high-2026-10-04": {
+        "headline": "10-year Treasury yield hits 5.34% - generational 2002 high",
+        "summary": "The benchmark 10-year U.S. Treasury yield touched 5.34% intraday on Thursday, the highest since 2002, before pulling back to around 5.28% on Friday weak payrolls shock.",
+        "detail": "The U.S. Treasury market has blown through levels not seen in nearly a quarter of a century. The benchmark 10-year note yield touched 5.34% intraday on Thursday, the highest since 2002, before pulling back to around 5.28% on Friday shockingly weak September payrolls print. Over the past five weeks the 10-year has climbed roughly 55 basis points; over the September quarter it rose 87 bps, the sharpest quarterly move since 1994.\n\nWhat is driving the rout is a stack of forces all running at once. The Iran war, now in its seventh month, is keeping oil and shipping costs elevated, and the supply-shock inflation is filtering into broader price gauges. Federal Reserve policymakers are still leaning hawkish, with three FOMC members dissenting in favour of a 25 bps hike at the most recent meeting even as markets have scaled back odds of an October move to under 20 percent.\n\nAdd a record U.S. deficit, heavy AI-related corporate issuance soaking up the long end, and term-premium repricing, and you get a market where buyers are demanding materially more compensation for locking in for a decade. Yields on highly rated U.S. corporate bonds eclipsed 6 percent this week for the first time since 2023. The big debate on Wall Street, per MissionSquare Yulia Alekseeva, is whether 5 percent is a ceiling or a new floor. Friday soft jobs report briefly hinted at a relief rally, but selling resumed into the close as the bond market continues to digest the fiscal and geopolitical backdrop.",
+        "sources": [
+          "Fox Business",
+          "Morningstar/Dow Jones",
+          "Investing.com"
+        ],
+        "source_urls": [
+          "https://www.foxbusiness.com/economy/bond-yields-hovering-near-multi-year-highs-what-means-your-wallet",
+          "https://www.morningstar.com/news/marketwatch/2026100388/as-treasury-yields-touch-generational-highs-investors-brace-for-the-market-fallout",
+          "https://www.investing.com/analysis/what-do-parabolic-treasury-yields-tell-us-200688871"
+        ]
+      },
+      "fortune-bond-vigilantes-30y-5p62-2026-10-04": {
+        "headline": "Bond vigilantes arrive: 30-year at 5.62%, U.S. interest bill now bigger than Medicare or defense",
+        "summary": "Fortune lead op-ed frames the bond rout as bond vigilantes punishing Washington fiscal path. The 30-year closed September at 5.62%, territory last seen in 2002, while the 10-year sits near 5.3%.",
+        "detail": "Fortune lead 3 October op-ed by the Dow Jones editorial board lays out, in unusually blunt terms, what the bond market is now saying about U.S. fiscal policy. The 30-year Treasury yield closed September at 5.62 percent, the highest closing level since 2002. The 10-year sits near 5.3 percent. The arithmetic on the budget side is severe: net interest on the federal debt reached 857 billion dollars in the first nine months of fiscal 2026, more than Washington spent on Medicare or on national defense.\n\nThe piece argues this is not an inflation story. The 30-year breakeven inflation rate, the market long-run inflation forecast, sits near 2.3 percent, which is unremarkable. The 30-year real yield, by contrast, has climbed above 3 percent, the highest level since before the 2008 financial crisis. What has changed is the real price the government has to pay to finance itself; the bond market is asking for more because the supply of paper is growing and the demand is not.\n\nTreasury Secretary Scott Bessent August decision to double buybacks of 10- to 30-year debt provided a single day worth of relief before yields fully reversed. A 4 billion dollar operation cannot move a market measured in trillions, the editorial notes. The piece closes by quoting Evercore Krishna Guha, who observed that the U.S. is not different without limit — a pointed reference to the bond vigilantes playbook. The next move belongs to Congress and the White House, and the cost of waiting is compounding.",
+        "sources": [
+          "Fortune",
+          "Dow Jones Market Data"
+        ],
+        "source_urls": [
+          "https://fortune.com/2026/10/03/bond-market-middle-class-national-debt/",
+          "https://www.cnbc.com/quotes/US10Y"
+        ]
+      },
+      "one-nation-victoria-balance-power-2026-10-04": {
+        "headline": "One Nation could hold the balance of power in Victoria as three-way race tightens",
+        "summary": "ABC analyst Casey Briggs writes that One Nation could finish as kingmaker in Victoria on 28 November.",
+        "detail": "The ABC election analyst Casey Briggs frames the 28 November Victorian state election as the most complicated and unpredictable in modern state history, and the reason sits with One Nation. The party did not contest the 2022 election at all, but cross-house polling aggregates now have it on 23.2 percent of the primary vote — a three-cornered contest between Labor (24.6 percent), the Coalition (28.8 percent) and Pauline Hanson movement, with the Greens on 13.7 percent.\n\nThe numbers matter because the Coalition is leading on a two-party-preferred basis — 53.7 to 46.3 since Premier Ben Carroll replaced Jacinta Allan on 28 July — but a uniform swing of 7.6 points is needed for a majority. The published seat models by BludgerTrack and Poll Bludger have the Coalition on 39 of 88 seats, six short of the line. Where One Nation preferences flow is the lever: moving the assumed flow from 75-25 to 60-40 in One Nation favour takes the Coalition from 53.1 to 49.7 on two-party preferred without a single primary vote shifting.\n\nBriggs flags two structural implications. First, the contest is being watched nationally as a read on how the electorate is fragmenting ahead of the March 2027 federal window opening. A NSW election will be held less than four months after Victoria. Second, even if the Coalition wins government, the make-up of a Wilson-led Coalition may depend on a formal governing agreement with One Nation or on negotiating every bill through a hung parliament. Labor, even in defeat, is trying to keep the result respectable enough to stay competitive in 2030.",
+        "sources": [
+          "ABC News (Casey Briggs)",
+          "Ace Strategies/Plain Politics"
+        ],
+        "source_urls": [
+          "https://www.abc.net.au/news/2026-10-03/victorian-state-election-unpredictable-casey-briggs-analysis/107216078",
+          "https://plainpolitics.com.au/vic/",
+          "https://acestrategies.au/victoria-election-polls-2026/"
+        ]
+      },
+      "albanese-shoebridge-greens-aukus-2026-10-04": {
+        "headline": "Albanese warns new Greens leader Shoebridge: target Labor at your peril",
+        "summary": "PM Anthony Albanese used an AFR interview to caution David Shoebridge, who won the Greens leadership on 30 September, that the party was punished at the last election for targeting Labor rather than the Coalition.",
+        "detail": "Two Australian political stories converged on Saturday. First, the AFR politics page reports PM Anthony Albanese used an interview to caution David Shoebridge — who won the Greens leadership on 30 September with seven votes to Mehreen Faruqi four — that the party was punished at the last election for targeting Labor instead of the conservatives. Albanese is essentially telling the new Greens leader not to repeat Larissa Waters preference-negotiation strategy of 2025.\n\nSecond, The Guardian published a long analysis of how the Virginia-class submarines Australia is buying second-hand under the AUKUS pact are being pitched by U.S. Secretary of Defense Pete Hegseth as the apex predator of the undersea domain. The Guardian piece notes that Australia is set to take three Virginia-class boats from 2032, and raises the question of whether boats designed for American power-projection wars in the Pacific are the right platform for defending Australian waters. The three boats (one new Block VII, two Block IV) are part of the A$368bn AUKUS settlement reached in 2023 under the Biden administration and re-affirmed by Trump and Albanese in October 2025.\n\nThe two stories fit together because the new Greens leader has put AUKUS in his crosshairs. In his first press conference Shoebridge called for renegotiating the security treaty with Washington, scrapping AUKUS and expelling U.S. long-range bombers and nuclear submarines from Australian bases. Albanese AFR comment is best read as a pre-emptive response: he is trying to lock the new Greens leader into a narrative that preference-flow games cost the minor party seats rather than won them influence.\n\nSeparately, The Saturday Paper this weekend is running an investigation into former staffers now lobbying government on AI policy — a story that links to Monday parliamentary hearing in Sydney where OpenAI chief strategy officer Jason Kwon is due to face questions over the Medicare and NSW breaches.",
+        "sources": [
+          "Australian Financial Review",
+          "The Guardian Australia"
+        ],
+        "source_urls": [
+          "https://www.afr.com/politics",
+          "https://www.theguardian.com/australia-news/2026/oct/04/hegseth-apex-predator-nuclear-submarines-right-for-australia-aukus-ntwnfb",
+          "https://www.abc.net.au/news/2026-09-30/federal-politics-greens-announce-new-leader-david-shoebridge/107211108"
+        ]
+      },
+      "france-2027-budget-5pct-deficit-hcfp-2026-10-04": {
+        "headline": "France Lecornu unveils 2027 budget — 5% deficit, 54 billion euros savings, watchdog calls it optimistic",
+        "summary": "PM Sebastien Lecornu minority government presented the 2027 plan on Thursday, targeting a 5.0% deficit (down from 5.4% in 2026) with 54 billion euros of savings.",
+        "detail": "French Prime Minister Sebastien Lecornu presented the 2027 budget on Thursday afternoon, the last before the April 2027 presidential election. The headline target is a deficit of 5.0 percent of GDP next year, down from a projected 5.4 percent in 2026, with 54 billion euros of savings of which 43 billion are new 2027 measures. The package includes a freeze on public-sector wages, capped pension indexation, a freeze on all but the lowest pensions, an extended temporary levy on large companies (worth about 5 billion euros), and a 2.5 billion euros increase in France contribution to the EU budget. Compulsory levies are projected to rise to 44.2 percent of GDP. Net tax revenue in the state budget would increase by 18 billion euros to 375 billion euros.\n\nThe High Council of Public Finances (HCFP), the independent watchdog charged by law with verifying the government fiscal assumptions, gave the plan the cold shoulder the same day. It called the 1 percent growth assumption optimistic — particularly the assumption that surging sovereign borrowing costs will not feed through to corporate and household credit demand. BNP Paribas estimates pensions and healthcare each carry about 6 billion euros of the cuts. Public debt is still seen rising from about 119 percent of GDP now to above 120 percent next year, before a return to the EU 3 percent ceiling is targeted by 2029.\n\nMarket reaction was brutal. The French-German 10-year yield spread briefly topped 130 bps, the widest since 2012; some intraday prints hit 150 bps, per MUFG. France is now funding itself at its most expensive level since 2008. The government will have to sell a record 340 billion euros of debt next year to refinance Covid-era bonds coming due. Lecornu told ministers that reality is catching up with us and urged them not to add instability as the parliamentary process begins. The first vote on the revenue section is on 20 October; full National Assembly debate starts 13 October. The hard deadline is year-end. If parliament cannot agree, the fallback is Article 49.3 (forcing through without a vote), as in previous years.",
+        "sources": [
+          "France 24",
+          "EU Insider",
+          "MUFG Research"
+        ],
+        "source_urls": [
+          "https://www.france24.com/en/france/20261001-french-pm-to-present-belt-tightening-2027-budget-including-frozen-wages-and-new-taxes",
+          "https://www.euinsider.eu/news/france-2027-budget-deficit-5-percent-watchdog-optimistic-2026",
+          "https://www.mufgresearch.com/macro/european-macro-02-october-2026/"
+        ]
+      }
     }
   }
 }
