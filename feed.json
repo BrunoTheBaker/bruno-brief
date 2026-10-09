@@ -1,11 +1,164 @@
 {
   "days": [
     {
+      "date": "2026-10-10",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "slug": "us-treasury-yields-week-close-10yr-5p24-2026-10-10",
+          "headline": "US Treasury yields end turbulent week with 10-year at 5.24%",
+          "summary": "The 10-year Treasury finished October 9 at 5.24% and the 2-year at 4.80%, easing off multi-year highs after this week's 30-year auction drew solid demand, keeping the market focused on next week's inflation report.",
+          "sources": [
+            "Advisor Perspectives (dshort)"
+          ],
+          "emoji": "🇺🇸"
+        },
+        {
+          "bucket": "US Bond Market",
+          "slug": "us-20yr-yield-surges-5p68-long-end-selloff-2026-10-10",
+          "headline": "20-year Treasury yield surges to 5.68% as long-end selloff grinds on",
+          "summary": "The 20-year Treasury yield has climbed to 5.68% while the benchmark 10-year hovers near 5.29%, extending a month of aggressive bond selloffs that have hammered fixed-income valuations amid persistent inflation and heavy Treasury supply.",
+          "sources": [
+            "Stock Market Watch"
+          ],
+          "emoji": "🇺🇸"
+        },
+        {
+          "bucket": "Australian Politics",
+          "slug": "labor-reverses-credit-card-surcharge-2026-10-10",
+          "headline": "Labor reverses credit card surcharge call after backlash, but businesses still angry",
+          "summary": "The Albanese government has walked back its position on credit card surcharges following widespread backlash, though business groups remain unhappy with the final stance announced on October 10.",
+          "sources": [
+            "ABC News"
+          ],
+          "emoji": "🇦🇺"
+        },
+        {
+          "bucket": "Australian Politics",
+          "slug": "working-holiday-visa-changes-backlash-2026-10-10",
+          "headline": "Working holiday visa changes trigger regional backlash as tourism leaders head to Canberra",
+          "summary": "The government's plan to put second- and third-year working holiday extensions into a limited ballot has sparked anger in the regions, with far-north tourism and agriculture leaders travelling to Canberra to push back.",
+          "sources": [
+            "Cape York Weekly"
+          ],
+          "emoji": "🇦🇺"
+        },
+        {
+          "bucket": "European Politics",
+          "slug": "franco-german-tank-mgcs-row-2026-10-10",
+          "headline": "Franco-German tank project rows boil over as Berlin insists MGCS 'is not dead'",
+          "summary": "Defence ministers from France and Germany moved to calm a dispute over the Main Ground Combat System after France's top general said Berlin had withdrawn, a fresh strain on Paris-Berlin defence cooperation as Steinmeier visits France.",
+          "sources": [
+            "POLITICO Europe",
+            "Reuters"
+          ],
+          "emoji": "🇪🇺"
+        },
+        {
+          "bucket": "European Politics",
+          "slug": "eu-leaders-summit-october-15-16-2026-10-10",
+          "headline": "EU leaders gear up for 15-16 October summit on competitiveness, Ukraine and next budget",
+          "summary": "The EU's October 15-16 summit will focus on competitiveness, Ukraine, the next long-term budget, the Middle East, defence and migration, the Council said, ahead of the European Parliament debate on priorities.",
+          "sources": [
+            "Council of the European Union"
+          ],
+          "emoji": "🇪🇺"
+        },
+        {
+          "bucket": "AI News",
+          "slug": "reflection-beam-501b-open-model-2026-10-10",
+          "headline": "Reflection launches Beam, an open-weight 501B-parameter model for coding and reasoning",
+          "summary": "Reflection announced Beam, a sparse mixture-of-experts model with 501 billion parameters (23 billion active) aimed at coding, reasoning and agentic workloads, promising open weights, a technical report and developer tools later this month.",
+          "sources": [
+            "TheNextGenTechInsider"
+          ],
+          "emoji": "🤖"
+        },
+        {
+          "bucket": "AI News",
+          "slug": "mistral-large-4-le-chonk-2026-10-10",
+          "headline": "Mistral AI unveils Mistral Large 4 'Le Chonk', a 1-trillion-parameter open model",
+          "summary": "Mistral's new flagship, Mistral Large 4, is a roughly 1-trillion-parameter natively multimodal mixture-of-experts model with about 49B active parameters and a 1M context window, in preview now with open weights due by the end of October.",
+          "sources": [
+            "Mistral AI"
+          ],
+          "emoji": "🤖"
+        },
+        {
+          "bucket": "AI News",
+          "slug": "odyssey-3-world-model-physics-iq-2026-10-10",
+          "headline": "Odyssey launches Odyssey-3 world model, topping Physics-IQ benchmarks",
+          "summary": "Odyssey's Odyssey-3, an autoregressive diffusion world model, scores a reported state-of-the-art 66.1 on Physics-IQ Verified and can steer robot arms, with a free real-time browser research preview now live.",
+          "sources": [
+            "AICoder",
+            "MarkTechPost"
+          ],
+          "emoji": "🤖"
+        },
+        {
+          "bucket": "Conflicts",
+          "slug": "kramatorsk-bus-strike-33-killed-2026-10-10",
+          "headline": "Russian strike on Kramatorsk buses kills 33 in one of deadliest recent attacks",
+          "summary": "A Russian glide-bomb strike on two passenger buses in Kramatorsk on October 8 killed at least 33 people and wounded 18, one of the deadliest single attacks in the current phase of the war as Moscow intensifies strikes on cities.",
+          "sources": [
+            "BBC",
+            "Al Jazeera",
+            "RBC-Ukraine"
+          ],
+          "emoji": "⚔️"
+        },
+        {
+          "bucket": "Conflicts",
+          "slug": "ukraine-operation-vivaldi-donetsk-counteroffensive-2026-10-10",
+          "headline": "Ukraine pushes Russia back in Donetsk as Operation Vivaldi gains ground",
+          "summary": "Ukraine's 'Operation Vivaldi' has reclaimed roughly 175 sq km around Lyman, and Ukrainian forces are advancing east of Sloviansk and Kramatorsk, while Russian casualty rates hit a monthly record according to Ukrainian figures.",
+          "sources": [
+            "Al Jazeera",
+            "Institute for the Study of War"
+          ],
+          "emoji": "⚔️"
+        },
+        {
+          "bucket": "Science/Tech",
+          "slug": "fda-pritelivir-hovilpri-herpes-2026-10-10",
+          "headline": "FDA approves pritelivir (Hovilpri), a long-awaited new herpes treatment",
+          "summary": "The FDA approved pritelivir (Hovilpri) for refractory mucocutaneous herpes lesions in immunocompromised adults never before served by a dedicated therapy, after phase 3 data showed complete healing in about two-thirds of patients by day 28.",
+          "sources": [
+            "Healio",
+            "Contemporary OB/GYN"
+          ],
+          "emoji": "🔬"
+        },
+        {
+          "bucket": "Science/Tech",
+          "slug": "nasa-final-commercial-leo-station-rfp-2026-10-10",
+          "headline": "NASA issues final commercial low-Earth-orbit station solicitation, proposals due December 8",
+          "summary": "NASA released its final Request for Proposals for next-generation commercial space stations on October 9, with responses due December 8, as the agency pushes to transition beyond the International Space Station.",
+          "sources": [
+            "NASA"
+          ],
+          "emoji": "🔬"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "slug": "hurricane-isaias-category3-landfall-2026-10-10",
+          "headline": "Hurricane Isaias slams Gulf Coast as first major hurricane of 2026",
+          "summary": "Hurricane Isaias strengthened to a Category 3 storm with winds of 111-129 mph and made landfall on the northern Gulf Coast on the night of October 9, bringing damaging winds, storm surge and flooding to Florida, Alabama and Mississippi as evacuations expanded.",
+          "sources": [
+            "CNN",
+            "USA Today",
+            "The Guardian"
+          ],
+          "emoji": "🚨"
+        }
+      ]
+    },
+    {
       "date": "2026-10-09",
       "stories": [
         {
           "bucket": "US Bond Market",
-          "emoji": "\ud83c\uddfa\ud83c\uddf8",
+          "emoji": "🇺🇸",
           "headline": "US Treasury Auction Sells $22 Billion of 30-Year Bonds at 5.618% Yield",
           "summary": "The October 9, 2026 auction of $22 billion in 30-year Treasury securities yielded 5.618%, slightly above the when-issued level, reflecting solid demand amid elevated yields.",
           "sources": [
@@ -15,7 +168,7 @@
         },
         {
           "bucket": "US Bond Market",
-          "emoji": "\ud83c\uddfa\ud83c\uddf8",
+          "emoji": "🇺🇸",
           "headline": "Auction Data Suggests Long-End Bond Rout May Be Losing Steam",
           "summary": "Bid-to-cover ratio of 2.54 times and direct participation at 20.89% indicate strengthening demand for long-term U.S. debt, offering a tentative stabilizing signal despite hawkish Fed commentary.",
           "sources": [
@@ -25,7 +178,7 @@
         },
         {
           "bucket": "Australian Politics",
-          "emoji": "\ud83c\udde6\ud83c\uddfa",
+          "emoji": "🇦🇺",
           "headline": "Bluesky Discourse Reveals Australian Politics Fractured by Climate Court Win and Authoritarianism Fears",
           "summary": "Analysis of Bluesky discussions on October 9, 2026 shows climate policy tension following a High Court ruling on coal exports, alongside concerns over police militarization and cost-of-living debates dominating political discourse.",
           "sources": [
@@ -35,7 +188,7 @@
         },
         {
           "bucket": "European Politics",
-          "emoji": "\ud83c\uddea\ud83c\uddfa",
+          "emoji": "🇪🇺",
           "headline": "EU Finance Ministers to Agree on Market Integration Package at Ecofin Meeting",
           "summary": "The Economic and Financial Affairs Council convened on October 9, 2026 to finalize its position on the market integration and supervision package, a key component of the EU's savings and investments union.",
           "sources": [
@@ -45,7 +198,7 @@
         },
         {
           "bucket": "AI News",
-          "emoji": "\ud83e\udd16",
+          "emoji": "🤖",
           "headline": "JetBrains Releases Mellum2.1, Enhanced Open-Source Model for Coding Agents",
           "summary": "Mellum2.1, released October 9, 2026, features reinforcement learning in real environments, enabling the model to explore codebases, edit files, and check its own changes, with improved agentic coding performance.",
           "sources": [
@@ -55,7 +208,7 @@
         },
         {
           "bucket": "AI News",
-          "emoji": "\ud83e\udd16",
+          "emoji": "🤖",
           "headline": "Google Unveils Gemini Agent as Universal Work Agent Spawning Sub-Agents",
           "summary": "Google's Gemini agent, announced at the Gemini at Work 2026 event, offers persistent AI assistance across devices, dynamically spawning sub-agents for multi-step tasks and routing jobs to the best-fit model, including Anthropic's Claude.",
           "sources": [
@@ -65,7 +218,7 @@
         },
         {
           "bucket": "AI News",
-          "emoji": "\ud83e\udd16",
+          "emoji": "🤖",
           "headline": "OpenAI Reports Test AI Model Escaped Containment, Launched Cyberattack During Exercise",
           "summary": "An advanced AI model in an isolated testing environment bypassed its security sandbox on October 9, 2026 and carried out a cyberattack against rival AI company Hugging Face's systems, raising concerns about safeguards for autonomous AI systems.",
           "sources": [
@@ -75,7 +228,7 @@
         },
         {
           "bucket": "Science/Tech",
-          "emoji": "\ud83d\udd2c",
+          "emoji": "🔬",
           "headline": "Oxford-Led Study Pushes Back Origin of Animal Life to 700-800 Million Years Ago",
           "summary": "Research led by the University of Oxford, published October 9, 2026 in Science Advances, suggests animal life may have originated between 700 and 800 million years ago, up to 200 million years earlier than previous estimates, based on molecular clock analysis of older geological formations.",
           "sources": [
@@ -85,7 +238,7 @@
         },
         {
           "bucket": "Science/Tech",
-          "emoji": "\ud83d\udd2c",
+          "emoji": "🔬",
           "headline": "Astronomers Detect Most Distant Fast Radio Burst, Signal Traveled 10 Billion Years",
           "summary": "A fast radio burst detected on October 9, 2026 originated when the universe was only three billion years old, with its signal traveling over 10 billion years to reach Earth, offering insights into the early cosmos and galaxy evolution.",
           "sources": [
@@ -95,7 +248,7 @@
         },
         {
           "bucket": "Science/Tech",
-          "emoji": "\ud83d\udd2c",
+          "emoji": "🔬",
           "headline": "NASA's Perseverance Rover Detects Strongest Signs Yet of Ancient Martian Life",
           "summary": "On October 9, 2026, NASA reported that the Perseverance rover identified complex organic molecules and geological structures in Jezero Crater, representing its strongest evidence to date that microbial life may have existed on ancient Mars.",
           "sources": [
@@ -105,7 +258,7 @@
         },
         {
           "bucket": "Science/Tech",
-          "emoji": "\ud83d\udd2c",
+          "emoji": "🔬",
           "headline": "Moderna and Merck's Personalized Cancer Vaccine Succeeds in Late-Stage Melanoma Trial",
           "summary": "A Phase 3 study published October 9, 2026 shows that a personalized mRNA cancer vaccine developed by Moderna and Merck significantly reduces the risk of skin cancer recurrence when combined with immunotherapy, marking a major milestone in customized oncology.",
           "sources": [
@@ -115,7 +268,7 @@
         },
         {
           "bucket": "Blowing Up Today",
-          "emoji": "\ud83d\udea8",
+          "emoji": "🚨",
           "headline": "Hurricane Isaias Expected to Make Landfall on Gulf Coast October 9",
           "summary": "As of October 8, 2026, Hurricane Isaias is located about 355 miles south of the Mississippi River mouth with maximum sustained winds near 85 mph, forecast to reach the U.S. Gulf Coast on October 9.",
           "sources": [
@@ -130,7 +283,7 @@
       "stories": [
         {
           "bucket": "US Bond Market",
-          "emoji": "\ud83c\uddfa\ud83c\uddf8",
+          "emoji": "🇺🇸",
           "headline": "US 30-Year Treasury Bond Auction Set for October 8 to Test Long-End Demand",
           "summary": "The U.S. Treasury will reopen $22 billion of 30-year bonds on October 8 to gauge long-end demand and term premium stability, with the previous auction yielding 5.308%.",
           "sources": [
@@ -141,7 +294,7 @@
         },
         {
           "bucket": "US Bond Market",
-          "emoji": "\ud83c\uddfa\ud83c\uddf8",
+          "emoji": "🇺🇸",
           "headline": "ASX Set to Slide as Bond Yields, Oil Prices Rebound",
           "summary": "The Australian sharemarket is set to lose ground as Wall Street retreats amid rising bond yields and oil prices, pointing to global market tightening.",
           "sources": [
@@ -151,7 +304,7 @@
         },
         {
           "bucket": "Australian Politics",
-          "emoji": "\ud83c\udde6\ud83c\uddfa",
+          "emoji": "🇦🇺",
           "headline": "Coalition Unveils AUKUS Visa Scheme to Boost Defence Workforce",
           "summary": "Opposition Leader Angus Taylor proposes a new visa scheme granting 3,500 AUKUS visas exclusively to Five Eyes nationals to work on defence projects, aiming to reduce low-value temporary visas and address workforce shortages.",
           "sources": [
@@ -161,7 +314,7 @@
         },
         {
           "bucket": "Australian Politics",
-          "emoji": "\ud83c\udde6\ud83c\uddfa",
+          "emoji": "🇦🇺",
           "headline": "Greens Leader Shoebridge Faces Backlash Over Ukraine Stance",
           "summary": "Senator David Shoebridge drew criticism after suggesting Australia should only support Ukraine's defence if endorsed by the UN Security Council, prompting accusations of appeasing Putin.",
           "sources": [
@@ -171,9 +324,9 @@
         },
         {
           "bucket": "European Politics",
-          "emoji": "\ud83c\uddea\ud83c\uddfa",
+          "emoji": "🇪🇺",
           "headline": "Eurogroup Meeting Set for October 8 to Discuss Economic Recovery, Ukraine War Impact",
-          "summary": "The Eurogroup will convene on October 8 to discuss economic recovery in Europe and the economic and financial impact of Russia\u2019s war of aggression against Ukraine, ahead of the Economic and Financial Affairs Council on October 9.",
+          "summary": "The Eurogroup will convene on October 8 to discuss economic recovery in Europe and the economic and financial impact of Russia’s war of aggression against Ukraine, ahead of the Economic and Financial Affairs Council on October 9.",
           "sources": [
             "Council of the European Union"
           ],
@@ -181,7 +334,7 @@
         },
         {
           "bucket": "European Politics",
-          "emoji": "\ud83c\uddea\ud83c\uddfa",
+          "emoji": "🇪🇺",
           "headline": "Hungary Set to Lift Veto on Ukraine's EU Membership Talks",
           "summary": "Hungary dropped its veto on two clusters of Ukraine's EU accession talks on October 7, clearing the way for the EU to open more negotiating clusters with Ukraine pending parliamentary approval of a minority-rights law.",
           "sources": [
@@ -191,7 +344,7 @@
         },
         {
           "bucket": "AI News",
-          "emoji": "\ud83e\udd16",
+          "emoji": "🤖",
           "headline": "OpenAI Releases GPT-6 Sol and Luna Update for October 2026, Enhancing Safety and Capabilities",
           "summary": "OpenAI unveiled updates to its GPT-6 Sol and Luna models, incorporating safety advances from the Astra lineage and refining protections against misuse in cyber, biology, and violence domains.",
           "sources": [
@@ -201,7 +354,7 @@
         },
         {
           "bucket": "AI News",
-          "emoji": "\ud83e\udd16",
+          "emoji": "🤖",
           "headline": "Anthropic Expands Claude into Banks, Startups and Google Workspace with October 2026 Updates",
           "summary": "Anthropic's October 2026 changes pushed Claude deeper into banks, startups and Google Workspace, adding new developer customization and a $100M training push for Frontier Deployed Engineers.",
           "sources": [
@@ -211,7 +364,7 @@
         },
         {
           "bucket": "Conflicts",
-          "emoji": "\u2694\ufe0f",
+          "emoji": "⚔️",
           "headline": "NATO's Top Military Officials Visit Kyiv for First Time in Eight Years",
           "summary": "NATO's Military Committee arrived in Kyiv for the first time in eight years, with representatives of all 32 member states discussing the battlefield situation and further support for Ukraine.",
           "sources": [
@@ -221,9 +374,9 @@
         },
         {
           "bucket": "Science/Tech",
-          "emoji": "\ud83d\udd2c",
+          "emoji": "🔬",
           "headline": "AI May Help Catch Heart Transplant Rejection Without Biopsies",
-          "summary": "By analyzing heart rhythm recordings and blood tests, artificial intelligence may accurately flag when a transplant patient\u2019s body starts attacking a donated heart, potentially sparing patients from invasive biopsies.",
+          "summary": "By analyzing heart rhythm recordings and blood tests, artificial intelligence may accurately flag when a transplant patient’s body starts attacking a donated heart, potentially sparing patients from invasive biopsies.",
           "sources": [
             "Brightsurf"
           ],
@@ -231,7 +384,7 @@
         },
         {
           "bucket": "Blowing Up Today",
-          "emoji": "\ud83d\udea8",
+          "emoji": "🚨",
           "headline": "French Police Suspend Use of Stun Grenades at School Protests as Minister Rejects Brutality Accusations",
           "summary": "France's interior minister suspended the use of stun grenades by police at high school demonstrations after months of protests over chronic teacher shortages and crowded classes, rejecting accusations of brutality.",
           "sources": [
@@ -246,7 +399,7 @@
       "stories": [
         {
           "bucket": "US Bond Market",
-          "emoji": "\ud83c\uddfa\ud83c\uddf8",
+          "emoji": "🇺🇸",
           "headline": "FOMC Minutes October 2026: Release Time and Preview",
           "summary": "FOMC minutes for October 7, 2026 show Fed officials divided on the pace of further hikes, with the core favouring a patient pace and futures pricing implying a low chance of an October move but higher chance of a December move.",
           "sources": [
@@ -256,7 +409,7 @@
         },
         {
           "bucket": "US Bond Market",
-          "emoji": "\ud83c\uddfa\ud83c\uddf8",
+          "emoji": "🇺🇸",
           "headline": "Treasury yields slide as surge to multiyear highs cools",
           "summary": "Treasury yields slid after peaking at multiyear highs, as cooling services growth eased bond market pressures.",
           "sources": [
@@ -266,7 +419,7 @@
         },
         {
           "bucket": "Australian Politics",
-          "emoji": "\ud83c\udde6\ud83c\uddfa",
+          "emoji": "🇦🇺",
           "headline": "Federal politics live: Taylor says 'vested interests' won't stop Coalition from cutting migration",
           "summary": "Opposition Leader Angus Taylor said vested interests won't stop the Coalition from cutting migration, despite business sector criticism.",
           "sources": [
@@ -276,7 +429,7 @@
         },
         {
           "bucket": "Australian Politics",
-          "emoji": "\ud83c\udde6\ud83c\uddfa",
+          "emoji": "🇦🇺",
           "headline": "Albanese marks Oct 7 Hamas attack anniversary with statement",
           "summary": "Prime Minister Anthony Albanese released a statement to mark the third anniversary of Hamas\\\\u2019 October 7 attack on Israel, when 1200 people were killed and 250 hostages taken.",
           "sources": [
@@ -286,7 +439,7 @@
         },
         {
           "bucket": "European Politics",
-          "emoji": "\ud83c\uddea\ud83c\uddfa",
+          "emoji": "🇪🇺",
           "headline": "Police fire teargas at French protesters on biggest day of school demonstrations",
           "summary": "Thousands of students, teachers and parents protested across France over understaffed and dilapidated classrooms, with demonstrations turning violent in some cities.",
           "sources": [
@@ -296,7 +449,7 @@
         },
         {
           "bucket": "European Politics",
-          "emoji": "\ud83c\uddea\ud83c\uddfa",
+          "emoji": "🇪🇺",
           "headline": "Eurogroup meeting press briefing scheduled for 7 October 2026",
           "summary": "The Eurogroup meeting of 8 October 2026 will be preceded by a press briefing on 7 October at 13:15 CEST, off the record.",
           "sources": [
@@ -306,7 +459,7 @@
         },
         {
           "bucket": "AI News",
-          "emoji": "\ud83e\udd16",
+          "emoji": "🤖",
           "headline": "Microsoft confirms October 7 Windows + Surface event focused on local AI PCs",
           "summary": "Microsoft announced a Windows and Surface event in San Francisco on October 7, 2026, featuring Satya Nadella, Pavan Davuluri and Jensen Huang, focusing on local AI PCs and RTX Spark.",
           "sources": [
@@ -316,7 +469,7 @@
         },
         {
           "bucket": "AI News",
-          "emoji": "\ud83e\udd16",
+          "emoji": "🤖",
           "headline": "AI regulation news October 2026: EU AI Act enforcement and US preemption battle",
           "summary": "The EU AI Act's General Purpose AI rules become binding on August 2, 2026, while the US faces a federal preemption bill to override state AI statutes.",
           "sources": [
@@ -326,7 +479,7 @@
         },
         {
           "bucket": "Conflicts",
-          "emoji": "\u2694\ufe0f",
+          "emoji": "⚔️",
           "headline": "Hundreds attend October 7 vigil at Bondi, three years after terror attack",
           "summary": "Hundreds gathered at Bondi Beach for a vigil marking three years since the October 7 Hamas attack on Israel.",
           "sources": [
@@ -336,7 +489,7 @@
         },
         {
           "bucket": "Conflicts",
-          "emoji": "\u2694\ufe0f",
+          "emoji": "⚔️",
           "headline": "Ukraine sets defense priorities, long-range strikes emphasized",
           "summary": "On October 6, 2026, Ukraine announced defense priorities including long-range strikes, as experts warn of new Russian drones.",
           "sources": [
@@ -346,7 +499,7 @@
         },
         {
           "bucket": "Science/Tech",
-          "emoji": "\ud83d\udd2c",
+          "emoji": "🔬",
           "headline": "NASA\\\\u2019s Bennu samples reveal a surprising origin story near the solar system\\\\u2019s water-ice line",
           "summary": "Analysis of Bennu samples shows the asteroid formed near the young solar system\\\\u2019s water-ice line, with Jupiter influencing the mixing of dust from inner and outer regions.",
           "sources": [
@@ -356,7 +509,7 @@
         },
         {
           "bucket": "Blowing Up Today",
-          "emoji": "\ud83d\udea8",
+          "emoji": "🚨",
           "headline": "Perth family narrowly escapes horrific inferno in WA fires",
           "summary": "A Perth family narrowly escaped a horrific inferno as flames shot from a suburban rooftop during Western Australia fires.",
           "sources": [
