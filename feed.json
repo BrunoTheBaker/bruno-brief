@@ -1,6 +1,131 @@
 {
   "days": [
     {
+      "date": "2026-10-12",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "\ud83c\uddfa\ud83c\uddf8",
+          "headline": "US Treasury yields remain elevated with 10-year at 5.29% and 20-year at 5.68% in October 2026",
+          "summary": "Based on StockMarketWatch's monthly report, the 10-year Treasury yield sits at 5.29% and the 20-year yield at 5.68%, reflecting a steepened yield curve driven by persistent inflation and heavy Treasury supply.",
+          "sources": [
+            "StockMarketWatch"
+          ],
+          "slug": "us-treasury-yields-elevated-october-2026-2026-10-12"
+        },
+        {
+          "bucket": "US Bond Market",
+          "emoji": "\ud83c\uddfa\ud83c\uddf8",
+          "headline": "US Treasury 10-year note auction on October 7 yields 5.30%, bid-to-cover 2.77 times",
+          "summary": "The 10-year Treasury note auction on October 7, 2026, saw $39 billion offered and stopped at a high yield of 5.300%, with a bid-to-cover ratio of 2.77 times, indicating strong demand.",
+          "sources": [
+            "The Vault Report"
+          ],
+          "slug": "us-treasury-10year-auction-october-7-2026-2026-10-12"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "\ud83c\udde6\ud83c\uddfa",
+          "headline": "Australia news LIVE: Digital Duty of Care bill to be introduced this week; Pope Leo to undergo surgery; Josh Frydenberg hints at return to politics",
+          "summary": "Australia news LIVE: Greens to push for changes as Digital Duty of Care to be introduced to parliament this week; Frydenberg hints at political comeback, says Liberals \u2018need to do better\u2019",
+          "sources": [
+            "Sydney Morning Herald"
+          ],
+          "slug": "australia-digital-duty-of-care-bill-october-12-2026-2026-10-12"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "\ud83c\udde6\ud83c\uddfa",
+          "headline": "Greens demand right to sue big tech as Labor prepares online safety laws and trust tax changes",
+          "summary": "Greens push for right to sue big tech as Labor axes ministerial powers",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "greens-sue-big-tech-online-safety-october-12-2026-2026-10-12"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "\ud83c\uddea\ud83c\uddfa",
+          "headline": "EU leaders to gather in Brussels for October 15-16 summit on competitiveness, Ukraine, and budget",
+          "summary": "EU leaders will gather in Brussels to discuss competitiveness, Ukraine, the next Multiannual Financial Framework, Middle East, European defence and security, migration, enlargement and reforms.",
+          "sources": [
+            "Consilium (Council of the European Union)"
+          ],
+          "slug": "eu-leaders-summit-october-15-16-2026-2026-10-12"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "\ud83c\uddea\ud83c\uddfa",
+          "headline": "ECB meeting on October 29, 2026: rates and hike probability",
+          "summary": "The next ECB meeting ends on 29 October 2026. The article discusses the real dates and the data that could shape the rate decision.",
+          "sources": [
+            "Admiral Markets"
+          ],
+          "slug": "ecb-meeting-october-29-2026-2026-10-12"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "\ud83e\udd16",
+          "headline": "Anthropic's October 2026 changes pushed Claude deeper into banks, startups and Google Workspace",
+          "summary": "Anthropic's October 2026 changes pushed Claude, its AI assistant, deeper into banks, startups and Google Workspace while adding new developer customization. The practical stakes are faster enterprise adoption, more hands-on help at work, and a possible November IPO to watch.",
+          "sources": [
+            "AI Tech Model"
+          ],
+          "slug": "anthropic-claude-october-2026-update-2026-10-12"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "\ud83e\udd16",
+          "headline": "Gemini 4 Carbon: Checkpoint Deep Dive & Analysis",
+          "summary": "An internal Google checkpoint called Carbon, spotted inside Google's own coding platform, that one employee reportedly said 'feels like Opus 5.5' for coding. The model is not yet public and remains under testing.",
+          "sources": [
+            "Kie.ai"
+          ],
+          "slug": "gemini-4-carbon-checkpoint-october-12-2026-2026-10-12"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "\u2694\ufe0f",
+          "headline": "Ukraine's drone production jumps 370% in 2026, says defense ministry",
+          "summary": "Ukraine's defense ministry announced on Oct. 11 that it has ordered and received significantly more drones so far in 2026 than it had done for the whole of the previous year. The procurement agency has contracted for 5.5 times as many drones as in the same period of 2025, and the volume of deliveries has increased by almost 3.7 times.",
+          "sources": [
+            "Kyiv Independent"
+          ],
+          "slug": "ukraine-drone-production-jumps-370-percent-2026-2026-10-12"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "\ud83d\udd2c",
+          "headline": "Nobel Prizes for science awarded in 2026: IceCube discovery and optogenetics",
+          "summary": "The 2026 Nobel Prize in physics was awarded to Francis Halzen for the IceCube Neutrino Observatory's discovery of high-energy neutrinos from beyond the solar system. The Nobel Prize in physiology or medicine went to Karl Deisseroth, Peter Hegemann, and Georg Nagel for the creation of optogenetics.",
+          "sources": [
+            "Science News"
+          ],
+          "slug": "nobel-prizes-science-2026-icecup-optogenetics-2026-10-12"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "\ud83d\udd2c",
+          "headline": "OpenAI dumps 722 maths papers on GitHub, now must clean up the mess",
+          "summary": "OpenAI fired an answering volley in the form of 722 maths papers dumped onto the code-sharing website GitHub, the output of a mass campaign against 4000 open problems across a broad range of mathematics. Mathematicians are still digesting the release and are likely to be doing so for some time.",
+          "sources": [
+            "New Scientist"
+          ],
+          "slug": "openai-dumps-722-maths-papers-github-october-12-2026-2026-10-12"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "\ud83d\udea8",
+          "headline": "Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy",
+          "summary": "US President Donald Trump made a surprise announcement of an energy ceasefire between Russia and Ukraine on Sunday that he said was \u201ceffective immediately\u201d, but Ukrainian leader Volodymyr Zelenskiy said he was still waiting to see details of the deal. There was no word from Moscow on the announcement, which followed days of intense pressure from Trump for Ukraine to halt its attacks on Russian oil refineries.",
+          "sources": [
+            "ARY News"
+          ],
+          "slug": "trump-announces-ukraine-russia-energy-ceasefire-october-12-2026-2026-10-12"
+        }
+      ]
+    },
+    {
       "date": "2026-10-11",
       "stories": [
         {
