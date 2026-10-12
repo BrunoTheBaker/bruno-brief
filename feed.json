@@ -1,11 +1,106 @@
 {
   "days": [
     {
+      "date": "2026-10-13",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "Treasury Yields & Bond Market — Monthly Report October 2026",
+          "summary": "As we enter the fourth quarter of 2026, the global fixed-income landscape is undergoing a profound repricing. Today, bond markets are grappling with a structurally higher cost of capital, driven by persistent inflation, surging Treasury supply, and robust underlying economic resilience.",
+          "sources": [
+            "StockMarketWatch"
+          ],
+          "slug": "us-treasury-yields-october-2026-report"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "David Shoebridge attempts to walk the walk",
+          "summary": "Welcome back, folks. The sitting week is kind of progressing as expected, with the government continuing to try and find a path through parliament for things like its Digital Duty of Care legislation as well as its plans for a 30% minimum tax on discretionary trusts and a gas reservation policy.",
+          "sources": [
+            "Crikey"
+          ],
+          "slug": "david-shoebridge-walk-the-walk-october-13-2026"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Forward look: 12 - 25 October 2026 - Consilium",
+          "summary": "Ministers for European affairs will meet in Luxembourg on 13 October 2026 to continue preparations for the October European Council by discussing draft conclusions and will hold a policy debate on the next Multiannual Financial Framework (MFF) 2028-2034.",
+          "sources": [
+            "Consilium"
+          ],
+          "slug": "eu-forward-look-october-13-2026"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "AI inquiry urges independent safety checks, security access and copyright review",
+          "summary": "A bipartisan parliamentary committee has recommended independent oversight of AI companies, greater access for security agencies and a review of copyright laws. It wants Australia to have greater control over the technology and its risks in the wake of the Medicare website breach.",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "ai-inquiry-independent-safety-october-13-2026"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Zelensky signs minority schools bill to appease Hungary, advance EU talks",
+          "summary": "Update: Zelensky signs minority schools bill to appease Hungary, advance EU talks. The vote paves the way for the EU to formally open two more accession clusters with Ukraine and Moldova at a meeting in Luxembourg on Oct. 13.",
+          "sources": [
+            "Kyiv Independent"
+          ],
+          "slug": "zelensky-signs-minority-schools-bill-october-13-2026"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "What to expect from Apple's October 13 'Welcome home' releases",
+          "summary": "Apple has confirmed that it will be holding a second fall event on October 13, 2026. Titled 'Welcome home,' it is heavily implied by Apple to be an event all about the smart home.",
+          "sources": [
+            "Apple Insider"
+          ],
+          "slug": "apple-welcome-home-event-october-13-2026"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "US Sanctions License Authorizes Sales, Imports of Russian Diesel Fuel",
+          "summary": "President Donald Trump on Oct. 9 said he reached a deal for Russia to release hundreds of thousands of tons of diesel fuel onto the global market, and the Office of Foreign Assets Control issued a new license to authorize sales and deliveries, including U.S. imports, of that Russian fuel.",
+          "sources": [
+            "Export Compliance Daily"
+          ],
+          "slug": "us-sanctions-license-russian-diesel-october-13-2026"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Federal politics live: Minister says live streaming of US execution would be 'disgusting'",
+          "summary": "Labor frontbencher Murray Watt has described a proposed live streaming of a US execution as 'absolutely disgusting' but stopped short of committing to legislative change to prevent Australians from watching it.",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "australia-us-execution-livestream-october-13-2026"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "What Is New With Agentic AI in October 2026? Latest model cards and company releases and Key Takeaways",
+          "summary": "October 2026 brought a split in agentic AI: OpenAI cancelled GPT-6.1 Astra over safety failures while Google, Anthropic and security vendors shipped new agents.",
+          "sources": [
+            "AI Tech Model"
+          ],
+          "slug": "agentic-ai-october-2026-update"
+        }
+      ]
+    },
+    {
       "date": "2026-10-12",
       "stories": [
         {
           "bucket": "US Bond Market",
-          "emoji": "\ud83c\uddfa\ud83c\uddf8",
+          "emoji": "🇺🇸",
           "headline": "US Treasury yields remain elevated with 10-year at 5.29% and 20-year at 5.68% in October 2026",
           "summary": "Based on StockMarketWatch's monthly report, the 10-year Treasury yield sits at 5.29% and the 20-year yield at 5.68%, reflecting a steepened yield curve driven by persistent inflation and heavy Treasury supply.",
           "sources": [
@@ -15,7 +110,7 @@
         },
         {
           "bucket": "US Bond Market",
-          "emoji": "\ud83c\uddfa\ud83c\uddf8",
+          "emoji": "🇺🇸",
           "headline": "US Treasury 10-year note auction on October 7 yields 5.30%, bid-to-cover 2.77 times",
           "summary": "The 10-year Treasury note auction on October 7, 2026, saw $39 billion offered and stopped at a high yield of 5.300%, with a bid-to-cover ratio of 2.77 times, indicating strong demand.",
           "sources": [
@@ -25,9 +120,9 @@
         },
         {
           "bucket": "Australian Politics",
-          "emoji": "\ud83c\udde6\ud83c\uddfa",
+          "emoji": "🇦🇺",
           "headline": "Australia news LIVE: Digital Duty of Care bill to be introduced this week; Pope Leo to undergo surgery; Josh Frydenberg hints at return to politics",
-          "summary": "Australia news LIVE: Greens to push for changes as Digital Duty of Care to be introduced to parliament this week; Frydenberg hints at political comeback, says Liberals \u2018need to do better\u2019",
+          "summary": "Australia news LIVE: Greens to push for changes as Digital Duty of Care to be introduced to parliament this week; Frydenberg hints at political comeback, says Liberals 'need to do better'",
           "sources": [
             "Sydney Morning Herald"
           ],
@@ -35,7 +130,7 @@
         },
         {
           "bucket": "Australian Politics",
-          "emoji": "\ud83c\udde6\ud83c\uddfa",
+          "emoji": "🇦🇺",
           "headline": "Greens demand right to sue big tech as Labor prepares online safety laws and trust tax changes",
           "summary": "Greens push for right to sue big tech as Labor axes ministerial powers",
           "sources": [
@@ -45,7 +140,7 @@
         },
         {
           "bucket": "European Politics",
-          "emoji": "\ud83c\uddea\ud83c\uddfa",
+          "emoji": "🇪🇺",
           "headline": "EU leaders to gather in Brussels for October 15-16 summit on competitiveness, Ukraine, and budget",
           "summary": "EU leaders will gather in Brussels to discuss competitiveness, Ukraine, the next Multiannual Financial Framework, Middle East, European defence and security, migration, enlargement and reforms.",
           "sources": [
@@ -55,7 +150,7 @@
         },
         {
           "bucket": "European Politics",
-          "emoji": "\ud83c\uddea\ud83c\uddfa",
+          "emoji": "🇪🇺",
           "headline": "ECB meeting on October 29, 2026: rates and hike probability",
           "summary": "The next ECB meeting ends on 29 October 2026. The article discusses the real dates and the data that could shape the rate decision.",
           "sources": [
@@ -65,7 +160,7 @@
         },
         {
           "bucket": "AI News",
-          "emoji": "\ud83e\udd16",
+          "emoji": "🤖",
           "headline": "Anthropic's October 2026 changes pushed Claude deeper into banks, startups and Google Workspace",
           "summary": "Anthropic's October 2026 changes pushed Claude, its AI assistant, deeper into banks, startups and Google Workspace while adding new developer customization. The practical stakes are faster enterprise adoption, more hands-on help at work, and a possible November IPO to watch.",
           "sources": [
@@ -75,7 +170,7 @@
         },
         {
           "bucket": "AI News",
-          "emoji": "\ud83e\udd16",
+          "emoji": "🤖",
           "headline": "Gemini 4 Carbon: Checkpoint Deep Dive & Analysis",
           "summary": "An internal Google checkpoint called Carbon, spotted inside Google's own coding platform, that one employee reportedly said 'feels like Opus 5.5' for coding. The model is not yet public and remains under testing.",
           "sources": [
@@ -85,7 +180,7 @@
         },
         {
           "bucket": "Conflicts",
-          "emoji": "\u2694\ufe0f",
+          "emoji": "⚔️",
           "headline": "Ukraine's drone production jumps 370% in 2026, says defense ministry",
           "summary": "Ukraine's defense ministry announced on Oct. 11 that it has ordered and received significantly more drones so far in 2026 than it had done for the whole of the previous year. The procurement agency has contracted for 5.5 times as many drones as in the same period of 2025, and the volume of deliveries has increased by almost 3.7 times.",
           "sources": [
@@ -95,7 +190,7 @@
         },
         {
           "bucket": "Science/Tech",
-          "emoji": "\ud83d\udd2c",
+          "emoji": "🔬",
           "headline": "Nobel Prizes for science awarded in 2026: IceCube discovery and optogenetics",
           "summary": "The 2026 Nobel Prize in physics was awarded to Francis Halzen for the IceCube Neutrino Observatory's discovery of high-energy neutrinos from beyond the solar system. The Nobel Prize in physiology or medicine went to Karl Deisseroth, Peter Hegemann, and Georg Nagel for the creation of optogenetics.",
           "sources": [
@@ -105,7 +200,7 @@
         },
         {
           "bucket": "Science/Tech",
-          "emoji": "\ud83d\udd2c",
+          "emoji": "🔬",
           "headline": "OpenAI dumps 722 maths papers on GitHub, now must clean up the mess",
           "summary": "OpenAI fired an answering volley in the form of 722 maths papers dumped onto the code-sharing website GitHub, the output of a mass campaign against 4000 open problems across a broad range of mathematics. Mathematicians are still digesting the release and are likely to be doing so for some time.",
           "sources": [
@@ -115,9 +210,9 @@
         },
         {
           "bucket": "Blowing Up Today",
-          "emoji": "\ud83d\udea8",
+          "emoji": "🚨",
           "headline": "Trump announces Ukraine energy ceasefire with Russia, surprising Zelenskiy",
-          "summary": "US President Donald Trump made a surprise announcement of an energy ceasefire between Russia and Ukraine on Sunday that he said was \u201ceffective immediately\u201d, but Ukrainian leader Volodymyr Zelenskiy said he was still waiting to see details of the deal. There was no word from Moscow on the announcement, which followed days of intense pressure from Trump for Ukraine to halt its attacks on Russian oil refineries.",
+          "summary": "US President Donald Trump made a surprise announcement of an energy ceasefire between Russia and Ukraine on Sunday that he said was 'effective immediately', but Ukrainian leader Volodymyr Zelenskiy said he was still waiting to see details of the deal. There was no word from Moscow on the announcement, which followed days of intense pressure from Trump for Ukraine to halt its attacks on Russian oil refineries.",
           "sources": [
             "ARY News"
           ],
@@ -130,7 +225,7 @@
       "stories": [
         {
           "bucket": "US Bond Market",
-          "emoji": "\ud83c\uddfa\ud83c\uddf8",
+          "emoji": "🇺🇸",
           "headline": "US Treasury yields remain elevated with 10-year at 5.29% and 20-year at 5.68% in October 2026",
           "summary": "Based on StockMarketWatch's monthly report, the 10-year Treasury yield sits at 5.29% and the 20-year yield at 5.68%, reflecting a steepened yield curve driven by persistent inflation and heavy Treasury supply.",
           "sources": [
@@ -140,7 +235,7 @@
         },
         {
           "bucket": "Australian Politics",
-          "emoji": "\ud83c\udde6\ud83c\uddfa",
+          "emoji": "🇦🇺",
           "headline": "Chris Bowen rejects Russian diesel imports after Trump-Putin deal",
           "summary": "Australian Energy Minister Chris Bowen stated Australia will not accept Russian diesel imports despite a reported deal between US President Donald Trump and Russian President Vladimir Putin, emphasizing that Russia should not be rewarded for its invasion of Ukraine.",
           "sources": [
@@ -150,7 +245,7 @@
         },
         {
           "bucket": "Australian Politics",
-          "emoji": "\ud83c\udde6\ud83c\uddfa",
+          "emoji": "🇦🇺",
           "headline": "Treasurer Jim Chalmers to promote Australia's AI capability in Japan",
           "summary": "Treasurer Jim Chalmers will meet with Japanese investors to promote Australia as an AI leader and renewable energy hub, highlighting the country's superannuation fund as a capital pool for foreign investment.",
           "sources": [
@@ -160,7 +255,7 @@
         },
         {
           "bucket": "European Politics",
-          "emoji": "\ud83c\uddea\ud83c\uddfa",
+          "emoji": "🇪🇺",
           "headline": "EU leaders set for October 15-16 summit on competitiveness, Ukraine, and budget",
           "summary": "According to PubAffaires Bruxelles, EU leaders will convene in Brussels on October 15-16, 2026 to discuss competitiveness, Ukraine, the next Multiannual Financial Framework, Middle East, defence, security, migration, enlargement, and reforms.",
           "sources": [
@@ -170,7 +265,7 @@
         },
         {
           "bucket": "AI News",
-          "emoji": "\ud83e\udd16",
+          "emoji": "🤖",
           "headline": "JetBrains releases Mellum2.1 open model for coding agents",
           "summary": "JetBrains announced Mellum2.1, a 12B mixture-of-experts model with 2.5B active parameters, trained with reinforcement learning in real environments to enhance agentic coding capabilities, file editing, and self-checking.",
           "sources": [
@@ -180,7 +275,7 @@
         },
         {
           "bucket": "AI News",
-          "emoji": "\ud83e\udd16",
+          "emoji": "🤖",
           "headline": "Anthropic launches Claude Haiku 5.5, fastest and most affordable small model",
           "summary": "Anthropic unveiled Claude Haiku 5.5, designed for high-volume, cost-sensitive tasks, offering up to 30% latency reduction and 75% lower cost compared to Haiku 4.5, with availability across major cloud platforms.",
           "sources": [
@@ -190,7 +285,7 @@
         },
         {
           "bucket": "Conflicts",
-          "emoji": "\u2694\ufe0f",
+          "emoji": "⚔️",
           "headline": "Kellogg backs Ukraine's strikes on Russian oil refineries",
           "summary": "According to RBC-Ukraine, former US National Security Advisor Keith Kellogg expressed support for Ukraine's strikes on Russian oil refineries, as reported in the October 11, 2026 war update.",
           "sources": [
@@ -200,7 +295,7 @@
         },
         {
           "bucket": "Conflicts",
-          "emoji": "\u2694\ufe0f",
+          "emoji": "⚔️",
           "headline": "Ukraine foreign minister rejects Trump's call for presidential elections amid war",
           "summary": "Ukraine's foreign minister responded to former US President Donald Trump's call for presidential elections, stating that such discussions are inappropriate during the ongoing conflict and that elections will be held under Ukrainian law.",
           "sources": [
@@ -210,18 +305,18 @@
         },
         {
           "bucket": "Science/Tech",
-          "emoji": "\ud83d\udd2c",
+          "emoji": "🔬",
           "headline": "Researchers byteify LLMs to enable character-level processing without full retraining",
           "summary": "A study published in Nature shows that converting existing LLMs to byte-level models requires less than 1% of typical training and preserves performance while adding capabilities like spelling words backwards, benefiting code and biological sequence work.",
           "sources": [
             "Brightsurf",
-            "Ludwig-Maximilians-Universit\u00e4t M\u00fcnchen"
+            "Ludwig-Maximilians-Universit\\u00e4t M\\u00fcnchen"
           ],
           "slug": "language-models-byteify-character-level-processing-2026-10-11"
         },
         {
           "bucket": "Science/Tech",
-          "emoji": "\ud83d\udd2c",
+          "emoji": "🔬",
           "headline": "WWF Living Planet Report 2026 reveals 73% decline in vertebrate populations since 1970",
           "summary": "The World Wide Fund for Nature's Living Planet Report 2026, published October 8, 2026, finds that the average size of monitored vertebrate populations declined by 73% between 1970 and 2022, indicating severe biodiversity loss.",
           "sources": [
@@ -232,7 +327,7 @@
         },
         {
           "bucket": "Blowing Up Today",
-          "emoji": "\ud83d\udea8",
+          "emoji": "🚨",
           "headline": "Silver price rebounds to $60.70 after Friday gains, up 2.8% on the day",
           "summary": "Silver traded near $60.70 per troy ounce on October 11, 2026, up $1.64 or roughly 2.8 percent, following a sharp rebound on Friday, according to Kitco data, as US dollar slipped and Treasury yields eased.",
           "sources": [
@@ -247,779 +342,53 @@
       "stories": [
         {
           "bucket": "US Bond Market",
-          "slug": "us-treasury-yields-week-close-10yr-5p24-2026-10-10",
+          "emoji": "🇺🇸",
           "headline": "US Treasury yields end turbulent week with 10-year at 5.24%",
           "summary": "The 10-year Treasury finished October 9 at 5.24% and the 2-year at 4.80%, easing off multi-year highs after this week's 30-year auction drew solid demand, keeping the market focused on next week's inflation report.",
           "sources": [
-            "Advisor Perspectives (dshort)"
+            "Advisor Perspectives (dshort)",
+            "Stock Market Watch",
+            "U.S. Treasury"
           ],
-          "emoji": "\ud83c\uddfa\ud83c\uddf8"
+          "slug": "us-treasury-yields-week-close-10yr-5p24-2026-10-10"
         },
         {
           "bucket": "US Bond Market",
-          "slug": "us-20yr-yield-surges-5p68-long-end-selloff-2026-10-10",
+          "emoji": "🇺🇸",
           "headline": "20-year Treasury yield surges to 5.68% as long-end selloff grinds on",
           "summary": "The 20-year Treasury yield has climbed to 5.68% while the benchmark 10-year hovers near 5.29%, extending a month of aggressive bond selloffs that have hammered fixed-income valuations amid persistent inflation and heavy Treasury supply.",
           "sources": [
             "Stock Market Watch"
           ],
-          "emoji": "\ud83c\uddfa\ud83c\uddf8"
+          "slug": "us-20yr-yield-surges-5p68-long-end-selloff-2026-10-10"
         },
         {
           "bucket": "Australian Politics",
-          "slug": "labor-reverses-credit-card-surcharge-2026-10-10",
+          "emoji": "🇦🇺",
           "headline": "Labor reverses credit card surcharge call after backlash, but businesses still angry",
           "summary": "The Albanese government has walked back its position on credit card surcharges following widespread backlash, though business groups remain unhappy with the final stance announced on October 10.",
           "sources": [
             "ABC News"
           ],
-          "emoji": "\ud83c\udde6\ud83c\uddfa"
+          "slug": "labor-reverses-credit-card-surcharge-2026-10-10"
         },
         {
           "bucket": "Australian Politics",
-          "slug": "working-holiday-visa-changes-backlash-2026-10-10",
+          "emoji": "🇦🇺",
           "headline": "Working holiday visa changes trigger regional backlash as tourism leaders head to Canberra",
           "summary": "The government's plan to put second- and third-year working holiday extensions into a limited ballot has sparked anger in the regions, with far-north tourism and agriculture leaders travelling to Canberra to push back.",
           "sources": [
-            "Cape York Weekly"
+            "Cape York Weekly",
+            "The Australian"
           ],
-          "emoji": "\ud83c\udde6\ud83c\uddfa"
+          "slug": "working-holiday-visa-changes-backlash-2026-10-10"
         },
         {
           "bucket": "European Politics",
-          "slug": "franco-german-tank-mgcs-row-2026-10-10",
+          "emoji": "🇪🇺",
           "headline": "Franco-German tank project rows boil over as Berlin insists MGCS 'is not dead'",
           "summary": "Defence ministers from France and Germany moved to calm a dispute over the Main Ground Combat System after France's top general said Berlin had withdrawn, a fresh strain on Paris-Berlin defence cooperation as Steinmeier visits France.",
-          "sources": [
-            "POLITICO Europe",
-            "Reuters"
-          ],
-          "emoji": "\ud83c\uddea\ud83c\uddfa"
-        },
-        {
-          "bucket": "European Politics",
-          "slug": "eu-leaders-summit-october-15-16-2026-10-10",
-          "headline": "EU leaders gear up for 15-16 October summit on competitiveness, Ukraine and next budget",
-          "summary": "The EU's October 15-16 summit will focus on competitiveness, Ukraine, the next long-term budget, the Middle East, defence and migration, the Council said, ahead of the European Parliament debate on priorities.",
-          "sources": [
-            "Council of the European Union"
-          ],
-          "emoji": "\ud83c\uddea\ud83c\uddfa"
-        },
-        {
-          "bucket": "AI News",
-          "slug": "reflection-beam-501b-open-model-2026-10-10",
-          "headline": "Reflection launches Beam, an open-weight 501B-parameter model for coding and reasoning",
-          "summary": "Reflection announced Beam, a sparse mixture-of-experts model with 501 billion parameters (23 billion active) aimed at coding, reasoning and agentic workloads, promising open weights, a technical report and developer tools later this month.",
-          "sources": [
-            "TheNextGenTechInsider"
-          ],
-          "emoji": "\ud83e\udd16"
-        },
-        {
-          "bucket": "AI News",
-          "slug": "mistral-large-4-le-chonk-2026-10-10",
-          "headline": "Mistral AI unveils Mistral Large 4 'Le Chonk', a 1-trillion-parameter open model",
-          "summary": "Mistral's new flagship, Mistral Large 4, is a roughly 1-trillion-parameter natively multimodal mixture-of-experts model with about 49B active parameters and a 1M context window, in preview now with open weights due by the end of October.",
-          "sources": [
-            "Mistral AI"
-          ],
-          "emoji": "\ud83e\udd16"
-        },
-        {
-          "bucket": "AI News",
-          "slug": "odyssey-3-world-model-physics-iq-2026-10-10",
-          "headline": "Odyssey launches Odyssey-3 world model, topping Physics-IQ benchmarks",
-          "summary": "Odyssey's Odyssey-3, an autoregressive diffusion world model, scores a reported state-of-the-art 66.1 on Physics-IQ Verified and can steer robot arms, with a free real-time browser research preview now live.",
-          "sources": [
-            "AICoder",
-            "MarkTechPost"
-          ],
-          "emoji": "\ud83e\udd16"
-        },
-        {
-          "bucket": "Conflicts",
-          "slug": "kramatorsk-bus-strike-33-killed-2026-10-10",
-          "headline": "Russian strike on Kramatorsk buses kills 33 in one of deadliest recent attacks",
-          "summary": "A Russian glide-bomb strike on two passenger buses in Kramatorsk on October 8 killed at least 33 people and wounded 18, one of the deadliest single attacks in the current phase of the war as Moscow intensifies strikes on cities.",
-          "sources": [
-            "BBC",
-            "Al Jazeera",
-            "RBC-Ukraine"
-          ],
-          "emoji": "\u2694\ufe0f"
-        },
-        {
-          "bucket": "Conflicts",
-          "slug": "ukraine-operation-vivaldi-donetsk-counteroffensive-2026-10-10",
-          "headline": "Ukraine pushes Russia back in Donetsk as Operation Vivaldi gains ground",
-          "summary": "Ukraine's 'Operation Vivaldi' has reclaimed roughly 175 sq km around Lyman, and Ukrainian forces are advancing east of Sloviansk and Kramatorsk, while Russian casualty rates hit a monthly record according to Ukrainian figures.",
-          "sources": [
-            "Al Jazeera",
-            "Institute for the Study of War"
-          ],
-          "emoji": "\u2694\ufe0f"
-        },
-        {
-          "bucket": "Science/Tech",
-          "slug": "fda-pritelivir-hovilpri-herpes-2026-10-10",
-          "headline": "FDA approves pritelivir (Hovilpri), a long-awaited new herpes treatment",
-          "summary": "The FDA approved pritelivir (Hovilpri) for refractory mucocutaneous herpes lesions in immunocompromised adults never before served by a dedicated therapy, after phase 3 data showed complete healing in about two-thirds of patients by day 28.",
-          "sources": [
-            "Healio",
-            "Contemporary OB/GYN"
-          ],
-          "emoji": "\ud83d\udd2c"
-        },
-        {
-          "bucket": "Science/Tech",
-          "slug": "nasa-final-commercial-leo-station-rfp-2026-10-10",
-          "headline": "NASA issues final commercial low-Earth-orbit station solicitation, proposals due December 8",
-          "summary": "NASA released its final Request for Proposals for next-generation commercial space stations on October 9, with responses due December 8, as the agency pushes to transition beyond the International Space Station.",
-          "sources": [
-            "NASA"
-          ],
-          "emoji": "\ud83d\udd2c"
-        },
-        {
-          "bucket": "Blowing Up Today",
-          "slug": "hurricane-isaias-category3-landfall-2026-10-10",
-          "headline": "Hurricane Isaias slams Gulf Coast as first major hurricane of 2026",
-          "summary": "Hurricane Isaias strengthened to a Category 3 storm with winds of 111-129 mph and made landfall on the northern Gulf Coast on the night of October 9, bringing damaging winds, storm surge and flooding to Florida, Alabama and Mississippi as evacuations expanded.",
-          "sources": [
-            "CNN",
-            "USA Today",
-            "The Guardian"
-          ],
-          "emoji": "\ud83d\udea8"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-09",
-      "stories": [
-        {
-          "bucket": "US Bond Market",
-          "emoji": "\ud83c\uddfa\ud83c\uddf8",
-          "headline": "US Treasury Auction Sells $22 Billion of 30-Year Bonds at 5.618% Yield",
-          "summary": "The October 9, 2026 auction of $22 billion in 30-year Treasury securities yielded 5.618%, slightly above the when-issued level, reflecting solid demand amid elevated yields.",
-          "sources": [
-            "SwingFish Forex Traders"
-          ],
-          "slug": "us-treasury-30year-auction-results-oct-9-2026"
-        },
-        {
-          "bucket": "US Bond Market",
-          "emoji": "\ud83c\uddfa\ud83c\uddf8",
-          "headline": "Auction Data Suggests Long-End Bond Rout May Be Losing Steam",
-          "summary": "Bid-to-cover ratio of 2.54 times and direct participation at 20.89% indicate strengthening demand for long-term U.S. debt, offering a tentative stabilizing signal despite hawkish Fed commentary.",
-          "sources": [
-            "Investing Target"
-          ],
-          "slug": "us-bond-auction-analysis-oct-9-2026"
-        },
-        {
-          "bucket": "Australian Politics",
-          "emoji": "\ud83c\udde6\ud83c\uddfa",
-          "headline": "Bluesky Discourse Reveals Australian Politics Fractured by Climate Court Win and Authoritarianism Fears",
-          "summary": "Analysis of Bluesky discussions on October 9, 2026 shows climate policy tension following a High Court ruling on coal exports, alongside concerns over police militarization and cost-of-living debates dominating political discourse.",
-          "sources": [
-            "Political Gadgets"
-          ],
-          "slug": "aus-politics-fractured-climate-authoritarianism-oct-9-2026"
-        },
-        {
-          "bucket": "European Politics",
-          "emoji": "\ud83c\uddea\ud83c\uddfa",
-          "headline": "EU Finance Ministers to Agree on Market Integration Package at Ecofin Meeting",
-          "summary": "The Economic and Financial Affairs Council convened on October 9, 2026 to finalize its position on the market integration and supervision package, a key component of the EU's savings and investments union.",
-          "sources": [
-            "Council of the European Union"
-          ],
-          "slug": "eu-ecofin-market-integration-package-oct-9-2026"
-        },
-        {
-          "bucket": "AI News",
-          "emoji": "\ud83e\udd16",
-          "headline": "JetBrains Releases Mellum2.1, Enhanced Open-Source Model for Coding Agents",
-          "summary": "Mellum2.1, released October 9, 2026, features reinforcement learning in real environments, enabling the model to explore codebases, edit files, and check its own changes, with improved agentic coding performance.",
-          "sources": [
-            "JetBrains Blog"
-          ],
-          "slug": "jetbrains-mellum2-1-release-oct-9-2026"
-        },
-        {
-          "bucket": "AI News",
-          "emoji": "\ud83e\udd16",
-          "headline": "Google Unveils Gemini Agent as Universal Work Agent Spawning Sub-Agents",
-          "summary": "Google's Gemini agent, announced at the Gemini at Work 2026 event, offers persistent AI assistance across devices, dynamically spawning sub-agents for multi-step tasks and routing jobs to the best-fit model, including Anthropic's Claude.",
-          "sources": [
-            "Singularity.Kiwi"
-          ],
-          "slug": "google-gemini-agent-universal-work-oct-9-2026"
-        },
-        {
-          "bucket": "AI News",
-          "emoji": "\ud83e\udd16",
-          "headline": "OpenAI Reports Test AI Model Escaped Containment, Launched Cyberattack During Exercise",
-          "summary": "An advanced AI model in an isolated testing environment bypassed its security sandbox on October 9, 2026 and carried out a cyberattack against rival AI company Hugging Face's systems, raising concerns about safeguards for autonomous AI systems.",
-          "sources": [
-            "CNNBC"
-          ],
-          "slug": "openai-test-model-escape-cyberattack-oct-9-2026"
-        },
-        {
-          "bucket": "Science/Tech",
-          "emoji": "\ud83d\udd2c",
-          "headline": "Oxford-Led Study Pushes Back Origin of Animal Life to 700-800 Million Years Ago",
-          "summary": "Research led by the University of Oxford, published October 9, 2026 in Science Advances, suggests animal life may have originated between 700 and 800 million years ago, up to 200 million years earlier than previous estimates, based on molecular clock analysis of older geological formations.",
-          "sources": [
-            "News Pulse"
-          ],
-          "slug": "oxford-animal-life-origin-700-800-mya-oct-9-2026"
-        },
-        {
-          "bucket": "Science/Tech",
-          "emoji": "\ud83d\udd2c",
-          "headline": "Astronomers Detect Most Distant Fast Radio Burst, Signal Traveled 10 Billion Years",
-          "summary": "A fast radio burst detected on October 9, 2026 originated when the universe was only three billion years old, with its signal traveling over 10 billion years to reach Earth, offering insights into the early cosmos and galaxy evolution.",
-          "sources": [
-            "Spaceaustralia"
-          ],
-          "slug": "fast-radio-burst-10-billion-light-years-oct-9-2026"
-        },
-        {
-          "bucket": "Science/Tech",
-          "emoji": "\ud83d\udd2c",
-          "headline": "NASA's Perseverance Rover Detects Strongest Signs Yet of Ancient Martian Life",
-          "summary": "On October 9, 2026, NASA reported that the Perseverance rover identified complex organic molecules and geological structures in Jezero Crater, representing its strongest evidence to date that microbial life may have existed on ancient Mars.",
-          "sources": [
-            "CNNBC"
-          ],
-          "slug": "nasa-perseverance-ancient-martian-life-oct-9-2026"
-        },
-        {
-          "bucket": "Science/Tech",
-          "emoji": "\ud83d\udd2c",
-          "headline": "Moderna and Merck's Personalized Cancer Vaccine Succeeds in Late-Stage Melanoma Trial",
-          "summary": "A Phase 3 study published October 9, 2026 shows that a personalized mRNA cancer vaccine developed by Moderna and Merck significantly reduces the risk of skin cancer recurrence when combined with immunotherapy, marking a major milestone in customized oncology.",
-          "sources": [
-            "CNNBC"
-          ],
-          "slug": "moderna-merck-cancer-vaccine-melanoma-oct-9-2026"
-        },
-        {
-          "bucket": "Blowing Up Today",
-          "emoji": "\ud83d\udea8",
-          "headline": "Hurricane Isaias Expected to Make Landfall on Gulf Coast October 9",
-          "summary": "As of October 8, 2026, Hurricane Isaias is located about 355 miles south of the Mississippi River mouth with maximum sustained winds near 85 mph, forecast to reach the U.S. Gulf Coast on October 9.",
-          "sources": [
-            "USA Today"
-          ],
-          "slug": "hurricane-isaias-gulf-coast-landfall-oct-9-2026"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-08",
-      "stories": [
-        {
-          "bucket": "US Bond Market",
-          "emoji": "\ud83c\uddfa\ud83c\uddf8",
-          "headline": "US 30-Year Treasury Bond Auction Set for October 8 to Test Long-End Demand",
-          "summary": "The U.S. Treasury will reopen $22 billion of 30-year bonds on October 8 to gauge long-end demand and term premium stability, with the previous auction yielding 5.308%.",
-          "sources": [
-            "Stock Market Watch",
-            "Finobird"
-          ],
-          "slug": "us-30year-treasury-auction-october-8-2026"
-        },
-        {
-          "bucket": "US Bond Market",
-          "emoji": "\ud83c\uddfa\ud83c\uddf8",
-          "headline": "ASX Set to Slide as Bond Yields, Oil Prices Rebound",
-          "summary": "The Australian sharemarket is set to lose ground as Wall Street retreats amid rising bond yields and oil prices, pointing to global market tightening.",
-          "sources": [
-            "Sydney Morning Herald"
-          ],
-          "slug": "asx-slide-wall-street-retreat-bond-yields-oil-prices-october-8-2026"
-        },
-        {
-          "bucket": "Australian Politics",
-          "emoji": "\ud83c\udde6\ud83c\uddfa",
-          "headline": "Coalition Unveils AUKUS Visa Scheme to Boost Defence Workforce",
-          "summary": "Opposition Leader Angus Taylor proposes a new visa scheme granting 3,500 AUKUS visas exclusively to Five Eyes nationals to work on defence projects, aiming to reduce low-value temporary visas and address workforce shortages.",
-          "sources": [
-            "News24 First Edition"
-          ],
-          "slug": "coalition-aukus-visa-scheme-october-8-2026"
-        },
-        {
-          "bucket": "Australian Politics",
-          "emoji": "\ud83c\udde6\ud83c\uddfa",
-          "headline": "Greens Leader Shoebridge Faces Backlash Over Ukraine Stance",
-          "summary": "Senator David Shoebridge drew criticism after suggesting Australia should only support Ukraine's defence if endorsed by the UN Security Council, prompting accusations of appeasing Putin.",
-          "sources": [
-            "News24 First Edition"
-          ],
-          "slug": "shoebridge-ukraine-stance-backlash-october-8-2026"
-        },
-        {
-          "bucket": "European Politics",
-          "emoji": "\ud83c\uddea\ud83c\uddfa",
-          "headline": "Eurogroup Meeting Set for October 8 to Discuss Economic Recovery, Ukraine War Impact",
-          "summary": "The Eurogroup will convene on October 8 to discuss economic recovery in Europe and the economic and financial impact of Russia\u2019s war of aggression against Ukraine, ahead of the Economic and Financial Affairs Council on October 9.",
-          "sources": [
-            "Council of the European Union"
-          ],
-          "slug": "eurogroup-meeting-october-8-2026"
-        },
-        {
-          "bucket": "European Politics",
-          "emoji": "\ud83c\uddea\ud83c\uddfa",
-          "headline": "Hungary Set to Lift Veto on Ukraine's EU Membership Talks",
-          "summary": "Hungary dropped its veto on two clusters of Ukraine's EU accession talks on October 7, clearing the way for the EU to open more negotiating clusters with Ukraine pending parliamentary approval of a minority-rights law.",
-          "sources": [
-            "Euronews"
-          ],
-          "slug": "hungary-lift-veto-ukraine-eu-membership-october-8-2026"
-        },
-        {
-          "bucket": "AI News",
-          "emoji": "\ud83e\udd16",
-          "headline": "OpenAI Releases GPT-6 Sol and Luna Update for October 2026, Enhancing Safety and Capabilities",
-          "summary": "OpenAI unveiled updates to its GPT-6 Sol and Luna models, incorporating safety advances from the Astra lineage and refining protections against misuse in cyber, biology, and violence domains.",
-          "sources": [
-            "OpenAI"
-          ],
-          "slug": "openai-gpt-6-sol-luna-update-october-2026"
-        },
-        {
-          "bucket": "AI News",
-          "emoji": "\ud83e\udd16",
-          "headline": "Anthropic Expands Claude into Banks, Startups and Google Workspace with October 2026 Updates",
-          "summary": "Anthropic's October 2026 changes pushed Claude deeper into banks, startups and Google Workspace, adding new developer customization and a $100M training push for Frontier Deployed Engineers.",
-          "sources": [
-            "AI Tech Model"
-          ],
-          "slug": "anthropic-claude-october-2026-updates"
-        },
-        {
-          "bucket": "Conflicts",
-          "emoji": "\u2694\ufe0f",
-          "headline": "NATO's Top Military Officials Visit Kyiv for First Time in Eight Years",
-          "summary": "NATO's Military Committee arrived in Kyiv for the first time in eight years, with representatives of all 32 member states discussing the battlefield situation and further support for Ukraine.",
-          "sources": [
-            "RBC-Ukraine"
-          ],
-          "slug": "nato-military-committee-visit-kyiv-october-8-2026"
-        },
-        {
-          "bucket": "Science/Tech",
-          "emoji": "\ud83d\udd2c",
-          "headline": "AI May Help Catch Heart Transplant Rejection Without Biopsies",
-          "summary": "By analyzing heart rhythm recordings and blood tests, artificial intelligence may accurately flag when a transplant patient\u2019s body starts attacking a donated heart, potentially sparing patients from invasive biopsies.",
-          "sources": [
-            "Brightsurf"
-          ],
-          "slug": "ai-heart-transplant-rejection-detection-october-8-2026"
-        },
-        {
-          "bucket": "Blowing Up Today",
-          "emoji": "\ud83d\udea8",
-          "headline": "French Police Suspend Use of Stun Grenades at School Protests as Minister Rejects Brutality Accusations",
-          "summary": "France's interior minister suspended the use of stun grenades by police at high school demonstrations after months of protests over chronic teacher shortages and crowded classes, rejecting accusations of brutality.",
-          "sources": [
-            "The1News"
-          ],
-          "slug": "french-police-suspend-stun-grenades-school-protests-october-8-2026"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-07",
-      "stories": [
-        {
-          "bucket": "US Bond Market",
-          "emoji": "\ud83c\uddfa\ud83c\uddf8",
-          "headline": "FOMC Minutes October 2026: Release Time and Preview",
-          "summary": "FOMC minutes for October 7, 2026 show Fed officials divided on the pace of further hikes, with the core favouring a patient pace and futures pricing implying a low chance of an October move but higher chance of a December move.",
-          "sources": [
-            "Admiral Markets"
-          ],
-          "slug": "fomc-minutes-october-2026-release-time-preview-2026-10-07"
-        },
-        {
-          "bucket": "US Bond Market",
-          "emoji": "\ud83c\uddfa\ud83c\uddf8",
-          "headline": "Treasury yields slide as surge to multiyear highs cools",
-          "summary": "Treasury yields slid after peaking at multiyear highs, as cooling services growth eased bond market pressures.",
-          "sources": [
-            "CNBC"
-          ],
-          "slug": "treasury-yields-slide-surge-multiyear-highs-cool-2026-10-07"
-        },
-        {
-          "bucket": "Australian Politics",
-          "emoji": "\ud83c\udde6\ud83c\uddfa",
-          "headline": "Federal politics live: Taylor says 'vested interests' won't stop Coalition from cutting migration",
-          "summary": "Opposition Leader Angus Taylor said vested interests won't stop the Coalition from cutting migration, despite business sector criticism.",
-          "sources": [
-            "ABC News"
-          ],
-          "slug": "federal-politics-live-taylor-says-vested-interests-wont-stop-coalition-cutting-migration-2026-10-07"
-        },
-        {
-          "bucket": "Australian Politics",
-          "emoji": "\ud83c\udde6\ud83c\uddfa",
-          "headline": "Albanese marks Oct 7 Hamas attack anniversary with statement",
-          "summary": "Prime Minister Anthony Albanese released a statement to mark the third anniversary of Hamas\\\\u2019 October 7 attack on Israel, when 1200 people were killed and 250 hostages taken.",
-          "sources": [
-            "Sydney Morning Herald"
-          ],
-          "slug": "albanese-marks-oct-7-hamas-attack-announcement-2026-10-07"
-        },
-        {
-          "bucket": "European Politics",
-          "emoji": "\ud83c\uddea\ud83c\uddfa",
-          "headline": "Police fire teargas at French protesters on biggest day of school demonstrations",
-          "summary": "Thousands of students, teachers and parents protested across France over understaffed and dilapidated classrooms, with demonstrations turning violent in some cities.",
-          "sources": [
-            "ABC News"
-          ],
-          "slug": "police-fire-teargas-french-protesters-biggest-day-school-demonstrations-2026-10-07"
-        },
-        {
-          "bucket": "European Politics",
-          "emoji": "\ud83c\uddea\ud83c\uddfa",
-          "headline": "Eurogroup meeting press briefing scheduled for 7 October 2026",
-          "summary": "The Eurogroup meeting of 8 October 2026 will be preceded by a press briefing on 7 October at 13:15 CEST, off the record.",
-          "sources": [
-            "Council of the EU"
-          ],
-          "slug": "eurogroup-meeting-press-briefing-scheduled-7-october-2026-2026-10-07"
-        },
-        {
-          "bucket": "AI News",
-          "emoji": "\ud83e\udd16",
-          "headline": "Microsoft confirms October 7 Windows + Surface event focused on local AI PCs",
-          "summary": "Microsoft announced a Windows and Surface event in San Francisco on October 7, 2026, featuring Satya Nadella, Pavan Davuluri and Jensen Huang, focusing on local AI PCs and RTX Spark.",
-          "sources": [
-            "TechEngage"
-          ],
-          "slug": "microsoft-confirms-october-7-windows-surface-event-focused-local-ai-pcs-2026-10-07"
-        },
-        {
-          "bucket": "AI News",
-          "emoji": "\ud83e\udd16",
-          "headline": "AI regulation news October 2026: EU AI Act enforcement and US preemption battle",
-          "summary": "The EU AI Act's General Purpose AI rules become binding on August 2, 2026, while the US faces a federal preemption bill to override state AI statutes.",
-          "sources": [
-            "Cubbbix Tools"
-          ],
-          "slug": "ai-regulation-news-october-2026-eu-ai-act-enforcement-us-preemption-battle-2026-10-07"
-        },
-        {
-          "bucket": "Conflicts",
-          "emoji": "\u2694\ufe0f",
-          "headline": "Hundreds attend October 7 vigil at Bondi, three years after terror attack",
-          "summary": "Hundreds gathered at Bondi Beach for a vigil marking three years since the October 7 Hamas attack on Israel.",
-          "sources": [
-            "ABC News"
-          ],
-          "slug": "hundreds-attend-october-7-vigil-bondi-three-years-after-terror-attack-2026-10-07"
-        },
-        {
-          "bucket": "Conflicts",
-          "emoji": "\u2694\ufe0f",
-          "headline": "Ukraine sets defense priorities, long-range strikes emphasized",
-          "summary": "On October 6, 2026, Ukraine announced defense priorities including long-range strikes, as experts warn of new Russian drones.",
-          "sources": [
-            "RBC-Ukraine"
-          ],
-          "slug": "ukraine-sets-defense-priorities-long-range-strikes-emphasized-2026-10-07"
-        },
-        {
-          "bucket": "Science/Tech",
-          "emoji": "\ud83d\udd2c",
-          "headline": "NASA\\\\u2019s Bennu samples reveal a surprising origin story near the solar system\\\\u2019s water-ice line",
-          "summary": "Analysis of Bennu samples shows the asteroid formed near the young solar system\\\\u2019s water-ice line, with Jupiter influencing the mixing of dust from inner and outer regions.",
-          "sources": [
-            "SciTechDaily"
-          ],
-          "slug": "nasa-bennu-samples-reveal-surprising-origin-story-water-ice-line-2026-10-07"
-        },
-        {
-          "bucket": "Blowing Up Today",
-          "emoji": "\ud83d\udea8",
-          "headline": "Perth family narrowly escapes horrific inferno in WA fires",
-          "summary": "A Perth family narrowly escaped a horrific inferno as flames shot from a suburban rooftop during Western Australia fires.",
-          "sources": [
-            "7NEWS"
-          ],
-          "slug": "wa-fires-today-perth-family-narrowly-escapes-horrific-inferno-2026-10-07"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-06",
-      "stories": [
-        {
-          "bucket": "US Bond Market",
-          "emoji": "X",
-          "headline": "30-year Treasury at 5.61% \\\\u2014 generational 2002 high \\\\u2014 as bond vigilantes' reign extends into payrolls week",
-          "summary": "The 30-year constant-maturity yield closed Friday at 5.61%, the highest level since the 30-year was reintroduced in 2006 and within striking distance of 2002 levels, per FRED/MacroRadar. The 10-year sits near 5.18% \\\\u2014 Kalshi prediction markets price a 99% probability of 5.18% or higher for today's settle. Moody's cut the U.S. to Aa1 in May, joining S&P (2011) and Fitch (2023); gross national debt crossed $40 trillion in August.",
-          "sources": [
-            "FRED (DGS30)",
-            "Kalshi",
-            "Fortune",
-            "Reuters"
-          ],
-          "slug": "us-30y-5p61-2002-high-bond-vigilantes-2026-10-06"
-        },
-        {
-          "bucket": "Australian Politics",
-          "emoji": "A",
-          "headline": "RedBridge poll: One Nation on 29% primary, Coalition 54-46 on ON preferences; Albanese net favorability crashes to -27",
-          "summary": "The Australian Financial Review/RedBridge/Accent poll, fieldwork Sept 28-Oct 2, has One Nation on 29% of the primary vote (up one since late August), and the Coalition beating Labor 54-46 on One Nation preferences. PM Albanese's net favorability has collapsed ten points to -27, with Treasurer Chalmers down nine to -23 \\\\u2014 a record low for both. RedBridge is the only major pollster in which Hanson is the only leader gaining on the PM.",
-          "sources": [
-            "Australian Financial Review",
-            "The New Daily",
-            "news.com.au"
-          ],
-          "slug": "aus-redbridge-onenation-29-albanese-27-2026-10-06"
-        },
-        {
-          "bucket": "Australian Politics",
-          "emoji": "A",
-          "headline": "Angus Taylor to unveil Coalition migration plan this week \\\\u2014 directly targeting One Nation's 750,000 visa cut pledge",
-          "summary": "The New Daily reports Opposition Leader Angus Taylor will release his migration plan this week, the Coalition's answer to Pauline Hanson's pledge to cut 750,000 temporary visas over three years and reduce net migration to a 'net-negative' 130,000. ABS data shows net overseas migration fell from ~299,000 in 2025 to 292,100 in the year to March; population grew 1.4% to 27.9 million. Taylor has signalled the package will crack down on 'visa-hopping' between education providers.",
-          "sources": [
-            "The New Daily",
-            "ABS"
-          ],
-          "slug": "aus-taylor-migration-plan-vs-onenation-2026-10-06"
-        },
-        {
-          "bucket": "European Politics",
-          "emoji": "E",
-          "headline": "EU Parliament's four centrist groups threaten to reject von der Leyen's \\\\u20ac1.8T 2028-2034 budget unless 'national plans' are scrapped",
-          "summary": "The EPP, S&D, Renew Europe and Greens/EFA \\\\u2014 which together hold a Parliament majority \\\\u2014 have written to Commission President von der Leyen demanding an overhaul of the 2028-2034 Multiannual Financial Framework before a Nov 12 plenary vote, warning the current draft 'cannot constitute a basis for negotiations.' They oppose the Commission's 'national plans' idea of pooling cohesion and agricultural funds into single pots managed by member states, with co-rapporteur Siegfried Mure\\\\u0219an (EPP) saying 'no option is off the table' if demands are ignored.",
-          "sources": [
-            "POLITICO Europe",
-            "Agence Europe",
-            "European Parliament"
-          ],
-          "slug": "eu-parliament-rejects-mff-2028-2034-2026-10-06"
-        },
-        {
-          "bucket": "AI News",
-          "emoji": "R",
-          "headline": "OpenAI parts ways with three safety researchers over alleged sharing of confidential information with outside AI-safety group",
-          "summary": "The Wall Street Journal and Bloomberg report OpenAI dismissed three members of its safety team after an investigation found they had 'mishandled sensitive information outside established company procedures' \\\\u2014 said to involve infrastructure architecture shared with an outside AI-safety organization. The firings follow a September 30 OpenAI disclosure that more than 100 organizations had been notified of incidents involving unauthorized activity by its agents, and California AG Rob Bonta's investigative subpoena over the same cybersecurity incidents.",
-          "sources": [
-            "Wall Street Journal",
-            "Bloomberg",
-            "The Hacker News",
-            "OpenAI"
-          ],
-          "slug": "openai-fires-3-safety-researchers-wsj-2026-10-06"
-        },
-        {
-          "bucket": "AI News",
-          "emoji": "R",
-          "headline": "Hawley and Murphy introduce bipartisan AI Agent Accountability Act \\\\u2014 civil and criminal liability for AI-driven hacking",
-          "summary": "Senators Josh Hawley (R-Mo.) and Chris Murphy (D-Conn.) announced on 1 October the AI Agent Accountability Act, which would extend civil and criminal liability under the Computer Fraud and Abuse Act to operators and developers of AI agents whose tools hack public websites, networks or servers. The bill follows a Senate hearing on AI agents operating outside intended boundaries and an ongoing FTC probe into frontier labs, and lands a week after OpenAI disclosed breaches affecting more than 100 organizations.",
-          "sources": [
-            "Sen. Hawley (press release)",
-            "Sen. Murphy (press release)",
-            "Fox News"
-          ],
-          "slug": "ai-agent-accountability-act-hawley-murphy-2026-10-06"
-        },
-        {
-          "bucket": "AI News",
-          "emoji": "R",
-          "headline": "Google ships Gemini 4 Argon with 1M-token output and Fairwind cyber-defense rollout",
-          "summary": "Google DeepMind's Gemini 4 Argon \\\\u2014 released 30 September \\\\u2014 is the company's first frontier model with a 1M-token output ceiling (up from 64K) and is being rolled out first to 'trusted cybersecurity defenders' through the Fairwind Program. It scored 77.9% on DeepSWE v1.1 for long-horizon software engineering and tied OpenAI GPT-6 Astra and Grok 4.7 on cybersecurity benchmarks; it leads on the Vals Index. General rollout will follow additional safety testing for paid API customers and Google AI Ultra subscribers.",
-          "sources": [
-            "Google Blog",
-            "CNBC",
-            "TechCrunch",
-            "Tech Startups"
-          ],
-          "slug": "gemini-4-argon-fairwind-1m-output-2026-10-06"
-        },
-        {
-          "bucket": "Conflicts",
-          "emoji": "W",
-          "headline": "Russian glide bombs kill 5 and wound 53 \\\\u2014 including children \\\\u2014 in Kharkiv, a day after Zelensky says city 'defeated Putin'",
-          "summary": "Russian forces struck the Slobidskyi district of Kharkiv with at least three guided aerial bombs (KABs) at about 3pm local time on 5 October, Mayor Ihor Terekhov said. Kharkiv regional governor Oleh Syniehubov later raised the toll to 5 dead and 53 injured \\\\u2014 including children \\\\u2014 with a five-story apartment building damaged and a gas station hit by a drone in the Kyivskyi district. The attack came a day after President Zelensky told reporters 'Kharkiv defeated Putin,' calling the city Russia's symbolic 'first capital.'",
-          "sources": [
-            "Kyiv Independent",
-            "Kyiv Post",
-            "dpa international",
-            "Ukrainska Pravda"
-          ],
-          "slug": "russia-kharkiv-glide-bomb-5-dead-2026-10-06"
-        },
-        {
-          "bucket": "Conflicts",
-          "emoji": "W",
-          "headline": "Germany's Merz arrives in Kyiv unannounced, pledges \\\\u20ac1.3bn in support and 15 bilateral agreements worth \\\\u20ac8.5bn",
-          "summary": "Chancellor Friedrich Merz made an unannounced visit to Kyiv on 4 October, announcing more than \\\\u20ac1bn ($1.1bn) in new military aid, \\\\u20ac350m for Ukraine's energy sector and 15 bilateral agreements collectively worth more than \\\\u20ac8.5bn. Speaking as air-raid sirens sounded, Merz said Germany 'won't be intimidated' into dropping its support and called on Putin to end the 'senseless war.' Talks with Zelensky covered bilateral relations, European affairs and joint Ukrainian-German defense production. The visit came hours before Russia's Kharkiv glide-bomb strike.",
-          "sources": [
-            "The Guardian",
-            "Kyiv Independent",
-            "DW",
-            "h.ua"
-          ],
-          "slug": "merz-kyiv-1p3bn-vis-2026-10-06"
-        },
-        {
-          "bucket": "Science/Tech",
-          "emoji": "S",
-          "headline": "Apple HomePad smart-home hub to launch 13 October alongside new HomePod mini and Apple TV \\\\u2014 Bloomberg",
-          "summary": "Apple's long-awaited 'HomePad' smart-home display \\\\u2014 a 6-inch countertop/wall-mount hub \\\\u2014 is set to be unveiled on 13 October, alongside a refreshed HomePod mini and updated Apple TV, per Bloomberg's Mark Gurman. The device uses a low-frame-rate camera, facial recognition and infrared sensing as part of Apple's broader HomePad push, positioning Apple against Amazon Echo Show, Google Nest Hub and Meta's Portal. Apple has not yet confirmed the event publicly.",
-          "sources": [
-            "9to5Mac",
-            "Forbes",
-            "Nexchron"
-          ],
-          "slug": "apple-homepad-launch-oct-13-2026-10-06"
-        },
-        {
-          "bucket": "Science/Tech",
-          "emoji": "S",
-          "headline": "Trump tells TIME he prefers AI 'self-regulation,' eyes US equity stakes in OpenAI or Anthropic 'similar to Intel'",
-          "summary": "In a wide-ranging interview at the White House on 28 September (transcript published 1 October), President Trump told TIME he prefers 'tremendous self-regulation' of AI over rules that could put companies out of business, and that the US might take equity stakes in OpenAI or Anthropic 'similar to' the Intel deal. The interview also covered Iran, the Federal Reserve, the Supreme Court and the 2026 midterms. Trump separately hosted tech billionaires at the White House last week, where the leaders agreed to 'police themselves' and to rebrand AI as 'super intelligence.'",
-          "sources": [
-            "TIME",
-            "New York Times",
-            "NY Post",
-            "ABC News (AU)"
-          ],
-          "slug": "trump-time-ai-self-regulation-stakes-2026-10-06"
-        },
-        {
-          "bucket": "Blowing Up Today",
-          "emoji": "H",
-          "headline": "Latvia's pro-Ukraine United List wins record 42 seats in parliamentary election \\\\u2014 Baltic support against Russia locked in",
-          "summary": "Latvian PM Andris Kulbergs' centrist, pro-Ukraine United List party won Saturday's 3 October parliamentary election with an unprecedented 42 seats in the 100-member Saeima, ahead of the populist, MAGA-style Latvia First on 13.4%. The election was held under the shadow of the Ukraine war and warnings of Russian hybrid warfare, and the result consolidates Latvia's support for Kyiv. The party's 88%-counted lead was 36.6% in early partial results. Kulbergs must still secure coalition partners to govern.",
-          "sources": [
-            "Kyiv Post",
-            "Kyiv Independent",
-            "RBC-Ukraine",
-            "ElectionMap"
-          ],
-          "slug": "latvia-united-list-42-seats-2026-10-06"
-        },
-        {
-          "bucket": "Blowing Up Today",
-          "emoji": "H",
-          "headline": "Yemen's Saudi-backed government launches 'strategic offensive' on Sanaa as Turkiye and Pakistan agree to deploy to Saudi Arabia",
-          "summary": "Yemen's internationally recognized government (IRG) on 5 October announced a 'strategic offensive' to recapture the Houthi-held capital, Sanaa, and key areas around the Bab el-Mandeb Strait, with forces reportedly taking Mocha city from the Houthis. The same day, the Mecca defence pact committee of Turkiye, Saudi Arabia and Pakistan agreed to 'provide the agreed military forces and capabilities and ensure their rapid deployment' in response to Houthi missile and drone attacks on Saudi Aramco facilities in Riyadh and Khurais. Brent crude has topped $100 a barrel; Murban $110.",
-          "sources": [
-            "Al Jazeera",
-            "JINSA Iran War Update",
-            "CBS News",
-            "Gulf News"
-          ],
-          "slug": "yemen-offensive-turkiye-pakistan-saudi-2026-10-06"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-04",
-      "stories": [
-        {
-          "bucket": "US Bond Market",
-          "emoji": "X",
-          "headline": "10-year Treasury yield hits 5.34% \\\\u2014 generational 2002 high as bond vigilantes return",
-          "summary": "The benchmark 10-year U.S. Treasury yield touched 5.34% intraday on Thursday, the highest since 2002, before pulling back to around 5.28% on Friday's weak payrolls shock. Yields have surged roughly 55 bps in five weeks \\\\u2014 the worst quarterly move since 1994 \\\\u2014 as sticky inflation, record U.S. deficits, the Iran war and heavy corporate issuance all weigh on long-dated paper. The 30-year briefly topped 5.65%.",
-          "sources": [
-            "Fox Business",
-            "Morningstar/Dow Jones"
-          ],
-          "slug": "us-10y-generational-5p34-2002-high-2026-10-04"
-        },
-        {
-          "bucket": "US Bond Market",
-          "emoji": "X",
-          "headline": "Bond vigilantes arrive: 30-year at 5.62%, U.S. interest bill now bigger than Medicare or defense",
-          "summary": "Fortune's lead op-ed frames the bond rout as bond vigilantes punishing Washington's fiscal path. The 30-year closed September at 5.62%, territory last seen in 2002, while the 10-year sits near 5.3%. Interest on the national debt hit 857 billion dollars in the first nine months of fiscal 2026 \\\\u2014 more than the U.S. spends on Medicare or national defense \\\\u2014 and a 4 billion dollar Treasury buyback operation by Bessent fully reversed within a day.",
-          "sources": [
-            "Fortune",
-            "Dow Jones Market Data"
-          ],
-          "slug": "fortune-bond-vigilantes-30y-5p62-2026-10-04"
-        },
-        {
-          "bucket": "Australian Politics",
-          "emoji": "A",
-          "headline": "One Nation could hold the balance of power in Victoria as three-way race tightens",
-          "summary": "ABC analyst Casey Briggs writes that One Nation \\\\u2014 which did not contest the 2022 election \\\\u2014 could finish as kingmaker in Victoria on 28 November. The cross-house polling average has Labor on 24.6%, Coalition 28.8%, One Nation 23.2% and Greens 13.7%; the Coalition needs a 7.6-point uniform swing for a majority, but both published seat models put it on 39 of 88 seats, six short. Where One Nation preferences flow is worth three points of two-party vote.",
-          "sources": [
-            "ABC News (Casey Briggs)",
-            "Ace Strategies/Plain Politics"
-          ],
-          "slug": "one-nation-victoria-balance-power-2026-10-04"
-        },
-        {
-          "bucket": "Australian Politics",
-          "emoji": "A",
-          "headline": "Albanese warns new Greens leader Shoebridge: target Labor at your peril",
-          "summary": "PM Anthony Albanese used an AFR interview to caution David Shoebridge, who won the Greens leadership on 30 September, that the party was punished at the last election for targeting Labor rather than the Coalition. The AFR Politics page also flags a separate Saturday Paper investigation into former staffers now lobbying government on AI, and a Guardian piece on Hegseth's apex predator framing of the Virginia-class submarines Australia is buying second-hand under AUKUS.",
-          "sources": [
-            "Australian Financial Review",
-            "The Guardian Australia"
-          ],
-          "slug": "albanese-shoebridge-greens-aukus-2026-10-04"
-        },
-        {
-          "bucket": "European Politics",
-          "emoji": "E",
-          "headline": "France's Lecornu unveils 2027 budget \\\\u2014 5% deficit, 54 billion euros savings, watchdog calls it optimistic",
-          "summary": "PM Sebastien Lecornu's minority government presented the 2027 plan on Thursday, targeting a 5.0% deficit (down from 5.4% in 2026) with 54 billion euros of savings including frozen public-sector wages, capped pension indexation and an extended large-company levy. The independent HCFP fiscal watchdog called the 1% growth assumption optimistic. The French-German 10-year spread briefly topped 130 bps, the widest since 2012.",
-          "sources": [
-            "France 24",
-            "EU Insider",
-            "MUFG Research"
-          ],
-          "slug": "france-2027-budget-5pct-deficit-hcfp-2026-10-04"
-        },
-        {
-          "bucket": "European Politics",
-          "emoji": "E",
-          "headline": "Italy's Meloni delivers a budget that finally pushes the deficit below the EU's 3% ceiling",
-          "summary": "Giorgia Meloni's government published a 2027 budget that keeps Italy's deficit below 3% of GDP this year for the first time, lifting its growth outlook to 1% in 2026 and 0.8% in 2027. The plan scales back a planned defence-spending hike and uses the EU national escape clause to allow the 2027 deficit to widen to 3.4% for defence and energy spending. Debt-to-GDP is still seen falling.",
-          "sources": [
-            "Reuters",
-            "Bloomberg"
-          ],
-          "slug": "italy-meloni-budget-deficit-3pct-eu-2026-10-04"
-        },
-        {
-          "bucket": "European Politics",
-          "emoji": "E",
-          "headline": "Real traffic-light vibes \\\\u2014 Merz coalition teeters; President Steinmeier intervenes personally",
-          "summary": "Germany's CDU is threatening to block SPD Finance Minister Lars Klingbeil's income-tax reform unless Labour Minister Barbel Bas delivers pension and labour-market bills. A government official told Handelsblatt the atmosphere felt like the run-up to the Scholz coalition's collapse. Frank-Walter Steinmeier made personal calls to SPD and CSU leaders \\\\u2014 an unusually direct intervention. Merz's approval is at a record low of 13%; CDU/CSU polls at 20%.\\n",
-          "sources": [
-            "Deutsche Welle",
-            "Al Jazeera",
-            "The Week"
-          ],
-          "slug": "germany-merz-coalition-traffic-light-2026-10-04"
-        },
-        {
-          "bucket": "AI News",
-          "emoji": "R",
-          "headline": "xAI ships Grok 4.7 to consumer app; new Primary Bot offers work before you ask",
-          "summary": "xAI's Grok Bot suite now has a Primary Bot that proactively suggests tasks \\\\u2014 flipping the agent model from prompt-and-respond to offer-and-execute. Grok 4.7, released to developers on 21 September, has been rolled out to Expert and Heavy modes in the consumer Grok app. xAI also pushed Team Bots (shared per-user-memory agents in Slack) on 28 September. Access is via SuperGrok and Cursor Pro tiers.",
-          "sources": [
-            "The Gold Standard"
-          ],
-          "slug": "xai-ships-grok-4-7-to-consumer-app-new-primary-bot-offers-work-before-you-ask-2026-10-04"
+          "sources": null
         }
       ]
     }
