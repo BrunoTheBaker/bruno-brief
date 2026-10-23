@@ -1,6 +1,293 @@
 {
   "days": [
     {
+      "date": "2026-10-24",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "10-year Treasury yield falls below 5% as AI-debt fears spark biggest bond rally in years",
+          "summary": "The 10-year yield plunged 19.3 basis points Thursday — its biggest one-day drop since March 2023 — and ended the week just under 5%, as investors fled worries over the huge debt tech giants are taking on for AI build-outs. Oil surging past $100 is now the main inflation counterweight; the Fed meets Oct 28, with markets pricing roughly 71-80% odds of a December hike.",
+          "sources": [
+            "CNBC"
+          ],
+          "slug": "us-10y-treasury-below-5-ai-debt-fears-2026-10-24"
+        },
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "Treasuries head for third weekly drop as battered-bond buyers step back in",
+          "summary": "After the worst long-run return for US government bonds in a century, investors are tentatively buying: Treasurys saw $5.4bn of inflows in a week and BofA's Michael Hartnett declared 'the price is right'. The fault line remains AI hyperscaler debt — CoreWeave's 5-year CDS spread sits at 1,129 (distressed territory) and Gartner warns $3.5tn of AI infrastructure could face impairment by 2030.",
+          "sources": [
+            "Investing.com",
+            "CNBC"
+          ],
+          "slug": "treasuries-third-weekly-drop-buyers-return-2026-10-24"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Snowy 2.0 cost could hit $25 billion — double the last estimate — as Taylor demands Bowen's resignation",
+          "summary": "A major review puts Australia's biggest renewable project at up to $25bn with first power delayed to early 2029, versus the original $2bn budget set seven years ago. Opposition Leader Angus Taylor called for Energy Minister Chris Bowen to resign; Bowen called the blowout a 'geological and engineering fact' and noted the Coalition green-lit the project in 2019.",
+          "sources": [
+            "ABC News",
+            "The Sydney Morning Herald"
+          ],
+          "slug": "snowy-hydro-2-cost-25-billion-blowout-2026-10-24"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Helen Haines 'critical but stable' after double amputation; Parliament security to be stepped up",
+          "summary": "Independent MP Helen Haines remains in hospital after Monday's alleged car attack outside her Wangaratta office, with more than $730,000 raised for Save the Children in her honour. Parliament will introduce extra security screening next week, and Communications Minister Anika Wells' Brisbane office was closed after a separate threat incident.",
+          "sources": [
+            "The Sydney Morning Herald",
+            "news.com.au"
+          ],
+          "slug": "helen-haines-critical-stable-parliament-security-2026-10-24"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "France avoids Moody's downgrade — a reprieve after a week of bond-market turmoil",
+          "summary": "Moody's held France's rating on Friday, easing fears after the country's 10-year yield topped 5% for the first time since 2002 amid street protests, budget gridlock and borrowing costs that briefly overtook even the US. The reprieve leaves the spotlight on the minority government's ability to pass a 2027 budget.",
+          "sources": [
+            "Bloomberg",
+            "Reuters",
+            "The Guardian"
+          ],
+          "slug": "france-avoids-moodys-downgrade-2026-10-24"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "EU weighs 'kill switch' to cut China's market access as €1bn-a-day trade deficit bites",
+          "summary": "Trade chief Maroš Šefčovič says Brussels is walking a tightrope in talks with Beijing, exploring new trade-defence measures after October's hybrid-car quotas did little to close a record deficit. EU leaders have mandated the Commission to develop a 'kill switch' tool to cut off Chinese access to the single market against economic distortions.",
+          "sources": [
+            "Euronews"
+          ],
+          "slug": "eu-china-trade-kill-switch-2026-10-24"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Moonshot releases Kimi K3.1 Pro — and says it de-hacked the open model",
+          "summary": "The Chinese lab's upgraded ~3-trillion-parameter model scores 65.7% on Terminal-Bench 4.0 — ahead of GPT-6 Astra (58.2%), just behind Claude Opus 5.5 (66.4%) — with full weights due by 4 November. Moonshot says it stripped hacking-related training data to limit misuse and cut false claims from 23.4% to 8.3% on its own stress test.",
+          "sources": [
+            "The Next Web"
+          ],
+          "slug": "moonshot-kimi-k3-1-pro-2026-10-24"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Meta's AI spending sends free cash flow negative — and brings a new non-voting share class",
+          "summary": "Meta beat Q3 revenue estimates at $64.6bn (+26%) but free cash flow turned negative at -$2.12bn; full-year capex guidance rose to $135-145bn and the stock fell ~7% with 5-year CDS spreads at all-time highs. The board approved a new non-voting Class C stock (one per A and B share, effective January 2027) to fund the AI build-out without diluting Zuckerberg's control.",
+          "sources": [
+            "CNBC",
+            "Meta Investor Relations"
+          ],
+          "slug": "meta-q3-negative-free-cash-flow-class-c-shares-2026-10-24"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Russia and Ukraine keep trading strikes as trilateral talks head to Abu Dhabi",
+          "summary": "A Russian overnight blitz knocked out power for 500,000+ people even as Putin said Moscow is ready to resume US-mediated talks; Zelensky confirmed negotiators from Ukraine, Russia and the US will meet in Abu Dhabi in the first half of November. The ISW says Ukraine has made a net gain of 241 sq km since September 1, erasing Russia's 2026 territorial gains, while Moscow has used cluster munitions against Kyiv.",
+          "sources": [
+            "CNBC",
+            "Al Jazeera",
+            "Reuters"
+          ],
+          "slug": "russia-ukraine-strikes-abu-dhabi-talks-2026-10-24"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Melania Trump brokers localized ceasefire for humanitarian mission to Russian-held Oleshky",
+          "summary": "Ukraine's ombudsman says a ceasefire covering the Kherson frontline will start days before a humanitarian convoy enters the occupied city of Oleshky to deliver food and medicine and evacuate civilians — the first deal of its kind brokered by the US first lady, acting as 'Exclusive Intermediary'. Russia confirmed the arrangement, which may serve as a model for future missions.",
+          "sources": [
+            "AP News",
+            "The White House"
+          ],
+          "slug": "melania-trump-oleshky-ceasefire-2026-10-24"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Netanyahu orders 'very extensive' West Bank operation after two soldiers killed near Hebron",
+          "summary": "Two Israeli soldiers and two Palestinian gunmen died in an exchange of fire Friday at a checkpoint near Hebron, wounding five others. Netanyahu ordered the military to prepare a sweeping operation and a full closure of the West Bank — days before Israel's general election on Tuesday.",
+          "sources": [
+            "The Guardian",
+            "AP News",
+            "CBS News"
+          ],
+          "slug": "netanyahu-west-bank-operation-hebron-2026-10-24"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🚀",
+          "headline": "Japan's MMX spacecraft is en route to Mars' moon Phobos — first sample-return from the Martian system",
+          "summary": "JAXA's H3 rocket launched the Martian Moons eXploration on Oct 20; it will reach Mars in August 2027, land twice on Phobos, deploy the French-German Idefix rover, and return at least 10 grams of Phobos material to Earth in 2031 — with the sample capsule landing in Australia. The mission could settle whether the moons are captured asteroids or debris from an ancient collision.",
+          "sources": [
+            "Space.com",
+            "ESA",
+            "JAXA"
+          ],
+          "slug": "jaxa-mmx-phobos-sample-return-launch-2026-10-24"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Oil surges past $100 as Houthi attacks on Saudi energy infrastructure rattle markets",
+          "summary": "Brent settled at $116.72 — its highest since April — and WTI jumped 3.8% to $103.27 after fresh Houthi strikes on Saudi facilities revived supply fears, adding an inflation shock to markets already reeling from AI-debt worries. The Iran-backed group has hit Aramco's Dhahran headquarters and Riyadh's airport this month and vows more attacks.",
+          "sources": [
+            "CNBC",
+            "BBC",
+            "AP News"
+          ],
+          "slug": "oil-past-100-houthi-saudi-attacks-2026-10-24"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Gunman kills one and wounds five in Paris suburb shooting — Macron calls it a 'terrorist and racist' attack",
+          "summary": "A gunman fired from a vehicle in Trappes, west of Paris, killing one person and wounding five — including a 12-year-old girl — and a suspect is in custody. French prosecutors are investigating a possible racially motivated terror attack as France braces for another weekend of protests.",
+          "sources": [
+            "Reuters",
+            "CBS News",
+            "ABC News"
+          ],
+          "slug": "paris-suburb-shooting-trappes-2026-10-24"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "Treasury Yields & Bond Market — Monthly Report October 2026",
+          "summary": "As we enter the fourth quarter of 2026, the global fixed-income landscape is undergoing a profound repricing. Today, bond markets are grappling with a structurally higher cost of capital, driven by persistent inflation, surging Treasury supply, and robust underlying economic resilience.",
+          "sources": [
+            "StockMarketWatch"
+          ],
+          "slug": "us-treasury-yields-october-2026-report-2026-10-16"
+        },
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "US Treasury 10-year note auction on October 7 yields 5.30%, bid-to-cover 2.77 times",
+          "summary": "The 10-year Treasury note auction on October 7, 2026, saw $39 billion offered and stopped at a high yield of 5.300%, with a bid-to-cover ratio of 2.77 times, indicating strong demand.",
+          "sources": [
+            "The Vault Report"
+          ],
+          "slug": "us-treasury-10year-auction-october-7-2026-2026-10-16"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Greens leader denies knowledge of ‘secret dossier’ on how to handle Jordon Steele-John misconduct allegations",
+          "summary": "In a statement responding to claims that the federal leader’s office had access to the 47-page document, Shoebridge said it was not “made by, used by, or seen by the leader’s office”.",
+          "sources": [
+            "The Guardian"
+          ],
+          "slug": "greens-leader-denies-secret-dossier-jordon-steele-john-2026-10-16"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "WA Greens kept crisis comms document about Jordon Steele-John",
+          "summary": "The WA Greens maintained a document on how to respond in the event of complaints against Jordon Steele-John being made public, it has been revealed.",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "wa-greens-crisis-document-jordon-steele-john-2026-10-16"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "European Parliament press kit outlines priorities for EU Council summit on 2028-2034 budget, Ukraine, defence",
+          "summary": "The press kit includes MEPs’ key priorities for the European Council meeting, including debates on the proposed new EU multiannual financial framework for 2028‑2034, strengthening Europe’s economic competitiveness, energy prizes, continued support for Ukraine, and Middle East situation.",
+          "sources": [
+            "European Parliament"
+          ],
+          "slug": "eu-parliament-press-kit-council-summit-october-15-16-2026"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Meta releases Muse Spark Open, a new open-weight AI model",
+          "summary": "Meta on Thursday launched a new open-weight AI model which it claims rivals, and in some cases outperforms, similar products from leading Chinese developers. Muse Spark Open is a natively multimodal model with 816B total parameters (42B active) and a 1M-token context window.",
+          "sources": [
+            "The Guardian"
+          ],
+          "slug": "meta-releases-muse-spark-open-ai-model-2026-10-16"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Anthropic replaces Git with in-house Scion after AI coding surge",
+          "summary": "Anthropic migrated its monorepo off Git to a new in-house version control system called Scion in five months, built by a team of seven. Merged code grew from ~2,500/day in May 2026 to over 30,000/day by September.",
+          "sources": [
+            "Anthropic"
+          ],
+          "slug": "anthropic-replaces-git-with-scion-2026-10-16"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "China to supply Russia with drone equipment for deep strikes on Ukraine",
+          "summary": "The Chinese company Shenzhen Xingkai Technology will send mesh modems to Moscow for use in drones, helping them penetrate deep into Ukraine during attacks, according to The Insider. Mesh networks are the most practical technology for controlling Russian long-range drones over Ukraine.",
+          "sources": [
+            "RBC-Ukraine"
+          ],
+          "slug": "china-supplies-russia-drone-equipment-ukraine-2026-10-16"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Ukraine destroys 4 Russian Su-34 bomber jets, damages 2 with Neptune missile, Zelensky says",
+          "summary": "An overnight attack on the Borisoglebsk military airfield in Russia's Voronezh region hit six Su-34M bomber jets, destroying four and damaging two, President Volodymyr Zelensky said on Oct. 15.",
+          "sources": [
+            "Kyiv Independent"
+          ],
+          "slug": "ukraine-destroys-russian-su-34-jets-neptune-missile-2026-10-16"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "These tiny swirls on the sun could trigger solar flares",
+          "summary": "New telescope images show characteristic swirls of magnetized plasma across a 19-kilometer-wide patch of the sun’s surface. The observations, reported August 5 in Nature, are the most detailed taken of the sun to date.",
+          "sources": [
+            "Science News"
+          ],
+          "slug": "tiny-swirls-sun-trigger-solar-flares-2026-10-16"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "Commercial Space Stations 2026: Vast, Axiom, Starlab",
+          "summary": "NASA's Commercial LEO Destinations programme is funding privately operated successors to the ISS, with Vast aiming for its first standalone station in early 2027, Axiom attaching a module to the ISS in 2026, and Starlab targeting ~2029.",
+          "sources": [
+            "Orbital Radar"
+          ],
+          "slug": "commercial-space-stations-2026-vast-axiom-starlab-2026-10-16"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Friday morning news: October 16, 2026 – Oregon school shooting, Ukraine resumes energy strikes, Trump calls off execution livestream, wholesale inflation jumps",
+          "summary": "The news of the day includes multiple children and teacher killed in Oregon school shooting, Ukraine resuming strikes against Russia’s energy sites, President Trump calling off a planned livestream of a mass shooter execution, and U.S. wholesale inflation jumping 6.3% year-on-year in September.",
+          "sources": [
+            "WORLD Radio"
+          ],
+          "slug": "friday-morning-news-october-16-2026-world-radio"
+        }
+      ]
+    },
+    {
       "date": "2026-10-13",
       "stories": [
         {
