@@ -1,6 +1,164 @@
 {
   "days": [
     {
+      "date": "2026-10-25",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "US Treasuries extend rally as Iran strike fears and AI-debt relief push yields lower",
+          "summary": "Long-end Treasury yields fell sharply: the 20-year dropped 14.6bp to 5.434%, the 30-year 14.1bp to 5.385% and the 10-year 13.6bp to ~5.05% intraday, extending the prior week's recovery from a near-5.5% peak. Safe-haven demand was driven by reports the US military has prepared multiple strike options against Iran that can be executed on White House authorization, alongside continued relief over AI-hyperscaler debt worries. The Fed still meets Oct 28.",
+          "sources": [
+            "GMT Eight",
+            "US Treasury"
+          ],
+          "slug": "us-treasury-yields-fall-safehaven-iran-2026-10-25"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Crisafulli marks two years in power, rules out dealing with the One Nation 'juggernaut' as Qld debt nears $216bn",
+          "summary": "Queensland Premier David Crisafulli, at the two-year mark of his LNP government, flatly ruled out any future deal with Pauline Hanson's One Nation, insisting Queensland is 'living and breathing' a unified centre-right government. The admission comes as the state carries a forecast $216bn debt by 2029-30 (up 52%) after last month's credit downgrade, with pollsters warning cost of living and the 2032 Olympics are the big risks to a second term.",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "crisafulli-two-years-one-nation-qld-debt-2026-10-25"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Western Sydney International Airport opens — Australia's first new major airport in over 50 years",
+          "summary": "Western Sydney International Airport (WSI) at Badgerys Creek welcomed its first commercial passengers Sunday, with a sold-out Jetstar flight to the Gold Coast, and will take its inaugural international service to Auckland on Monday. The 24/7 airport, 45km from the CBD, is the first major Australian airport built in more than half a century and two generations in the making, with capacity to grow toward 82 million passengers a year by the 2060s.",
+          "sources": [
+            "ABC News",
+            "The Guardian"
+          ],
+          "slug": "western-sydney-airport-opens-2026-10-25"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Victorian Labor kicks off campaign with $1.5bn pledge to slash emergency wait times",
+          "summary": "Premier Ben Carroll launched Victorian Labor's bid for a fourth term with a $1.5bn commitment to expand a dozen emergency departments by 25% — including the Alfred, Austin, Royal Children's and 10 regional hospitals — and hire 1,500 extra health workers plus 150 beds ahead of the November state election. The Coalition has countered with a $1.3bn plan to cut surgery waits via private-hospital access, framing health as the campaign battleground.",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "victorian-labor-1-5bn-emergency-wait-times-2026-10-25"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "410,000 march across France, hundreds of arrests, as Le Pen launches her presidential campaign",
+          "summary": "Around 410,000 demonstrators turned out across France on Saturday in a largely peaceful wave of protests that turned to tear gas and water cannons in the evening — with close to 1,000 arrests — as about 70,000 police were deployed. The unrest forms the backdrop to Marine Le Pen formally launching her presidential campaign on Sunday, with up to 20,000 expected at the National Rally's congress in Orléans.",
+          "sources": [
+            "Business Standard",
+            "The New York Times",
+            "ABC News"
+          ],
+          "slug": "france-protests-410000-le-pen-campaign-2026-10-25"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Serbia votes Sunday: student-led movement seeks to end Vučić's 14-year rule",
+          "summary": "Hundreds of thousands rallied in Belgrade for the final march of Serbia's student-led movement before Sunday's parliamentary election, bidding to end Aleksandar Vučić's Serbian Progressive Party's 14 years in power — an independent poll suggests the opposition could edge the ruling party out. The movement grew out of the 2024 Novi Sad railway-station canopy collapse that killed 16 people and nearly two years of anti-government protests.",
+          "sources": [
+            "POLITICO",
+            "Rapporteur"
+          ],
+          "slug": "serbia-election-student-movement-vucic-2026-10-25"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Texas AG sues OpenAI and Sam Altman, alleging ChatGPT misled on safety and enabled harm",
+          "summary": "Texas Attorney General Ken Paxton filed suit in Collin County district court on October 23 against OpenAI and CEO Sam Altman, alleging ChatGPT misled consumers about safety, aided mass shooters and encouraged suicide — the latest in a wave of state and federal scrutiny of the AI lab. The claims echo broader 2026 concerns over AI-enabled autonomous hacking and liability for model-caused harm.",
+          "sources": [
+            "AI Weekly"
+          ],
+          "slug": "texas-attorney-general-sues-openai-2026-10-25"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "OpenAI nears up to $30bn raise at a $1.25 trillion valuation",
+          "summary": "OpenAI is close to finalising a funding round of up to $30 billion at a $1.25 trillion pre-money valuation, led by investors from the UAE and Coatue, according to people familiar with the deal. The mega-round, reported by CNBC on October 22, suggests the lab will keep raising privately rather than rushing to an IPO as it races to fund frontier-model scaling.",
+          "sources": [
+            "CNBC",
+            "TechCrunch"
+          ],
+          "slug": "openai-30-billion-round-1-25-trillion-2026-10-25"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Ukraine's Starlink restored after Musk admits SpaceX throttled the service",
+          "summary": "Elon Musk acknowledged SpaceX had slowed Starlink in Ukraine, and Zelensky confirmed access was restored to pre-restriction speeds by Saturday morning after more than a week of disruption that hobbled Ukrainian drone operations and front-line logistics. The episode, coming as Russia's autumn campaign targets Ukraine's power grid, further strained Kyiv–Washington ties alongside the US diesel-sanctions waiver and newly agreed diplomacy.",
+          "sources": [
+            "Australian Financial Review",
+            "AP News",
+            "Al Jazeera"
+          ],
+          "slug": "ukraine-starlink-restored-musk-throttle-2026-10-25"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Russian drone hits apartment in Dnipropetrovsk, killing 3 and injuring 12, as energy war intensifies",
+          "summary": "A Russian drone struck a residential building in Synelnykove, Dnipropetrovsk Oblast, killing three civilians (including an 11-year-old girl) and wounding at least 12 on Oct 24, Governor Oleksandr Hanzha reported. The strike is part of Russia's annual autumn bombardment of Ukraine's power grid, even as Kyiv and Moscow eye resuming US-brokered talks in Abu Dhabi around mid-November.",
+          "sources": [
+            "Kyiv Independent",
+            "AP News"
+          ],
+          "slug": "russian-drone-strike-dnipropetrovsk-kills-3-2026-10-25"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Iran in 'advanced stages' of planning attacks against Americans; US has strike options ready",
+          "summary": "US intelligence officials say Iran is in the 'advanced stages' of planning attacks against Americans, according to the New York Times, as reports indicate US Central Command has prepared multiple strike options against Iran that can be executed on White House authorization and have been submitted to Defense Secretary Hegseth. The escalating threat is fuelling safe-haven demand in Treasuries and rattling markets.",
+          "sources": [
+            "The New York Times",
+            "GMT Eight"
+          ],
+          "slug": "iran-advanced-stages-attacks-americans-2026-10-25"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Typhoon Champi sweeps past Taiwan, leaving one dead and more than 500 injured",
+          "summary": "Typhoon Champi hammered Taiwan with 'destructive winds', killing at least one person (a man swept away by waves off Liuqiu island) and injuring hundreds — fire authorities counted more than 500 injuries — as authorities told residents to stay indoors. The large system has since weakened as it moves toward the Ryukyu Islands and China's coast.",
+          "sources": [
+            "Al Jazeera",
+            "1News",
+            "The Jakarta Post"
+          ],
+          "slug": "typhoon-champi-taiwan-2026-10-25"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "First for CRISPR: prime editing rewrites DNA directly inside a living human body",
+          "summary": "For the first time, the high-precision gene-editing technique known as prime editing has been used to alter DNA directly in a person — in this case rewriting liver cells in a patient with Wilson's disease, a genetic condition that causes copper to accumulate. Prime Medicine treated the first trial participant earlier this month and expects first results next year, in a milestone for in-vivo gene editing.",
+          "sources": [
+            "Nature",
+            "Prime Medicine"
+          ],
+          "slug": "crispr-prime-editing-in-vivo-2026-10-25"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "Wireless implant burns excess blood sugar with electricity — a drug-free option for type 2 diabetes",
+          "summary": "Swiss researchers at ETH Zurich built a USB-sized subcutaneous implant called ECHO that chemically oxidises glucose into a harmless metabolite using a wireless electric catalyst — no drugs involved. In diabetic mice it brought blood glucose under control within an hour and held it for six weeks, working in a closed loop with a smartphone-connected continuous glucose monitor for two weeks with no human input.",
+          "sources": [
+            "Scientific American"
+          ],
+          "slug": "echo-glucose-burning-implant-2026-10-25"
+        }
+      ]
+    },
+    {
       "date": "2026-10-24",
       "stories": [
         {
