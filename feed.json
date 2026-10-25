@@ -1,6 +1,162 @@
 {
   "days": [
     {
+      "date": "2026-10-26",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "Fed decision week: markets expect a hold, but big tech earnings and PCE loom",
+          "summary": "The Federal Reserve's two-day meeting ends Wednesday (Oct 28) with futures pricing under a 10% chance of a hike — the Fed raised to 3.75-4.00% in September and economists expect it to hold. The 10-year yield starts the week near 5.00% with oil above $100 on US-Iran tension; Microsoft and Alphabet report Wednesday after the decision, then Q3 GDP and September PCE land Thursday.",
+          "sources": [
+            "Regards of Wallstreet",
+            "Investing.com"
+          ],
+          "slug": "fed-decision-week-oct28-hold-2026-10-26"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Parliament returns without Helen Haines as MPs urged to sign civility pledge, security tightened",
+          "summary": "Federal parliament reconvened Monday with Indi MP Helen Haines in a serious-but-stable condition in hospital after being struck by a car outside her Wangaratta office in an alleged deliberate attack; both legs were amputated. Tributes open the sitting week, crossbenchers are backing a civility pledge inspired by murdered British MP Jo Cox, and security has been strengthened at Parliament House.",
+          "sources": [
+            "ABC News",
+            "The Guardian",
+            "The Sydney Morning Herald"
+          ],
+          "slug": "parliament-returns-helen-haines-civility-pledge-2026-10-26"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "First international flight lands at Western Sydney International",
+          "summary": "Air New Zealand flight 165 from Auckland touched down at Western Sydney International (Nancy Bird-Walton) Airport at 7:27am Monday — its first overseas service, arriving 18 minutes early, a day after Jetstar flew the inaugural domestic flight. NZ will run three weekly Auckland services, with Singapore Airlines, VietJet and Qatar services to follow.",
+          "sources": [
+            "The Sydney Morning Herald",
+            "The Guardian"
+          ],
+          "slug": "wsi-first-international-flight-2026-10-26"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "One in three Australian households facing food insecurity, Foodbank research finds",
+          "summary": "New Foodbank research released Monday found one in three Australian households are going hungry amid the cost-of-living crisis, with many people cutting meal portions to make ends meet — fresh evidence of financial strain as parliament returns to debate Labor's Digital Duty of Care bill.",
+          "sources": [
+            "The Sydney Morning Herald",
+            "ABC News"
+          ],
+          "slug": "foodbank-one-in-three-hunger-2026-10-26"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Serbia's Vučić concedes defeat to student-led movement in seismic shift",
+          "summary": "Aleksandar Vučić conceded Serbia's snap parliamentary election Sunday night, saying the student-backed Students' List won an estimated 135-140 of 250 seats versus ~105 for his SNS — ending his 14-year grip on power in the region's biggest political upset of the year. The movement grew from the 2024 Novi Sad station collapse; celebrations erupted in Belgrade on turnout near 70%, the highest since 2000.",
+          "sources": [
+            "AP News",
+            "The Guardian",
+            "BBC",
+            "Euronews"
+          ],
+          "slug": "serbia-vucic-concedes-students-list-win-2026-10-26"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Le Pen launches presidential bid as protests rattle France",
+          "summary": "French far-right leader Marine Le Pen formally opened her presidential campaign at the National Rally congress in Orléans, telling about 10,000 supporters she would crack down on crime and immigration and curb EU influence, against a backdrop of massive cost-of-living protests gripping the country. She remains the frontrunner for the 2027 vote.",
+          "sources": [
+            "Reuters",
+            "France 24"
+          ],
+          "slug": "le-pen-launches-presidential-bid-2026-10-26"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Anthropic opens waitlist for Claude Duet, a proactive agent that works while you're away",
+          "summary": "Anthropic launched a research preview (by waitlist) of Claude Duet, an agent app built on Claude Opus 5.5 that messages users first with what needs attention and keeps running tasks in its own virtual machine when the phone or laptop is off. It sends a morning brief, checks accounts periodically, and holds payments, document-signing and deletions for approval — open to US Pro and Max subscribers.",
+          "sources": [
+            "Anthropic",
+            "AI Review Rating"
+          ],
+          "slug": "anthropic-claude-duet-agent-preview-2026-10-26"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "OpenAI and Anthropic models land on Google Cloud, billable against existing cloud commitments",
+          "summary": "OpenAI frontier models and Codex agentic workflows are coming to Google Cloud's Model Garden, and the full Anthropic-managed Claude Platform is now generally available on Google Cloud — both purchasable against existing Google Cloud spend commitments. Enterprise customers can now buy OpenAI and Claude on a single invoice, loosening the cloud lock-in that has corralled AI procurement.",
+          "sources": [
+            "AI Briefing",
+            "OpenAI",
+            "AI Review Rating"
+          ],
+          "slug": "openai-anthropic-on-google-cloud-2026-10-26"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Israel votes Tuesday in its most seismic election in decades",
+          "summary": "Israelis go to the polls Oct 27 in the sixth election since 2019 and first since the Gaza and regional wars, widely framed as a referendum on Benjamin Netanyahu. The latest polls give his outgoing coalition roughly 50 of 120 seats — more than a majority is 61 — while Trump has endorsed Netanyahu though some US advisers see opportunity in an alternative. Official results are confirmed Nov 4.",
+          "sources": [
+            "Al Jazeera",
+            "ABC News",
+            "Axios"
+          ],
+          "slug": "israel-election-october-27-2026-2026-10-26"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Russia strikes Poltava hypermarket as Ukraine hits radar systems; Oleshky humanitarian ceasefire due to begin",
+          "summary": "A Russian strike on an Epicentr hypermarket in Poltava sparked a fire and injured a woman (Oct 25), even as Ukraine struck Russian radar systems and command posts. Meanwhile the US-brokered localized ceasefire around Russian-occupied Oleshky — negotiated with First Lady Melania Trump as 'Exclusive Intermediary' — is set to begin Oct 27 to allow a humanitarian mission to deliver aid and evacuate civilians.",
+          "sources": [
+            "RBC-Ukraine",
+            "Kyiv Independent",
+            "AP News"
+          ],
+          "slug": "ukraine-poltava-strike-oleshky-ceasefire-2026-10-26"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Oil holds above $100 and US stocks sink on renewed US-Iran confrontation",
+          "summary": "Friday's session ended with the Dow down 652 points (1.23%) as oil climbed back above $100 a barrel on concern over renewed conflict between the US and Iran, with Strait of Hormuz supply risk and Houthi attacks on Saudi energy infrastructure in focus — energy shares rose while gold fell on higher expected inflation. The S&P 500 closed at 7,623.68 with the 10-year Treasury yield at 5.00%.",
+          "sources": [
+            "Regards of Wallstreet (CNBC/Yahoo)",
+            "Reuters",
+            "Britannica"
+          ],
+          "slug": "oil-above-100-us-iran-stocks-sink-2026-10-26"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Typhoon Champi slams China's east coast after battering Taiwan and Japan",
+          "summary": "Typhoon Champi — the strongest storm on Earth of 2026 before weakening — hit China's eastern coast after leaving one dead and 600+ injured in Taiwan and knocking out power to thousands in Okinawa. China issued an orange alert for Jiangsu, Shanghai and Zhejiang, suspended some train services, evacuated tens of thousands in Shanghai and cancelled hundreds of flights.",
+          "sources": [
+            "AFP",
+            "AS English",
+            "China Meteorological Administration"
+          ],
+          "slug": "typhoon-champi-china-coast-2026-10-26"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "JWST finds three giant black holes in a single galaxy from the dawn of time",
+          "summary": "Astronomers led by the Max Planck Institute detected three actively feeding supermassive black holes in galaxy J0148-4214, 12.5 billion light-years away (seen just 1.2 billion years after the Big Bang) — the first evidence of three active black holes in one ancient galaxy. Two, just 620 light-years apart, are expected to merge; one ~600,000-solar-mass black hole is feeding faster than theory's Eddington limit.",
+          "sources": [
+            "ScienceDaily (Max Planck Institute)",
+            "Astronomy & Astrophysics"
+          ],
+          "slug": "jwst-three-black-holes-dawn-of-time-2026-10-26"
+        }
+      ]
+    },
+    {
       "date": "2026-10-25",
       "stories": [
         {
