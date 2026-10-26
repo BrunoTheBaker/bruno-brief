@@ -1,6 +1,141 @@
 {
   "days": [
     {
+      "date": "2026-10-27",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "US 10-year Treasury yield holds near 5% ahead of Fed decision",
+          "summary": "The 10-year yield closed around 4.99% on Oct 26 and the 30-year near 5.31%, as traders priced a more than 90% chance the Fed holds its 3.75%-4% range at Wednesday's meeting.",
+          "sources": [
+            "CNBC",
+            "US Treasury"
+          ],
+          "slug": "10y-yield-near-5pct-fed-hold-2026-10-27"
+        },
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "Fed meeting this week: hold is the base case, guidance is the test",
+          "summary": "Traders price more than 90% odds of a hold at 3.75%-4% on Wednesday; the 2-year at about 4.72% reflects how little near-term cuts are priced in.",
+          "sources": [
+            "CNBC",
+            "CME FedWatch"
+          ],
+          "slug": "fed-hold-week-guidance-2026-10-27"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Parliament returns in Canberra without Helen Haines, with tighter security",
+          "summary": "Federal Parliament resumed on Monday 26 October under heightened security, with the Prime Minister paying tribute to independent MP Helen Haines, critically injured on 19 October when a driver struck her with a vehicle.",
+          "sources": [
+            "ABC News",
+            "SBS News"
+          ],
+          "slug": "parliament-returns-haines-tribute-2026-10-27"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Serbia's Student List wins absolute majority; Vučić concedes",
+          "summary": "The Student List won an absolute majority in Sunday's parliamentary election, ending the Serbian Progressive Party's long rule; EU leaders quickly offered support for reforms and a path to membership.",
+          "sources": [
+            "Euronews",
+            "Euronews (Serbia analysis)"
+          ],
+          "slug": "serbia-student-list-majority-2026-10-27"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "EU to expand Frontex powers to move migrants between non-EU countries",
+          "summary": "Euronews reports the Commission will unveil a reform on Tuesday giving Frontex operational powers outside EU territory, including transfers between third countries and roles in return hubs, with a rapid-response force and doubled budget.",
+          "sources": [
+            "Euronews"
+          ],
+          "slug": "frontex-powers-expansion-2026-10-27"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Ukraine: Russia agrees in principle to trilateral talks after 10 November",
+          "summary": "Russia agreed in principle to resume US-brokered three-way talks with Ukraine after 10 November, after Witkoff met Putin in St Petersburg; the next round is expected in Abu Dhabi around mid-November.",
+          "sources": [
+            "Associated Press",
+            "Al Jazeera"
+          ],
+          "slug": "ukraine-trilateral-talks-november-2026-10-27"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Iran: Mecca Pact states in Tehran as US weighs deal or renewed strikes",
+          "summary": "Saudi, Pakistani and Turkish security chiefs met Iranian leaders in Tehran on Monday; both sides agreed to keep talking, with no concrete breakthrough and no announced next date.",
+          "sources": [
+            "Associated Press",
+            "CBS News"
+          ],
+          "slug": "iran-mecca-pact-tehran-talks-2026-10-27"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Trump weighs 'finish it off' versus a deal with Iran as Brent sits near $115",
+          "summary": "Trump told Fox News on Sunday the choice is 'decision time', while CBS reported Brent crude around $115 a barrel on Monday as Hormuz flows remain curtailed.",
+          "sources": [
+            "CNBC",
+            "CBS News"
+          ],
+          "slug": "trump-iran-decision-time-brent-2026-10-27"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "OpenAI releases GPT-6.1 Terra: cheaper, faster, and fewer factual errors",
+          "summary": "OpenAI says Terra is 50% cheaper than GPT-5.6 Terra and GPT-6.1 Sol at API level, at $1/$5 per million input/output tokens, and cut its low-effort error rate from 53.6% to 16.7%.",
+          "sources": [
+            "OpenAI",
+            "OpenRouter listing (via whatisthelatest.ai)"
+          ],
+          "slug": "gpt-6-1-terra-release-2026-10-27"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Anthropic files public S-1 for Nasdaq IPO under ticker ANT",
+          "summary": "Anthropic publicly filed its Form S-1 on 26 October 2026 for a Nasdaq listing; the filing reportedly discloses $16.3B in first-half 2026 revenue and an $80.7B net loss driven largely by non-cash charges.",
+          "sources": [
+            "Anthropic",
+            "Yahoo Finance"
+          ],
+          "slug": "anthropic-s1-public-filing-2026-10-27"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "MIT's implantable ultrasound device could keep delivering drugs to glioblastoma",
+          "summary": "MIT researchers describe LUCID, a prototype that pairs a drug reservoir with 24 ultrasound transducers to push drugs past the blood-brain barrier after tumour surgery.",
+          "sources": [
+            "MIT News via MedicalXpress"
+          ],
+          "slug": "mit-lucid-ultrasound-glioblastoma-2026-10-27"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "Low-cost nickel-cerium-phosphate catalyst could make seawater electrolysis more practical",
+          "summary": "Researchers at the University of Sharjah report a nickel hydroxide, cerium oxide and phosphate catalyst that runs about 80 hours in simulated seawater and resists corrosion, published in Chemical Communications.",
+          "sources": [
+            "Phys.org",
+            "Chemical Communications (DOI 10.1039/D6CC02785G)"
+          ],
+          "slug": "seawater-hydrogen-catalyst-2026-10-27"
+        }
+      ]
+    },
+    {
       "date": "2026-10-26",
       "stories": [
         {

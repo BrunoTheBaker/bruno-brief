@@ -736,6 +736,165 @@
         "updated": "2026-10-26",
         "slug": "jwst-three-black-holes-dawn-of-time-2026-10-26"
       }
+    },
+    "2026-10-27": {
+      "10y-yield-near-5pct-fed-hold-2026-10-27": {
+        "headline": "US 10-year Treasury yield holds near 5% ahead of Fed decision",
+        "summary": "The 10-year yield closed around 4.99% on Oct 26 and the 30-year near 5.31%, as traders priced a more than 90% chance the Fed holds its 3.75%-4% range at Wednesday's meeting.",
+        "detail": "The benchmark 10-year Treasury yield was little changed on Monday 26 October at about 4.986%, while the 30-year dipped to roughly 5.299% and the 2-year rose about 3 basis points to 4.716%, according to CNBC. Dow Jones data based on 3pm ET values put the 10-year at 4.987%, up for two consecutive sessions and up about 0.035 percentage points over that span, yet still 0.323 points below its 52-week high of 5.310% set on 5 October.\n\nThe official Treasury daily yield-curve table shows the long end has drifted in a range roughly 4.9%-5.7% across October, with the 10-year at 5.00% on 26 October against 5.28% at the start of the month. Month-to-date the 10-year is down about 0.305 points, so the move is a retracement rather than a fresh sell-off.\n\nThe near-term driver is the Federal Reserve decision on Wednesday. CME FedWatch implied over 90% odds of a hold at the current 3.75%-4% target range, which means the market is focused on guidance and the statement rather than the rate itself.\n\nFor Rory's purposes the key read is that the curve is steep at the long end (30-year about 30bp above the 2-year) and yields remain near cycle highs, keeping mortgage and corporate borrowing costs elevated into the US midterm season.",
+        "sources": [
+          "CNBC",
+          "US Treasury",
+          "Dow Jones/Morningstar"
+        ],
+        "source_urls": [
+          "https://www.cnbc.com/2026/10/26/us-treasury-yields-investors-feds-interest-rate-decision-.html",
+          "https://www.morningstar.com/news/dow-jones/202610267129/10-year-treasury-yield-rises-to-4987-data-talk"
+        ]
+      },
+      "fed-hold-week-guidance-2026-10-27": {
+        "headline": "Fed meeting this week: hold is the base case, guidance is the test",
+        "summary": "Traders price more than 90% odds of a hold at 3.75%-4% on Wednesday; the 2-year at about 4.72% reflects how little near-term cuts are priced in.",
+        "detail": "CNBC reported on Monday 26 October that investors were looking ahead to the Federal Reserve's rate decision on Wednesday 28 October, described as the main event of the week alongside a run of economic data. The benchmark target range is 3.75%-4%.\n\nCME FedWatch pricing, cited by CNBC, showed more than 90% probability that policymakers hold rates steady. With a hold so heavily priced, the market reaction is likely to hinge on the statement, the dot-plot language and the press conference rather than the decision itself.\n\nThe 2-year note at about 4.72% sits above the target range's upper bound of 4%, which implies the market is not pricing near-term easing and may be pricing some chance of hikes. That is an unusual configuration and worth watching against the Treasury's daily curve.\n\nThe 2-year and 10-year have both been hovering close to recent highs, so any hawkish surprise would likely push the front end higher first, flattening the curve further if the long end does not follow.",
+        "sources": [
+          "CNBC",
+          "CME FedWatch"
+        ],
+        "source_urls": [
+          "https://www.cnbc.com/2026/10/26/us-treasury-yields-investors-feds-interest-rate-decision-.html"
+        ]
+      },
+      "parliament-returns-haines-tribute-2026-10-27": {
+        "headline": "Parliament returns in Canberra without Helen Haines, with tighter security",
+        "summary": "Federal Parliament resumed on Monday 26 October under heightened security, with the Prime Minister paying tribute to independent MP Helen Haines, critically injured on 19 October when a driver struck her with a vehicle.",
+        "detail": "Federal Parliament returned to Canberra on Monday 26 October, the sixth House sitting week of the 2026 Spring sittings, with MPs reconvening without independent MP Helen Haines. ABC reported the chamber had a markedly different tone, and security was increased for the sitting.\n\nHaines was critically injured on 19 October when a driver struck her with a vehicle. Prime Minister Anthony Albanese paid tribute to her in the House of Representatives, and SBS reported the tribute as the opening political moment of the week.\n\nThe story is primarily about the personal and security dimension rather than a policy vote. The practical question for the week is how the government and crossbench handle security arrangements for MPs and whether the incident prompts any change to Parliament House access rules.\n\nRory should watch whether the Haines absence changes the numbers on any close crossbench votes this sitting week, given independents' significance in the current House.",
+        "sources": [
+          "ABC News",
+          "SBS News",
+          "Parliament of Australia"
+        ],
+        "source_urls": [
+          "https://www.abc.net.au/news/2026-10-26/helen-haines-parliament-returns-canberra-federal-politics/107306604",
+          "https://www.sbs.com.au/news/podcast-episode/parliament-pays-tribute-to-helen-haines-midday-news-bulletin-26-october-2026/ynyv2lswu"
+        ]
+      },
+      "serbia-student-list-majority-2026-10-27": {
+        "headline": "Serbia's Student List wins absolute majority; Vučić concedes",
+        "summary": "The Student List won an absolute majority in Sunday's parliamentary election, ending the Serbian Progressive Party's long rule; EU leaders quickly offered support for reforms and a path to membership.",
+        "detail": "The Student List, the electoral arm of a student-led protest movement that grew out of a deadly railway-station collapse in November 2024, won an absolute majority in Serbia's parliamentary election on Sunday 25 October. Aleksandar Vučić, leader of the Serbian Progressive Party, conceded defeat, ending the party's roughly 12-14 years in power depending on how the period is counted.\n\nEuropean Council President António Costa and Commission President Ursula von der Leyen issued a joint statement saying the EU stands ready to support reforms on rule of law, media freedom, anti-corruption and democratic institutions, and to advance Serbia's EU future. Euronews noted the accession bid had stalled since Russia's full-scale invasion of Ukraine, because Belgrade kept friendly relations with Moscow.\n\nThe main caveat, per Euronews analysis, is foreign policy: Serbia has refused to align with EU sanctions on Russia, and its stance on Kosovo remains a sticking point, so Brussels is cautious. The new government's first moves on sanctions alignment will be the real test of whether the EU reset is substantive.\n\nFor European politics the result is significant as a rare electoral reversal for a long-entrenched populist-leaning government in the Western Balkans.",
+        "sources": [
+          "Euronews",
+          "Euronews (Serbia analysis)"
+        ],
+        "source_urls": [
+          "https://www.euronews.com/2026/10/26/eu-hails-serbias-political-upheaval-after-student-group-ends-vucics-rule",
+          "https://www.euronews.com/2026/10/26/serbias-student-victory-raises-hopes-of-an-eu-reset"
+        ]
+      },
+      "frontex-powers-expansion-2026-10-27": {
+        "headline": "EU to expand Frontex powers to move migrants between non-EU countries",
+        "summary": "Euronews reports the Commission will unveil a reform on Tuesday giving Frontex operational powers outside EU territory, including transfers between third countries and roles in return hubs, with a rapid-response force and doubled budget.",
+        "detail": "Euronews reported on Monday 26 October, citing several EU officials speaking on condition of anonymity, that the Frontex border agency is set to gain powers to return irregular migrants from one non-EU country to another. Commission Vice-President Henna Virkkunen and Home Affairs Commissioner Magnus Brunner are expected to present the reform after Tuesday's College meeting.\n\nThe reform would let Frontex officials take part in deportations from return hubs, which a recently approved EU law allows member states to set up in third countries. Any cooperation with a third country would still require a specific agreement, similar to the status agreements Frontex already holds with Albania, Serbia and North Macedonia.\n\nThe package also includes a rapid-response force for sudden large-scale arrivals and an online surveillance unit monitoring social media for signs of mass movements. Euronews said the aim is to avoid a repeat of the July mass entry into Ceuta, when around 90,000 migrants crossed from Morocco into the Spanish exclave.\n\nNGOs are expected to push back, arguing the expansion needs stronger oversight and rights safeguards. Frontex is also set to receive €12 billion under the next seven-year EU budget, double its previous allocation. The proposal is still a Commission proposal and must pass the Parliament and Council.",
+        "sources": [
+          "Euronews"
+        ],
+        "source_urls": [
+          "https://www.euronews.com/2026/10/26/exclusive-eu-to-give-frontex-new-powers-to-deport-migrants-from-outside-europe"
+        ]
+      },
+      "ukraine-trilateral-talks-november-2026-10-27": {
+        "headline": "Ukraine: Russia agrees in principle to trilateral talks after 10 November",
+        "summary": "Russia agreed in principle to resume US-brokered three-way talks with Ukraine after 10 November, after Witkoff met Putin in St Petersburg; the next round is expected in Abu Dhabi around mid-November.",
+        "detail": "Russian presidential foreign-policy adviser Yuri Ushakov told reporters Russia agreed 'in principle' to restart three-way talks with Washington and Kyiv after 10 November, following about three hours of talks between Putin and US envoy Steve Witkoff in St Petersburg. AP described it as potentially the first such round since February.\n\nThe Kremlin said the next round is planned for the first half of November in Abu Dhabi. Zelenskyy said Ukraine is ready to talk, that territorial questions must be handled at leader level, and that he wants a meeting with Putin. He also said Ukraine will not discuss limits on its armed forces or enforced neutrality at the trilateral table.\n\nThe positions remain far apart. AP reports Moscow still demands full control of four annexed Ukrainian regions plus Crimea, Ukrainian withdrawal from those areas and renunciation of NATO membership. Kyiv insists on strong security guarantees. The talks are focused on post-conflict security architecture, not an immediate ceasefire, which Moscow has rejected.\n\nAP and Al Jazeera both note the earlier Abu Dhabi, Geneva and Oslo rounds produced little beyond prisoner exchanges, so expectations for the November round are low.",
+        "sources": [
+          "Associated Press",
+          "Al Jazeera",
+          "Euronews"
+        ],
+        "source_urls": [
+          "https://apnews.com/article/russia-ukraine-witkoff-putin-trump-zelenskyy-talks-3f00c0c6fd10bab948c2c3f8502e0a91",
+          "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin",
+          "https://www.euronews.com/2026/10/25/ukraines-zelenskyy-confirms-trilateral-talks-with-russia-and-us-to-take-place-in-november"
+        ]
+      },
+      "iran-mecca-pact-tehran-talks-2026-10-27": {
+        "headline": "Iran: Mecca Pact states in Tehran as US weighs deal or renewed strikes",
+        "summary": "Saudi, Pakistani and Turkish security chiefs met Iranian leaders in Tehran on Monday; both sides agreed to keep talking, with no concrete breakthrough and no announced next date.",
+        "detail": "Senior delegations from Saudi Arabia (Defence Minister Khalid bin Salman), Pakistan (army chief Asim Munir) and Turkey (intelligence chief Ibrahim Kalin) held talks in Tehran on Monday 26 October with President Masoud Pezeshkian and security chief Mohsen Rezaei. It was the first joint visit by the three Mecca Joint Defence Agreement states since they formed the alliance in August.\n\nAP reported the four countries agreed to continue talks on regional peace and security, but gave no date or venue for a follow-up. Iranian state media described the talks as 'very good'. Qatari mediators had visited Tehran on Sunday in coordination with Washington.\n\nThe backdrop is the eight-month war. CBS reported that President Trump said on Sunday he was still deciding between a deal and action to 'finish them off', and CNBC quoted him saying 'It's getting to be decision time'. Trump had earlier said attacks would not resume until after the 3 November US midterms.\n\nRoutes to de-escalation remain fragile: Iran says it is preparing a military response to any US strike, and the Houthi attacks on Saudi Arabia continued over the weekend. Turkey's Erdogan warned renewed attacks would destabilise the region.",
+        "sources": [
+          "Associated Press",
+          "CBS News",
+          "Al Jazeera"
+        ],
+        "source_urls": [
+          "https://apnews.com/article/iran-israel-us-war-10-26-2026-36486edb61b3bf4e0df67e8a17123e44",
+          "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/",
+          "https://www.cnn.com/2026/10/26/middleeast/iran-meeting-regional-powers-intl"
+        ]
+      },
+      "trump-iran-decision-time-brent-2026-10-27": {
+        "headline": "Trump weighs 'finish it off' versus a deal with Iran as Brent sits near $115",
+        "summary": "Trump told Fox News on Sunday the choice is 'decision time', while CBS reported Brent crude around $115 a barrel on Monday as Hormuz flows remain curtailed.",
+        "detail": "In a Fox News interview on Sunday 25 October, President Trump said: 'Do I finish it off, which would be very easy to do, or do I make a deal? It's getting to be decision time.' CNBC reported he named Pickaxe Mountain, a deeply buried site linked to Iran's nuclear programme, as a potential target.\n\nCNBC noted the last confirmed US strikes on Iran were on 1 September. Trump repeated his claim that the US controls the Strait of Hormuz and said crude flows have returned to prewar levels, but CNBC reported overall trade flows through the strait remain severely curtailed, and a Singapore-flagged container ship sank there earlier in October after being struck.\n\nCBS reported Brent crude around $115 a barrel early Monday after a surge the previous week on supply concerns. Energy prices remain elevated amid a global refining squeeze, which flows through to fuel and consumer prices.\n\nIranian officials said indirect talks with Washington continue but Tehran will not change its positions even if US attacks resume, and the IRGC navy chief has said Tehran is counting the moments until it can sink American warships. Two outcomes are live: a negotiated deal or a renewed strike campaign, and oil is the most immediate transmission channel.",
+        "sources": [
+          "CNBC",
+          "CBS News"
+        ],
+        "source_urls": [
+          "https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html",
+          "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/"
+        ]
+      },
+      "gpt-6-1-terra-release-2026-10-27": {
+        "headline": "OpenAI releases GPT-6.1 Terra: cheaper, faster, and fewer factual errors",
+        "summary": "OpenAI says Terra is 50% cheaper than GPT-5.6 Terra and GPT-6.1 Sol at API level, at $1/$5 per million input/output tokens, and cut its low-effort error rate from 53.6% to 16.7%.",
+        "detail": "OpenAI announced GPT-6.1 Terra on 26 October 2026, positioning it as a fast, efficient model for computer use and visual reasoning. It is available to Plus, Pro, Enterprise and Edu users in ChatGPT Work and Codex, and to developers via the API as gpt-6.1-terra.\n\nPer OpenAI's launch post, standard API pricing is $1 per million input tokens, $0.05 per million cached input tokens and $5 per million output tokens. OpenAI says standard API prices are 50% lower than GPT-5.6 Terra and GPT-6.1 Sol. The company also claims roughly one-third the cost of GPT-5.6 Terra on Agents' Last Exam at medium effort, and over three times faster task completion than GPT-6 Astra or GPT-6.1 Sol.\n\nOn factuality, OpenAI reports the error rate on its internal error-inducing prompt set fell from 53.6% (GPT-5.6 Terra) to 16.7% at low reasoning effort, and to 4.3% at maximum effort. On Terminal-Bench 4.0 at max effort it reports 50.3% against GPT-5.6 Terra's published 21.5%.\n\nThese are vendor-reported benchmarks and have not been independently verified here. OpenAI also states the model meets its Critical threshold for cybersecurity under the Preparedness Framework, which is a notable disclosure.",
+        "sources": [
+          "OpenAI",
+          "OpenRouter listing (via whatisthelatest.ai)"
+        ],
+        "source_urls": [
+          "https://openai.com/index/introducing-gpt-6-1-terra"
+        ]
+      },
+      "anthropic-s1-public-filing-2026-10-27": {
+        "headline": "Anthropic files public S-1 for Nasdaq IPO under ticker ANT",
+        "summary": "Anthropic publicly filed its Form S-1 on 26 October 2026 for a Nasdaq listing; the filing reportedly discloses $16.3B in first-half 2026 revenue and an $80.7B net loss driven largely by non-cash charges.",
+        "detail": "Anthropic said on 26 October 2026 that it had filed a registration statement on Form S-1 with the SEC for a proposed initial public offering of its Class A common stock, to be listed on the Nasdaq Global Select Market. Yahoo Finance reports the listing ticker as ANT.\n\nSecondary coverage of the filing, including datastudios and Yahoo Finance summaries, reports $16.3 billion in first-half 2026 revenue and an $80.7 billion net loss, which those outlets attribute mainly to non-cash charges. These figures come from press summaries of the filing and should be checked against the S-1 itself before being relied on.\n\nWSJ and other outlets also highlight the risk-factor disclosures and a share structure that keeps control with the Long-Term Benefit Trust and the founders. Yahoo describes the IPO as planned for later this fall.\n\nFor AI markets, a public S-1 gives investors the first audited-style look at frontier-lab economics and is likely to become a reference point for valuations across the sector.",
+        "sources": [
+          "Anthropic",
+          "Yahoo Finance",
+          "WSJ (summary)",
+          "unite.ai"
+        ],
+        "source_urls": [
+          "https://www.anthropic.com/news/s1-sec",
+          "https://finance.yahoo.com/technology/live/anthropic-ipo-live-updates-frontier-ai-lab-discloses-revenue-and-risks-in-highly-anticipated-s-1-filing-141702607.html?fr=sycsrp_catchall"
+        ]
+      },
+      "mit-lucid-ultrasound-glioblastoma-2026-10-27": {
+        "headline": "MIT's implantable ultrasound device could keep delivering drugs to glioblastoma",
+        "summary": "MIT researchers describe LUCID, a prototype that pairs a drug reservoir with 24 ultrasound transducers to push drugs past the blood-brain barrier after tumour surgery.",
+        "detail": "MIT researchers have designed an implantable drug-delivery device called LUCID, reported by MedicalXpress on 26 October 2026. It combines a reservoir that releases drugs over an extended period with an array of 24 ultrasound transducers that use sound waves to spread the drug farther into brain tissue and help it bypass the blood-brain barrier.\n\nThe target is glioblastoma, an aggressive brain tumour that is usually treated with surgery but often recurs because surgeons cannot remove every cancer cell. The device could be implanted during the operation and then release drugs to kill residual cells.\n\nA wireless controller lets clinicians programme the ultrasound dose after implantation, and the device allows varying infusion size, length and number of doses, according to the lead researcher, Canan Dagdeviren, an associate professor at MIT's Media Lab.\n\nThis is a device described in a research announcement; it has not been tested in patients in the report, so clinical benefit is unproven. The advance is in the delivery method rather than a new drug.",
+        "sources": [
+          "MIT News via MedicalXpress"
+        ],
+        "source_urls": [
+          "https://medicalxpress.com/news/2026-10-implantable-device-ultrasound-drug-delivery.html"
+        ]
+      },
+      "seawater-hydrogen-catalyst-2026-10-27": {
+        "headline": "Low-cost nickel-cerium-phosphate catalyst could make seawater electrolysis more practical",
+        "summary": "Researchers at the University of Sharjah report a nickel hydroxide, cerium oxide and phosphate catalyst that runs about 80 hours in simulated seawater and resists corrosion, published in Chemical Communications.",
+        "detail": "Researchers from the University of Sharjah, writing in Chemical Communications (DOI 10.1039/D6CC02785G) and reported by Phys.org on 26 October 2026, describe a catalyst for hydrogen production directly from seawater. It is made from nickel hydroxide, cerium oxide and phosphate, all abundant and low-cost materials.\n\nThe authors say the catalyst needs less energy to operate, is more selective for the desired reaction, and corrodes far less than versions lacking either the cerium oxide or the phosphate. In a stress test it ran for about 80 hours in simulated seawater at high output without losing performance.\n\nThe material forms densely packed, pyramid-shaped nanostructures, giving a much larger active surface area than plain nickel hydroxide. Seawater electrolysis is attractive because it avoids the cost of treating fresh water, but chloride corrosion has been the main obstacle.\n\nThe result is a laboratory demonstration in simulated seawater. The reporting itself notes it is not yet a commercial product, and scale-up, longer-duration tests and real seawater trials would be needed before any cost claims hold.",
+        "sources": [
+          "Phys.org",
+          "Chemical Communications (DOI 10.1039/D6CC02785G)"
+        ],
+        "source_urls": [
+          "https://phys.org/news/2026-10-hydrogen-production-seawater-catalyst-energy.html"
+        ]
+      }
     }
   }
 }
