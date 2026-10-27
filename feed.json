@@ -1,6 +1,123 @@
 {
   "days": [
     {
+      "date": "2026-10-28",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "Fed decides today as 10-year Treasury sits near 5%",
+          "summary": "The 10-year yield was about 4.995% and the 30-year 5.31% on Oct 27; futures priced roughly a 93% chance of a hold at 3.75%-4% when the decision lands at 2pm ET.",
+          "sources": [
+            "CNBC",
+            "Investing.com"
+          ],
+          "slug": "fed-hold-10y-5pct-2026-10-28"
+        },
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "Markets price at least one more Fed hike before year-end",
+          "summary": "CME pricing showed under 10% odds of a hike this week but nearly 75% odds of at least one hike by year-end, as September CPI reached 3.7% and oil prices rose.",
+          "sources": [
+            "CNBC"
+          ],
+          "slug": "fed-hike-by-year-end-2026-10-28"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "WA moves to legalise plug-in 'balcony solar' — a national first",
+          "summary": "Western Australia has opened consultation on a safety standard for plug-in solar panels and batteries, making it the first state to move on the technology.",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "wa-balcony-solar-2026-10-28"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Greens' Shoebridge pitches $21-a-week tax cut funded by gas and resources",
+          "summary": "The Greens want the tax-free threshold lifted from $18,200 to $26,000, paid for by gas and resources; Labor and the Coalition dismissed it on ABC's live politics blog.",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "shoebridge-tax-plan-2026-10-28"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "One Nation children's colouring book sparks Bluey row, ABC says it is 'within its rights'",
+          "summary": "A One Nation colouring book given to kids at a regional show depicts Bluey being robbed; Communications Minister Anika Wells says the ABC is entitled to be concerned.",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "one-nation-bluey-book-2026-10-28"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Serbia's Student List wins outright majority, ending Vučić's SNS dominance",
+          "summary": "The Student List won 140 of 250 seats in Serbia's 25 October election; the SNS, in power for almost 14 years, drops to 104 seats and moves into opposition.",
+          "sources": [
+            "Euronews"
+          ],
+          "slug": "serbia-student-list-majority-2026-10-28"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Russia pauses strikes on Kherson as Oleshky localised ceasefire takes effect",
+          "summary": "The pause began 01:00 GMT Tuesday to allow a humanitarian mission to the occupied town of Oleshky, brokered by US First Lady Melania Trump with Pope Leo's involvement.",
+          "sources": [
+            "Al Jazeera"
+          ],
+          "slug": "oleshky-localised-ceasefire-2026-10-28"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Romania says Russia-run sabotage network set fire near weapons factory",
+          "summary": "Romanian authorities attribute a fire near a weapons factory to a Russia-run sabotage network, part of a wider pattern of hybrid attacks in Europe.",
+          "sources": [
+            "Al Jazeera"
+          ],
+          "slug": "romania-sabotage-fire-2026-10-28"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Finland and Norway leaders press Putin for direct talks as Kyiv is struck",
+          "summary": "Finnish President Stubb and Norwegian PM Støre urged direct discussions to end the war in a rare call with Putin; the Kremlin downplayed it as Kyiv was hit.",
+          "sources": [
+            "Al Jazeera"
+          ],
+          "slug": "finland-norway-putin-call-2026-10-28"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "Study argues universe's physical constants are finely tuned so liquids can move in living cells",
+          "summary": "Queen Mary University of London physicist Kostya Trachenko's theoretical analysis in Science Advances says small changes to physical constants could make biological liquids too thick or thin for life.",
+          "sources": [
+            "ScienceDaily"
+          ],
+          "slug": "fine-tuned-liquids-life-2026-10-28"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Fed decision lands at 2pm ET today — the market's biggest scheduled event",
+          "summary": "The FOMC announces its decision Wednesday 28 October at 2pm ET, with Chairman Kevin Warsh's press conference at 2:30pm and GDP and PCE data due the next morning.",
+          "sources": [
+            "CNBC",
+            "Investing.com"
+          ],
+          "slug": "fomc-today-warsh-2026-10-28"
+        }
+      ]
+    },
+    {
       "date": "2026-10-27",
       "stories": [
         {
