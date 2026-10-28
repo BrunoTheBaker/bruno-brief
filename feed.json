@@ -1,6 +1,111 @@
 {
   "days": [
     {
+      "date": "2026-10-29",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "Fed holds rates steady; Treasury yields tick higher into the decision",
+          "summary": "The Federal Reserve held rates at its October meeting; the 10-year note sat near 5% and the 30-year near 5.3%.",
+          "sources": [
+            "CNBC"
+          ],
+          "slug": "fed-hold-yields-2026-10-29"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "R&D tax overhaul puts $15b National Reconstruction Fund bets at risk",
+          "summary": "Warnings that Labor's R&D tax changes could force the NRF to reassess investments worth about $165m.",
+          "sources": [
+            "AFR"
+          ],
+          "slug": "nrf-rd-tax-2026-10-29"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "EU ambassadors begin talks on tougher safeguards for new members",
+          "summary": "Member states split over a 15-year probation and voting-rights suspension clause; Montenegro is the test case.",
+          "sources": [
+            "Euronews"
+          ],
+          "slug": "eu-enlargement-safeguards-2026-10-29"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Commission opens High-Level Dialogue with European refiners",
+          "summary": "Energy and defence commissioners met oil refiners and NATO on fuel security amid Middle East disruption.",
+          "sources": [
+            "European Commission"
+          ],
+          "slug": "eu-refinery-dialogue-2026-10-29"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "EU AI Office has received most responses to AI Act information requests",
+          "summary": "Requests went to more than 30 AI companies on model safety and copyright; some deadlines extended, no findings yet.",
+          "sources": [
+            "European Commission / 2eu.brussels"
+          ],
+          "slug": "eu-ai-act-requests-2026-10-29"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Israel election ends with no clear winner",
+          "summary": "Neither bloc projected to reach 61 seats; coalition talks could take weeks as Netanyahu eyes renewed work with Trump on Iran.",
+          "sources": [
+            "Gulf News"
+          ],
+          "slug": "israel-election-inconclusive-2026-10-29"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "🌍",
+          "headline": "Qatar presents new peace proposal to Iran as US enforces port blockade",
+          "summary": "Qatari mediators delivered a draft deal in Tehran; Iran expected to respond by week's end. US blockade of Iranian ports continues.",
+          "sources": [
+            "Gulf News / Reuters"
+          ],
+          "slug": "qatar-iran-proposal-2026-10-29"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Oleshky local ceasefire holds into its second day",
+          "summary": "Six-day truce in occupied Oleshky to let aid in and residents out; Kyiv says Ukraine struck Russian industrial sites overnight.",
+          "sources": [
+            "Kyiv Independent"
+          ],
+          "slug": "oleshky-ceasefire-2026-10-29"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "🇺🇦",
+          "headline": "Netherlands and UK announce new Ukraine aid",
+          "summary": "Netherlands: €500m military package this fall. UK: over £10bn in Ukraine support in its 2027 budget.",
+          "sources": [
+            "Kyiv Independent"
+          ],
+          "slug": "ukraine-aid-nl-uk-2026-10-29"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🔥",
+          "headline": "Brent tops $115 as Hormuz shipping risk persists",
+          "summary": "Brent rose to about $115 a barrel and WTI above $101 as traders priced Middle East and Strait of Hormuz risks.",
+          "sources": [
+            "Gulf News"
+          ],
+          "slug": "oil-115-hormuz-2026-10-29"
+        }
+      ]
+    },
+    {
       "date": "2026-10-28",
       "stories": [
         {

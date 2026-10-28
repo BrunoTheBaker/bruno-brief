@@ -1023,6 +1023,118 @@
           "https://www.cnbc.com/2026/10/27/treasury-yields-federal-reserve-monetary-policy-meeting.html"
         ]
       }
+    },
+    "2026-10-29": {
+      "fed-hold-yields-2026-10-29": {
+        "headline": "Fed holds rates steady; Treasury yields tick higher into the decision",
+        "summary": "The Federal Reserve held rates at its October meeting; the 10-year note sat near 5% and the 30-year near 5.3%.",
+        "detail": "The Federal Reserve held interest rates steady at its October 2026 meeting, and Treasury yields moved higher into and after the decision, according to CNBC. The 10-year note, the benchmark for mortgage and corporate borrowing costs, was trading near 5%, while the 30-year bond, which tends to react to geopolitical events, was around 5.32% in early Wednesday trade.\n\nFor context, the Advisor Perspectives yield snapshot showed the 10-year finishing October 23 at 5.00% and the 2-year at 4.69%. That leaves the curve positively sloped at the front end, with the 2-year still well below the 10-year.\n\nThe key drivers in the bond market are inflation expectations, the Fed's path, and the risk premium from the Middle East conflict, which has pushed oil above $115 a barrel. Higher energy prices feed directly into inflation expectations, which is one reason yields have been sticky even with the Fed on hold.\n\nWith the US midterm elections on November 3, fiscal and political risk are also in focus for bond investors. Any change in congressional control could alter the outlook for deficits and issuance.\n\nThis deep dive is based on early-session reporting; the closing levels for October 28 may differ.",
+        "sources": [
+          "CNBC"
+        ],
+        "source_urls": [
+          "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html"
+        ]
+      },
+      "nrf-rd-tax-2026-10-29": {
+        "headline": "R&D tax overhaul puts $15b National Reconstruction Fund bets at risk",
+        "summary": "Warnings that Labor's R&D tax changes could force the NRF to reassess investments worth about $165m.",
+        "detail": "The Australian Financial Review reports that Labor's signature $15 billion National Reconstruction Fund may be forced to reassess investments after warnings that the Albanese government's overhaul of research and development tax incentives could hurt the companies it backs. The AFR headline puts about $165 million of NRF-backed innovation bets at risk.\n\nThe NRF was established to co-invest in manufacturing, critical minerals and future-made-in-Australia projects. Its investees often rely on R&D tax incentives to make their capital-intensive projects viable, so changes to the incentive's limits can change project economics.\n\nThe story frames the issue as a policy conflict inside government: the Treasurer's push to tighten R&D tax settings against the industrial-policy goals of the fund. Treasurer Jim Chalmers has been defending budget repair while the government seeks to keep innovation funding attractive.\n\nWhat to watch: whether the government adjusts the R&D changes or the NRF publishes revised investment assessments, and whether the Coalition or crossbench picks the issue up in Senate debate.\n\nNote: this deep dive draws on the AFR article summary; full figures should be checked against the article.",
+        "sources": [
+          "AFR"
+        ],
+        "source_urls": [
+          "https://www.afr.com/politics/federal/chalmers-r-and-d-tax-limits-threaten-165m-in-nrf-backed-innovation-bets-20261028-p618xl"
+        ]
+      },
+      "eu-enlargement-safeguards-2026-10-29": {
+        "headline": "EU ambassadors begin talks on tougher safeguards for new members",
+        "summary": "Member states split over a 15-year probation and voting-rights suspension clause; Montenegro is the test case.",
+        "detail": "EU governments held their first discussion on draft legal provisions that would give the bloc tougher safeguards for future member states, according to Euronews. The most controversial element is an institutional safeguard clause that would allow the EU to act against a new member that seriously breaches EU values or the principle of sincere cooperation, including by suspending its voting rights.\n\nMember states are divided. The Friends of the Western Balkans, including Italy and Austria, warned against overly strict rules that could slow enlargement. The Netherlands and France pushed for stronger guarantees on the rule of law. The debate has centred on the Commission's proposed 15-year probation period.\n\nThe draft also includes a monitoring clause between signing an accession treaty and joining, with regular reports, peer assessment and early-warning letters, plus a possible postponement of accession if a country will not meet requirements in time. Under the draft, a postponement could be adopted by qualified majority rather than unanimity.\n\nMontenegro is the frontrunner and would be the first country to have the new measures written into its accession treaty. Technical work continues, with another ambassadors' discussion expected in November.",
+        "sources": [
+          "Euronews"
+        ],
+        "source_urls": [
+          "https://www.euronews.com/2026/10/28/eu-begins-talks-on-tougher-safeguards-for-newcomers-with-montenegro-first-in-line"
+        ]
+      },
+      "eu-refinery-dialogue-2026-10-29": {
+        "headline": "Commission opens High-Level Dialogue with European refiners",
+        "summary": "Energy and defence commissioners met oil refiners and NATO on fuel security amid Middle East disruption.",
+        "detail": "The European Commission launched its first High-Level Dialogue with the European oil refining industry on 28 October 2026. It was chaired by Energy Commissioner Dan Jørgensen and Defence Commissioner Andrius Kubilius, with refiners, engineering firms, fuel producers, industry associations and NATO in attendance.\n\nThe meeting covered the short-term response to disruption from the Middle East conflict and the medium-term competitiveness of European refineries. The Commission noted that EU refineries supply about 70% of Europe's jet fuel and 85% of its diesel, and framed refining as a defence and energy-security asset.\n\nJørgensen said the dialogue was a first step and that the Commission would work on a joint roadmap with the sector, aimed at raising refinery output and bringing fuel prices down while supporting long-term viability as the EU decarbonises.\n\nThe tension the Commission must manage is between keeping refining capacity open now and the EU's decarbonisation path, including sustainable biofuels and e-fuels. The outputs of the process are still to be defined.",
+        "sources": [
+          "European Commission"
+        ],
+        "source_urls": [
+          "https://energy.ec.europa.eu/news/commission-launches-high-level-dialogue-european-oil-refining-sector-2026-10-28_en"
+        ]
+      },
+      "eu-ai-act-requests-2026-10-29": {
+        "headline": "EU AI Office has received most responses to AI Act information requests",
+        "summary": "Requests went to more than 30 AI companies on model safety and copyright; some deadlines extended, no findings yet.",
+        "detail": "European Commission spokesperson Thomas Regnier confirmed on 28 October 2026 that the Commission has received information for all AI Act information requests whose deadlines have expired. The requests went to more than 30 companies and cover two areas: safety and security of AI models, and copyright.\n\nSome deadlines have been extended for a small number of companies, which the Commission declined to name, citing bilateral discussions. The Commission said responses are being assessed, but did not announce compliance findings, penalties or a timetable for completing the assessment.\n\nThe AI Act lets the Commission request documentation from providers of general-purpose AI models. For models with systemic risk, the exemptions for open-source releases do not apply. Copyright obligations include a policy to comply with EU law and a public summary of training content.\n\nImportant caveat: receiving a response does not establish compliance. The next signal to watch is whether the AI Office opens formal proceedings or publishes an assessment.",
+        "sources": [
+          "European Commission / 2eu.brussels"
+        ],
+        "source_urls": [
+          "https://2eu.brussels/en/news/european-commission-receives-ai-companies-responses-to-requests-whose-deadlines-have-passed-and-assesses-submissions"
+        ]
+      },
+      "israel-election-inconclusive-2026-10-29": {
+        "headline": "Israel election ends with no clear winner",
+        "summary": "Neither bloc projected to reach 61 seats; coalition talks could take weeks as Netanyahu eyes renewed work with Trump on Iran.",
+        "detail": "Israel's parliamentary election produced no clear winner, according to exit polls reported by Gulf News. Neither political bloc was projected to reach the 61 seats needed for a majority in the 120-seat Knesset. Opposition figure Gadi Eisenkot claimed victory, while Benjamin Netanyahu's Likud was projected to remain the largest single party. Results are not final.\n\nCoalition negotiations could take weeks. Netanyahu said on Wednesday that Israel had an opportunity to work with President Trump to eliminate what he described as the threat from Iran, which raises the prospect of renewed military escalation.\n\nThe EU, through the EEAS, welcomed high turnout and said it is ready to engage with the next government, keeping dialogue with Israel on the agenda.\n\nWatch for: the timing of final results, the coalition arithmetic, and whether Netanyahu's Iran rhetoric shifts policy in a new government.",
+        "sources": [
+          "Gulf News"
+        ],
+        "source_urls": [
+          "https://gulfnews.com/uae/middle-east-war-10-things-uae-residents-need-to-know-today-october-28-1.500727139"
+        ]
+      },
+      "qatar-iran-proposal-2026-10-29": {
+        "headline": "Qatar presents new peace proposal to Iran as US enforces port blockade",
+        "summary": "Qatari mediators delivered a draft deal in Tehran; Iran expected to respond by week's end. US blockade of Iranian ports continues.",
+        "detail": "Qatari mediators delivered a new draft peace agreement to Tehran on Sunday, according to Reuters as reported by Gulf News. Iran is expected to respond by the end of the week. No agreement has been announced.\n\nThe diplomatic push came after talks in Tehran involving Iran, Saudi Arabia, Turkey and Pakistan ended without an announced agreement on the war, the Strait of Hormuz or Iran's nuclear programme. The participants agreed to keep talking, but have not disclosed the proposal's details.\n\nMeanwhile, the United States is enforcing a blockade of Iranian ports and coastlines, according to a UKMTO maritime advisory dated 28 October. The Pentagon estimated US operations connected to the Iran war cost $47.1 billion as of 16 October.\n\nPresident Trump has left open the possibility of further strikes, so the diplomatic track and military pressure are running in parallel.",
+        "sources": [
+          "Gulf News / Reuters"
+        ],
+        "source_urls": [
+          "https://gulfnews.com/uae/middle-east-war-10-things-uae-residents-need-to-know-today-october-28-1.500727139"
+        ]
+      },
+      "oleshky-ceasefire-2026-10-29": {
+        "headline": "Oleshky local ceasefire holds into its second day",
+        "summary": "Six-day truce in occupied Oleshky to let aid in and residents out; Kyiv says Ukraine struck Russian industrial sites overnight.",
+        "detail": "A localised ceasefire in the Russian-occupied city of Oleshky, Kherson Oblast, is holding into its second day as of 28 October, according to the Kyiv Independent. The White House announced the mediated truce on 23 October, and it is expected to run into early November so aid can be delivered, roads demined and residents evacuated. Oleshky had a pre-war population of around 24,000; about 2,000 residents remain.\n\nPer the Kyiv Independent, Russia proposed moving the ceasefire forward by two days and widening its geographic scope to other parts of Kherson Oblast; Ukraine agreed. Ukraine's lead aid negotiator said both sides have cooperated so far. A US representative will join the civilian mission.\n\nElsewhere, Ukraine reportedly struck chemical and metallurgical facilities in Russia, including the Novolipetsk plant in Lipetsk. Ukraine's HUR said Russia is building a new drone launch site near Millerovo, with capacity for up to 100 launches a day once complete.\n\nZelensky expects trilateral US-Russia-Ukraine talks in Abu Dhabi around 6-10 November, with the US date unconfirmed.",
+        "sources": [
+          "Kyiv Independent"
+        ],
+        "source_urls": [
+          "https://kyivindependent.com/ukraine-war-latest-oleshky-ceasefire-holds-as-zelensky-secures-new-aid-pledges/"
+        ]
+      },
+      "ukraine-aid-nl-uk-2026-10-29": {
+        "headline": "Netherlands and UK announce new Ukraine aid",
+        "summary": "Netherlands: €500m military package this fall. UK: over £10bn in Ukraine support in its 2027 budget.",
+        "detail": "The Netherlands announced a €500 million military aid package for Ukraine, which Zelensky said is being prepared for this autumn, after meeting Dutch Prime Minister Rob Jetten in The Hague on 28 October. The two discussed the Bliksem pan-European ballistic-missile interceptor project. The Dutch also committed a €1.2 billion non-military package to be disbursed over three years for economic recovery, per the Kyiv Independent.\n\nThe UK, according to the Kyiv Independent, announced over £10 billion (about $13 billion) in Ukraine support in its 2027 budget, presented by the Chancellor, which the government described as its biggest-ever commitment to Ukraine. UK Prime Minister Andy Burnham and Zelensky also spoke.\n\nThe announcements come as European partners face pressure to fill gaps if US support is curtailed. A KIIS poll published 28 October found 80% of Ukrainians back continued strikes on Russian refineries even if Washington restricts support.\n\nThe Kyiv Independent also reported US pressure on Kyiv, including a temporary pause in intelligence sharing on ballistic missiles and delays in Patriot shipments; the US administration denied ordering restrictions.",
+        "sources": [
+          "Kyiv Independent"
+        ],
+        "source_urls": [
+          "https://kyivindependent.com/ukraine-war-latest-oleshky-ceasefire-holds-as-zelensky-secures-new-aid-pledges/"
+        ]
+      },
+      "oil-115-hormuz-2026-10-29": {
+        "headline": "Brent tops $115 as Hormuz shipping risk persists",
+        "summary": "Brent rose to about $115 a barrel and WTI above $101 as traders priced Middle East and Strait of Hormuz risks.",
+        "detail": "Oil prices rose on Wednesday 28 October as traders weighed Middle East developments and the risk to regional shipping. Brent crude rose $1.48 to $115.36 a barrel early in the session, and WTI rose to $101.12, according to Gulf News.\n\nThe Strait of Hormuz remains the focal point. It carries a large share of global oil shipments, and shipping restrictions around it are a key risk premium. The US blockade of Iranian ports and the failed Tehran talks add to this.\n\nThe European Commission's energy dialogue with refiners, held the same day, described ongoing disruption from the Middle East conflict and high energy costs as the main pressures on European refining.\n\nFlight disruption across the UAE, with cancellations concentrated on Saudi routes, shows the broader regional impact. A diplomatic breakthrough, or a resumption of strikes, would be the main drivers of the next move.",
+        "sources": [
+          "Gulf News"
+        ],
+        "source_urls": [
+          "https://gulfnews.com/uae/middle-east-war-10-things-uae-residents-need-to-know-today-october-28-1.500727139"
+        ]
+      }
     }
   }
 }
