@@ -1135,6 +1135,192 @@
           "https://gulfnews.com/uae/middle-east-war-10-things-uae-residents-need-to-know-today-october-28-1.500727139"
         ]
       }
+    },
+    "2026-10-30": {
+      "fed-hold-hike-dissent-2026-10-30": {
+        "headline": "Fed holds at 3.75%–4% as two officials dissent in favour of a hike",
+        "summary": "The FOMC voted 10–2 to keep the fed funds range at 3.75%–4%; Lisa Cook and Beth Hammack wanted a 25bp increase.",
+        "detail": "The Federal Open Market Committee kept the federal funds target range at 3-3/4 to 4 percent at its meeting on 28 October 2026, approving the decision by a 10–2 vote, according to the Fed's published statement. The statement said the committee decided to maintain the range in support of its dual mandate, and that 'inflation remains elevated', pledging that it 'will deliver price stability'.\n\nThe two dissents are the market-relevant detail. Governor Lisa Cook and Cleveland Fed President Beth Hammack both preferred a quarter-point increase at this meeting. CNBC reported that both dissenters wanted to raise rates, which means the committee is split on the direction of the next move rather than on whether policy is tight enough for now. That split matters for the Treasury curve: a hawkish tilt raises the odds of higher front-end yields, while a hold keeps the policy rate itself unchanged.\n\nChair Kevin Warsh, as reported by the Associated Press in its 29 October news summary, warned that inflation has run above the 2% target for nearly six years and pledged readiness to act as needed. The same AP summary reported that the US economy grew at a 3.4% pace in the third quarter on strong consumer spending and AI investment, a backdrop that gives the committee little reason to ease.\n\nFor bond investors the setup is a hold with a hawkish bias: markets are watching whether the 10–2 split widens at the next meeting, which is the final FOMC meeting of the year. Any dissent-driven repricing would show up first in two-year yields. Treasury yield levels for the day should be checked against the Treasury's daily par yield curve rather than inferred from this summary.",
+        "sources": [
+          "CNBC",
+          "Federal Reserve"
+        ],
+        "source_urls": [
+          "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+          "https://www.federalreserve.gov/monetarypolicy/files/monetary20261028a1.pdf"
+        ]
+      },
+      "digital-duty-gas-reservation-2026-10-30": {
+        "headline": "Digital Duty of Care passes the House; gas reservation vote today",
+        "summary": "Albanese urges the Senate to back the Digital Duty of Care bill, while the House debates a domestic gas reservation of up to 20% of exports.",
+        "detail": "Prime Minister Anthony Albanese told a Canberra press conference on 29 October 2026 that the House of Representatives had passed the Digital Duty of Care legislation the previous day, and he called on the Senate to back it. In the transcript he framed the bill as making large technology platforms accountable for content they distribute and giving users more control over what their devices show them, building on the under-16 social media ban.\n\nThe same transcript sets out the government's gas agenda. Resources Minister Madeleine King said the Gas Reservation Package would be voted on in the House that day, and Albanese said the scheme would allow up to 20 per cent of exports to be reserved for domestic use, with the stated aims of lifting supply for manufacturers and easing prices.\n\nAlbanese also flagged tax bills before the Parliament, which he said he expected the Coalition to oppose, and said the European Free Trade Agreement was a government priority. He said the deal would make Australian goods and services 98 per cent tariff free into a market of 450 million, and he confirmed plans to attend CHOGM the following week.\n\nThe gas reservation vote and the Senate's handling of the Digital Duty of Care bill are the two items to track next. Outcomes beyond the House vote were not confirmed in the sources reviewed for this briefing.",
+        "sources": [
+          "Anthony Albanese (PM press conference transcript)"
+        ],
+        "source_urls": [
+          "https://anthonyalbanese.com.au/media-centre/press-conference-canberra-2026-10-29-1793278814009"
+        ]
+      },
+      "labor-ai-data-centres-ban-2026-10-30": {
+        "headline": "Labor moves to bar AI data centres near homes and recreational sites",
+        "summary": "The government will ban AI data centres from being built near homes and recreational facilities, and has changed its copyright licensing plan for AI firms.",
+        "detail": "The Australian Financial Review reported on 29 October 2026 that the Albanese government will ban artificial intelligence data centres from being built near homes and recreational facilities. The report links the policy to voter backlash over large industrial sites appearing in inner Sydney and Melbourne suburbs.\n\nThe same report says Labor has also changed plans for a controversial copyright licensing regime. The earlier proposal would have let technology companies such as OpenAI and Anthropic scrape internet content without compensating creators; the AFR says that approach has been changed, though the summary available did not spell out the new settings.\n\nThe data-centre ban is a planning-level intervention with direct implications for AI infrastructure developers in Australia: siting restrictions near residential and recreational land would shift where large compute facilities can be built. The AFR piece frames it as a response to suburban amenity concerns rather than a national energy or water policy.\n\nThe full policy text, implementation mechanism and the definition of 'near homes' were not available in the reporting reviewed here, so the scope of the ban should be confirmed against the government's release before it is relied on.",
+        "sources": [
+          "Australian Financial Review"
+        ],
+        "source_urls": [
+          "https://www.afr.com/politics/federal/labor-to-ban-ai-data-centres-in-suburban-australia-20261029-p618xn"
+        ]
+      },
+      "albanese-savings-rba-hike-2026-10-30": {
+        "headline": "Albanese concedes savings are needed as Labor faces cost-of-living pressure and a likely RBA hike",
+        "summary": "The PM ruled out cuts to health and education in the December mid-year budget update, but conceded savings are required as inflation accelerates.",
+        "detail": "Anthony Albanese has ruled out major cuts to health, education and essential services in the December mid-year budget update, the Guardian's political editor Tom McIlroy reported on 29 October 2026. The PM nonetheless conceded that savings are required as Labor struggles with accelerating inflation.\n\nAs an example of savings already on the table, Albanese cited the government's plan to reduce the private health insurance rebate for people over 65. He said the Coalition was hypocritical for not supporting existing savings proposals, a line of attack that reflects the government's effort to frame the budget debate around opposition obstruction.\n\nThe Guardian reports that Labor MPs privately expect the Reserve Bank to deliver its fifth interest rate increase of the year at its meeting the following week. That expectation is the main source of the political pressure described: rising mortgage costs during a cost-of-living squeeze, and pressure from inside Labor's own ranks as well as from business and the opposition.\n\nThe key test is whether the December update delivers savings without touching the services the PM has named. The RBA decision and the December budget settings are the two events to watch.",
+        "sources": [
+          "The Guardian"
+        ],
+        "source_urls": [
+          "https://www.theguardian.com/australia-news/2026/oct/29/albanese-concedes-savings-needed-as-he-faces-internal-labor-pressure-on-cost-of-living-crisis"
+        ]
+      },
+      "farrell-eu-fta-farmers-2026-10-30": {
+        "headline": "Farrell tells farmers the Australia–EU free trade deal is not open to renegotiation",
+        "summary": "Trade Minister Don Farrell says the EU FTA could add $10 billion in trade in its first year, rejecting Coalition calls to reopen it; beef and lamb groups remain opposed.",
+        "detail": "Trade Minister Don Farrell told the National Farmers Federation on the night of 29 October 2026 that the Australia–EU free trade agreement is vital to the nation's prosperity and could generate $10 billion in additional trade in its first year, according to ABC's live blog on 30 October.\n\nFarrell rejected calls from the Coalition, including from Nationals leader Matt Canavan, to renegotiate the deal, saying it was 'as good as it was going to get'. He acknowledged that the beef and lamb industries wanted more, but argued he had to represent all sectors, of which he said 95 per cent support the agreement.\n\nThe National Farmers Federation has been among the most vocal opponents of the deal, per the ABC report. Prime Minister Albanese, in his 29 October press conference, said the agreement would make Australian goods and services 98 per cent tariff free into a 450-million-strong market.\n\nThe unresolved issue is agricultural: beef and sheep meat access versus the sectors' stated concerns. Whether Parliament and the Coalition move on the treaty will shape how the government handles the farm lobby.",
+        "sources": [
+          "ABC News"
+        ],
+        "source_urls": [
+          "https://www.abc.net.au/news/2026-10-30/federal-politics-live-blog-oct-30/107324978"
+        ]
+      },
+      "europe-split-putin-talks-2026-10-30": {
+        "headline": "Europe split over whether to pick up the phone to Putin",
+        "summary": "With no single European negotiator, some leaders are opening their own channels to Moscow, with messy results, the Guardian reports.",
+        "detail": "The Guardian's Ukraine coverage on 29 October 2026 carried a piece on Europe's rift over whether to pick up the phone to Vladimir Putin. The report says there is no single European representative negotiating directly with Moscow, and that some leaders are establishing their own channels, with messy results.\n\nThe split is one of approach rather than of objective: the coverage frames it as a dispute over whether direct contact with Moscow helps or undermines the European position on Ukraine. Because there is no agreed envoy, individual capitals are pursuing separate lines, which weakens the bloc's leverage in any talks the United States is brokering.\n\nThe same Guardian page also notes the US-brokered Oleshky truce and the Trump–Putin diesel arrangement, both of which are happening outside the European channel. That context explains why the question of direct engagement has become more pressing for European governments.\n\nThe article summary did not include the names of the leaders involved, so the specifics should be checked against the full piece before quoting individuals.",
+        "sources": [
+          "The Guardian"
+        ],
+        "source_urls": [
+          "https://www.theguardian.com/world/ukraine"
+        ]
+      },
+      "meloni-budget-eu-refining-2026-10-30": {
+        "headline": "Meloni cabinet approves 2027 budget; EU moves to expand refining capacity",
+        "summary": "Italy's cabinet approved its 2027 budget bill with a newborns fund and energy cost measures; the EU says it will boost domestic refining as energy prices rise.",
+        "detail": "Anadolu Agency's morning briefing for 29 October 2026 reports that Italian Prime Minister Giorgia Meloni's cabinet approved the country's 2027 budget bill. Local media, as cited by Anadolu, said it includes a fund for newborns and measures to reduce electricity and gas costs for households and businesses.\n\nIn the same briefing, Energy Commissioner Dan Jorgensen said the EU will work to increase domestic refining capacity and boost fuel production as geopolitical tensions drive up energy prices. The two items are linked by the energy-price theme: national budgets are being used to cushion households, while Brussels is looking at supply-side capacity.\n\nThe Anadolu summary gives no figures for the energy measures or the newborn fund, so the fiscal size of the budget should be checked against the Italian government's release.\n\nThe refining push is an EU-level response to fuel prices that the briefing ties to the Middle East conflict and related supply pressure.",
+        "sources": [
+          "Anadolu Agency"
+        ],
+        "source_urls": [
+          "https://www.aa.com.tr/en/world/morning-briefing-oct-29-2026/4104564"
+        ]
+      },
+      "gpt-6-1-terra-release-2026-10-30": {
+        "headline": "OpenAI's GPT-6.1 Terra released 26 October; Anthropic and Google latest models tracked",
+        "summary": "A model tracker reports GPT-6.1 Terra shipped 26 October, with Claude Haiku 5.5 (7 October) and Gemini 4 Argon (13 October) as the latest from Anthropic and Google.",
+        "detail": "A model-tracking site, claudegpt.si, states that as of 28 October 2026 the newest major language model from OpenAI is GPT-6.1 Terra, released on 26 October. The same page lists Anthropic's newest model as Claude Haiku 5.5 from 7 October, and Google's newest frontier model as Gemini 4 Argon from 13 October.\n\nThis is a secondary tracker rather than a lab announcement, so the release dates should be confirmed against OpenAI, Anthropic and Google's own posts before being relied on. The tracker is the only source gathered for this item; no benchmark or pricing data was verified in this briefing.\n\nThe practical implication is that the frontier has moved again in a few weeks: three labs have shipped new flagship-tier models within roughly three weeks. For users choosing between providers, release cadence is now measured in weeks.\n\nThe tracker does not describe capability changes, so no claims about performance are made here.",
+        "sources": [
+          "claudegpt.si model tracker"
+        ],
+        "source_urls": [
+          "https://claudegpt.si/news/what-is-the-newest-ai-model-october-2026"
+        ]
+      },
+      "oleshky-truce-holding-2026-10-30": {
+        "headline": "US-brokered Oleshky truce holds as aid convoy readied; Dnipro train strike kills 14",
+        "summary": "A localised Russia–Ukraine ceasefire around Oleshky held for a third day, with aid due to move Friday, even as a Russian drone strike on a Dnipro train station killed at least 14.",
+        "detail": "A localised ceasefire around the Russian-occupied city of Oleshky in the Kherson region has held since Tuesday 27 October, according to the Associated Press and the Guardian. Both Ukrainian ombudsman Dmytro Lubinets and his Russian counterpart Yana Lantratova said the truce was holding. The AP reported that the ceasefire had stretched into a third day, that demining of designated routes was complete, and that a humanitarian convoy was assembled and due to begin deliveries on Friday.\n\nAbout 2,000 people remain in Oleshky amid food and medical shortages. The Guardian reported that the truce is US-brokered and that US first lady Melania Trump was thanked by both sides for help in arranging it. Previous ceasefire talks, the AP noted, had either failed or collapsed quickly, so the durability of this one is unproven.\n\nThe same AP report documented continued fighting elsewhere. A jet-powered Russian drone hit two passenger trains at a Dnipro station on Thursday, killing at least 14 people and injuring 14 more. A Russian cruise missile killed two 15-year-old girls in Chernihiv, and a drone strike on an apartment block in Kremenchuk killed three civilians. Russia's Defence Ministry said it downed 1,214 Ukrainian drones overnight.\n\nUkraine's central bank governor Andriy Pyshnyy, quoted by the AP, forecast a 0.4% contraction in the economy for 2026 and raised the inflation projection to 12.5%, citing fuel prices and attacks on logistics targets.",
+        "sources": [
+          "Associated Press",
+          "The Guardian"
+        ],
+        "source_urls": [
+          "https://apnews.com/article/russia-ukraine-war-oleshky-melania-trump-putin-aab99d86fccb26294711ef40407b416c",
+          "https://www.theguardian.com/world/2026/oct/29/ukraine-war-briefing-oleshky-truce-holding-and-demining-under-way-to-enable-humanitarian-corridor-kyiv-says"
+        ]
+      },
+      "iran-mediators-vance-letter-2026-10-30": {
+        "headline": "Trump confirms Vance contact with Iran as Qatar-led mediators push for UN inspector access",
+        "summary": "Trump says Washington is communicating with Iran through mediators; Qatar-led efforts seek UN inspector access to bombed nuclear sites in exchange for some sanctions relief.",
+        "detail": "Anadolu Agency's morning briefing for 29 October 2026 reports that President Donald Trump said Washington is communicating with Iran through mediators, as regional governments seek to revive peace negotiations and avert renewed US strikes. The Wall Street Journal, cited by Anadolu, reported that Vice President JD Vance sent a letter to Iranian security chief Mohsen Rezaei at Trump's direction.\n\nTrump said he had approved Vance's request to help Iran obtain medical supplies, describing it as getting supplies in to people who are unwell. He said he did not know whether negotiations would succeed.\n\nAccording to Axios, as cited by Anadolu, Qatar-led mediators are urging Tehran to allow UN inspectors into bombed nuclear sites in exchange for some US sanctions relief. Pakistan, Saudi Arabia, Egypt and Türkiye are supporting the effort.\n\nThe briefing does not give the terms under discussion beyond those points, and the Vance letter is reported through the WSJ rather than confirmed in full, so the substance of the exchange should be treated as reported rather than verified.",
+        "sources": [
+          "Anadolu Agency",
+          "Axios (via Anadolu)",
+          "Wall Street Journal (via Anadolu)"
+        ],
+        "source_urls": [
+          "https://www.aa.com.tr/en/world/morning-briefing-oct-29-2026/4104564"
+        ]
+      },
+      "megacauda-fossil-nature-2026-10-30": {
+        "headline": "Nature: Megacauda fossil sheds light on evolution of the mammalian throat; LLM test-ordering costs flagged",
+        "summary": "The 29 October Nature issue features a Megacauda fossil study on mammalian throat evolution, and research finding large language models order more tests and referrals than physicians.",
+        "detail": "A summary of Nature's 29 October 2026 issue, published by Intellicurious, highlights a study on the Megacauda fossil, which it says sheds light on the evolution of the mammalian throat. The summary's headline for the issue is 'Easy to swallow'. No further detail on the specimen or the authors was available in the summary reviewed.\n\nThe same summary reports separate research finding that large language models suggest more tests, referrals and medications than human physicians do, which it says drives up the cost of care. This is a cost-control finding about clinical AI rather than a capability claim, and it is relevant to health-system deployment decisions.\n\nBecause both items come from a secondary summary, the primary Nature articles should be checked for sample sizes, study design and authorship before the findings are cited.\n\nThese are the two science items in this briefing; the science bucket was otherwise light today.",
+        "sources": [
+          "Nature (via Intellicurious)"
+        ],
+        "source_urls": [
+          "https://intellicurious.com/2026/10/28/nature-magazine-october-29-2026/"
+        ]
+      },
+      "spain-toledo-train-crash-2026-10-30": {
+        "headline": "Spain's Toledo high-speed rail collision kills at least 68; three days of mourning",
+        "summary": "A Renfe train hit a stopped Iryo train near Toledo on Wednesday; the transport minister says a control-centre order to proceed after a signalling failure was 'inexplicable'.",
+        "detail": "Two high-speed trains collided near Toledo in central Spain on Wednesday 28 October 2026, killing at least 68 people and injuring dozens more, according to the AP. Reuters put the toll at at least 69 with more than 100 injured, and described it as the deadliest rail accident in Spain since 2013. Prime Minister Pedro Sánchez declared three days of national mourning.\n\nAccording to Transport Minister Óscar Puente, quoted by AP and Reuters, the automatic LZB safety system failed at about 8:30am along a 63-kilometre stretch south of Toledo, halting six trains. Human controllers at Adif's Madrid control centre then told a Renfe train to proceed without restriction, even though a stop signal was still active. That train struck an Iryo train that had stopped, at about 8:53am, between Mora and Orgaz. Puente called the instruction 'inexplicable' and said the engineers were not to blame.\n\nAP reported 397 passengers on the Renfe train and 147 on the Iryo train, and that 58 people were in hospital. The Guardian reported that Sánchez said authorities would determine the cause and act with the 'utmost severity' if negligence or security failures were found.\n\nThe crash is the second deadly collision on Spain's high-speed network this year; a January derailment killed 46 people. The New York Times noted the two accidents involved the same two operators. The investigation is likely to focus on the roughly 17 minutes between the signalling failure and the collision, and on the control-centre decision.",
+        "sources": [
+          "Associated Press",
+          "Reuters",
+          "The Guardian",
+          "New York Times"
+        ],
+        "source_urls": [
+          "https://apnews.com/article/train-accident-spain-4f65471a0e36f448d7ee9efe0768cd77",
+          "https://www.reuters.com/graphics/SPAIN-ACCIDENT/dwvkmmgbrvm/",
+          "https://www.theguardian.com/world/2026/oct/28/spain-train-crash-high-speed-toledo"
+        ]
+      },
+      "russian-diesel-tankers-trump-deal-2026-10-30": {
+        "headline": "Seven tankers carrying 288,000 tonnes of Russian diesel head for the US under the Trump–Putin deal",
+        "summary": "Greenpeace-tracked tankers carrying an estimated 288,000 tonnes of Russian diesel are the first phase of the Trump–Putin arrangement, with uncertainty over whether they will unload.",
+        "detail": "The Guardian reported on 29 October 2026 that seven oil tankers carrying an estimated 288,000 tonnes of Russian diesel are sailing towards the United States. The vessels are tracked by Greenpeace and form the first phase of the Trump–Putin deal, though there is uncertainty over whether they will unload.\n\nThe Council on Foreign Relations explainer, dated 16 October, describes the arrangement as a diesel deal that Trump said would bring fuel prices down, after prices spiked in 2026 following the Iran war and increased Ukrainian attacks on Russian refineries.\n\nGreenpeace has called for the diesel agreement to be terminated while Russia's aggression continues, arguing that trade deals should not reward mass killing or finance further attacks. The New York Post and Washington Post reported on 23 October that the first tanker had set sail, with the Post noting the Kremlin confirmed it.\n\nWhether the cargo unloads, and whether the arrangement holds, are the open questions. The mix of a US fuel-price rationale and European and NGO opposition makes it a live political issue heading into the midterms.",
+        "sources": [
+          "The Guardian",
+          "Greenpeace",
+          "Council on Foreign Relations"
+        ],
+        "source_urls": [
+          "https://www.theguardian.com/us-news/2026/oct/29/seven-oil-tankers-288000-tonnes-russian-diesel-sail-us-putin-trump",
+          "https://www.cfr.org/articles/trumps-russian-diesel-deal-explained"
+        ]
+      },
+      "israel-election-no-majority-2026-10-30": {
+        "headline": "Israel's election count completes with no bloc at 61; Netanyahu on 53, opposition on 48",
+        "summary": "Final tallies show Netanyahu's bloc on 53 seats and Eisenkot's on 48, with Arab parties on 19 — neither side reaches the 61-seat majority.",
+        "detail": "Vote counting in Israel's 2026 parliamentary election was completed on 29 October, with neither Prime Minister Benjamin Netanyahu's bloc nor the opposition reaching the 61 seats needed for a Knesset majority, Al Jazeera reported. Ynet's count gives Netanyahu's bloc 53 seats, the Eisenkot bloc 48 and the Arab parties 19.\n\nBy party, Ynet and Haaretz list Likud on 27, Yashar (Eisenkot) on 21, Together on 12, the Joint List on 11 and Ra'am on 8. The Reservists and the Economic party did not pass the threshold. Haaretz's live coverage noted that the Central Elections Committee would publish official results on Wednesday after an integrity review.\n\nBBC reported that counting of up to 480,000 absentee ballots, from soldiers, diplomats and hospital patients, began on Thursday, and that these could still move seat distribution. Al Jazeera notes the results are subject to change until certification.\n\nWith no majority on either side, the coalition arithmetic now falls to the opposition, which Haaretz reports would need to agree a governing arrangement to replace Netanyahu. The absentee ballots and the certification date are the next checkpoints.",
+        "sources": [
+          "Al Jazeera",
+          "Haaretz",
+          "Ynet"
+        ],
+        "source_urls": [
+          "https://www.aljazeera.com/news/2026/10/29/israel-election-result-shows-no-overall-majority-as-vote-count-complete",
+          "https://www.ynetnews.com/article/lzkcj5xqa"
+        ]
+      },
+      "north-korea-srbm-launch-2026-10-30": {
+        "headline": "North Korea fires about a dozen short-range ballistic missiles from Wonsan",
+        "summary": "South Korea's military says roughly a dozen short-range ballistic missiles were launched from the Wonsan area toward the East Sea; Japan issued a coast-guard warning.",
+        "detail": "Anadolu Agency's 29 October 2026 morning briefing reports that North Korea launched around a dozen short-range ballistic missiles from the Wonsan area toward the East Sea, also known as the Sea of Japan, according to South Korea's military. Japan's Defence Ministry earlier said Pyongyang had fired what may be a ballistic missile.\n\nSouth Korea stepped up surveillance for further launches and shared information with the United States and Japan as officials assessed the flight distances. Japan's Coast Guard warned ships to avoid any fallen objects, Kyodo reported.\n\nThe briefing does not give the missile types, flight ranges or any official statement from Pyongyang, so those details should be checked against South Korean and Japanese defence releases before they are relied on.\n\nThe launches come as the broader region is watching US–Iran mediation and Russia–Ukraine ceasefire efforts; the briefing does not link the North Korean launches to any specific trigger.",
+        "sources": [
+          "Anadolu Agency",
+          "Yonhap (via Anadolu)",
+          "Kyodo (via Anadolu)"
+        ],
+        "source_urls": [
+          "https://www.aa.com.tr/en/world/morning-briefing-oct-29-2026/4104564"
+        ]
+      }
     }
   }
 }

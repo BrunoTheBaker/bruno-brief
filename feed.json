@@ -1,6 +1,174 @@
 {
   "days": [
     {
+      "date": "2026-10-30",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "Fed holds at 3.75%–4% as two officials dissent in favour of a hike",
+          "summary": "The FOMC voted 10–2 to keep the fed funds range at 3.75%–4%; Lisa Cook and Beth Hammack wanted a 25bp increase.",
+          "sources": [
+            "CNBC",
+            "Federal Reserve"
+          ],
+          "slug": "fed-hold-hike-dissent-2026-10-30"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Digital Duty of Care passes the House; gas reservation vote today",
+          "summary": "Albanese urges the Senate to back the Digital Duty of Care bill, while the House debates a domestic gas reservation of up to 20% of exports.",
+          "sources": [
+            "Anthony Albanese (PM press conference transcript)"
+          ],
+          "slug": "digital-duty-gas-reservation-2026-10-30"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Labor moves to bar AI data centres near homes and recreational sites",
+          "summary": "The government will ban AI data centres from being built near homes and recreational facilities, and has changed its copyright licensing plan for AI firms.",
+          "sources": [
+            "Australian Financial Review"
+          ],
+          "slug": "labor-ai-data-centres-ban-2026-10-30"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Albanese concedes savings are needed as Labor faces cost-of-living pressure and a likely RBA hike",
+          "summary": "The PM ruled out cuts to health and education in the December mid-year budget update, but conceded savings are required as inflation accelerates.",
+          "sources": [
+            "The Guardian"
+          ],
+          "slug": "albanese-savings-rba-hike-2026-10-30"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Farrell tells farmers the Australia–EU free trade deal is not open to renegotiation",
+          "summary": "Trade Minister Don Farrell says the EU FTA could add $10 billion in trade in its first year, rejecting Coalition calls to reopen it; beef and lamb groups remain opposed.",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "farrell-eu-fta-farmers-2026-10-30"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Europe split over whether to pick up the phone to Putin",
+          "summary": "With no single European negotiator, some leaders are opening their own channels to Moscow, with messy results, the Guardian reports.",
+          "sources": [
+            "The Guardian"
+          ],
+          "slug": "europe-split-putin-talks-2026-10-30"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Meloni cabinet approves 2027 budget; EU moves to expand refining capacity",
+          "summary": "Italy's cabinet approved its 2027 budget bill with a newborns fund and energy cost measures; the EU says it will boost domestic refining as energy prices rise.",
+          "sources": [
+            "Anadolu Agency"
+          ],
+          "slug": "meloni-budget-eu-refining-2026-10-30"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "OpenAI's GPT-6.1 Terra released 26 October; Anthropic and Google latest models tracked",
+          "summary": "A model tracker reports GPT-6.1 Terra shipped 26 October, with Claude Haiku 5.5 (7 October) and Gemini 4 Argon (13 October) as the latest from Anthropic and Google.",
+          "sources": [
+            "claudegpt.si model tracker"
+          ],
+          "slug": "gpt-6-1-terra-release-2026-10-30"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "US-brokered Oleshky truce holds as aid convoy readied; Dnipro train strike kills 14",
+          "summary": "A localised Russia–Ukraine ceasefire around Oleshky held for a third day, with aid due to move Friday, even as a Russian drone strike on a Dnipro train station killed at least 14.",
+          "sources": [
+            "Associated Press",
+            "The Guardian"
+          ],
+          "slug": "oleshky-truce-holding-2026-10-30"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Trump confirms Vance contact with Iran as Qatar-led mediators push for UN inspector access",
+          "summary": "Trump says Washington is communicating with Iran through mediators; Qatar-led efforts seek UN inspector access to bombed nuclear sites in exchange for some sanctions relief.",
+          "sources": [
+            "Anadolu Agency",
+            "Axios (via Anadolu)",
+            "Wall Street Journal (via Anadolu)"
+          ],
+          "slug": "iran-mediators-vance-letter-2026-10-30"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "Nature: Megacauda fossil sheds light on evolution of the mammalian throat; LLM test-ordering costs flagged",
+          "summary": "The 29 October Nature issue features a Megacauda fossil study on mammalian throat evolution, and research finding large language models order more tests and referrals than physicians.",
+          "sources": [
+            "Nature (via Intellicurious)"
+          ],
+          "slug": "megacauda-fossil-nature-2026-10-30"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Spain's Toledo high-speed rail collision kills at least 68; three days of mourning",
+          "summary": "A Renfe train hit a stopped Iryo train near Toledo on Wednesday; the transport minister says a control-centre order to proceed after a signalling failure was 'inexplicable'.",
+          "sources": [
+            "Associated Press",
+            "Reuters",
+            "The Guardian",
+            "New York Times"
+          ],
+          "slug": "spain-toledo-train-crash-2026-10-30"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Seven tankers carrying 288,000 tonnes of Russian diesel head for the US under the Trump–Putin deal",
+          "summary": "Greenpeace-tracked tankers carrying an estimated 288,000 tonnes of Russian diesel are the first phase of the Trump–Putin arrangement, with uncertainty over whether they will unload.",
+          "sources": [
+            "The Guardian",
+            "Greenpeace",
+            "Council on Foreign Relations"
+          ],
+          "slug": "russian-diesel-tankers-trump-deal-2026-10-30"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Israel's election count completes with no bloc at 61; Netanyahu on 53, opposition on 48",
+          "summary": "Final tallies show Netanyahu's bloc on 53 seats and Eisenkot's on 48, with Arab parties on 19 — neither side reaches the 61-seat majority.",
+          "sources": [
+            "Al Jazeera",
+            "Haaretz",
+            "Ynet"
+          ],
+          "slug": "israel-election-no-majority-2026-10-30"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "North Korea fires about a dozen short-range ballistic missiles from Wonsan",
+          "summary": "South Korea's military says roughly a dozen short-range ballistic missiles were launched from the Wonsan area toward the East Sea; Japan issued a coast-guard warning.",
+          "sources": [
+            "Anadolu Agency",
+            "Yonhap (via Anadolu)",
+            "Kyodo (via Anadolu)"
+          ],
+          "slug": "north-korea-srbm-launch-2026-10-30"
+        }
+      ]
+    },
+    {
       "date": "2026-10-29",
       "stories": [
         {
