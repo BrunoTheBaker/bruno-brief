@@ -1,6 +1,130 @@
 {
   "days": [
     {
+      "date": "2026-10-31",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "10-year Treasury yield near 4.9%, 2-year at 4.56%",
+          "summary": "Par yields on Oct 30 were 4.94% (10Y) and 4.56% (2Y), with the 10Y about 38bp above the 2Y. The 30Y stood at 5.31%.",
+          "sources": [
+            "Portfolio Terminal"
+          ],
+          "slug": "ust-10y-yields-2026-10-31"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "One Nation accuses Albanese of 'dirty games' over Senate staffing",
+          "summary": "One Nation says the PM offered crossbench senator David Farley extra staffing, a claim it calls manipulation; Labor has not conceded the staffing levels.",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "one-nation-staffing-dispute-2026-10-31"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Parliament launches Australia Post inquiry; fast-track drone counter-measures bill",
+          "summary": "A House committee probe into Australia Post's future opened on 30 Oct, while a fast-track inquiry began on new laws letting the ADF take down drones over bases.",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "australia-post-inquiry-drone-laws-2026-10-31"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Canada and EU launch 'Alliance for the Future', open to other countries",
+          "summary": "Carney and von der Leyen unveiled the bloc-Canada partnership at a Montreal summit on 30 Oct; Carney says Canada will seek to become the EU's first associate member.",
+          "sources": [
+            "The Guardian",
+            "CBC News",
+            "Politico"
+          ],
+          "slug": "canada-eu-alliance-for-the-future-2026-10-31"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Lagarde to leave ECB in February, opening race for successor",
+          "summary": "Contexte's 30 Oct briefing reports Christine Lagarde will leave the ECB in February, starting a race to pick her replacement.",
+          "sources": [
+            "Contexte"
+          ],
+          "slug": "lagarde-leave-ecb-february-2026-10-31"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "OpenAI releases GPT-6.1 Terra, an agent that can operate apps",
+          "summary": "Launched 26 Oct, GPT-6.1 Terra can read a user's screen and click through apps; it is available in ChatGPT paid tiers, Codex, the API and Amazon Bedrock.",
+          "sources": [
+            "India Today"
+          ],
+          "slug": "openai-gpt-6-1-terra-2026-10-31"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Russian strikes plunge Dnipro region into blackout as Zelenskyy warns of missiles",
+          "summary": "CNBC reports Russian strikes left a Ukrainian city in blackout on 30 Oct, with Zelenskyy warning of further missile attacks; Reuters reported a drone strike on a rail platform killing 14 on 29 Oct.",
+          "sources": [
+            "CNBC",
+            "Reuters"
+          ],
+          "slug": "dnipro-strikes-blackout-2026-10-31"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Polymarket probes suspicious bets on Israeli election outcome",
+          "summary": "Polymarket is investigating well-timed, profitable trades on the Israeli election, placed by hundreds of new accounts shortly before polls closed.",
+          "sources": [
+            "WSJ",
+            "Straits Times",
+            "Jerusalem Post",
+            "Harvey Waroona Reporter"
+          ],
+          "slug": "polymarket-israel-election-probe-2026-10-31"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Trump cancels Iowa and Kansas rallies, switches to tele-rallies",
+          "summary": "Trump dropped weekend in-person rallies in Iowa and Kansas for telerallies in at least 20 states, days before the midterms.",
+          "sources": [
+            "Al Jazeera",
+            "CNN",
+            "Spectrum News"
+          ],
+          "slug": "trump-cancels-rallies-telerallies-2026-10-31"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "Japanese researchers find protein that protects egg-cell chromosomes",
+          "summary": "A protein that preserves chromosomes in egg cells over time may help explain age-related fertility decline, according to a study in Nature Aging published 29 Oct.",
+          "sources": [
+            "The Japan Times"
+          ],
+          "slug": "japan-protein-egg-chromosomes-2026-10-31"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "Blocking a microRNA reverses atrial fibrosis in mice",
+          "summary": "Baylor and Oxford researchers report that blocking miR-31-5p reversed established heart scarring and reduced abnormal rhythms in mouse models of atrial fibrillation.",
+          "sources": [
+            "Medical Xpress",
+            "Nature Cardiovascular Research"
+          ],
+          "slug": "atrial-fibrillation-miR-31-2026-10-31"
+        }
+      ]
+    },
+    {
       "date": "2026-10-30",
       "stories": [
         {
