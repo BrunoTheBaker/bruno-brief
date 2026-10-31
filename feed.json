@@ -1,6 +1,115 @@
 {
   "days": [
     {
+      "date": "2026-11-01",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "US 10-year Treasury yield falls to 4.94% as the curve stays upward-sloping",
+          "summary": "Official Treasury par yields for 30 Oct: 10-year 4.94% (−4bp on the day, −35bp over the month), 2-year 4.56%, 30-year 5.31%; 10s–2s spread +38bp.",
+          "sources": [
+            "U.S. Treasury",
+            "YourBestSavings"
+          ],
+          "slug": "us-10y-yield-2026-11-01"
+        },
+        {
+          "bucket": "EU Politics",
+          "emoji": "🇪🇺",
+          "headline": "Poland's president calls crisis talks after constitutional court standoff",
+          "summary": "Karol Nawrocki cut short a Senegal trip and called urgent talks after police surrounded the constitutional court, following the suspension of its president Bogdan Swieczkowski. PiS supporters protested against Donald Tusk's government.",
+          "sources": [
+            "Rapporteur",
+            "POLITICO"
+          ],
+          "slug": "poland-court-standoff-2026-11-01"
+        },
+        {
+          "bucket": "EU Politics",
+          "emoji": "🇪🇺",
+          "headline": "Carney says EU–Canada ties are 'tight' as Berlin objects to 'associate membership' label",
+          "summary": "After the EU–Canada summit in Montreal, PM Mark Carney called ties with the EU 'tight' and said he would not change how he talks about Europe to placate Trump. POLITICO reported Berlin objected to the 'associate membership' label von der Leyen proposed.",
+          "sources": [
+            "POLITICO Brussels Playbook"
+          ],
+          "slug": "carney-eu-canada-tight-ties-2026-11-01"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "OpenAI ships GPT-6.1 Terra, a fast computer-use model at $1/$5 per million tokens",
+          "summary": "Released 26 October: a model for computer use, visual reasoning and writing, live in ChatGPT Work and Codex and in the API as gpt-6.1-terra, priced at half the rate of GPT-6.1 Sol.",
+          "sources": [
+            "ITmedia PC USER",
+            "TrustLoud"
+          ],
+          "slug": "gpt-6-1-terra-2026-11-01"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Google's Gemini 4 Carbon is announced, but only for a subset of cyber defenders",
+          "summary": "Announced 28 October as Google's strongest model for cybersecurity and long-horizon tasks. General access is 'coming soon' with no date, and it was not listed in the Gemini API docs as of 31 October.",
+          "sources": [
+            "SW Architect",
+            "Agentic Weekly"
+          ],
+          "slug": "gemini-4-carbon-2026-11-01"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Anthropic's SEC filing says it delayed pre-training of a new frontier model",
+          "summary": "Anthropic's S-1, filed with the SEC on 26 October, says pre-training of a new frontier base model was delayed by more than a month to add security against model-weight exfiltration. It names no model and gives no date.",
+          "sources": [
+            "SW Architect"
+          ],
+          "slug": "anthropic-s1-model-delay-2026-11-01"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Drone strike sinks a container ship off Bulgaria as MEPs seek more EU Black Sea funding",
+          "summary": "A drone attack sank a container ship off Bulgaria's Black Sea coast on Wednesday 28 October. EPP MEPs visiting Varna backed Bulgaria's request for €2bn on top of its planned €22.3bn.",
+          "sources": [
+            "Rapporteur"
+          ],
+          "slug": "black-sea-drone-attacks-eu-funding-2026-11-01"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Trump administration approves potential sale of 500 Patriot missiles to Ukraine",
+          "summary": "The State Department approved a possible sale of 500 Patriot interceptors on Friday 30 October, subject to congressional review. Zelenskyy warned deliveries could begin only in a few years.",
+          "sources": [
+            "Rapporteur"
+          ],
+          "slug": "patriot-500-missiles-ukraine-2026-11-01"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Ukraine's Starlink speed limits leave drone defences exposed; EU under pressure",
+          "summary": "Zelenskyy says reduced Starlink speeds stopped troops intercepting Shahed drones. Reuters reported the order came from the White House; the EU's own IRIS² network is not expected until 2030.",
+          "sources": [
+            "POLITICO"
+          ],
+          "slug": "ukraine-starlink-speed-limits-2026-11-01"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "After looting spree, France tells online resellers to crack down on stolen goods",
+          "summary": "The French government asked leading online marketplaces such as Vinted and eBay to bar listings of goods stolen during a weekend looting spree across France.",
+          "sources": [
+            "POLITICO"
+          ],
+          "slug": "france-looting-online-resellers-2026-11-01"
+        }
+      ]
+    },
+    {
       "date": "2026-10-31",
       "stories": [
         {
