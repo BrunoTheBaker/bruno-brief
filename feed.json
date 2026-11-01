@@ -1,6 +1,119 @@
 {
   "days": [
     {
+      "date": "2026-11-02",
+      "stories": [
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Google, OpenAI, Microsoft and Anthropic back one shared robots.txt signal to refuse AI training",
+          "summary": "Four AI firms plan to honour a common robots.txt token for opting out of model training. Google targets early 2027, Microsoft 1 Feb 2027, OpenAI 'in the coming months'.",
+          "sources": [
+            "Secritic",
+            "Digital Today"
+          ],
+          "slug": "ai-training-optout-robots-txt-2026-11-02"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Google runs Gemma 4 on TPUs aboard a prototype satellite in orbit",
+          "summary": "Google's Project Suncatcher prototype returned an AI response from a data-centre-class TPU in orbit, announced 30 October as a step toward computing beyond Earth.",
+          "sources": [
+            "AI Edge Insights"
+          ],
+          "slug": "gemma-4-tpu-orbit-suncatcher-2026-11-02"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Anthropic narrows Claude Code so it no longer recreates existing games; developers say it over-blocks",
+          "summary": "A prompt update on Opus 5.5 steers Claude Code away from cloning specific games. Original games and genre work remain allowed, but some developers report blocked legitimate projects.",
+          "sources": [
+            "AyrAI",
+            "Universe of AI"
+          ],
+          "slug": "claude-code-game-cloning-limit-2026-11-02"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Iran and US negotiators work on a two-day plan to reopen the Strait of Hormuz",
+          "summary": "Iran's foreign minister says talks with Qatari mediators are under way on reopening Hormuz within two days if the US lifts its blockade on oil ships. Washington's response is awaited.",
+          "sources": [
+            "The Guardian",
+            "Al Jazeera"
+          ],
+          "slug": "hormuz-two-day-reopening-talks-2026-11-02"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Oleshky truce expires as Russian strikes cut power to hundreds of thousands in Ukraine",
+          "summary": "The six-day local ceasefire around Oleshky ended Sunday night. Zelensky says Russian strikes hit energy infrastructure in four regions, leaving hundreds of thousands of homes without power.",
+          "sources": [
+            "BBC",
+            "Kyiv Independent",
+            "NBC News"
+          ],
+          "slug": "oleshky-truce-ends-energy-strikes-2026-11-02"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Ukraine hits Russia's Kamensky missile plant, claiming about $70m of air-defence hardware destroyed",
+          "summary": "Zelensky says Neptune missiles and drones hit the Kamensky plant in Rostov, alongside a Pantsir-S2 system and an S-400 command vehicle. Kyiv's General Staff confirmed the strike.",
+          "sources": [
+            "The Independent",
+            "NBC News"
+          ],
+          "slug": "kamensky-missile-plant-strike-2026-11-02"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Drones set Russia's NORSI (Kstovo) refinery ablaze; Nizhny Novgorod urges calm on fuel",
+          "summary": "Overnight on 1 November, drones reportedly hit the Lukoil-Nizhegorodnefteorgsintez refinery in Kstovo, causing fires. Regional authorities urged motorists to buy fuel only as needed.",
+          "sources": [
+            "Kyiv Independent",
+            "NBC News",
+            "United24"
+          ],
+          "slug": "kstovo-norsi-refinery-ablaze-2026-11-02"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Ukraine says Russia suffered its deadliest month of the war in October",
+          "summary": "Kyiv says Russia lost 54,400 soldiers killed or seriously wounded in October, the highest monthly total of the war. Ukraine also claims it retook more ground in October than it lost. Figures are Ukrainian.",
+          "sources": [
+            "The Independent"
+          ],
+          "slug": "russia-record-october-losses-2026-11-02"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "Chinese chemists make a planar carbon nanoribbon that conducts like a metal",
+          "summary": "Researchers at USTC built a narrow ribbon of pentagon and heptagon carbon rings. The metallic version carries electrons with little scattering, close to a single quantum channel; a sister ribbon is a semiconductor.",
+          "sources": [
+            "Technology.org"
+          ],
+          "slug": "pentaheptite-carbon-nanoribbon-metal-2026-11-02"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "Brown University engineers keep multiferroic bismuth ferrite working at a few angstroms thick",
+          "summary": "A three-layer film design removes the 'dead layer' that normally kills ferroelectric and magnetic behaviour in very thin bismuth ferrite, and the thin film also shows altermagnetism. Published in Nature Materials.",
+          "sources": [
+            "SciTechDaily (Brown University release)"
+          ],
+          "slug": "bismuth-ferrite-ultrathin-dead-layer-2026-11-02"
+        }
+      ]
+    },
+    {
       "date": "2026-11-01",
       "stories": [
         {

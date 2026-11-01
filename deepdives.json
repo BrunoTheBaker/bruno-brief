@@ -1,5 +1,133 @@
 {
   "deepdives": {
+    "2026-11-02": {
+      "ai-training-optout-robots-txt-2026-11-02": {
+        "headline": "Google, OpenAI, Microsoft and Anthropic back one shared robots.txt signal to refuse AI training",
+        "summary": "Four AI firms plan to honour a common robots.txt token for opting out of model training. Google targets early 2027, Microsoft 1 Feb 2027, OpenAI 'in the coming months'.",
+        "detail": "Google, OpenAI, Microsoft and Anthropic have said they will support a shared instruction in a website's robots.txt file that lets publishers state a preference against their content being used to train generative AI models. The announcements came on 30 October 2026. Instead of maintaining a separate opt-out for each provider, a site owner can use one common rule, which the companies say they will honour when they detect the token.\n\nThe rollout is staggered. Google says it aims to support the control in 2027 and has explained how the shared preference will interact with its existing Google-Extended control, which covers more than model training. Microsoft says it will begin honouring the preferences from 1 February 2027. OpenAI says it plans to implement the signal in the coming months without giving a date, and that its existing crawler controls will keep operating. Anthropic has reportedly started implementing support, though no completion date has been announced.\n\nThe technical proposal was submitted to the Internet Engineering Task Force by an engineer whose draft lists an Anthropic affiliation. Reporting on the IETF discussion describes the token as a stated preference rather than a crawling directive. Coverage is explicit that it is not a universal block: it depends on each company honouring the token, and Google's interpretation could affect whether content is available to certain Gemini services.\n\nWhy it matters: publishers have had to negotiate opt-outs company by company. A single, cross-vendor signal lowers that cost for independent sites, but the practical effect will only be known once the 2027 timelines land and independent auditors or publishers can test compliance.",
+        "sources": [
+          "Secritic",
+          "Digital Today"
+        ],
+        "source_urls": [
+          "https://secritic.com/2026/11/01/google-openai-and-microsoft-back-a-new-way-to-stop-ai-training-on-website-content/",
+          "https://www.digitaltoday.co.kr/en/view/122222/openai-google-microsoft-anthropic-adopt-common-standard-to-refuse-ai-training"
+        ]
+      },
+      "gemma-4-tpu-orbit-suncatcher-2026-11-02": {
+        "headline": "Google runs Gemma 4 on TPUs aboard a prototype satellite in orbit",
+        "summary": "Google's Project Suncatcher prototype returned an AI response from a data-centre-class TPU in orbit, announced 30 October as a step toward computing beyond Earth.",
+        "detail": "Google says its experimental Project Suncatcher has run its Gemma 4 open-weight model on Tensor Processing Units (TPUs) aboard a prototype satellite in orbit. The company announced the result on 30 October 2026 and described it as the first successful AI response from a data-centre-class TPU in orbit.\n\nThe demonstration is a prototype milestone, not a commercial service. Space-based computing has been proposed as a way to use abundant solar power and avoid some terrestrial data-centre constraints, but the key open questions are radiation tolerance over long mission lifetimes, thermal management, the cost of launch and the bandwidth needed to move data to and from orbit. A single successful inference run does not answer those.\n\nThe reporting this summary relies on is a single secondary roundup. Google's own announcement, and any technical details on the satellite, should be checked against the primary source before the claim is relied on in a formal setting.",
+        "sources": [
+          "AI Edge Insights"
+        ],
+        "source_urls": [
+          "https://aiedgeinsights.com/ai-news-november-1-2026-google-openai-anthropic/"
+        ]
+      },
+      "claude-code-game-cloning-limit-2026-11-02": {
+        "headline": "Anthropic narrows Claude Code so it no longer recreates existing games; developers say it over-blocks",
+        "summary": "A prompt update on Opus 5.5 steers Claude Code away from cloning specific games. Original games and genre work remain allowed, but some developers report blocked legitimate projects.",
+        "detail": "Anthropic has updated Claude Code, running on Opus 5.5, so that it steers away from recreating a specific existing video game. An Anthropic staff member said the company added two sentences to the system prompt because using Claude to infringe intellectual property is against its usage policy. Coverage says the change applies even when a game has been renamed.\n\nAccording to the company's framing, Claude will still build original games, games within a genre, and games based on a user's own designs and assets. The line is therefore between reproducing a protected title and creating new work, which is the usual distinction in IP policy.\n\nDeveloper reaction has been mixed. Some users report that the change also blocks harmless reverse-engineering and work on their own projects, and Tom's Hardware coverage cited in one roundup describes that complaint. These are user reports rather than measured results, so the scope of the over-blocking is not established by the sources reviewed.",
+        "sources": [
+          "AyrAI",
+          "Universe of AI"
+        ],
+        "source_urls": [
+          "https://ayrai.com/article/ai-insights-2026-11-01",
+          "https://universe-of-ai.beehiiv.com/p/this-week-in-the-universe-of-ai-d7ef"
+        ]
+      },
+      "hormuz-two-day-reopening-talks-2026-11-02": {
+        "headline": "Iran and US negotiators work on a two-day plan to reopen the Strait of Hormuz",
+        "summary": "Iran's foreign minister says talks with Qatari mediators are under way on reopening Hormuz within two days if the US lifts its blockade on oil ships. Washington's response is awaited.",
+        "detail": "Iran's Foreign Minister Abbas Araghchi said on 1 November that talks are under way with Qatari mediators on a plan to reopen the Strait of Hormuz within two days, provided the US cooperates. According to Al Jazeera's live coverage, Tehran is waiting on a US response to its proposal.\n\nAraghchi's stated condition is sequencing: Iran has offered to open the strait within two days of the US acting to lift the blockade on oil ships (the Guardian excerpt also refers to a second, partly truncated US-side condition). The Guardian's coverage the same day reported that negotiators were 'braced for the worst', signalling that the two-day framework is not yet agreed.\n\nBackground: shipping through the strait has been largely blocked by Iran since late February 2026, when the US and Israel launched air strikes on Iran, according to the Wikipedia summary of the crisis. Energy prices, including diesel, have been affected, and Trump has linked the Ukrainian refinery campaign to higher diesel costs ahead of US midterms, per NBC News reporting.\n\nWhat to watch: whether the US responds to the sequencing proposal, and whether any blockade easing is observable in tanker movements through Hormuz over the next few days. Both Guardian and Al Jazeera coverage should be treated as live, and the status may change quickly.",
+        "sources": [
+          "The Guardian",
+          "Al Jazeera"
+        ],
+        "source_urls": [
+          "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz",
+          "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz"
+        ]
+      },
+      "oleshky-truce-ends-energy-strikes-2026-11-02": {
+        "headline": "Oleshky truce expires as Russian strikes cut power to hundreds of thousands in Ukraine",
+        "summary": "The six-day local ceasefire around Oleshky ended Sunday night. Zelensky says Russian strikes hit energy infrastructure in four regions, leaving hundreds of thousands of homes without power.",
+        "detail": "A rare local humanitarian ceasefire in Ukraine's Kherson region, which allowed civilians to leave the Russian-occupied city of Oleshky, ended at 22:59 Ukrainian time on Sunday 1 November. The pause was brokered with help from US First Lady Melania Trump and Pope Leo, and was expanded beyond Oleshky itself. The Ukrainian General Staff said 167 civilians were evacuated from threatened areas on the final day.\n\nFighting continued elsewhere during the truce. Zelensky said Russia struck energy infrastructure in four regions overnight on Saturday, leaving hundreds of thousands of homes without power. Kyiv said Russian attacks killed one person and injured at least 47 across the country over the previous day. Ukraine's air force said it downed 371 of 433 long-range drones launched by Russia since Saturday evening.\n\nUkraine's energy grid is the main focus of the campaign ahead of winter. DTEK introduced emergency outages in Kyiv, and three of its workers were injured. Zelensky has called on partners to speed up air-defence support, saying Russia is exploiting a shortage of ballistic missile interceptors. Ukraine says it supports a full ceasefire on energy targets; Russia has not agreed to one, according to the reporting.\n\nWhat to watch: whether the Oleshky humanitarian arrangement is extended, and whether the energy-strike campaign continues into the coldest weeks of winter.",
+        "sources": [
+          "BBC",
+          "Kyiv Independent",
+          "NBC News"
+        ],
+        "source_urls": [
+          "https://www.bbc.com/news/articles/c64g1y90p71eo",
+          "https://kyivindependent.com/russian-attacks-kill-1-injure-47-over-past-day-leaving-hundreds-of-thousands-without-electricity/",
+          "https://www.nbcnews.com/world/ukraine/russian-strikes-cut-power-thousands-ukraine-trumps-energy-ceasefire-rcna606784"
+        ]
+      },
+      "kamensky-missile-plant-strike-2026-11-02": {
+        "headline": "Ukraine hits Russia's Kamensky missile plant, claiming about $70m of air-defence hardware destroyed",
+        "summary": "Zelensky says Neptune missiles and drones hit the Kamensky plant in Rostov, alongside a Pantsir-S2 system and an S-400 command vehicle. Kyiv's General Staff confirmed the strike.",
+        "detail": "Zelensky said on Sunday that Ukrainian forces struck the Kamensky missile plant in Russia's Rostov region, and that the strike destroyed an estimated $70 million of Russian air-defence hardware, including a Pantsir-S2 system and an S-400 Triumph command vehicle. Ukraine's General Staff confirmed the strike used Neptune cruise missiles and drones against several production workshops. NBC News reports that Kyiv describes the plant as involved in manufacturing Russian missiles. Moscow did not comment.\n\nThe $70 million figure is Ukrainian and has not been independently verified. The strike is part of a broader deep-strike campaign in which Ukraine says it has also hit the Energiya plant (guidance batteries for aerial glide bombs) and an Iskander-M launcher in Kursk, as well as destroying two Russian bombers valued at roughly $100 million, per the Ukrainian Ministry of Defence.\n\nThe campaign is framed by Kyiv as degrading Russia's ability to mount aerial barrages against Ukrainian cities, and it lands as Ukraine says Russia is short of ballistic-missile interceptors on its own side. Both sides' long-range strikes continued over the same weekend.",
+        "sources": [
+          "The Independent",
+          "NBC News"
+        ],
+        "source_urls": [
+          "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-live-drone-oil-refinery-nizhny-novgorod-kstovo-b3077050.html",
+          "https://www.nbcnews.com/world/ukraine/russian-strikes-cut-power-thousands-ukraine-trumps-energy-ceasefire-rcna606784"
+        ]
+      },
+      "kstovo-norsi-refinery-ablaze-2026-11-02": {
+        "headline": "Drones set Russia's NORSI (Kstovo) refinery ablaze; Nizhny Novgorod urges calm on fuel",
+        "summary": "Overnight on 1 November, drones reportedly hit the Lukoil-Nizhegorodnefteorgsintez refinery in Kstovo, causing fires. Regional authorities urged motorists to buy fuel only as needed.",
+        "detail": "A major Russian refinery in Kstovo, Nizhny Novgorod Oblast, was reportedly struck by drones overnight on 1 November 2026. Ukrainian monitoring channels published footage of fires at the NORSI (Lukoil-Nizhegorodnefteorgsintez) facility, and United24 described thick smoke over the site. Kyiv did not immediately claim the attack, according to NBC News.\n\nThe regional governor, Gleb Nikitin, said a large-scale overnight drone attack caused 'significant damage' to an industrial facility without naming it. The regional government said it was ensuring petrol stations were supplied and urged motorists to 'buy fuel only as needed and avoid panic buying', which suggests the damaged site is linked to refining or fuel supply.\n\nNORSI is one of Russia's largest refineries; Independent reporting says the Kstovo hub processes about five per cent of the country's crude. Russia had complained on Friday that Ukraine had resumed strikes on refineries despite a request from Trump to stop them, and Trump has blamed the strikes for higher diesel costs before US midterms.\n\nWhat to watch: official damage assessments, whether Russian authorities confirm output losses, and whether fuel shortages appear in the region.",
+        "sources": [
+          "Kyiv Independent",
+          "NBC News",
+          "United24"
+        ],
+        "source_urls": [
+          "https://kyivindependent.com/russian-oil-refinery-in-kstovo-ablaze-after-reported-overnight-drone-strike/",
+          "https://www.nbcnews.com/world/ukraine/russian-strikes-cut-power-thousands-ukraine-trumps-energy-ceasefire-rcna606784",
+          "https://united24media.com/war-in-ukraine/russias-oil-industry-takes-another-hit-as-drones-ignite-massive-fire-at-lukoil-refinery-23981"
+        ]
+      },
+      "russia-record-october-losses-2026-11-02": {
+        "headline": "Ukraine says Russia suffered its deadliest month of the war in October",
+        "summary": "Kyiv says Russia lost 54,400 soldiers killed or seriously wounded in October, the highest monthly total of the war. Ukraine also claims it retook more ground in October than it lost. Figures are Ukrainian.",
+        "detail": "Ukrainian military officials say Russia sustained 54,400 casualties in October 2026, which they describe as the deadliest month of the full-scale war so far. The figure is above a previous monthly high of 48,670 recorded in December 2024. The Independent's coverage says Ukrainian military planners warn that Russian frontline losses are now outweighing Moscow's recruitment pipeline.\n\nZelensky also said on Sunday that Ukrainian troops reclaimed 96.2 square kilometres in October, surpassing the 10.4 square kilometres more than Russia seized over the same period by Ukraine's count.\n\nThese are unverified Ukrainian figures. Russia has not disputed or confirmed them in the sources reviewed, and independent casualty estimates are typically much lower and published with a delay. Treat the numbers as a claim by one party to the war.",
+        "sources": [
+          "The Independent"
+        ],
+        "source_urls": [
+          "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-live-drone-oil-refinery-nizhny-novgorod-kstovo-b3077050.html"
+        ]
+      },
+      "pentaheptite-carbon-nanoribbon-metal-2026-11-02": {
+        "headline": "Chinese chemists make a planar carbon nanoribbon that conducts like a metal",
+        "summary": "Researchers at USTC built a narrow ribbon of pentagon and heptagon carbon rings. The metallic version carries electrons with little scattering, close to a single quantum channel; a sister ribbon is a semiconductor.",
+        "detail": "In 1996 theorists predicted that a flat carbon sheet built from pentagons and heptagons, rather than graphene's hexagons, would behave as a metal. Researchers at the University of Science and Technology of China have now made a narrow ribbon with that structure and measured current through it, in a study reported in Nature.\n\nThe ribbon called CPHN 1 reached a conductance of about 0.9 of the conductance quantum, the basic unit for a single ideal electron channel, at low temperature and 10 millivolts bias. That value barely changed as the ribbon length grew to about 4 nanometres, which the authors read as near-ballistic transport. A sister ribbon, CPHN 2, was a narrow-bandgap semiconductor with conductance roughly 100 times lower.\n\nThe result shows that a change in edge arrangement alone can switch a carbon ribbon between metal and semiconductor. The ribbons grow on silver and would have to be transferred to a chip before any device use, and the authors say further synthetic optimisation is needed. This is a fundamental materials result, not a near-term electronics product.",
+        "sources": [
+          "Technology.org"
+        ],
+        "source_urls": [
+          "https://www.technology.org/2026/11/01/carbon-nanoribbon-pentaheptite-metal-conductance/"
+        ]
+      },
+      "bismuth-ferrite-ultrathin-dead-layer-2026-11-02": {
+        "headline": "Brown University engineers keep multiferroic bismuth ferrite working at a few angstroms thick",
+        "summary": "A three-layer film design removes the 'dead layer' that normally kills ferroelectric and magnetic behaviour in very thin bismuth ferrite, and the thin film also shows altermagnetism. Published in Nature Materials.",
+        "detail": "Bismuth ferrite is a multiferroic material that is both ferroelectric and magnetic, which makes it attractive for low-power memory and logic. Its useful properties usually disappear when it is grown thin enough for modern electronics, a limitation known as the 'dead layer' effect. Researchers at Brown University, led by Lucas Caretta, report in Nature Materials a way around that problem.\n\nThe team grew the bismuth ferrite on dysprosium scandate, a substrate with a smaller lattice spacing that puts the film under compressive strain and preserves its atomic arrangement. They also added a metallic layer that screens unwanted electric fields, so they do not destabilise the film's polarisation. With both controls, the film stayed ferroelectric and magnetic at thicknesses of only a few angstroms.\n\nThe films also showed altermagnetism, a magnetic state that the researchers say combines fast operation and dense integration with a readable electrical signal. The work demonstrates material properties rather than a working chip, but it addresses a barrier to using multiferroics in practical electronics, as demand for computing grows with AI.",
+        "sources": [
+          "SciTechDaily (Brown University release)"
+        ],
+        "source_urls": [
+          "https://scitechdaily.com/a-breakthrough-in-magnetism-could-make-computer-chips-use-dramatically-less-energy/"
+        ]
+      }
+    },
     "2026-11-01": {
       "us-10y-yield-2026-11-01": {
         "headline": "US 10-year Treasury yield falls to 4.94% as the curve stays upward-sloping",
