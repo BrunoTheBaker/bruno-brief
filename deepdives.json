@@ -1683,30 +1683,144 @@
         "updated": "2026-10-13"
       }
     },
-    "2026-10-07": {
-      "fomc-minutes-october-2026-release-time-preview-2026-10-07": {
-        "headline": "FOMC Minutes October 2026: Release Time and Preview",
-        "summary": "FOMC minutes for October 7, 2026 show Fed officials divided on the pace of further hikes, with the core favouring a patient pace and futures pricing implying a low chance of an October move but higher chance of a December move.",
-        "detail": "The Federal Open Market Committee released the minutes of its September 2026 meeting on 7 October 2026, revealing a split among policymakers regarding the future path of interest rates. According to the minutes, the core of the committee appears to favour a patient pace of further tightening, emphasizing the need to see more progress on inflation before considering additional hikes. Meanwhile, some officials expressed concern that lingering inflationary pressures could warrant a more aggressive stance.\n\nFutures markets reacted cautiously to the release, with traders interpreting the minutes as indicating a low probability of a rate hike at the upcoming November meeting, but a higher chance of a move in December. The minutes noted that the Committee remained data-dependent, with upcoming releases on employment, inflation, and consumer spending playing a decisive role in shaping policy expectations.\n\nThe document also highlighted internal debates over the appropriate policy stance, with some participants warning that premature easing could undermine hard-won gains in inflation control, while others cautioned that overly restrictive policy risked tipping the economy into an unnecessary downturn. The minutes underscored the Committee's commitment to transparency, stating that all views were considered in reaching a consensus.\n\nMarket analysts noted that the minutes reinforced the view that the Federal Reserve is likely to remain on hold for the remainder of 2026, with any further tightening contingent on persistent inflation readings. The release contributed to a modest decline in Treasury yields as investors digested the dovish tilt in the Committee's deliberations.",
-        "sources": [
-          "Admiral Markets"
-        ],
-        "source_urls": [
-          "https://admiralmarkets.com/analytics/traders-blog/fomc-minutes-october-2026"
-        ],
-        "updated": "2026-10-07"
-      },
-      "treasury-yields-slide-surge-multiyear-highs-cool-2026-10-07": {
-        "headline": "Treasury yields slide as surge to multiyear highs cools",
-        "summary": "Treasury yields slid after peaking at multiyear highs, as cooling services growth eased bond market pressures.",
-        "detail": "U.S. Treasury yields experienced a noticeable retreat from the multi\\u2011year highs reached earlier in the week, as incoming data pointed to a cooling in the services sector that alleviated some of the upward pressure on long\\u2011dated bonds. The 10\\u2011year Treasury yield, which had touched 5.31% on 6 October, slipped back to around 5.28% by the close of trading on 7 October, reflecting a shift in investor sentiment.\n\nThe pullback was attributed to a softer\\u2011than\\u2011expected services activity report, which suggested that the recent surge in yields driven by strong economic data and inflation concerns was beginning to lose steam. Market participants noted that while the goods sector remained robust, the services side \\u2014 a major contributor to overall GDP \\u2014 showed signs of moderation, reducing fears of an overheating economy that would necessitate further Federal Reserve tightening.\n\nAnalysts observed that the yield curve retained its upward slope, with the 2\\u2011year yield holding steady near 4.8% and the 30\\u2011year yield remaining above 5.6%. The movement underscored the sensitivity of long\\u2011dated Treasuries to fluctuations in inflation expectations and growth outlook, as traders recalibrated their forecasts for the Federal Reserve\\u2019s policy trajectory.\n\nDespite the retreat, yields remained elevated relative to historical levels, and strategists cautioned that any renewed acceleration in economic activity or a rebound in inflation could quickly revive the upward pressure on bonds. The episode highlighted the ongoing tug\\u2011of\\u2011war between hawkish and dovish forces in the market, with upcoming payrolls and inflation prints set to serve as the next major test for yield direction.",
+    "2026-11-03": {
+      "10-year-treasury-yield-eases-oil-slides-2026-11-03": {
+        "headline": "10-year Treasury yield slips to about 4.91% as oil falls on Iran diplomacy hopes",
+        "summary": "The 10-year yield was about 4.906%, the 30-year 5.279% and the 2-year 4.594% on Monday, with traders watching the week's jobs data and the US midterms.",
+        "detail": "US Treasury yields were mixed on Monday 2 November 2026. CNBC reported the 10-year Treasury down more than 2 basis points at 4.906%, the 30-year down 3 basis points to 5.279%, and the 2-year up more than 1 basis point to 4.594%.\n\nThe move came as a sharp fall in oil prices weighed on the inflation outlook. CNBC noted that yields had been strongly correlated with oil earlier in the year, a link that faded in October as attention shifted toward AI and Big Tech.\n\nThe week ahead is heavy with labour-market data: JOLTS job openings on Tuesday, ADP employment on Wednesday, productivity and jobless claims on Thursday, and October nonfarm payrolls on Friday. The Treasury also sets out planned note and bond auction sizes on Wednesday.\n\nInvestors are also watching Tuesday's midterm elections and what the result means for Congress's spending plans. Treasurys had already been bid on Friday 30 October after a large equity sell-off led by technology stocks.",
         "sources": [
           "CNBC"
         ],
         "source_urls": [
-          "https://www.cnbc.com/2026/10/06/treasury-yields-fed-fomc-minutes.html"
+          "https://www.cnbc.com/2026/11/02/us-treasury-yields-bonds.html"
+        ]
+      },
+      "high-court-under-16s-social-media-ban-2026-11-03": {
+        "headline": "High Court hears first major challenge to under-16s social media ban",
+        "summary": "Reddit and the Digital Freedom Project argue the ban breaches the implied freedom of political communication; hearings run Tuesday and Wednesday.",
+        "detail": "Australia's under-16s social media ban faces its first major legal challenge in the High Court, nearly a year after taking effect, ABC News reported. Reddit and the advocacy group Digital Freedom Project argue the law is unconstitutional because it reduces political communication.\n\nABC reported that nearly 5 million accounts have been blocked across 10 affected platforms, including Facebook, Instagram, Snapchat, TikTok, YouTube, X, Reddit and Twitch. The plaintiffs say many under-16s have dodged age-assurance technology and that harmful content remains available without an account.\n\nThe Commonwealth argues that any burden on political communication is indirect and modest, that the rules are consultative and can change over time, and that the freedom only applies to electors. The government says it will stand firm on protecting young Australians.\n\nThe case has drawn amicus interest from the Free Speech Union, NetChoice and the Electronic Frontier Foundation, and state and territory attorneys-general have made submissions supporting the Commonwealth. Hearings continue across Tuesday and Wednesday.",
+        "sources": [
+          "ABC News"
         ],
-        "updated": "2026-10-07"
+        "source_urls": [
+          "https://www.abc.net.au/news/2026-11-03/high-court-challenge-to-under-16s-social-media-ban/107336886"
+        ]
+      },
+      "rba-decision-today-cash-rate-4-60-2026-11-03": {
+        "headline": "RBA decides today at 11:30am AWST; cash rate 4.60%, markets expect a fifth 2026 rise",
+        "summary": "Monthly CPI hit 4.3% in September and trimmed mean 3.6%; CommBank forecasts a 25bp rise to 4.85%.",
+        "detail": "The Reserve Bank of Australia's Monetary Policy Board announces its November decision on 3 November 2026 at 2:30pm AEDT (11:30am AWST). The cash rate currently stands at 4.60%, after a 25bp rise on 29 September that was the fourth increase of 2026.\n\nVantage Markets reports September CPI at 4.3% year-on-year, up from 4.0% in August, with trimmed mean inflation at 3.6%. The gap between headline and trimmed mean widened to 0.7 percentage points, which Vantage highlights as the key tension in the decision.\n\nCommBank economists forecast a 25bp increase to 4.85%, describing it as an insurance hike. Governor Michele Bullock told a Senate committee on 28 October that inflation would likely be higher than the base case in August.\n\nThe AUD/USD pair was little changed around the recent RBA reference rates, so the currency has not visibly moved ahead of the announcement. The next monthly CPI release is on 25 November.",
+        "sources": [
+          "Vantage Markets (citing RBA, ABS, CommBank)"
+        ],
+        "source_urls": [
+          "https://www.vantagemarkets.com/market-news/rba-rate-decision-audusd-inflation-november-2-2026/"
+        ]
+      },
+      "belgian-pm-de-wever-resigns-budget-2026-11-03": {
+        "headline": "Belgian PM Bart De Wever resigns after 2027 budget talks fail; King yet to decide",
+        "summary": "De Wever handed in his resignation on Monday after failing to win coalition support for his 2027 budget; the King is withholding a decision.",
+        "detail": "Belgian Prime Minister Bart De Wever resigned on Monday 2 November 2026 after budget negotiations collapsed, AP reported. King Philippe has not yet decided whether to accept the resignation.\n\nAccording to coverage from Ground News and the Independent, De Wever failed to win support for his 2027 budget proposals from coalition partners, which deepened the country's financial strain. The crisis is framed as a long-running budget dispute rather than a single vote.\n\nThe king's decision will determine whether De Wever stays on or Belgium moves to a new government formation. Until then the status is unresolved.\n\nThe budget dispute is a domestic one in the sources reviewed; no EU-level consequence was reported in them.",
+        "sources": [
+          "AP"
+        ],
+        "source_urls": [
+          "https://apnews.com/article/belgium-budget-wever-king-government-crisis-debt-d6e28f97ddcf13c3b358201c4d45cf7e"
+        ]
+      },
+      "poland-constitutional-tribunal-crisis-2026-11-03": {
+        "headline": "Poland's constitutional crisis deepens as Tusk government suspends Tribunal president",
+        "summary": "Tribunal president Święczkowski was suspended after refusing to seat parliament-elected judges; President Nawrocki calls it a forcible takeover.",
+        "detail": "Poland's Constitutional Tribunal crisis escalated on Friday 30 October, when judge Anna Korwin-Piotrowska suspended the court's president Bogdan Święczkowski and his deputy for a month and announced she was taking charge, per POLITICO. AP reported that protesters, including PiS leader Jarosław Kaczyński, gathered outside the building for a second night.\n\nThe government says Święczkowski repeatedly broke the law and blocked judges elected by parliament from taking their seats. President Karol Nawrocki, who opposes the government, turned his plane back from a trip to Senegal and accused Tusk of a forcible takeover. Critics in the opposition called the move a coup d'état.\n\nAP notes the court's impairment predates Tusk's return to power: the Court of Justice of the EU had said the tribunal was no longer impartial after PiS appointments. Tusk's government has been blocked by vetoes from two successive PiS-aligned presidents.\n\nThe dispute is likely to deepen polarisation a year before Poland's parliamentary election, and sits at the centre of the wider rule-of-law confrontation between Warsaw and Brussels.",
+        "sources": [
+          "AP",
+          "POLITICO",
+          "CNN"
+        ],
+        "source_urls": [
+          "https://apnews.com/article/poland-european-union-protests-police-tribunal-0a346b1633cef7360277500a1273773f",
+          "https://www.politico.eu/article/tusk-nawrocki-battle-escalates-chief-judge-ousted-from-polands-top-court/"
+        ]
+      },
+      "anthropic-message-threads-beta-2026-11-03": {
+        "headline": "Anthropic launches message threads in public beta for long-running agents",
+        "summary": "Agents send only new messages each turn instead of the full history; Anthropic reports about 35% lower median time-to-first-token on 500k–1M token requests.",
+        "detail": "Anthropic has made message threads available in public beta on the Claude Platform, according to its Messages API announcement. The feature lets agents send the conversation once and then only new messages on each turn, rather than resending the full history.\n\nAnthropic says a coding agent can make hundreds of requests per session, and that once a conversation reaches hundreds of thousands of tokens the resend adds noticeable delay. With message threads on by default for most Claude Code users, the company reports median time-to-first-token falling about 35% for requests of 500k to 1M tokens.\n\nTo use it, developers add a thread parameter to Messages API requests. A thread expires five minutes after its last request, after which the client resends the full conversation to start a new one. Threads are held in memory, encrypted and not written to disk.\n\nAnthropic is explicit that Claude still reads the full conversation on each turn, so token usage is unchanged; the saving is latency, not cost.",
+        "sources": [
+          "Anthropic (claude.com)",
+          "Unite.AI"
+        ],
+        "source_urls": [
+          "https://claude.com/resources/articles/message-threads"
+        ]
+      },
+      "meituan-longcat-2-5-multimodal-model-2026-11-03": {
+        "headline": "Meituan releases LongCat-2.5, a 1.6-trillion-parameter multimodal model for agentic coding",
+        "summary": "About 48B parameters active per token; image and text in one token stream; company-reported 88.4 on Terminal Bench v2.1.",
+        "detail": "Meituan released LongCat-2.5 on 2 November 2026, a multimodal model with 1.6 trillion total parameters and about 48 billion activated per token, according to TechNode, citing IT Home. The model is aimed at tasks where AI agents must execute over long horizons, such as software projects on complex codebases.\n\nAccording to TechNode, Meituan expanded training on long task sequences and used large-scale reinforcement learning. It also converts failures from real agents into reproducible training tasks. Visual and text inputs share a unified token framework, supporting visual coding, creative design and 3D tasks.\n\nThe model is available through Meituan's online chat service and API platform, with GitHub and Hugging Face releases planned to follow. Performance figures cited in secondary coverage, including 88.4 on Terminal Bench v2.1, are company-reported and have not been independently verified.\n\nFor readers tracking open-weight and Chinese frontier models, the release is notable mainly for its scale and agentic focus; weights availability and independent benchmarks are the next things to check.",
+        "sources": [
+          "TechNode",
+          "IT Home"
+        ],
+        "source_urls": [
+          "https://technode.com/2026/11/02/meituan-launches-longcat-2-5-multimodal-ai-model-for-extended-coding-tasks/"
+        ]
+      },
+      "komyshuvakha-aid-centre-strike-2026-11-03": {
+        "headline": "Russian bombs hit Ukrainian aid centre in Komyshuvakha, at least 24 killed",
+        "summary": "At least nine 3,000kg aerial bombs struck the Zaporizhzhia village; Zelensky called it 'utterly horrific'.",
+        "detail": "At least 24 people were killed after Russian bombs struck an aid distribution centre in the village of Komyshuvakha in Zaporizhzhia region, southern Ukraine, the BBC reported citing Kyiv. Zelensky initially put the toll at 18; the state emergencies service later confirmed 24, including two rescuers and four police officers.\n\nBBC reports at least nine 3,000kg aerial bombs hit the village. Zelensky said the first strike hit a school used for humanitarian distribution and a second attack hit the shelter where people had sought cover. Five people were injured and 27 were initially reported missing, with regional head Mykhailo Semikin saying people were still under rubble.\n\nZelensky said the Russians could not have been unaware that residents still in the village received aid there every week. The attack came the same week as a multi-day ceasefire in Oleshky ended without reported violations, which Anadolu Agency reported.\n\nThe immediate focus is casualty recovery and humanitarian access in the Zaporizhzhia region.",
+        "sources": [
+          "BBC"
+        ],
+        "source_urls": [
+          "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o"
+        ]
+      },
+      "oil-falls-7-percent-iran-diplomacy-2026-11-03": {
+        "headline": "Oil sells off 7% as US and Iran signal diplomacy; WTI $96.46, Brent $104.77",
+        "summary": "Crude posted its biggest daily loss since 27 July after Trump and Iranian leaders signalled openness to a diplomatic end to the eight-month conflict.",
+        "detail": "Crude oil fell sharply on Monday 2 November 2026 as the presidents of the US and Iran signalled openness to a diplomatic solution, CNBC reported. West Texas Intermediate futures dropped 7.4% to settle at $96.46 a barrel, the biggest daily loss since 27 July. Brent lost 7.6% to $104.77.\n\nCNBC describes the conflict as one that has disrupted energy markets for eight months. Secretary of State Marco Rubio said Trump would like to resolve the Iran war diplomatically.\n\nThe sell-off links to the bond market: earlier this year oil and Treasury yields moved together strongly, a relationship that CNBC says faded in October. Energy costs are part of the inflation backdrop for Australia's RBA decision (see Australian Politics stories).\n\nThe key open question is whether the diplomatic track holds. Anadolu Agency, citing Axios, reported that Netanyahu had pressed Washington to resume strikes on Iran after Tuesday's midterms, while Trump favoured letting the diplomatic tracks play out.",
+        "sources": [
+          "CNBC"
+        ],
+        "source_urls": [
+          "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html"
+        ]
+      },
+      "parkinsons-sex-differences-glia-2026-11-02": {
+        "headline": "Brain support cells may explain why men are 1.5–2× more likely to get Parkinson's",
+        "summary": "Researchers presenting at FENS Forum 2026 found sex-specific gene activity in glial cells across five brain regions.",
+        "detail": "Men are 1.5 to 2 times more likely than women to develop Parkinson's disease, and the biological reason has been poorly understood. Research presented at the Federation of European Neuroscience Societies (FENS) Forum 2026, reported by SciTechDaily on 2 November 2026, points to differences in gene activity within the brain's support cells, known as glia.\n\nThe study used brain tissue from 73 people with Parkinson's (28 women, 45 men) and 24 without the condition (9 women, 15 men), examining five brain regions. Researchers found cellular changes shared by both sexes, plus distinct patterns in men and women.\n\nThe team links the differences to how glial cells manage energy and protect nerve connections. One researcher quoted by SciTechDaily says the findings help explain why symptoms and progression differ between men and women.\n\nThe work is early and tissue-based, with a small sample size. The authors frame it as a reason to study sex-biased biology, and a German Research Foundation priority programme on sex and glia begins in autumn 2026.",
+        "sources": [
+          "SciTechDaily (citing FENS Forum 2026)"
+        ],
+        "source_urls": [
+          "https://scitechdaily.com/why-are-men-twice-as-likely-to-develop-parkinsons-scientists-discover-a-hidden-clue-in-the-brain/"
+        ]
+      },
+      "spain-toledo-train-collision-69-dead-2026-11-03": {
+        "headline": "Spain high-speed train collision toll reaches 69; US and Canadian victims confirmed",
+        "summary": "Two AVE and Iryo high-speed trains collided near Toledo on 28 October; authorities say four Americans and one Canadian were among the dead.",
+        "detail": "At least 69 people were killed when an AVE high-speed train collided end-on with a stationary Iryo train at Los Yébenes, Toledo, on the Madrid–Seville line on 28 October 2026, according to Wikipedia's entry for the crash. AP reported on 2 November that authorities say four Americans and one Canadian were among the dead. Most victims were Spanish nationals.\n\nABC News reported that an 'inexplicable' order is being probed as a possible cause of the crash. The Mirror reported that rescuers used cranes to search wreckage for people feared trapped in the days after the crash.\n\nInvestigators have not published a final cause in the sources reviewed.\n\nFor readers tracking the story, the official investigation report and the names of victims are the key milestones to watch.",
+        "sources": [
+          "AP",
+          "Wikipedia"
+        ],
+        "source_urls": [
+          "https://apnews.com/article/spain-train-crash-victims-nationalities-475ed2f1d806a76229fe7e5551920884"
+        ]
+      },
+      "germany-gen-z-protests-200-arrests-2026-11-03": {
+        "headline": "Gen Z protests across Germany turn violent; more than 200 arrested",
+        "summary": "Largely peaceful daytime rallies in 30+ cities over education funding and cost of living gave way to clashes in Hamburg, Frankfurt and Berlin.",
+        "detail": "German police arrested more than 200 people after clashes broke out in several cities following Gen Z protests, Anadolu Agency reported on 2 November 2026. The daytime demonstrations, organised by the Gen Z Regelt initiative across more than 30 cities, drew tens of thousands demanding greater education investment and action on the cost of living.\n\nAfter dark, smaller radical groups in Hamburg, Frankfurt and Berlin erected barricades, and police used water cannon and special units. Some protesters threw stones, bottles and firecrackers at officers, according to the same report.\n\nThe protesters also opposed plans to reinstate compulsory military service, which adds a defence-policy dimension to a youth movement that is otherwise focused on domestic cost pressures.\n\nBecause the arrests are reported as a single-day total, the final count and charges are still to be confirmed; the daytime protests themselves appear to have been largely peaceful.",
+        "sources": [
+          "Anadolu Agency"
+        ],
+        "source_urls": [
+          "https://www.aa.com.tr/en/world/morning-briefing-nov-2-2026/4108322"
+        ]
       }
     }
   }

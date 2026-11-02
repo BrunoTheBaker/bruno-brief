@@ -1,6 +1,136 @@
 {
   "days": [
     {
+      "date": "2026-11-03",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "10-year Treasury yield slips to about 4.91% as oil falls on Iran diplomacy hopes",
+          "summary": "The 10-year yield was about 4.906%, the 30-year 5.279% and the 2-year 4.594% on Monday, with traders watching the week's jobs data and the US midterms.",
+          "sources": [
+            "CNBC"
+          ],
+          "slug": "10-year-treasury-yield-eases-oil-slides-2026-11-03"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "High Court hears first major challenge to under-16s social media ban",
+          "summary": "Reddit and the Digital Freedom Project argue the ban breaches the implied freedom of political communication; hearings run Tuesday and Wednesday.",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "high-court-under-16s-social-media-ban-2026-11-03"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "RBA decides today at 11:30am AWST; cash rate 4.60%, markets expect a fifth 2026 rise",
+          "summary": "Monthly CPI hit 4.3% in September and trimmed mean 3.6%; CommBank forecasts a 25bp rise to 4.85%.",
+          "sources": [
+            "Vantage Markets (citing RBA, ABS, CommBank)"
+          ],
+          "slug": "rba-decision-today-cash-rate-4-60-2026-11-03"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Belgian PM Bart De Wever resigns after 2027 budget talks fail; King yet to decide",
+          "summary": "De Wever handed in his resignation on Monday after failing to win coalition support for his 2027 budget; the King is withholding a decision.",
+          "sources": [
+            "AP"
+          ],
+          "slug": "belgian-pm-de-wever-resigns-budget-2026-11-03"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Poland's constitutional crisis deepens as Tusk government suspends Tribunal president",
+          "summary": "Tribunal president Święczkowski was suspended after refusing to seat parliament-elected judges; President Nawrocki calls it a forcible takeover.",
+          "sources": [
+            "AP",
+            "POLITICO",
+            "CNN"
+          ],
+          "slug": "poland-constitutional-tribunal-crisis-2026-11-03"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Anthropic launches message threads in public beta for long-running agents",
+          "summary": "Agents send only new messages each turn instead of the full history; Anthropic reports about 35% lower median time-to-first-token on 500k–1M token requests.",
+          "sources": [
+            "Anthropic (claude.com)",
+            "Unite.AI"
+          ],
+          "slug": "anthropic-message-threads-beta-2026-11-03"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Meituan releases LongCat-2.5, a 1.6-trillion-parameter multimodal model for agentic coding",
+          "summary": "About 48B parameters active per token; image and text in one token stream; company-reported 88.4 on Terminal Bench v2.1.",
+          "sources": [
+            "TechNode",
+            "IT Home"
+          ],
+          "slug": "meituan-longcat-2-5-multimodal-model-2026-11-03"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Russian bombs hit Ukrainian aid centre in Komyshuvakha, at least 24 killed",
+          "summary": "At least nine 3,000kg aerial bombs struck the Zaporizhzhia village; Zelensky called it 'utterly horrific'.",
+          "sources": [
+            "BBC"
+          ],
+          "slug": "komyshuvakha-aid-centre-strike-2026-11-03"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Oil sells off 7% as US and Iran signal diplomacy; WTI $96.46, Brent $104.77",
+          "summary": "Crude posted its biggest daily loss since 27 July after Trump and Iranian leaders signalled openness to a diplomatic end to the eight-month conflict.",
+          "sources": [
+            "CNBC"
+          ],
+          "slug": "oil-falls-7-percent-iran-diplomacy-2026-11-03"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "Brain support cells may explain why men are 1.5–2× more likely to get Parkinson's",
+          "summary": "Researchers presenting at FENS Forum 2026 found sex-specific gene activity in glial cells across five brain regions.",
+          "sources": [
+            "SciTechDaily (citing FENS Forum 2026)"
+          ],
+          "slug": "parkinsons-sex-differences-glia-2026-11-02"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Spain high-speed train collision toll reaches 69; US and Canadian victims confirmed",
+          "summary": "Two AVE and Iryo high-speed trains collided near Toledo on 28 October; authorities say four Americans and one Canadian were among the dead.",
+          "sources": [
+            "AP",
+            "Wikipedia"
+          ],
+          "slug": "spain-toledo-train-collision-69-dead-2026-11-03"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Gen Z protests across Germany turn violent; more than 200 arrested",
+          "summary": "Largely peaceful daytime rallies in 30+ cities over education funding and cost of living gave way to clashes in Hamburg, Frankfurt and Berlin.",
+          "sources": [
+            "Anadolu Agency"
+          ],
+          "slug": "germany-gen-z-protests-200-arrests-2026-11-03"
+        }
+      ]
+    },
+    {
       "date": "2026-11-02",
       "stories": [
         {
