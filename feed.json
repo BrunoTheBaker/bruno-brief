@@ -1,6 +1,149 @@
 {
   "days": [
     {
+      "date": "2026-11-04",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "10-year Treasury yield rises above 4.94% as midterm voting opens",
+          "summary": "CNBC: the 10-year rose more than 5bp to 4.948% and the 30-year to 5.321% on Tuesday 3 Nov; the 2-year rose to 4.612%. Traders weigh the midterms and a heavy jobs-data week.",
+          "sources": [
+            "CNBC"
+          ],
+          "slug": "10y-yield-midterms-jobs-2026-11-04"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "RBA lifts cash rate again, its fifth hike of 2026",
+          "summary": "The Reserve Bank raised rates on 3 Nov, its fifth increase this year, after monthly CPI hit 4.3% in September. Treasurer Chalmers says he will not resign and blames the Middle East war for inflation.",
+          "sources": [
+            "ABC News",
+            "Harvey Waroona Reporter"
+          ],
+          "slug": "rba-fifth-hike-2026-11-04"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "House prices fall a seventh straight month, fastest pace in 40 years",
+          "summary": "Cotality data show national dwelling values fell another 1.2% in October, down 6.7% since March. Liberal frontbencher Andrew Bragg blames the capital gains and negative gearing changes.",
+          "sources": [
+            "SBS News",
+            "ABC News"
+          ],
+          "slug": "housing-prices-seventh-fall-2026-11-04"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Ministers sponsor lobbyist passes in first public Parliament House register",
+          "summary": "The first public disclosure of who has direct access to MPs shows ministers sponsoring lobbyists, including two passes for gambling lobby Responsible Wagering Australia co-sponsored by Labor and Liberal MPs.",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "lobbyist-access-register-2026-11-04"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Spain's transport minister Óscar Puente resigns over Urda rail crash that killed 69",
+          "summary": "Puente resigned in Congress on 3 Nov, six days after two high-speed trains collided near Urda (Toledo). All 69 victims have been identified; 29 injured remain in hospital.",
+          "sources": [
+            "BBC News",
+            "Associated Press",
+            "Xinhua"
+          ],
+          "slug": "spain-puente-resigns-urda-crash-2026-11-04"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Belgian PM De Wever tenders resignation after budget talks fail",
+          "summary": "Prime Minister Bart De Wever offered his resignation on Monday after budget talks with the governing coalition failed. King Philippe has deferred a decision and will consult coalition leaders.",
+          "sources": [
+            "Xinhua"
+          ],
+          "slug": "belgium-de-wever-resigns-budget-2026-11-04"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Google to cut search access for students at schools that reject its AI tools",
+          "summary": "AP reports Google will cut off search access for students at schools that reject AI tools, drawing backlash over K-12 search restrictions.",
+          "sources": [
+            "Associated Press"
+          ],
+          "slug": "google-k12-search-ai-tools-2026-11-04"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "US carries out 'defensive' strikes on Iran's Qeshm Island hours before midterms",
+          "summary": "US officials say strikes on Qeshm Island responded to Iranian fire at a US aircraft. Iranian media reported explosions; officials say it was not the start of a renewed campaign.",
+          "sources": [
+            "BBC News",
+            "CNN",
+            "Associated Press"
+          ],
+          "slug": "us-strikes-qeshm-island-2026-11-04"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "🌍",
+          "headline": "Russian strike hits aid centre and shelter at Komyshuvakha; toll rises",
+          "summary": "Russia bombed an aid distribution centre and shelter in Komyshuvakha, Zaporizhzhia. Zelensky says aerial bombs hit a school receiving aid; reported deaths rose from 18 to at least 29, with dozens missing.",
+          "sources": [
+            "The Guardian",
+            "Xinhua"
+          ],
+          "slug": "komyshuvakha-aid-centre-strike-2026-11-04"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "IMO says Hormuz still unsafe as mines may remain; Iran calls indirect US talks 'very intensive'",
+          "summary": "The IMO declined to confirm that mines have been cleared from the Strait of Hormuz and again advised against transit. Iran's foreign minister says indirect talks with Washington are 'very intensive'.",
+          "sources": [
+            "Xinhua"
+          ],
+          "slug": "hormuz-mines-unsafe-talks-2026-11-04"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "Managing weight may slow brain ageing, University of Georgia study finds",
+          "summary": "A University of Georgia study led by Suhang Song reports that people who managed their weight could significantly lower their rate of cognitive decline within two years.",
+          "sources": [
+            "ScienceDaily (University of Georgia release)"
+          ],
+          "slug": "extra-weight-brain-ageing-uga-2026-11-04"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Binance flags security issue affecting ~$6.3bn; North Korea denies involvement",
+          "summary": "Binance says about $6.3 billion was affected by a potential security issue. North Korea denies involvement in the hack the FBI has attributed to its hackers, calling the probe 'a trite provocation'.",
+          "sources": [
+            "Associated Press"
+          ],
+          "slug": "binance-hack-north-korea-denial-2026-11-04"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Bomb threats disrupt flights across Europe; all confirmed as false alarms",
+          "summary": "Seven flights across Europe were searched or diverted after bomb threats that officials confirmed were malicious hoaxes. No devices were found.",
+          "sources": [
+            "Associated Press",
+            "The Guardian"
+          ],
+          "slug": "europe-flight-bomb-threats-2026-11-04"
+        }
+      ]
+    },
+    {
       "date": "2026-11-03",
       "stories": [
         {

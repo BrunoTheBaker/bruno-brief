@@ -1,5 +1,167 @@
 {
   "deepdives": {
+    "2026-11-04": {
+      "10y-yield-midterms-jobs-2026-11-04": {
+        "headline": "10-year Treasury yield rises above 4.94% as midterm voting opens",
+        "summary": "CNBC: the 10-year rose more than 5bp to 4.948% and the 30-year to 5.321% on Tuesday 3 Nov; the 2-year rose to 4.612%. Traders weigh the midterms and a heavy jobs-data week.",
+        "detail": "On Tuesday 3 November 2026, as voting began in the US midterm elections, Treasury yields moved higher. According to CNBC, the 10-year note rose more than 5 basis points to 4.948%, the 30-year bond rose more than 5 basis points to 5.321%, and the 2-year note rose just over 2 basis points to 4.612%. The 30-year is the maturity that tends to react most to geopolitical news.\n\nThe move reversed a mixed Monday, when the 10-year eased about 2bp. CNBC linked Monday's session to a sharp fall in oil prices after Secretary of State Marco Rubio said President Trump would like to resolve the Iran war diplomatically. CNBC also noted that the strong 2026 correlation between oil and bond yields had faded in October as attention shifted to AI and Big Tech.\n\nThe data calendar is heavy. CNBC's Monday preview listed JOLTS job openings for September on Tuesday, ADP employment on Wednesday, productivity and jobless claims on Thursday, and October nonfarm payrolls on Friday. Investors are also watching the midterm result for its implications for Congress's spending and deficit plans.\n\nCaveat: CNBC's figures are intraday levels based on Tradeweb data. The US Treasury's daily par yield curve (home.treasury.gov) is the reference for official closing levels, and should be checked before any figure is relied on.",
+        "sources": [
+          "CNBC"
+        ],
+        "source_urls": [
+          "https://www.cnbc.com/2026/11/03/us-treasury-yields-bonds.html"
+        ]
+      },
+      "rba-fifth-hike-2026-11-04": {
+        "headline": "RBA lifts cash rate again, its fifth hike of 2026",
+        "summary": "The Reserve Bank raised rates on 3 Nov, its fifth increase this year, after monthly CPI hit 4.3% in September. Treasurer Chalmers says he will not resign and blames the Middle East war for inflation.",
+        "detail": "The Reserve Bank of Australia announced its rate decision on Tuesday 3 November 2026. ABC's live blog had flagged it as likely to be the fifth rate increase of the year, a day after inflation was reported at 4.3% in the September monthly CPI. Reporting from the Harvey Waroona Reporter headlines the decision as the 'latest rate hike' and records that Treasurer Jim Chalmers has said he will not resign.\n\nThe politics centred on who is to blame. Chalmers conceded the government could play a 'helpful role' in tackling high inflation while attributing ongoing pressure to the Middle East war. Finance Minister Katy Gallagher said the inflation challenge was driven in part by the same war. Prime Minister Albanese, speaking from Antigua at CHOGM, defended the government's record and described interest rates as a 'blunt instrument', the same phrase used by RBA Governor Michele Bullock, which he later denied was criticism of the bank.\n\nThe fuller decision text, the new cash-rate level and the RBA's forward guidance were not in the pages reviewed here. Check the RBA media release before quoting a rate. Next political checkpoints are the December mid-year budget update and the MYEFO savings debate.",
+        "sources": [
+          "ABC News",
+          "Harvey Waroona Reporter"
+        ],
+        "source_urls": [
+          "https://www.abc.net.au/news/2026-11-03/federal-politics-live-blog-albanese-interest-rates-nov-3/107338214",
+          "https://www.harveyreporter.com.au/politics"
+        ]
+      },
+      "housing-prices-seventh-fall-2026-11-04": {
+        "headline": "House prices fall a seventh straight month, fastest pace in 40 years",
+        "summary": "Cotality data show national dwelling values fell another 1.2% in October, down 6.7% since March. Liberal frontbencher Andrew Bragg blames the capital gains and negative gearing changes.",
+        "detail": "Cotality's October figures show national dwelling values fell another 1.2%, extending the decline to 6.7% since March. SBS reports more than $63,000 has been wiped off the average property price in seven months, and Cotality's head of research, Tim Lawless, says the downturn is closing in on a record.\n\nThe drivers cited are higher interest rates, affordability pressure and changes to property tax concessions. Liberal frontbencher Andrew Bragg told ABC Radio National that the government's changes to capital gains tax and negative gearing have 'destroyed' confidence, pointing to higher rents, fewer new homes and fewer owner-occupier loans. That is a political claim by the opposition, not a finding of the data.\n\nThe housing story sits alongside the RBA decision and the government's cost-of-living pressure, so the two are likely to be argued together in Parliament. The Cotality series is a monthly index of dwelling values; the figures are as reported by SBS and ABC and should be checked against Cotality's own release.",
+        "sources": [
+          "SBS News",
+          "ABC News"
+        ],
+        "source_urls": [
+          "https://www.sbs.com.au/news/podcast-episode/pm-talks-action-on-climate-at-chogm-midday-news-bulletin-november-3-2026/ltzidb2g5",
+          "https://www.abc.net.au/news/2026-11-03/federal-politics-live-blog-albanese-interest-rates-nov-3/107338214"
+        ]
+      },
+      "lobbyist-access-register-2026-11-04": {
+        "headline": "Ministers sponsor lobbyist passes in first public Parliament House register",
+        "summary": "The first public disclosure of who has direct access to MPs shows ministers sponsoring lobbyists, including two passes for gambling lobby Responsible Wagering Australia co-sponsored by Labor and Liberal MPs.",
+        "detail": "For the first time, the public can see which federal politicians are providing lobbyists with access to Parliament House. The disclosure follows a decision by Prime Minister Albanese earlier this year to tighten access and disclosure rules, and ABC's Jake Evans reports that ministers are sponsoring passes for lobbyists seeking to influence them directly.\n\nAmong the first tranche of disclosures are two passes for Responsible Wagering Australia, a lobby group whose members include bet365, Sportsbet and Betfair. ABC reports those passes were co-sponsored by both Labor and Liberal MPs. ABC also reports that the shadow health minister is sponsoring her former chief of staff, who now heads the peak gambling lobby group.\n\nThe register is a transparency step rather than evidence of wrongdoing. Sponsorship of a pass does not by itself show that any lobbying influenced policy. Watch for follow-up on which ministers sponsor the most passes and whether the register is extended to other parliamentary facilities.",
+        "sources": [
+          "ABC News"
+        ],
+        "source_urls": [
+          "https://www.abc.net.au/news/2026-11-03/federal-politics-live-blog-albanese-interest-rates-nov-3/107338214"
+        ]
+      },
+      "spain-puente-resigns-urda-crash-2026-11-04": {
+        "headline": "Spain's transport minister Óscar Puente resigns over Urda rail crash that killed 69",
+        "summary": "Puente resigned in Congress on 3 Nov, six days after two high-speed trains collided near Urda (Toledo). All 69 victims have been identified; 29 injured remain in hospital.",
+        "detail": "Spain's Transport Minister Óscar Puente resigned on Tuesday 3 November, announcing his decision at a meeting of the Congress standing committee after opposition politicians demanded his exit. The resignation came almost a week after a high-speed train collision near Urda, in the Toledo province, killed 69 people. The Guardian's coverage also reports that Puente is withdrawing from the upcoming election.\n\nXinhua reports that all 69 victims have now been identified, 54 of them Spanish nationals and 15 foreigners, and that 29 injured people remain hospitalised. The Guardian and BBC report that two Australians are among the dead, with the Legal body handling identification citing two Australians and a Japanese citizen among the latest victims.\n\nEarlier reporting (AP and Reuters, 28-30 Oct) said the automatic LZB signalling system failed on a 63 km stretch south of Toledo, and that a control-centre instruction told a Renfe train to proceed past an active stop signal before it struck a stopped Iryo train. Puente called that instruction 'inexplicable'. The resignation does not settle the cause; the investigation into the control-centre decision and the signalling failure is the next signal to watch.",
+        "sources": [
+          "BBC News",
+          "Associated Press",
+          "Xinhua"
+        ],
+        "source_urls": [
+          "https://www.bbc.com/news/articles/c6wydqd4yxdyo",
+          "https://apnews.com/article/spain-transport-minister-train-crash-159910e970f48f6a54e50cc7ea740403",
+          "https://english.news.cn/20261103/9e33353149e54a98ad0f3f5f26782736/c.html"
+        ]
+      },
+      "belgium-de-wever-resigns-budget-2026-11-04": {
+        "headline": "Belgian PM De Wever tenders resignation after budget talks fail",
+        "summary": "Prime Minister Bart De Wever offered his resignation on Monday after budget talks with the governing coalition failed. King Philippe has deferred a decision and will consult coalition leaders.",
+        "detail": "Belgian Prime Minister Bart De Wever tendered his resignation on Monday 2 November after talks on the budget collapsed, according to a statement from the Royal Palace posted on X. King Philippe has not accepted or rejected the offer and has deferred a decision.\n\nThe Palace said the king would begin consultations with the leaders of the governing coalition parties on Tuesday and would receive De Wever again on Friday. The statement does not set out the budget positions that caused the breakdown, which should be checked against Belgian reporting before being relied on.\n\nA caretaker or reshuffled government in Belgium would matter for EU budget and fiscal negotiations in the coming months. For now the outcome is open: the king's decision on the resignation is the next formal step.",
+        "sources": [
+          "Xinhua"
+        ],
+        "source_urls": [
+          "https://english.news.cn/20261103/9e33353149e54a98ad0f3f5f26782736/c.html"
+        ]
+      },
+      "google-k12-search-ai-tools-2026-11-04": {
+        "headline": "Google to cut search access for students at schools that reject its AI tools",
+        "summary": "AP reports Google will cut off search access for students at schools that reject AI tools, drawing backlash over K-12 search restrictions.",
+        "detail": "The Associated Press reports that Google will cut off search access for students at schools that reject Google's AI tools, and that the move has drawn backlash over search restrictions for K-12 students. The AP article was the source for both the headline and the framing.\n\nThe AP page fetched for this briefing carried the headline and standfirst only, not the full text. The exact scope (which Google products, which school year, whether the restriction applies to devices or accounts) therefore has not been verified here and should be read in the AP original before being quoted.\n\nThe story is a sign of how AI adoption in schools is becoming a commercial lever as well as an educational choice. Whether other education providers follow, and whether regulators respond, are the open questions.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_urls": [
+          "https://apnews.com/article/ai-schools-classroom-students-google-7ba4219e505db1c11d672f6eefe7155a"
+        ]
+      },
+      "us-strikes-qeshm-island-2026-11-04": {
+        "headline": "US carries out 'defensive' strikes on Iran's Qeshm Island hours before midterms",
+        "summary": "US officials say strikes on Qeshm Island responded to Iranian fire at a US aircraft. Iranian media reported explosions; officials say it was not the start of a renewed campaign.",
+        "detail": "US officials told CNN, CBS and others that the US carried out limited strikes on Iran's Qeshm Island in the Strait of Hormuz on Monday 2 November, describing them as defensive. One official said they were a response to Iran firing at a US aircraft, and another said they targeted Iranian surface-to-air missiles aimed at US assets. The Fox News coverage quoted an official saying the action did not signal the beginning of further military action.\n\nIran's Fars and IRNA agencies reported several explosions on the island and residents said they saw two aircraft overhead. The IRGC separately claimed it had shot down two US reconnaissance drones over Qeshm, though it was unclear whether that was linked to the strikes. The Wall Street Journal, cited by Gulf News, reported that the Qeshm strike was one of a series of limited US strikes carried out in recent weeks.\n\nThe timing matters. The strikes came on the eve of the US midterms, even as the Guardian reports Vance voicing optimism about a deal and Iran's foreign minister describing indirect talks with Washington as 'very intensive'. Qeshm is the largest island in the Strait of Hormuz and hosts a naval base and an underground missile site, so the question is whether these limited exchanges stay contained.",
+        "sources": [
+          "BBC News",
+          "CNN",
+          "Associated Press"
+        ],
+        "source_urls": [
+          "https://bbc.com/news/articles/cx240mrm3g8vo",
+          "https://krdo.com/politics/cnn-us-politics/2026/11/03/us-carried-out-limited-defensive-strikes-on-irans-qeshm-island-official-says",
+          "https://apnews.com/article/iran-us-strikes-strait-hormuz-183b3d32d9bf5241f744abb917e6713e"
+        ]
+      },
+      "komyshuvakha-aid-centre-strike-2026-11-04": {
+        "headline": "Russian strike hits aid centre and shelter at Komyshuvakha; toll rises",
+        "summary": "Russia bombed an aid distribution centre and shelter in Komyshuvakha, Zaporizhzhia. Zelensky says aerial bombs hit a school receiving aid; reported deaths rose from 18 to at least 29, with dozens missing.",
+        "detail": "Russia bombed an aid distribution centre and a neighbouring shelter in the village of Komyshuvakha, in southern Ukraine's Zaporizhzhia region, on Monday 2 November. Ukrainian authorities said 18 people were killed and 27 were reported missing in the first count, and President Zelensky said 10 aerial bombs struck a school where people were receiving humanitarian aid. The Guardian reports the toll had risen to at least 29 later in the day.\n\nThe strike came as a limited ceasefire in the neighbouring Kherson region expired on Monday. The Guardian and AP coverage describes the Oleshky truce as a separate, localised arrangement; the Komyshuvakha attack shows that the truce did not cover Zaporizhzhia. Zelensky described the attack as 'vile' and said it showed Russia did not want to de-escalate.\n\nCasualty figures are provisional and have moved with each update, so the final toll should be taken from Ukrainian and Zaporizhzhia regional authorities. Russia has not been quoted in the sources reviewed here. The attack is a further example of strikes on civilian humanitarian sites during a period of energy-infrastructure attacks ahead of winter.",
+        "sources": [
+          "The Guardian",
+          "Xinhua"
+        ],
+        "source_urls": [
+          "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
+          "https://english.news.cn/20261103/9e33353149e54a98ad0f3f5f26782736/c.html"
+        ]
+      },
+      "hormuz-mines-unsafe-talks-2026-11-04": {
+        "headline": "IMO says Hormuz still unsafe as mines may remain; Iran calls indirect US talks 'very intensive'",
+        "summary": "The IMO declined to confirm that mines have been cleared from the Strait of Hormuz and again advised against transit. Iran's foreign minister says indirect talks with Washington are 'very intensive'.",
+        "detail": "IMO Secretary-General Arsenio Dominguez said on Monday 2 November that he could not confirm mines had been cleared from the Strait of Hormuz, and reiterated the organisation's advice against transiting the strait while conflicting Iranian and US accounts of the mine threat remain. The IMO sits in London and its advice governs shipping-industry insurance and routing decisions.\n\nIranian Foreign Minister Seyed Abbas Araghchi said indirect talks with Washington were 'very intensive', and President Masoud Pezeshkian said Iran would try to resolve the war with the United States through dialogue. Reporting from other outlets this week (AP, Guardian) points to Qatari-led mediation and a proposed two-day plan to reopen the strait, but that plan had not been confirmed as agreed in the sources reviewed here.\n\nWhat to watch: whether the US responds to Iran's sequencing proposal, and whether tanker traffic through Hormuz visibly resumes. Until then the IMO advice and the conflicting mine accounts keep shipping risk and fuel prices elevated.",
+        "sources": [
+          "Xinhua"
+        ],
+        "source_urls": [
+          "https://english.news.cn/20261103/9e33353149e54a98ad0f3f5f26782736/c.html"
+        ]
+      },
+      "extra-weight-brain-ageing-uga-2026-11-04": {
+        "headline": "Managing weight may slow brain ageing, University of Georgia study finds",
+        "summary": "A University of Georgia study led by Suhang Song reports that people who managed their weight could significantly lower their rate of cognitive decline within two years.",
+        "detail": "A University of Georgia study led by Suhang Song, an assistant professor at the College of Public Health, reports that managing body weight is associated with a slower rate of cognitive decline. In the release reproduced by ScienceDaily, Song says that if people managed their weight they could significantly lower their rate of cognitive decline in just two years, and calls BMI 'one of the most easily modifiable risk factors' for ageing well.\n\nThe headline claim is that extra weight may age the brain faster. The ScienceDaily page fetched here includes the quote and the institutional release but not the sample size, study design or effect size. Those details sit in the journal reference, which should be read before the findings are quoted or used to make health decisions.\n\nThis is a population-level finding, not a clinical trial result, and the release does not show that weight loss reverses existing decline. It is useful as a signal that weight is a modifiable factor in cognitive health, and the next step is the peer-reviewed paper itself.",
+        "sources": [
+          "ScienceDaily (University of Georgia release)"
+        ],
+        "source_urls": [
+          "https://www.sciencedaily.com/releases/2026/11/261101010559.htm"
+        ]
+      },
+      "binance-hack-north-korea-denial-2026-11-04": {
+        "headline": "Binance flags security issue affecting ~$6.3bn; North Korea denies involvement",
+        "summary": "Binance says about $6.3 billion was affected by a potential security issue. North Korea denies involvement in the hack the FBI has attributed to its hackers, calling the probe 'a trite provocation'.",
+        "detail": "Binance, the largest cryptocurrency exchange, flagged a 'potential security issue' that the AP reports affected approximately $6.3 billion. The FBI has accused North Korean hackers of stealing more than $6 billion from the exchange, according to AP and The Guardian coverage.\n\nNorth Korea has denied involvement and criticised the FBI probe as 'a trite provocation'. Pyongyang's denial is the official position so far; the attribution rests on the FBI's findings, which the sources reviewed here do not reproduce in full.\n\nThe incident is one of the largest crypto thefts on record if the figures hold. The key questions are how much of the sum is recoverable, whether Binance will compensate users, and whether US or allied sanctions follow the attribution. Those details were not confirmed in the reporting reviewed here.",
+        "sources": [
+          "Associated Press"
+        ],
+        "source_urls": [
+          "https://apnews.com/article/north-korea-binance-cryptocurrency-heist-01c9b80d938dd67c747e268c410f265d",
+          "https://apnews.com/article/binance-cryptocurrency-security-39cda8ceb8095e036334a185"
+        ]
+      },
+      "europe-flight-bomb-threats-2026-11-04": {
+        "headline": "Bomb threats disrupt flights across Europe; all confirmed as false alarms",
+        "summary": "Seven flights across Europe were searched or diverted after bomb threats that officials confirmed were malicious hoaxes. No devices were found.",
+        "detail": "Seven reported bomb threats against flights across Europe were confirmed as false alarms on Monday 2 November, the Guardian reports. Planes were searched or diverted after what officials described as 'malicious hoax' threats, and the threats involved routes operated by a number of airlines, including Ryanair and Wizz Air.\n\nAP reports the disruption was widespread, with flights across Europe facing delays after the threats. The sources reviewed do not name the airports involved in every case, so airport-level detail should be checked against the individual airline or airport statements.\n\nThe episode fits a pattern of hoax threats used to create disruption rather than physical attacks. Its immediate impact is operational; the open questions are whether the perpetrators are identified and whether European aviation authorities tighten threat-response procedures.",
+        "sources": [
+          "Associated Press",
+          "The Guardian"
+        ],
+        "source_urls": [
+          "https://apnews.com/article/europe-flights-bomb-threats-hoaxes-54591e18981c93e6c5aabe140404dab4",
+          "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats"
+        ]
+      }
+    },
     "2026-11-02": {
       "ai-training-optout-robots-txt-2026-11-02": {
         "headline": "Google, OpenAI, Microsoft and Anthropic back one shared robots.txt signal to refuse AI training",
