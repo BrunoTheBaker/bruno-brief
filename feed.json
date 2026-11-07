@@ -1,6 +1,140 @@
 {
   "days": [
     {
+      "date": "2026-11-07",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "10-year Treasury yield climbs to 4.86% after much stronger October jobs report",
+          "summary": "CNBC: the 10-year rose to 4.864% and the 2-year to 4.522% on Friday 6 Nov. Bloomberg reports strong US jobs data revived bets on another Fed rate hike next month.",
+          "sources": [
+            "CNBC",
+            "Bloomberg"
+          ],
+          "slug": "10y-jobs-report-rate-hike-bets-2026-11-07"
+        },
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "Fed hike bets revive after strong jobs data, yields rise into the weekend",
+          "summary": "Bloomberg: Treasuries pared a steep weekly advance after October payrolls revived wagers on a Fed hike at its next policy meeting.",
+          "sources": [
+            "Bloomberg"
+          ],
+          "slug": "fed-hike-bets-weekly-selloff-2026-11-07"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Chalmers blocks Productivity Commission from examining IR laws and tax",
+          "summary": "AFR: Treasurer Chalmers ruled IR laws and tax out of a Productivity Commission business-dynamism inquiry; Opposition leader Angus Taylor and business groups condemned the gag.",
+          "sources": [
+            "Australian Financial Review",
+            "ABC News"
+          ],
+          "slug": "chalmers-pc-inquiry-gag-2026-11-07"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Marles: data centres don't belong in suburbs, should bring their own power and water",
+          "summary": "ABC News: Deputy PM Richard Marles said data centres should be built away from homes and required to bring their own power and water; Assistant Minister Andrew Leigh pointed to the government's principles.",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "marles-data-centres-suburbs-2026-11-07"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Europe pushes back on US plan to rewrite continent's 'security architecture'",
+          "summary": "Straits Times/AFP: Europe rebuffed US efforts to redraw European security as part of a Ukraine-Russia deal; Kaja Kallas says no agreement can be implemented without EU involvement.",
+          "sources": [
+            "Straits Times",
+            "La Stampa"
+          ],
+          "slug": "europe-rebuffs-us-security-architecture-2026-11-07"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "METR: Anthropic's AI R&D is accelerating about twice its previous pace, most evidence redacted",
+          "summary": "METR's 5 Nov assessment estimates Anthropic's capability progress at roughly double its earlier pace, with AI helping staff work faster; METR says Anthropic redacted most of the most informative material.",
+          "sources": [
+            "The Neuron",
+            "METR"
+          ],
+          "slug": "metr-anthropic-rd-acceleration-2026-11-07"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Baidu releases ERNIE 5.5 Flash Base as an open 280B-parameter model",
+          "summary": "The Decoder: Baidu released ERNIE 5.5 Flash Base, an openly available 280-billion-parameter foundation model with 14B active parameters per input, shipped before instruction tuning so developers can customise it.",
+          "sources": [
+            "The Neuron",
+            "The Decoder"
+          ],
+          "slug": "baidu-ernie-5-5-flash-base-open-2026-11-07"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "US strikes Qeshm Island in Strait of Hormuz; two projectiles reported hitting Suza area",
+          "summary": "Reuters: US carried out 'defensive' strikes on Iran's Qeshm Island after IRGC fire at US aircraft. Reuters/Straits Times on 7 Nov: Iranian media report two more projectiles hit Qeshm as Qatar says mediation continues.",
+          "sources": [
+            "Reuters",
+            "Straits Times",
+            "BBC"
+          ],
+          "slug": "qeshm-hormuz-strikes-2026-11-07"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Russia strikes Kyiv with ballistic missiles as Abu Dhabi talks approach",
+          "summary": "La Repubblica: Ballistic missiles struck Kyiv on 6-7 Nov, hitting a residential building in Boryspil district, after Zelensky warned of a large-scale attack; trilateral talks set for Abu Dhabi on 10 Nov.",
+          "sources": [
+            "La Repubblica",
+            "La Stampa",
+            "Kyiv Independent (via La Repubblica)"
+          ],
+          "slug": "kyiv-ballistic-strike-abu-dhabi-talks-2026-11-07"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "Yale's Epi-PHR maps epigenetic marks and 3D genome structure in single cells",
+          "summary": "Yale School of Medicine, published in Nature Methods on 5 Nov: the new Epi-PHR method profiles hundreds of genetic sites per cell and can be applied to tissue slices.",
+          "sources": [
+            "Yale School of Medicine"
+          ],
+          "slug": "epi-phr-single-cell-epigenome-3d-2026-11-07"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Trump names Stephen Miller White House chief of staff after midterm losses",
+          "summary": "Straits Times: Trump named hardliner Stephen Miller chief of staff on 6 Nov, replacing Susie Wiles, effective 9 Nov, as Republicans lose Congress to Democrats.",
+          "sources": [
+            "Straits Times"
+          ],
+          "slug": "stephen-miller-chief-of-staff-2026-11-07"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Tesla to end Cybertruck production around mid-2027 as capacity shifts to Cybercab robotaxi",
+          "summary": "Times of India live blog: Elon Musk announced Tesla will wind down Cybertruck production around mid-2027, shifting capacity to the Cybercab robotaxi.",
+          "sources": [
+            "Times of India"
+          ],
+          "slug": "tesla-cybertruck-end-cybercab-2026-11-07"
+        }
+      ]
+    },
+    {
       "date": "2026-11-04",
       "stories": [
         {

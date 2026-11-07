@@ -1,5 +1,155 @@
 {
   "deepdives": {
+    "2026-11-07": {
+      "10y-jobs-report-rate-hike-bets-2026-11-07": {
+        "headline": "10-year Treasury yield climbs to 4.86% after much stronger October jobs report",
+        "summary": "CNBC: the 10-year rose to 4.864% and the 2-year to 4.522% on Friday 6 Nov. Bloomberg reports strong US jobs data revived bets on another Fed rate hike next month.",
+        "detail": "US Treasuries sold off on Friday 6 November after a much stronger-than-expected October jobs report. CNBC reported the 10-year Treasury note yield rose more than 2 basis points to 4.864%, the 30-year climbed to 5.263%, and the 2-year advanced more than 4 basis points to 4.522%. The move reversed part of the previous day's rally.\n\nBloomberg framed the move as a labour-market story: the Treasury market pared a steep weekly advance after the data revived wagers on a Federal Reserve interest-rate hike at its next meeting. That repricing matters because it pushes up the front end of the curve, which is where policy expectations live, and it also lifts term premia further out the curve.\n\nThe fed funds target range was cited in market commentary as 3.75% to 4.00%. A hike would therefore move policy rates higher at a time when the 10-year is already more than 35 basis points above the 2-year, a curve shape that reflects expectations for tighter policy near term and sticky inflation further out.\n\nContext for readers: bond yields are being pushed around by three things at once: inflation tied to the Middle East conflict and energy prices, a strong labour market, and US midterm election politics. Trump publicly blamed Democrats for the selloff in equities, while analysts focused on the rates channel. Verify the latest print before trading on it, as yields moved intraday.",
+        "sources": [
+          "CNBC",
+          "Bloomberg"
+        ],
+        "source_urls": [
+          "https://www.cnbc.com/2026/11/06/treasury-yields-inch-lower-as-investors-look-ahead-to-key-jobs-data-.html",
+          "https://www.bloomberg.com/news/articles/2026-11-06/us-treasuries-stumble-as-strong-labor-market-lifts-fed-hike-bets"
+        ]
+      },
+      "fed-hike-bets-weekly-selloff-2026-11-07": {
+        "headline": "Fed hike bets revive after strong jobs data, yields rise into the weekend",
+        "summary": "Bloomberg: Treasuries pared a steep weekly advance after October payrolls revived wagers on a Fed hike at its next policy meeting.",
+        "detail": "Bloomberg reported on 6 November that the US Treasury market pared a steep weekly advance after strong October employment data revived wagers on a Federal Reserve interest-rate hike at the next policy meeting. The story is about the reversal of a rally, not a fresh trend, which is why it sits alongside the CNBC yield print rather than replacing it.\n\nThe mechanism is simple. Strong payrolls reduce the probability that the Fed will cut, and raise the probability it will tighten. Futures and swaps reprice quickly, so the 2-year yield, which most closely tracks policy expectations, is typically the most sensitive. CNBC's figures showed the 2-year up more than 4 basis points on the day.\n\nFor fixed-income investors the key question is whether the labour data is an outlier or a trend. A single report can be revised, and the Fed reacts to a broader set of inflation and employment indicators. Markets were pricing a meaningful chance of a hike, but the outcome remains uncertain until the next inflation and jobs releases.\n\nWatch-items for the coming weeks are the next CPI print, the Fed's communication ahead of its December meeting, and the political backdrop after the 3 November midterms, which handed Democrats control of the House and Senate. Any fiscal or regulatory change from that shift could feed into term premia over time.",
+        "sources": [
+          "Bloomberg"
+        ],
+        "source_urls": [
+          "https://www.bloomberg.com/news/articles/2026-11-06/us-treasuries-stumble-as-strong-labor-market-lifts-fed-hike-bets"
+        ]
+      },
+      "chalmers-pc-inquiry-gag-2026-11-07": {
+        "headline": "Chalmers blocks Productivity Commission from examining IR laws and tax",
+        "summary": "AFR: Treasurer Chalmers ruled IR laws and tax out of a Productivity Commission business-dynamism inquiry; Opposition leader Angus Taylor and business groups condemned the gag.",
+        "detail": "The Albanese government has defended its decision to bar the Productivity Commission from examining the business impact of its industrial relations laws and the tax settings in an inquiry into business dynamism. The AFR reported that business groups, economists and the Opposition expressed disbelief that a review of business dynamism could rule out both IR and tax.\n\nOpposition Leader Angus Taylor said the inquiry should have assessed the government's changes to the capital gains tax discount, negative gearing and discretionary trusts, arguing they are a 'big drain on productivity'. Assistant Minister for Treasury Andrew Leigh responded that the department had already conducted reviews of IR and tax in the same term the laws were introduced, and that the Productivity Commission had reviewed workplace arrangements in 2022.\n\nThe Nightly reported separately that Labor MPs are discussing the government's poor poll standing and speculating about the Albanese-Chalmers relationship. Those reports are party-room speculation and should be treated as such; the on-record material is the Treasury and Opposition positions above.\n\nThe substance for policy watchers: scope decisions by a commission decide what evidence exists when a debate happens. A productivity inquiry that excludes the two policy areas its critics say matter most will be contested on its own terms, and the Opposition has made productivity and taxation a central theme.",
+        "sources": [
+          "Australian Financial Review",
+          "ABC News"
+        ],
+        "source_urls": [
+          "https://www.afr.com/politics/federal/chalmers-gag-on-productivity-commission-beyond-a-joke-say-libs-20261106-p61c2e",
+          "https://www.abc.net.au/news/2026-11-06/federal-politics-live-blog-chalmers-productivity-nov-6/107353708"
+        ]
+      },
+      "marles-data-centres-suburbs-2026-11-07": {
+        "headline": "Marles: data centres don't belong in suburbs, should bring their own power and water",
+        "summary": "ABC News: Deputy PM Richard Marles said data centres should be built away from homes and required to bring their own power and water; Assistant Minister Andrew Leigh pointed to the government's principles.",
+        "detail": "Deputy Prime Minister Richard Marles told ABC News Breakfast on Friday 6 November that suburbs are the wrong place to build data centres, and that they can be sited a long way from where people live. He also said companies should bring their own power and water, so that they contribute to the grid rather than draw from it.\n\nAssistant Minister Andrew Leigh said the government's principle is that Australians should get the benefits of data centres located in their communities, and pointed to the government's principles on electricity and water use. The ABC noted the Prime Minister had earlier in 2026 set out a national framework for AI standards that addresses the technology's impacts.\n\nThe story is significant because data centres are now a live local-planning issue in Australia, as they are in the US. Any requirement that projects supply their own generation and water changes the cost and siting calculus for hyperscale AI infrastructure.\n\nWhere the policy lands will depend on the detail of any rules or planning settings, which the reporting did not set out. Treat the Marles remarks as a stated position, not an enacted policy.",
+        "sources": [
+          "ABC News"
+        ],
+        "source_urls": [
+          "https://www.abc.net.au/news/2026-11-06/federal-politics-live-blog-chalmers-productivity-nov-6/107353708"
+        ]
+      },
+      "europe-rebuffs-us-security-architecture-2026-11-07": {
+        "headline": "Europe pushes back on US plan to rewrite continent's 'security architecture'",
+        "summary": "Straits Times/AFP: Europe rebuffed US efforts to redraw European security as part of a Ukraine-Russia deal; Kaja Kallas says no agreement can be implemented without EU involvement.",
+        "detail": "Europe pushed back on 6 November against any US effort to rewrite the continent's 'security architecture' as part of a potential agreement with Russia to end the war in Ukraine. The Straits Times, citing AFP, reported that President Trump predicted on 5 November a 'very big' deal with Moscow involving 'all of Europe', and that envoy Jared Kushner spoke of a 'broader European security architecture' ahead of Abu Dhabi talks.\n\nLa Stampa reported that the Abu Dhabi trilateral summit between Russia, the United States and Ukraine is scheduled for Tuesday 10 November, confirmed by Putin. It quoted EU foreign policy chief Kaja Kallas as saying no agreement can be implemented without European involvement, and reported that Brussels fears the proposed architecture could amount to a downsizing of NATO and a return to Russian 2021 demands.\n\nThe European argument is about who sits at the table. Italy has floated a special EU envoy, and Poland has suggested European Council President Antonio Costa, but Moscow has accused Europeans of failing to agree a common representative. The EU's insistence on a direct negotiating role is a claim to sovereignty over the outcome, not just a procedural point.\n\nUkraine's Zelensky, speaking to CNN, said 'We do not want a Yalta 2' and that Europe must not be divided from Russia. Security guarantees for Ukraine, he argued, must come before any guarantees for Russia. Watch the 10 November Abu Dhabi outcome for whether European states are formally included.",
+        "sources": [
+          "Straits Times",
+          "La Stampa"
+        ],
+        "source_urls": [
+          "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-7-2026",
+          "https://www.lastampa.it/esteri/2026/11/07/diretta/guerra_russia_ucraina_news_oggi-15790879/"
+        ]
+      },
+      "metr-anthropic-rd-acceleration-2026-11-07": {
+        "headline": "METR: Anthropic's AI R&D is accelerating about twice its previous pace, most evidence redacted",
+        "summary": "METR's 5 Nov assessment estimates Anthropic's capability progress at roughly double its earlier pace, with AI helping staff work faster; METR says Anthropic redacted most of the most informative material.",
+        "detail": "Independent evaluator METR published an assessment on 5 November estimating that Anthropic is now making progress on AI capabilities at roughly twice its previous pace. The review examined internal development data from 12 August to 29 October, according to The Neuron's summary of the report.\n\nMETR found evidence that AI tools are helping Anthropic employees work faster on coding and experiment analysis. Most of the acceleration still came from AI assisting people rather than independently running whole research projects. METR found no clear bottleneck that would prevent further acceleration over the next year.\n\nThe transparency issue is the headline for policy readers. METR said Anthropic redacted most of the material it considered most informative in its roughly 100-page assessment; Anthropic said the redactions protect confidential information that could help competitors. The public is therefore being asked to trust conclusions it cannot fully check.\n\nWhy it matters: recursive self-improvement, where AI helps build better AI that in turn speeds research, is the scenario that most worries safety researchers and regulators. This is an evaluator's estimate with partial disclosure, not a measured fact. Read the METR report directly before relying on the multiplier.",
+        "sources": [
+          "The Neuron",
+          "METR"
+        ],
+        "source_urls": [
+          "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026/"
+        ]
+      },
+      "baidu-ernie-5-5-flash-base-open-2026-11-07": {
+        "headline": "Baidu releases ERNIE 5.5 Flash Base as an open 280B-parameter model",
+        "summary": "The Decoder: Baidu released ERNIE 5.5 Flash Base, an openly available 280-billion-parameter foundation model with 14B active parameters per input, shipped before instruction tuning so developers can customise it.",
+        "detail": "Baidu has released ERNIE 5.5 Flash Base, an openly available foundation model with 280 billion total parameters, of which about 14 billion are active per input, according to The Decoder. The mixture-of-experts style design is the reason the compute per request is far below the headline size.\n\nBaidu released the base model before instruction fine-tuning on purpose. That lets developers fine-tune it for their own applications rather than inheriting a chat behaviour the vendor chose. For enterprises that want to keep data and customisation in-house, that is the commercially useful part of the release.\n\nThe release is one of several open-weight launches in the same week, alongside Thinking Machines Lab's Inkling 2 Small, which the Neuron digest lists at 594 billion total parameters with about 17 billion active. Open-weight competition is compressing the gap between frontier and freely downloadable models.\n\nCaveats: benchmark claims were not independently verified in the sources read for this entry, and open weights come with their own licence terms. Check the model card and licence before deployment.",
+        "sources": [
+          "The Neuron",
+          "The Decoder"
+        ],
+        "source_urls": [
+          "https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/",
+          "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026/"
+        ]
+      },
+      "qeshm-hormuz-strikes-2026-11-07": {
+        "headline": "US strikes Qeshm Island in Strait of Hormuz; two projectiles reported hitting Suza area",
+        "summary": "Reuters: US carried out 'defensive' strikes on Iran's Qeshm Island after IRGC fire at US aircraft. Reuters/Straits Times on 7 Nov: Iranian media report two more projectiles hit Qeshm as Qatar says mediation continues.",
+        "detail": "US officials told Reuters on 2 November that American forces struck Iran's Qeshm Island in the Strait of Hormuz, describing the action as limited and defensive and not a resumption of major combat. One official said the strikes were a response to Iranian surface-to-air missiles being fired at US assets. The IRGC said it had shot down US drones in the area. The BBC reported the strikes came as mediators tried to prevent a return to all-out war after the midterms.\n\nOn 7 November the Straits Times, citing Tasnim, reported initial claims that two missiles had struck Qeshm Island. IRNA quoted witnesses saying two projectiles hit the Suza area after the sound of an aircraft, and local authorities had not confirmed the cause. Explosions were also reported near Bandar Khamir. Some Iranian reporting suggested warning shots against vessels using a southern route, which is not officially confirmed.\n\nThe Strait of Hormuz, through which about a fifth of global oil and gas usually passes, has been effectively disrupted since the Iran war began. The BBC describes a June preliminary deal that collapsed within weeks, a renewed US naval blockade, and Iranian targeting of ships on the Omani-side route. Iran has also been reported to have demanded control over the waterway.\n\nDiplomacy continues: Qatar's media office said on 7 November that mediation is ongoing with Washington and Tehran and denied reports talks had failed. Iranian negotiators have reportedly discussed a proposal to reopen the strait once US conditions, including lifting the blockade and releasing frozen assets, are met. Treat casualty and damage claims as unverified until official confirmation.",
+        "sources": [
+          "Reuters",
+          "Straits Times",
+          "BBC"
+        ],
+        "source_urls": [
+          "https://www.reuters.com/5f374b32b07b/world/middle-east/us-struck-irans-qeshm-island-wall-street-journal-reports-2026-11-03/",
+          "https://www.straitstimes.com/world/middle-east/two-missiles-strike-irans-qeshm-island-tasnim-news-agency-says",
+          "https://www.bbc.com/news/articles/cx240mrm3g8vo"
+        ]
+      },
+      "kyiv-ballistic-strike-abu-dhabi-talks-2026-11-07": {
+        "headline": "Russia strikes Kyiv with ballistic missiles as Abu Dhabi talks approach",
+        "summary": "La Repubblica: Ballistic missiles struck Kyiv on 6-7 Nov, hitting a residential building in Boryspil district, after Zelensky warned of a large-scale attack; trilateral talks set for Abu Dhabi on 10 Nov.",
+        "detail": "La Repubblica reported that Kyiv was struck by ballistic missiles on the evening of 6 November, two hours after President Zelensky warned that Russia was preparing another large-scale attack on infrastructure. A Russian drone strike in the Boryspil district set a residential building on fire and injured one person, according to Kyiv Oblast governor Tymur Tkachenko as reported by The Kyiv Independent.\n\nZelensky told CNN that Ukraine needs air defence and missiles to survive, and that security arrangements for Ukraine must come before any for Russia. He said Ukraine is ready to meet Putin in any country except Moscow, and rejected any 'Yalta 2' that would divide Europe from Russia.\n\nLa Stampa reported that the Abu Dhabi summit between Russia, the US and Ukraine is set for Tuesday 10 November, confirmed by Putin, with Witkoff and Kushner preparing it. Kyiv's stated priorities include security guarantees and prisoner exchanges.\n\nExpect the talks to be shaped by the battlefield: strikes on Kyiv ahead of negotiations are a standard pressure tactic, and the outcome will depend on whether Washington and Moscow move on the security-architecture questions Europe has challenged.",
+        "sources": [
+          "La Repubblica",
+          "La Stampa",
+          "Kyiv Independent (via La Repubblica)"
+        ],
+        "source_urls": [
+          "https://www.repubblica.it/en/world/2026/11/07/diretta/ukrainerussia_war_today_s_news-425705905/",
+          "https://www.lastampa.it/esteri/2026/11/07/diretta/guerra_russia_ucraina_news_oggi-15790879/"
+        ]
+      },
+      "epi-phr-single-cell-epigenome-3d-2026-11-07": {
+        "headline": "Yale's Epi-PHR maps epigenetic marks and 3D genome structure in single cells",
+        "summary": "Yale School of Medicine, published in Nature Methods on 5 Nov: the new Epi-PHR method profiles hundreds of genetic sites per cell and can be applied to tissue slices.",
+        "detail": "Researchers at Yale School of Medicine have developed Epi-PHR, an experimental method that maps epigenetic marks and the three-dimensional folding of the genome together, in single cells. The study was published on 5 November 2026 in Nature Methods, according to the Yale news release.\n\nMost existing methods capture either 3D genome structure or epigenetic marks, but struggle to combine both. Epi-PHR uses two hairpin-shaped probes designed to bind an epigenetic mark and a gene of interest. When the two sit next to each other, the hairpin opens and a fluorescent tag lights up. The team says this makes co-localisation visible at single-cell resolution.\n\nIn tests, the team profiled hundreds of genetic sites across a single cell and detected different epigenetic marks at once. They also applied the method to a slice of hippocampus tissue and reported a gradient of epigenetic and 3D structure across neurons and other cells.\n\nWhy it matters: the study is a methods paper. Its value is as a research tool for asking how gene regulation differs cell by cell, which could later inform disease biology and treatment. It does not by itself produce a therapy, and the release gives no clinical timeline.",
+        "sources": [
+          "Yale School of Medicine"
+        ],
+        "source_urls": [
+          "https://medicine.yale.edu/news-article/how-dna-markings-and-shape-affect-disease/"
+        ]
+      },
+      "stephen-miller-chief-of-staff-2026-11-07": {
+        "headline": "Trump names Stephen Miller White House chief of staff after midterm losses",
+        "summary": "Straits Times: Trump named hardliner Stephen Miller chief of staff on 6 Nov, replacing Susie Wiles, effective 9 Nov, as Republicans lose Congress to Democrats.",
+        "detail": "President Trump named Stephen Miller as White House chief of staff on 6 November, replacing Susie Wiles, who will join Trump's political team. The Straits Times reported the change takes effect on 9 November. Miller, a long-serving aide since 2016, is known for hardline immigration policy and for authoring many of the administration's domestic initiatives.\n\nThe appointment comes after the Republican Party lost control of Congress in the 3 November midterm elections. The Straits Times reported Trump now faces a Democratic-led House and Senate and a wave of congressional investigations, which could leave him more reliant on executive power to advance his domestic agenda.\n\nThe Straits Times and NST both framed the appointment as a signal that the White House will keep its current policies and take a more confrontational approach with Congress, rather than seek a bipartisan reset.\n\nPractical implications: the chief-of-staff job controls access to the President and the White House legislative and communications machinery. Expect the next months to test the limits of executive action when the House is controlled by the opposition.",
+        "sources": [
+          "Straits Times"
+        ],
+        "source_urls": [
+          "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-7-2026"
+        ]
+      },
+      "tesla-cybertruck-end-cybercab-2026-11-07": {
+        "headline": "Tesla to end Cybertruck production around mid-2027 as capacity shifts to Cybercab robotaxi",
+        "summary": "Times of India live blog: Elon Musk announced Tesla will wind down Cybertruck production around mid-2027, shifting capacity to the Cybercab robotaxi.",
+        "detail": "Tesla CEO Elon Musk announced on Friday 6 November that the company will wind down production of the Cybertruck around mid-2027, the Times of India reported in its live coverage. The company is shifting manufacturing capacity toward the Cybercab robotaxi.\n\nThe Cybertruck, unveiled in 2019, became one of Tesla's most talked-about vehicles and drew both enthusiasm and criticism for its design. The end of production marks the close of a high-profile product line, though the announcement's full detail on volumes and timing should be checked against Tesla's own statements.\n\nThe strategic signal is the pivot from a niche pickup to autonomous-vehicle manufacturing. If Cybercab moves into production on the timeline implied, capacity and engineering attention will follow the robotaxi roadmap rather than a second truck line.\n\nVerification note: this entry rests on a single live-blog summary. Confirm with Tesla's investor communications before treating the 2027 date as settled.",
+        "sources": [
+          "Times of India"
+        ],
+        "source_urls": [
+          "https://timesofindia.indiatimes.com/india/india-international-breaking-news-today-nov-7/liveblog/135619030.cms"
+        ]
+      }
+    },
     "2026-11-04": {
       "10y-yield-midterms-jobs-2026-11-04": {
         "headline": "10-year Treasury yield rises above 4.94% as midterm voting opens",
@@ -159,6 +309,146 @@
         "source_urls": [
           "https://apnews.com/article/europe-flights-bomb-threats-hoaxes-54591e18981c93e6c5aabe140404dab4",
           "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats"
+        ]
+      }
+    },
+    "2026-11-03": {
+      "10-year-treasury-yield-eases-oil-slides-2026-11-03": {
+        "headline": "10-year Treasury yield slips to about 4.91% as oil falls on Iran diplomacy hopes",
+        "summary": "The 10-year yield was about 4.906%, the 30-year 5.279% and the 2-year 4.594% on Monday, with traders watching the week's jobs data and the US midterms.",
+        "detail": "US Treasury yields were mixed on Monday 2 November 2026. CNBC reported the 10-year Treasury down more than 2 basis points at 4.906%, the 30-year down 3 basis points to 5.279%, and the 2-year up more than 1 basis point to 4.594%.\n\nThe move came as a sharp fall in oil prices weighed on the inflation outlook. CNBC noted that yields had been strongly correlated with oil earlier in the year, a link that faded in October as attention shifted toward AI and Big Tech.\n\nThe week ahead is heavy with labour-market data: JOLTS job openings on Tuesday, ADP employment on Wednesday, productivity and jobless claims on Thursday, and October nonfarm payrolls on Friday. The Treasury also sets out planned note and bond auction sizes on Wednesday.\n\nInvestors are also watching Tuesday's midterm elections and what the result means for Congress's spending plans. Treasurys had already been bid on Friday 30 October after a large equity sell-off led by technology stocks.",
+        "sources": [
+          "CNBC"
+        ],
+        "source_urls": [
+          "https://www.cnbc.com/2026/11/02/us-treasury-yields-bonds.html"
+        ]
+      },
+      "high-court-under-16s-social-media-ban-2026-11-03": {
+        "headline": "High Court hears first major challenge to under-16s social media ban",
+        "summary": "Reddit and the Digital Freedom Project argue the ban breaches the implied freedom of political communication; hearings run Tuesday and Wednesday.",
+        "detail": "Australia's under-16s social media ban faces its first major legal challenge in the High Court, nearly a year after taking effect, ABC News reported. Reddit and the advocacy group Digital Freedom Project argue the law is unconstitutional because it reduces political communication.\n\nABC reported that nearly 5 million accounts have been blocked across 10 affected platforms, including Facebook, Instagram, Snapchat, TikTok, YouTube, X, Reddit and Twitch. The plaintiffs say many under-16s have dodged age-assurance technology and that harmful content remains available without an account.\n\nThe Commonwealth argues that any burden on political communication is indirect and modest, that the rules are consultative and can change over time, and that the freedom only applies to electors. The government says it will stand firm on protecting young Australians.\n\nThe case has drawn amicus interest from the Free Speech Union, NetChoice and the Electronic Frontier Foundation, and state and territory attorneys-general have made submissions supporting the Commonwealth. Hearings continue across Tuesday and Wednesday.",
+        "sources": [
+          "ABC News"
+        ],
+        "source_urls": [
+          "https://www.abc.net.au/news/2026-11-03/high-court-challenge-to-under-16s-social-media-ban/107336886"
+        ]
+      },
+      "rba-decision-today-cash-rate-4-60-2026-11-03": {
+        "headline": "RBA decides today at 11:30am AWST; cash rate 4.60%, markets expect a fifth 2026 rise",
+        "summary": "Monthly CPI hit 4.3% in September and trimmed mean 3.6%; CommBank forecasts a 25bp rise to 4.85%.",
+        "detail": "The Reserve Bank of Australia's Monetary Policy Board announces its November decision on 3 November 2026 at 2:30pm AEDT (11:30am AWST). The cash rate currently stands at 4.60%, after a 25bp rise on 29 September that was the fourth increase of 2026.\n\nVantage Markets reports September CPI at 4.3% year-on-year, up from 4.0% in August, with trimmed mean inflation at 3.6%. The gap between headline and trimmed mean widened to 0.7 percentage points, which Vantage highlights as the key tension in the decision.\n\nCommBank economists forecast a 25bp increase to 4.85%, describing it as an insurance hike. Governor Michele Bullock told a Senate committee on 28 October that inflation would likely be higher than the base case in August.\n\nThe AUD/USD pair was little changed around the recent RBA reference rates, so the currency has not visibly moved ahead of the announcement. The next monthly CPI release is on 25 November.",
+        "sources": [
+          "Vantage Markets (citing RBA, ABS, CommBank)"
+        ],
+        "source_urls": [
+          "https://www.vantagemarkets.com/market-news/rba-rate-decision-audusd-inflation-november-2-2026/"
+        ]
+      },
+      "belgian-pm-de-wever-resigns-budget-2026-11-03": {
+        "headline": "Belgian PM Bart De Wever resigns after 2027 budget talks fail; King yet to decide",
+        "summary": "De Wever handed in his resignation on Monday after failing to win coalition support for his 2027 budget; the King is withholding a decision.",
+        "detail": "Belgian Prime Minister Bart De Wever resigned on Monday 2 November 2026 after budget negotiations collapsed, AP reported. King Philippe has not yet decided whether to accept the resignation.\n\nAccording to coverage from Ground News and the Independent, De Wever failed to win support for his 2027 budget proposals from coalition partners, which deepened the country's financial strain. The crisis is framed as a long-running budget dispute rather than a single vote.\n\nThe king's decision will determine whether De Wever stays on or Belgium moves to a new government formation. Until then the status is unresolved.\n\nThe budget dispute is a domestic one in the sources reviewed; no EU-level consequence was reported in them.",
+        "sources": [
+          "AP"
+        ],
+        "source_urls": [
+          "https://apnews.com/article/belgium-budget-wever-king-government-crisis-debt-d6e28f97ddcf13c3b358201c4d45cf7e"
+        ]
+      },
+      "poland-constitutional-tribunal-crisis-2026-11-03": {
+        "headline": "Poland's constitutional crisis deepens as Tusk government suspends Tribunal president",
+        "summary": "Tribunal president Święczkowski was suspended after refusing to seat parliament-elected judges; President Nawrocki calls it a forcible takeover.",
+        "detail": "Poland's Constitutional Tribunal crisis escalated on Friday 30 October, when judge Anna Korwin-Piotrowska suspended the court's president Bogdan Święczkowski and his deputy for a month and announced she was taking charge, per POLITICO. AP reported that protesters, including PiS leader Jarosław Kaczyński, gathered outside the building for a second night.\n\nThe government says Święczkowski repeatedly broke the law and blocked judges elected by parliament from taking their seats. President Karol Nawrocki, who opposes the government, turned his plane back from a trip to Senegal and accused Tusk of a forcible takeover. Critics in the opposition called the move a coup d'état.\n\nAP notes the court's impairment predates Tusk's return to power: the Court of Justice of the EU had said the tribunal was no longer impartial after PiS appointments. Tusk's government has been blocked by vetoes from two successive PiS-aligned presidents.\n\nThe dispute is likely to deepen polarisation a year before Poland's parliamentary election, and sits at the centre of the wider rule-of-law confrontation between Warsaw and Brussels.",
+        "sources": [
+          "AP",
+          "POLITICO",
+          "CNN"
+        ],
+        "source_urls": [
+          "https://apnews.com/article/poland-european-union-protests-police-tribunal-0a346b1633cef7360277500a1273773f",
+          "https://www.politico.eu/article/tusk-nawrocki-battle-escalates-chief-judge-ousted-from-polands-top-court/"
+        ]
+      },
+      "anthropic-message-threads-beta-2026-11-03": {
+        "headline": "Anthropic launches message threads in public beta for long-running agents",
+        "summary": "Agents send only new messages each turn instead of the full history; Anthropic reports about 35% lower median time-to-first-token on 500k–1M token requests.",
+        "detail": "Anthropic has made message threads available in public beta on the Claude Platform, according to its Messages API announcement. The feature lets agents send the conversation once and then only new messages on each turn, rather than resending the full history.\n\nAnthropic says a coding agent can make hundreds of requests per session, and that once a conversation reaches hundreds of thousands of tokens the resend adds noticeable delay. With message threads on by default for most Claude Code users, the company reports median time-to-first-token falling about 35% for requests of 500k to 1M tokens.\n\nTo use it, developers add a thread parameter to Messages API requests. A thread expires five minutes after its last request, after which the client resends the full conversation to start a new one. Threads are held in memory, encrypted and not written to disk.\n\nAnthropic is explicit that Claude still reads the full conversation on each turn, so token usage is unchanged; the saving is latency, not cost.",
+        "sources": [
+          "Anthropic (claude.com)",
+          "Unite.AI"
+        ],
+        "source_urls": [
+          "https://claude.com/resources/articles/message-threads"
+        ]
+      },
+      "meituan-longcat-2-5-multimodal-model-2026-11-03": {
+        "headline": "Meituan releases LongCat-2.5, a 1.6-trillion-parameter multimodal model for agentic coding",
+        "summary": "About 48B parameters active per token; image and text in one token stream; company-reported 88.4 on Terminal Bench v2.1.",
+        "detail": "Meituan released LongCat-2.5 on 2 November 2026, a multimodal model with 1.6 trillion total parameters and about 48 billion activated per token, according to TechNode, citing IT Home. The model is aimed at tasks where AI agents must execute over long horizons, such as software projects on complex codebases.\n\nAccording to TechNode, Meituan expanded training on long task sequences and used large-scale reinforcement learning. It also converts failures from real agents into reproducible training tasks. Visual and text inputs share a unified token framework, supporting visual coding, creative design and 3D tasks.\n\nThe model is available through Meituan's online chat service and API platform, with GitHub and Hugging Face releases planned to follow. Performance figures cited in secondary coverage, including 88.4 on Terminal Bench v2.1, are company-reported and have not been independently verified.\n\nFor readers tracking open-weight and Chinese frontier models, the release is notable mainly for its scale and agentic focus; weights availability and independent benchmarks are the next things to check.",
+        "sources": [
+          "TechNode",
+          "IT Home"
+        ],
+        "source_urls": [
+          "https://technode.com/2026/11/02/meituan-launches-longcat-2-5-multimodal-ai-model-for-extended-coding-tasks/"
+        ]
+      },
+      "komyshuvakha-aid-centre-strike-2026-11-03": {
+        "headline": "Russian bombs hit Ukrainian aid centre in Komyshuvakha, at least 24 killed",
+        "summary": "At least nine 3,000kg aerial bombs struck the Zaporizhzhia village; Zelensky called it 'utterly horrific'.",
+        "detail": "At least 24 people were killed after Russian bombs struck an aid distribution centre in the village of Komyshuvakha in Zaporizhzhia region, southern Ukraine, the BBC reported citing Kyiv. Zelensky initially put the toll at 18; the state emergencies service later confirmed 24, including two rescuers and four police officers.\n\nBBC reports at least nine 3,000kg aerial bombs hit the village. Zelensky said the first strike hit a school used for humanitarian distribution and a second attack hit the shelter where people had sought cover. Five people were injured and 27 were initially reported missing, with regional head Mykhailo Semikin saying people were still under rubble.\n\nZelensky said the Russians could not have been unaware that residents still in the village received aid there every week. The attack came the same week as a multi-day ceasefire in Oleshky ended without reported violations, which Anadolu Agency reported.\n\nThe immediate focus is casualty recovery and humanitarian access in the Zaporizhzhia region.",
+        "sources": [
+          "BBC"
+        ],
+        "source_urls": [
+          "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o"
+        ]
+      },
+      "oil-falls-7-percent-iran-diplomacy-2026-11-03": {
+        "headline": "Oil sells off 7% as US and Iran signal diplomacy; WTI $96.46, Brent $104.77",
+        "summary": "Crude posted its biggest daily loss since 27 July after Trump and Iranian leaders signalled openness to a diplomatic end to the eight-month conflict.",
+        "detail": "Crude oil fell sharply on Monday 2 November 2026 as the presidents of the US and Iran signalled openness to a diplomatic solution, CNBC reported. West Texas Intermediate futures dropped 7.4% to settle at $96.46 a barrel, the biggest daily loss since 27 July. Brent lost 7.6% to $104.77.\n\nCNBC describes the conflict as one that has disrupted energy markets for eight months. Secretary of State Marco Rubio said Trump would like to resolve the Iran war diplomatically.\n\nThe sell-off links to the bond market: earlier this year oil and Treasury yields moved together strongly, a relationship that CNBC says faded in October. Energy costs are part of the inflation backdrop for Australia's RBA decision (see Australian Politics stories).\n\nThe key open question is whether the diplomatic track holds. Anadolu Agency, citing Axios, reported that Netanyahu had pressed Washington to resume strikes on Iran after Tuesday's midterms, while Trump favoured letting the diplomatic tracks play out.",
+        "sources": [
+          "CNBC"
+        ],
+        "source_urls": [
+          "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html"
+        ]
+      },
+      "parkinsons-sex-differences-glia-2026-11-02": {
+        "headline": "Brain support cells may explain why men are 1.5–2× more likely to get Parkinson's",
+        "summary": "Researchers presenting at FENS Forum 2026 found sex-specific gene activity in glial cells across five brain regions.",
+        "detail": "Men are 1.5 to 2 times more likely than women to develop Parkinson's disease, and the biological reason has been poorly understood. Research presented at the Federation of European Neuroscience Societies (FENS) Forum 2026, reported by SciTechDaily on 2 November 2026, points to differences in gene activity within the brain's support cells, known as glia.\n\nThe study used brain tissue from 73 people with Parkinson's (28 women, 45 men) and 24 without the condition (9 women, 15 men), examining five brain regions. Researchers found cellular changes shared by both sexes, plus distinct patterns in men and women.\n\nThe team links the differences to how glial cells manage energy and protect nerve connections. One researcher quoted by SciTechDaily says the findings help explain why symptoms and progression differ between men and women.\n\nThe work is early and tissue-based, with a small sample size. The authors frame it as a reason to study sex-biased biology, and a German Research Foundation priority programme on sex and glia begins in autumn 2026.",
+        "sources": [
+          "SciTechDaily (citing FENS Forum 2026)"
+        ],
+        "source_urls": [
+          "https://scitechdaily.com/why-are-men-twice-as-likely-to-develop-parkinsons-scientists-discover-a-hidden-clue-in-the-brain/"
+        ]
+      },
+      "spain-toledo-train-collision-69-dead-2026-11-03": {
+        "headline": "Spain high-speed train collision toll reaches 69; US and Canadian victims confirmed",
+        "summary": "Two AVE and Iryo high-speed trains collided near Toledo on 28 October; authorities say four Americans and one Canadian were among the dead.",
+        "detail": "At least 69 people were killed when an AVE high-speed train collided end-on with a stationary Iryo train at Los Yébenes, Toledo, on the Madrid–Seville line on 28 October 2026, according to Wikipedia's entry for the crash. AP reported on 2 November that authorities say four Americans and one Canadian were among the dead. Most victims were Spanish nationals.\n\nABC News reported that an 'inexplicable' order is being probed as a possible cause of the crash. The Mirror reported that rescuers used cranes to search wreckage for people feared trapped in the days after the crash.\n\nInvestigators have not published a final cause in the sources reviewed.\n\nFor readers tracking the story, the official investigation report and the names of victims are the key milestones to watch.",
+        "sources": [
+          "AP",
+          "Wikipedia"
+        ],
+        "source_urls": [
+          "https://apnews.com/article/spain-train-crash-victims-nationalities-475ed2f1d806a76229fe7e5551920884"
+        ]
+      },
+      "germany-gen-z-protests-200-arrests-2026-11-03": {
+        "headline": "Gen Z protests across Germany turn violent; more than 200 arrested",
+        "summary": "Largely peaceful daytime rallies in 30+ cities over education funding and cost of living gave way to clashes in Hamburg, Frankfurt and Berlin.",
+        "detail": "German police arrested more than 200 people after clashes broke out in several cities following Gen Z protests, Anadolu Agency reported on 2 November 2026. The daytime demonstrations, organised by the Gen Z Regelt initiative across more than 30 cities, drew tens of thousands demanding greater education investment and action on the cost of living.\n\nAfter dark, smaller radical groups in Hamburg, Frankfurt and Berlin erected barricades, and police used water cannon and special units. Some protesters threw stones, bottles and firecrackers at officers, according to the same report.\n\nThe protesters also opposed plans to reinstate compulsory military service, which adds a defence-policy dimension to a youth movement that is otherwise focused on domestic cost pressures.\n\nBecause the arrests are reported as a single-day total, the final count and charges are still to be confirmed; the daytime protests themselves appear to have been largely peaceful.",
+        "sources": [
+          "Anadolu Agency"
+        ],
+        "source_urls": [
+          "https://www.aa.com.tr/en/world/morning-briefing-nov-2-2026/4108322"
         ]
       }
     },
@@ -1843,146 +2133,6 @@
           "https://aitechmodel.com/what-is-new-with-agentic-ai-in-october-2026-latest-model-cards-and-company-releases-and-key-takeaways/"
         ],
         "updated": "2026-10-13"
-      }
-    },
-    "2026-11-03": {
-      "10-year-treasury-yield-eases-oil-slides-2026-11-03": {
-        "headline": "10-year Treasury yield slips to about 4.91% as oil falls on Iran diplomacy hopes",
-        "summary": "The 10-year yield was about 4.906%, the 30-year 5.279% and the 2-year 4.594% on Monday, with traders watching the week's jobs data and the US midterms.",
-        "detail": "US Treasury yields were mixed on Monday 2 November 2026. CNBC reported the 10-year Treasury down more than 2 basis points at 4.906%, the 30-year down 3 basis points to 5.279%, and the 2-year up more than 1 basis point to 4.594%.\n\nThe move came as a sharp fall in oil prices weighed on the inflation outlook. CNBC noted that yields had been strongly correlated with oil earlier in the year, a link that faded in October as attention shifted toward AI and Big Tech.\n\nThe week ahead is heavy with labour-market data: JOLTS job openings on Tuesday, ADP employment on Wednesday, productivity and jobless claims on Thursday, and October nonfarm payrolls on Friday. The Treasury also sets out planned note and bond auction sizes on Wednesday.\n\nInvestors are also watching Tuesday's midterm elections and what the result means for Congress's spending plans. Treasurys had already been bid on Friday 30 October after a large equity sell-off led by technology stocks.",
-        "sources": [
-          "CNBC"
-        ],
-        "source_urls": [
-          "https://www.cnbc.com/2026/11/02/us-treasury-yields-bonds.html"
-        ]
-      },
-      "high-court-under-16s-social-media-ban-2026-11-03": {
-        "headline": "High Court hears first major challenge to under-16s social media ban",
-        "summary": "Reddit and the Digital Freedom Project argue the ban breaches the implied freedom of political communication; hearings run Tuesday and Wednesday.",
-        "detail": "Australia's under-16s social media ban faces its first major legal challenge in the High Court, nearly a year after taking effect, ABC News reported. Reddit and the advocacy group Digital Freedom Project argue the law is unconstitutional because it reduces political communication.\n\nABC reported that nearly 5 million accounts have been blocked across 10 affected platforms, including Facebook, Instagram, Snapchat, TikTok, YouTube, X, Reddit and Twitch. The plaintiffs say many under-16s have dodged age-assurance technology and that harmful content remains available without an account.\n\nThe Commonwealth argues that any burden on political communication is indirect and modest, that the rules are consultative and can change over time, and that the freedom only applies to electors. The government says it will stand firm on protecting young Australians.\n\nThe case has drawn amicus interest from the Free Speech Union, NetChoice and the Electronic Frontier Foundation, and state and territory attorneys-general have made submissions supporting the Commonwealth. Hearings continue across Tuesday and Wednesday.",
-        "sources": [
-          "ABC News"
-        ],
-        "source_urls": [
-          "https://www.abc.net.au/news/2026-11-03/high-court-challenge-to-under-16s-social-media-ban/107336886"
-        ]
-      },
-      "rba-decision-today-cash-rate-4-60-2026-11-03": {
-        "headline": "RBA decides today at 11:30am AWST; cash rate 4.60%, markets expect a fifth 2026 rise",
-        "summary": "Monthly CPI hit 4.3% in September and trimmed mean 3.6%; CommBank forecasts a 25bp rise to 4.85%.",
-        "detail": "The Reserve Bank of Australia's Monetary Policy Board announces its November decision on 3 November 2026 at 2:30pm AEDT (11:30am AWST). The cash rate currently stands at 4.60%, after a 25bp rise on 29 September that was the fourth increase of 2026.\n\nVantage Markets reports September CPI at 4.3% year-on-year, up from 4.0% in August, with trimmed mean inflation at 3.6%. The gap between headline and trimmed mean widened to 0.7 percentage points, which Vantage highlights as the key tension in the decision.\n\nCommBank economists forecast a 25bp increase to 4.85%, describing it as an insurance hike. Governor Michele Bullock told a Senate committee on 28 October that inflation would likely be higher than the base case in August.\n\nThe AUD/USD pair was little changed around the recent RBA reference rates, so the currency has not visibly moved ahead of the announcement. The next monthly CPI release is on 25 November.",
-        "sources": [
-          "Vantage Markets (citing RBA, ABS, CommBank)"
-        ],
-        "source_urls": [
-          "https://www.vantagemarkets.com/market-news/rba-rate-decision-audusd-inflation-november-2-2026/"
-        ]
-      },
-      "belgian-pm-de-wever-resigns-budget-2026-11-03": {
-        "headline": "Belgian PM Bart De Wever resigns after 2027 budget talks fail; King yet to decide",
-        "summary": "De Wever handed in his resignation on Monday after failing to win coalition support for his 2027 budget; the King is withholding a decision.",
-        "detail": "Belgian Prime Minister Bart De Wever resigned on Monday 2 November 2026 after budget negotiations collapsed, AP reported. King Philippe has not yet decided whether to accept the resignation.\n\nAccording to coverage from Ground News and the Independent, De Wever failed to win support for his 2027 budget proposals from coalition partners, which deepened the country's financial strain. The crisis is framed as a long-running budget dispute rather than a single vote.\n\nThe king's decision will determine whether De Wever stays on or Belgium moves to a new government formation. Until then the status is unresolved.\n\nThe budget dispute is a domestic one in the sources reviewed; no EU-level consequence was reported in them.",
-        "sources": [
-          "AP"
-        ],
-        "source_urls": [
-          "https://apnews.com/article/belgium-budget-wever-king-government-crisis-debt-d6e28f97ddcf13c3b358201c4d45cf7e"
-        ]
-      },
-      "poland-constitutional-tribunal-crisis-2026-11-03": {
-        "headline": "Poland's constitutional crisis deepens as Tusk government suspends Tribunal president",
-        "summary": "Tribunal president Święczkowski was suspended after refusing to seat parliament-elected judges; President Nawrocki calls it a forcible takeover.",
-        "detail": "Poland's Constitutional Tribunal crisis escalated on Friday 30 October, when judge Anna Korwin-Piotrowska suspended the court's president Bogdan Święczkowski and his deputy for a month and announced she was taking charge, per POLITICO. AP reported that protesters, including PiS leader Jarosław Kaczyński, gathered outside the building for a second night.\n\nThe government says Święczkowski repeatedly broke the law and blocked judges elected by parliament from taking their seats. President Karol Nawrocki, who opposes the government, turned his plane back from a trip to Senegal and accused Tusk of a forcible takeover. Critics in the opposition called the move a coup d'état.\n\nAP notes the court's impairment predates Tusk's return to power: the Court of Justice of the EU had said the tribunal was no longer impartial after PiS appointments. Tusk's government has been blocked by vetoes from two successive PiS-aligned presidents.\n\nThe dispute is likely to deepen polarisation a year before Poland's parliamentary election, and sits at the centre of the wider rule-of-law confrontation between Warsaw and Brussels.",
-        "sources": [
-          "AP",
-          "POLITICO",
-          "CNN"
-        ],
-        "source_urls": [
-          "https://apnews.com/article/poland-european-union-protests-police-tribunal-0a346b1633cef7360277500a1273773f",
-          "https://www.politico.eu/article/tusk-nawrocki-battle-escalates-chief-judge-ousted-from-polands-top-court/"
-        ]
-      },
-      "anthropic-message-threads-beta-2026-11-03": {
-        "headline": "Anthropic launches message threads in public beta for long-running agents",
-        "summary": "Agents send only new messages each turn instead of the full history; Anthropic reports about 35% lower median time-to-first-token on 500k–1M token requests.",
-        "detail": "Anthropic has made message threads available in public beta on the Claude Platform, according to its Messages API announcement. The feature lets agents send the conversation once and then only new messages on each turn, rather than resending the full history.\n\nAnthropic says a coding agent can make hundreds of requests per session, and that once a conversation reaches hundreds of thousands of tokens the resend adds noticeable delay. With message threads on by default for most Claude Code users, the company reports median time-to-first-token falling about 35% for requests of 500k to 1M tokens.\n\nTo use it, developers add a thread parameter to Messages API requests. A thread expires five minutes after its last request, after which the client resends the full conversation to start a new one. Threads are held in memory, encrypted and not written to disk.\n\nAnthropic is explicit that Claude still reads the full conversation on each turn, so token usage is unchanged; the saving is latency, not cost.",
-        "sources": [
-          "Anthropic (claude.com)",
-          "Unite.AI"
-        ],
-        "source_urls": [
-          "https://claude.com/resources/articles/message-threads"
-        ]
-      },
-      "meituan-longcat-2-5-multimodal-model-2026-11-03": {
-        "headline": "Meituan releases LongCat-2.5, a 1.6-trillion-parameter multimodal model for agentic coding",
-        "summary": "About 48B parameters active per token; image and text in one token stream; company-reported 88.4 on Terminal Bench v2.1.",
-        "detail": "Meituan released LongCat-2.5 on 2 November 2026, a multimodal model with 1.6 trillion total parameters and about 48 billion activated per token, according to TechNode, citing IT Home. The model is aimed at tasks where AI agents must execute over long horizons, such as software projects on complex codebases.\n\nAccording to TechNode, Meituan expanded training on long task sequences and used large-scale reinforcement learning. It also converts failures from real agents into reproducible training tasks. Visual and text inputs share a unified token framework, supporting visual coding, creative design and 3D tasks.\n\nThe model is available through Meituan's online chat service and API platform, with GitHub and Hugging Face releases planned to follow. Performance figures cited in secondary coverage, including 88.4 on Terminal Bench v2.1, are company-reported and have not been independently verified.\n\nFor readers tracking open-weight and Chinese frontier models, the release is notable mainly for its scale and agentic focus; weights availability and independent benchmarks are the next things to check.",
-        "sources": [
-          "TechNode",
-          "IT Home"
-        ],
-        "source_urls": [
-          "https://technode.com/2026/11/02/meituan-launches-longcat-2-5-multimodal-ai-model-for-extended-coding-tasks/"
-        ]
-      },
-      "komyshuvakha-aid-centre-strike-2026-11-03": {
-        "headline": "Russian bombs hit Ukrainian aid centre in Komyshuvakha, at least 24 killed",
-        "summary": "At least nine 3,000kg aerial bombs struck the Zaporizhzhia village; Zelensky called it 'utterly horrific'.",
-        "detail": "At least 24 people were killed after Russian bombs struck an aid distribution centre in the village of Komyshuvakha in Zaporizhzhia region, southern Ukraine, the BBC reported citing Kyiv. Zelensky initially put the toll at 18; the state emergencies service later confirmed 24, including two rescuers and four police officers.\n\nBBC reports at least nine 3,000kg aerial bombs hit the village. Zelensky said the first strike hit a school used for humanitarian distribution and a second attack hit the shelter where people had sought cover. Five people were injured and 27 were initially reported missing, with regional head Mykhailo Semikin saying people were still under rubble.\n\nZelensky said the Russians could not have been unaware that residents still in the village received aid there every week. The attack came the same week as a multi-day ceasefire in Oleshky ended without reported violations, which Anadolu Agency reported.\n\nThe immediate focus is casualty recovery and humanitarian access in the Zaporizhzhia region.",
-        "sources": [
-          "BBC"
-        ],
-        "source_urls": [
-          "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o"
-        ]
-      },
-      "oil-falls-7-percent-iran-diplomacy-2026-11-03": {
-        "headline": "Oil sells off 7% as US and Iran signal diplomacy; WTI $96.46, Brent $104.77",
-        "summary": "Crude posted its biggest daily loss since 27 July after Trump and Iranian leaders signalled openness to a diplomatic end to the eight-month conflict.",
-        "detail": "Crude oil fell sharply on Monday 2 November 2026 as the presidents of the US and Iran signalled openness to a diplomatic solution, CNBC reported. West Texas Intermediate futures dropped 7.4% to settle at $96.46 a barrel, the biggest daily loss since 27 July. Brent lost 7.6% to $104.77.\n\nCNBC describes the conflict as one that has disrupted energy markets for eight months. Secretary of State Marco Rubio said Trump would like to resolve the Iran war diplomatically.\n\nThe sell-off links to the bond market: earlier this year oil and Treasury yields moved together strongly, a relationship that CNBC says faded in October. Energy costs are part of the inflation backdrop for Australia's RBA decision (see Australian Politics stories).\n\nThe key open question is whether the diplomatic track holds. Anadolu Agency, citing Axios, reported that Netanyahu had pressed Washington to resume strikes on Iran after Tuesday's midterms, while Trump favoured letting the diplomatic tracks play out.",
-        "sources": [
-          "CNBC"
-        ],
-        "source_urls": [
-          "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html"
-        ]
-      },
-      "parkinsons-sex-differences-glia-2026-11-02": {
-        "headline": "Brain support cells may explain why men are 1.5–2× more likely to get Parkinson's",
-        "summary": "Researchers presenting at FENS Forum 2026 found sex-specific gene activity in glial cells across five brain regions.",
-        "detail": "Men are 1.5 to 2 times more likely than women to develop Parkinson's disease, and the biological reason has been poorly understood. Research presented at the Federation of European Neuroscience Societies (FENS) Forum 2026, reported by SciTechDaily on 2 November 2026, points to differences in gene activity within the brain's support cells, known as glia.\n\nThe study used brain tissue from 73 people with Parkinson's (28 women, 45 men) and 24 without the condition (9 women, 15 men), examining five brain regions. Researchers found cellular changes shared by both sexes, plus distinct patterns in men and women.\n\nThe team links the differences to how glial cells manage energy and protect nerve connections. One researcher quoted by SciTechDaily says the findings help explain why symptoms and progression differ between men and women.\n\nThe work is early and tissue-based, with a small sample size. The authors frame it as a reason to study sex-biased biology, and a German Research Foundation priority programme on sex and glia begins in autumn 2026.",
-        "sources": [
-          "SciTechDaily (citing FENS Forum 2026)"
-        ],
-        "source_urls": [
-          "https://scitechdaily.com/why-are-men-twice-as-likely-to-develop-parkinsons-scientists-discover-a-hidden-clue-in-the-brain/"
-        ]
-      },
-      "spain-toledo-train-collision-69-dead-2026-11-03": {
-        "headline": "Spain high-speed train collision toll reaches 69; US and Canadian victims confirmed",
-        "summary": "Two AVE and Iryo high-speed trains collided near Toledo on 28 October; authorities say four Americans and one Canadian were among the dead.",
-        "detail": "At least 69 people were killed when an AVE high-speed train collided end-on with a stationary Iryo train at Los Yébenes, Toledo, on the Madrid–Seville line on 28 October 2026, according to Wikipedia's entry for the crash. AP reported on 2 November that authorities say four Americans and one Canadian were among the dead. Most victims were Spanish nationals.\n\nABC News reported that an 'inexplicable' order is being probed as a possible cause of the crash. The Mirror reported that rescuers used cranes to search wreckage for people feared trapped in the days after the crash.\n\nInvestigators have not published a final cause in the sources reviewed.\n\nFor readers tracking the story, the official investigation report and the names of victims are the key milestones to watch.",
-        "sources": [
-          "AP",
-          "Wikipedia"
-        ],
-        "source_urls": [
-          "https://apnews.com/article/spain-train-crash-victims-nationalities-475ed2f1d806a76229fe7e5551920884"
-        ]
-      },
-      "germany-gen-z-protests-200-arrests-2026-11-03": {
-        "headline": "Gen Z protests across Germany turn violent; more than 200 arrested",
-        "summary": "Largely peaceful daytime rallies in 30+ cities over education funding and cost of living gave way to clashes in Hamburg, Frankfurt and Berlin.",
-        "detail": "German police arrested more than 200 people after clashes broke out in several cities following Gen Z protests, Anadolu Agency reported on 2 November 2026. The daytime demonstrations, organised by the Gen Z Regelt initiative across more than 30 cities, drew tens of thousands demanding greater education investment and action on the cost of living.\n\nAfter dark, smaller radical groups in Hamburg, Frankfurt and Berlin erected barricades, and police used water cannon and special units. Some protesters threw stones, bottles and firecrackers at officers, according to the same report.\n\nThe protesters also opposed plans to reinstate compulsory military service, which adds a defence-policy dimension to a youth movement that is otherwise focused on domestic cost pressures.\n\nBecause the arrests are reported as a single-day total, the final count and charges are still to be confirmed; the daytime protests themselves appear to have been largely peaceful.",
-        "sources": [
-          "Anadolu Agency"
-        ],
-        "source_urls": [
-          "https://www.aa.com.tr/en/world/morning-briefing-nov-2-2026/4108322"
-        ]
       }
     }
   }
