@@ -2134,6 +2134,145 @@
         ],
         "updated": "2026-10-13"
       }
+    },
+    "2026-11-08": {
+      "10y-yield-weekly-drop-2026-11-08": {
+        "headline": "10-year Treasury yield ends week at 4.86% despite strong jobs data",
+        "summary": "The 10-year closed Friday at 4.86%, down 8bp on the week from 4.94%. Friday's jobs report (+165k vs ~65k expected) clawed back only 2bp and raised December Fed hike odds.",
+        "detail": "US Treasury yields closed the week lower, but Friday's data pushed them back up. The 10-year Treasury yield ended Friday, November 6, at 4.86%, down 8 basis points from 4.94% on October 30, according to ETF.net's weekly tally. Reuters-sourced reporting carried by the Economic Times said the 10-year posted its fifth straight weekly decline, even though it rose 2bp on Friday.\n\nThe Friday move followed a nonfarm payrolls print of 165,000 for October, well above the roughly 65,000 Reuters economists had forecast, with September revised up to 60,000. The 2-year yield rose about 5bp to roughly 4.52% and the 30-year about 1bp to about 5.26%. The Economic Times reported that the stronger labour data lifted traders' odds of a Federal Reserve rate hike at the December meeting, per CME Group data.\n\nMost of the week's decline came from falling oil and a sell-off in large technology shares after the US midterm elections, according to Bloomberg as cited by ETF.net. WTI settled at $90.83 on Friday, down 12.8% from $104.12 on October 30. The 3-month yield, the rate nearest the Fed policy setting, rose 3bp on the week, which means the move was not a near-term policy-rate repricing.\n\nWhy it matters: the curve is now pricing a possible hike rather than cuts, so the rally of the week looks more like a growth and oil story than a bet on easier policy. Readers should treat the one-week moves as small relative to the 5.30% peak reached last month. Sources: ETF.net and Economic Times (Reuters-based) as linked.",
+        "sources": [
+          "Economic Times",
+          "ETF.net"
+        ],
+        "source_urls": [
+          "https://economictimes.indiatimes.com/news/international/us/us-treasury-bond-prices-down-on-friday-yields-on-10-year-30-year-2-year-jump-check-latest-rates/articleshow/135623624.cms",
+          "https://etf.net/news/treasury-yield-falls-long-funds-lead-2026-11-07"
+        ]
+      },
+      "breakevens-tips-slide-2026-11-08": {
+        "headline": "Treasury rally was inflation-expectation driven: TIPS lost ground",
+        "summary": "Inflation-protected bonds lost 0.2% on the week because the real yield did not fall. The 10-year breakeven (expected inflation) fell to 2.24% from 2.34%.",
+        "detail": "The week's bond rally was almost entirely a decline in expected inflation rather than a fall in real yields. According to ETF.net's analysis of Treasury data from October 30 to November 6, the 10-year nominal yield fell 10bp to 4.84% by Thursday, while the 10-year inflation-protected yield stayed at 2.60%, unchanged from October 30.\n\nThe gap between nominal and inflation-protected yields is the market's measure of expected inflation over ten years. That gap fell to 2.24% on Thursday from 2.34% on October 30. The entire ordinary-yield decline was therefore an inflation-expectations move.\n\nThe practical result is visible in fund returns: the iShares TIPS Bond ETF (TIP) lost 0.2% on the week including distributions, while the iShares 20+ Year Treasury ETF (TLT) gained 0.5% and the Vanguard Extended Duration ETF (EDV) gained 0.7%. Long-duration nominal funds benefited while inflation-protected funds did not.\n\nWhy it matters: falling breakevens alongside a Fed that now looks more likely to hike is an unusual mix, and it means the week's bond gains are not a clean signal of easing. Source: ETF.net Research, Nov 7, 2026.",
+        "sources": [
+          "ETF.net"
+        ],
+        "source_urls": [
+          "https://etf.net/news/treasury-yield-falls-long-funds-lead-2026-11-07"
+        ]
+      },
+      "defence-estate-sales-cancelled-2026-11-08": {
+        "headline": "Albanese overrules Marles, cancels sale of four defence sites",
+        "summary": "PM Albanese announced cancellation of planned sales of Victoria Barracks Sydney and Melbourne, Fort Queenscliff and RAAF Williams Point Cook after public pressure.",
+        "detail": "Prime Minister Anthony Albanese has publicly overruled Defence Minister Richard Marles on the sale of Commonwealth defence land, according to a Coalition media release issued on Sunday 8 November 2026 by Senator Paterson. The release says the government has cancelled plans to sell Victoria Barracks Sydney, Victoria Barracks Melbourne, Fort Queenscliff and RAAF Williams Point Cook.\n\nThe Coalition attributes the reversal to opposition across party lines and a petition of almost 125,000 Australians it led. Note that this is a partisan source describing the decision; the government's own announcement should be checked before relying on the detail.\n\nThe release also says it is not clear the sites will remain active defence facilities, only that they stay in public hands, and that the Coalition will keep campaigning on other sites including HMAS Penguin, Lancer Barracks and Irwin Barracks. It calls for defence spending of 3% of GDP without relying on asset sales.\n\nWhy it matters: the decision is a partial retreat on a contested asset-sale program, and the remaining sites are the next flashpoint. Source: Senator Paterson media release, 8 Nov 2026.",
+        "sources": [
+          "Senator Paterson (Coalition media release)"
+        ],
+        "source_urls": [
+          "https://www.senatorpaterson.com.au/news/media-release-albanese-humiliates-marles-on-defence-estate-sales-but-fight-goes-on-08-november-2026"
+        ]
+      },
+      "social-media-ban-high-court-2026-11-08": {
+        "headline": "Challenge to Australia's social media ban reaches the High Court",
+        "summary": "SBS reported on 3 November that a challenge to Australia's social media ban for young people has been lodged in the High Court, as the PM attends CHOGM.",
+        "detail": "SBS News's midday bulletin of 3 November 2026 reported that a challenge to Australia's social media ban has reached the High Court. The same bulletin covered Prime Minister Anthony Albanese's climate remarks at the Commonwealth Heads of Government Meeting (CHOGM), where he spoke about Australia's climate credentials.\n\nThe bulletin summary available to us is a short audio-episode description, so the legal grounds of the challenge and the hearing timetable have not been verified here and should be checked against the High Court's own filings or a full SBS article.\n\nWhy it matters: the under-16 social media ban is one of the government's most visible policies, and a High Court challenge could test its legal basis. Source: SBS News bulletin, 3 Nov 2026 (listed on the SBS podcast page).",
+        "sources": [
+          "SBS News"
+        ],
+        "source_urls": [
+          "https://www.sbs.com.au/news/podcast-episode/pm-talks-action-on-climate-at-chogm-midday-news-bulletin-november-3-2026/ltzidb2g5"
+        ]
+      },
+      "eu-tiktok-for-you-feed-2026-11-08": {
+        "headline": "Brussels tells TikTok to fix 'harmful' For You feed or face fines",
+        "summary": "The EU ordered TikTok on Friday to change the algorithm behind its For You feed, accusing the platform of breaching rules on minors; fines were threatened.",
+        "detail": "The European Union has ordered TikTok to change the algorithm that powers its For You feed, threatening the platform with large fines, Al Jazeera reported on 6 November 2026. Al Jazeera's headline and lead describe the feed as harmful and say Brussels accused TikTok of violating EU rules; the exact article numbers were not in the text we could access.\n\nAl Jazeera's report places the move in a wider European push to protect minors online, noting that France, Spain, Greece and England have all pursued restrictions, and that several countries have introduced social media bans for children under 15.\n\nThe extracted text we could access was short, so the specific legal provision invoked and the compliance deadline are not confirmed here; check the Commission's press release before citing those details.\n\nWhy it matters: it is one of the clearest recent examples of the EU using its platform rules to force a change to how a recommender system works, rather than only moderating individual content. Source: Al Jazeera, 6 Nov 2026.",
+        "sources": [
+          "Al Jazeera"
+        ],
+        "source_urls": [
+          "https://www.aljazeera.com/news/2026/11/6/eu-tells-tiktok-to-fix-harmful-for-you-feed-threatens-fines"
+        ]
+      },
+      "eu-ukraine-funding-70bn-2026-11-08": {
+        "headline": "Zelensky reports positive EU response to extra €70bn for Ukraine in 2027",
+        "summary": "Zelensky said he received a positive response from the EU to a proposal for an additional €70bn for Ukraine in 2027, after meeting Council President Costa.",
+        "detail": "Ukrainian President Volodymyr Zelensky said he received a positive response from the European Union to a proposal to allocate an additional €70 billion to Ukraine for 2027, following a meeting with European Council President António Costa, Ukrinform reported on 5 November 2026.\n\nSeparately, the Ukraine tracker at Political.org states that the European Commission proposed €45 billion in funding for Ukraine for 2027 on 30 October. The two figures are not obviously the same package, and the relationship between them has not been confirmed from the sources reviewed here.\n\nThe Independent and other coverage of the war suggest that European support is now being framed as a multi-year commitment, but this briefing does not rely on those claims. A proposal is not an approved package: budget approval will require agreement among member states.\n\nWhy it matters: sustained EU financing is central to Ukraine's ability to keep fighting and to rebuild, and the gap between the €45bn and €70bn figures is worth watching as the package moves through the EU process. Source: Ukrinform, 5 Nov 2026; Political.org tracker.",
+        "sources": [
+          "Ukrinform"
+        ],
+        "source_urls": [
+          "https://www.ukrinform.net/rubric-ato/4181933-additional-eur-70b-for-ukraine-zelensky-reports-positive-response-from-eu.html"
+        ]
+      },
+      "gpt-6-cyber-launch-2026-11-08": {
+        "headline": "OpenAI launches GPT-6 Cyber for security researchers at a premium API price",
+        "summary": "OpenAI released GPT-6 Cyber on 5 Nov, a security-focused variant of its flagship model, rolled out first to cyber defenders; it is priced above rival cyber models.",
+        "detail": "OpenAI launched GPT-6 Cyber on November 5, 2026, a version of its newest flagship model built for security research, according to VentureBeat and CNET. OpenAI says it is strongest at finding vulnerabilities while staying inside a secure container, and its rollout began with cybersecurity defenders rather than the general public.\n\nVentureBeat's comparison of published API rates, checked on November 5, found GPT-6 Cyber more expensive than its predecessor and than competing cyber-oriented models from Anthropic and Google. VentureBeat also noted that the customer testimonials, such as CodeRabbit's report of 66% more medium- and high-severity findings on its internal benchmark, are not independent cross-vendor comparisons.\n\nCNET reported that OpenAI said Cisco and Mozilla teams are already using the model. The same week OpenAI also shipped ChatGPT Images 2.6, which it says is 50% faster.\n\nWhy it matters: this is a frontier model being gated by use case and priced at a premium, a pattern worth tracking for dual-use capabilities. Sources: VentureBeat (Nov 5, 2026), CNET (Nov 6, 2026).",
+        "sources": [
+          "VentureBeat",
+          "CNET"
+        ],
+        "source_urls": [
+          "https://venturebeat.com/technology/openai-launches-gpt-6-cyber-with-stronger-exploit-research-and-higher-api-price-than-anthropic-and-google",
+          "https://www.cnet.com/tech/services-and-software/roundup-chatgpt-claude-gpt-6-cyber-images-2-6-personal-finance/"
+        ]
+      },
+      "anthropic-ipo-backlash-2026-11-08": {
+        "headline": "Anthropic IPO plans meet AI backlash after midterms",
+        "summary": "CNBC reports the planned Anthropic IPO is running into a political backlash against AI data centres, after midterm results were read as a rebuke of the sector.",
+        "detail": "CNBC's technology section on 7 November 2026 carried the headline 'Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers', by Ashley Capoot. The headline is the only text we could verify from the page listing, so the specifics of the backlash and the IPO timing have not been confirmed here; check the full CNBC article before citing details.\n\nThe same listing carried related AI-business items on the same day, including reporting on Meta's chief strategy officer moving to an AI infrastructure startup, which signals continued capital flow into AI infrastructure.\n\nVentureBeat reported on November 4 that the midterm 'blue wave' carried implications for AI businesses, which is consistent with the view that voter concern about data centres is now a live political factor.\n\nWhy it matters: an IPO for a frontier lab is a test of whether public-market investors price in local political resistance to data-centre buildouts. Source: CNBC Technology, 7 Nov 2026.",
+        "sources": [
+          "CNBC"
+        ],
+        "source_urls": [
+          "https://www.cnbc.com/technology/"
+        ]
+      },
+      "us-strikes-iran-air-defence-2026-11-08": {
+        "headline": "US carries out new limited strikes on Iran as Tehran weighs mediator proposals",
+        "summary": "Trump said US forces struck an Iranian air-defence system on Friday; Qatari-mediated talks on a bridge deal toward nuclear negotiations are ongoing.",
+        "detail": "President Donald Trump said the US military carried out new limited strikes on Iran on Friday, November 6, 2026, targeting an Iranian air-defence system, AP reported. The strikes came while Iran's leaders were weighing proposals from a mediator.\n\nAP reports that Qatari and Iranian officials have been discussing a 'bridge' arrangement intended to lead to nuclear talks. The International Atomic Energy Agency's figures, cited by AP, put Iran's stockpile at 440.9 kg of uranium enriched up to 60%, a short technical step from weapons-grade.\n\nAP sources also say the US has warned allies to prepare for possible Iranian strikes and retaliation after the midterm elections. The Free Press piece linked from CBS frames Iran strategy after the midterms as an open question.\n\nWhy it matters: limited strikes plus open mediator channels is a pattern that can de-escalate or escalate quickly; the 60% enriched stockpile is the number that drives the nuclear risk. Source: AP News, 6 Nov 2026 update.",
+        "sources": [
+          "AP News"
+        ],
+        "source_urls": [
+          "https://apnews.com/article/iran-war-nuclear-program-negotiations-trump-53ed5d271b9aef6f880aebc133ea6a55"
+        ]
+      },
+      "oryol-electronics-plant-strike-2026-11-08": {
+        "headline": "Ukraine strikes Oryol electronics plant with Neptune cruise missile, second hit in a month",
+        "summary": "A huge fire erupted at the Proton-Electrotex plant in Oryol, Russia, after a Neptune cruise missile strike on Saturday, the second hit on the site in a month.",
+        "detail": "The Independent's live war coverage on Saturday 7 November 2026 reported that a huge fire erupted after Kyiv struck the Proton-Electrotex electronics factory in the western Russian city of Oryol with a Neptune cruise missile. The paper said it was the second time in a month the plant had been hit.\n\nThe Political.org tracker records that Russia's offensive pace has stalled: ISW estimated Russia gained 139.85 sq km in October 2026 but lost 167.14 sq km, a net loss of about 27 sq km, the second straight such month.\n\nWhy it matters: sustained strikes on defence-industrial production in Russia are a sign Ukraine is focusing on supply chains behind the front line. Sources: The Independent (7 Nov 2026), Political.org tracker (ISW data).",
+        "sources": [
+          "The Independent"
+        ],
+        "source_urls": [
+          "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-cyberattack-air-raid-b3077274.html"
+        ]
+      },
+      "altermagnetism-slac-2026-11-08": {
+        "headline": "SLAC scientists find conclusive proof of a third type of magnetism",
+        "summary": "A SLAC-led team reports conclusive evidence of altermagnetism, a magnetic phase beyond ferromagnetism and antiferromagnetism, with possible uses in faster electronics and quantum devices.",
+        "detail": "ScienceDaily published on November 4, 2026 a release from the US Department of Energy's SLAC National Accelerator Laboratory reporting conclusive proof of a 'third type' of magnetism, known as altermagnetism. Conventional magnetism is usually split into ferromagnetic and antiferromagnetic types; altermagnets are described as a distinct phase with their own spin pattern.\n\nThe SLAC release, originally posted on the lab's site on 29 October 2026, says the discovery could lead to faster computers, more efficient data centres and advances in quantum technology, because such materials can carry information efficiently.\n\nThe extracted text we could access did not include the experimental technique or the materials studied, so those details are not confirmed here; check the SLAC release before citing them.\n\nWhy it matters: a new magnetic phase that can be controlled electrically would matter for spintronics, the low-power memory and logic approach that has been widely discussed for AI hardware. Sources: ScienceDaily (Nov 4, 2026), SLAC release (Oct 29, 2026).",
+        "sources": [
+          "ScienceDaily (SLAC)"
+        ],
+        "source_urls": [
+          "https://www.sciencedaily.com/releases/2026/11/261104012256.htm"
+        ]
+      },
+      "stephen-miller-chief-of-staff-2026-11-08": {
+        "headline": "Trump announces Susie Wiles' departure; Stephen Miller to become chief of staff",
+        "summary": "Hours after telling 60 Minutes he planned post-midterm firings, Trump announced Susie Wiles is leaving; Stephen Miller is set to take over as chief of staff on Monday.",
+        "detail": "President Trump told 60 Minutes that he was planning post-midterm firings, and hours later announced that White House chief of staff Susie Wiles would depart, CBS News reported on November 7, 2026. Trump said Stephen Miller would replace her.\n\nCBS's profile of Miller, published the same morning, describes him as the architect of Trump's most controversial immigration policies across both administrations and says he is set to take over the chief-of-staff role on Monday, November 9.\n\nThe CBS coverage reports the change as the first visible personnel move after the midterm elections. The reporting we verified does not establish the reasons for Wiles' exit; treat any explanation beyond the announcement as unconfirmed.\n\nWhy it matters: a chief-of-staff change in the second term signals who controls the White House agenda in the months before the next budget and foreign-policy decisions, and it moves immigration policy closer to the centre of the building. Source: CBS News, 7 Nov 2026.",
+        "sources": [
+          "CBS News"
+        ],
+        "source_urls": [
+          "https://www.cbsnews.com/news/trump-60-minutes-midterm-election-firings-susie-wiles/",
+          "https://www.cbsnews.com/news/stephen-miller-chief-of-staff-trump-immigration-policies/"
+        ]
+      }
     }
   }
 }

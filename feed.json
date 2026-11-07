@@ -1,6 +1,133 @@
 {
   "days": [
     {
+      "date": "2026-11-08",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "10-year Treasury yield ends week at 4.86% despite strong jobs data",
+          "summary": "The 10-year closed Friday at 4.86%, down 8bp on the week from 4.94%. Friday's jobs report (+165k vs ~65k expected) clawed back only 2bp and raised December Fed hike odds.",
+          "sources": [
+            "Economic Times",
+            "ETF.net"
+          ],
+          "slug": "10y-yield-weekly-drop-2026-11-08"
+        },
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "Treasury rally was inflation-expectation driven: TIPS lost ground",
+          "summary": "Inflation-protected bonds lost 0.2% on the week because the real yield did not fall. The 10-year breakeven (expected inflation) fell to 2.24% from 2.34%.",
+          "sources": [
+            "ETF.net"
+          ],
+          "slug": "breakevens-tips-slide-2026-11-08"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Albanese overrules Marles, cancels sale of four defence sites",
+          "summary": "PM Albanese announced cancellation of planned sales of Victoria Barracks Sydney and Melbourne, Fort Queenscliff and RAAF Williams Point Cook after public pressure.",
+          "sources": [
+            "Senator Paterson (Coalition media release)"
+          ],
+          "slug": "defence-estate-sales-cancelled-2026-11-08"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Challenge to Australia's social media ban reaches the High Court",
+          "summary": "SBS reported on 3 November that a challenge to Australia's social media ban for young people has been lodged in the High Court, as the PM attends CHOGM.",
+          "sources": [
+            "SBS News"
+          ],
+          "slug": "social-media-ban-high-court-2026-11-08"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Brussels tells TikTok to fix 'harmful' For You feed or face fines",
+          "summary": "The EU ordered TikTok on Friday to change the algorithm behind its For You feed, accusing the platform of breaching rules on minors; fines were threatened.",
+          "sources": [
+            "Al Jazeera"
+          ],
+          "slug": "eu-tiktok-for-you-feed-2026-11-08"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Zelensky reports positive EU response to extra €70bn for Ukraine in 2027",
+          "summary": "Zelensky said he received a positive response from the EU to a proposal for an additional €70bn for Ukraine in 2027, after meeting Council President Costa.",
+          "sources": [
+            "Ukrinform"
+          ],
+          "slug": "eu-ukraine-funding-70bn-2026-11-08"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "OpenAI launches GPT-6 Cyber for security researchers at a premium API price",
+          "summary": "OpenAI released GPT-6 Cyber on 5 Nov, a security-focused variant of its flagship model, rolled out first to cyber defenders; it is priced above rival cyber models.",
+          "sources": [
+            "VentureBeat",
+            "CNET"
+          ],
+          "slug": "gpt-6-cyber-launch-2026-11-08"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Anthropic IPO plans meet AI backlash after midterms",
+          "summary": "CNBC reports the planned Anthropic IPO is running into a political backlash against AI data centres, after midterm results were read as a rebuke of the sector.",
+          "sources": [
+            "CNBC"
+          ],
+          "slug": "anthropic-ipo-backlash-2026-11-08"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "US carries out new limited strikes on Iran as Tehran weighs mediator proposals",
+          "summary": "Trump said US forces struck an Iranian air-defence system on Friday; Qatari-mediated talks on a bridge deal toward nuclear negotiations are ongoing.",
+          "sources": [
+            "AP News"
+          ],
+          "slug": "us-strikes-iran-air-defence-2026-11-08"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Ukraine strikes Oryol electronics plant with Neptune cruise missile, second hit in a month",
+          "summary": "A huge fire erupted at the Proton-Electrotex plant in Oryol, Russia, after a Neptune cruise missile strike on Saturday, the second hit on the site in a month.",
+          "sources": [
+            "The Independent"
+          ],
+          "slug": "oryol-electronics-plant-strike-2026-11-08"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "SLAC scientists find conclusive proof of a third type of magnetism",
+          "summary": "A SLAC-led team reports conclusive evidence of altermagnetism, a magnetic phase beyond ferromagnetism and antiferromagnetism, with possible uses in faster electronics and quantum devices.",
+          "sources": [
+            "ScienceDaily (SLAC)"
+          ],
+          "slug": "altermagnetism-slac-2026-11-08"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Trump announces Susie Wiles' departure; Stephen Miller to become chief of staff",
+          "summary": "Hours after telling 60 Minutes he planned post-midterm firings, Trump announced Susie Wiles is leaving; Stephen Miller is set to take over as chief of staff on Monday.",
+          "sources": [
+            "CBS News"
+          ],
+          "slug": "stephen-miller-chief-of-staff-2026-11-08"
+        }
+      ]
+    },
+    {
       "date": "2026-11-07",
       "stories": [
         {
