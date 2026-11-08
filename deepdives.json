@@ -2273,6 +2273,159 @@
           "https://www.cbsnews.com/news/stephen-miller-chief-of-staff-trump-immigration-policies/"
         ]
       }
+    },
+    "2026-11-09": {
+      "fiscal-risk-premium-brooks-2026-11-09": {
+        "headline": "Robin Brooks: long-end yield rise is fiscal risk premium, not AI debt",
+        "summary": "Brookings' Robin Brooks argues the post-midterm selloff shows long yields rising on US fiscal stress; the 10y10y forward did not fall with the 10-year.",
+        "detail": "Robin Brooks, a senior fellow at the Brookings Institution, used last week's market selloff as what he calls a 'natural experiment' to test two explanations for the rise in long-term Treasury yields. One view holds that a rising fiscal risk premium, driven by public debt growing faster than the economy, is pushing yields up. The rival view holds that heavy hyperscaler bond issuance to fund AI data centres is crowding out Treasuries. Fortune reports that the 10-year yield had risen more than 100 basis points, above 5% at one point, before easing in recent weeks.\n\nBrooks' key evidence is the 10y10y forward yield, the market-implied yield on a 10-year security ten years from now, which he treats as a gauge of the premium investors demand for long-term holding risk. If AI-driven supply were the main driver, that forward rate should have fallen alongside the 10-year and 2-year yields during the AI sell-off. According to Fortune, it did not. Brooks also noted that the two-year yield rose more than strong growth alone would explain after the jobs report, which he says undercuts the argument that AI spending is what keeps US growth running hot.\n\nContext from the same report: the run-up began after the Iran war started in late February, which lifted oil prices and raised expectations of Federal Reserve hikes to fight inflation. The Treasury is financing a roughly $2 trillion deficit against about $40 trillion of federal debt, which is why Brooks frames the issue as fiscal rather than cyclical.\n\nCaveat: this is one economist's reading of the data, published as commentary, not a consensus view. Other strategists quoted in the wider coverage argue that AI-related supply has crowded out Treasuries at auctions.",
+        "sources": [
+          "Fortune"
+        ],
+        "source_urls": [
+          "https://fortune.com/2026/11/08/us-debt-ai-stock-market-selloff-bond-yields-treasury-risk-premium/"
+        ]
+      },
+      "treasury-rally-stalls-jobs-2026-11-09": {
+        "headline": "Treasury rally stalls after 165k jobs print; December hike odds rise",
+        "summary": "Strong October payrolls (+165k) pared the weekly bond rally; the 2-year touched 4.55% Friday and swaps price ~20bp of tightening for the 9 Dec FOMC.",
+        "detail": "The US Treasury market gave back part of a steep weekly advance after October employment data came in strong. Payrolls rose 165,000, beating every estimate in a Bloomberg survey, wage growth unexpectedly accelerated, and the unemployment rate fell to 4.1%. Upward revisions to August and September were also included. The two-year yield rose as much as 9 basis points to 4.55% on Friday before settling near 4.51%.\n\nMoney markets moved only slightly toward tightening. Swaps priced about 20 basis points of Fed tightening for the 9 December meeting, up from about 17 on Thursday and 19 before the report. Contracts expiring in mid-2027 priced about 46 basis points of tightening.\n\nThe rally had been driven by the midterm result and the AI-related sell-off: the Nasdaq 100 fell 6.4% on Thursday, its biggest one-day drop since March 2020, and investors moved into bonds. Oil prices also fell to two-month lows on the prospect of a quicker end to the Iran war, which pulled market-implied inflation expectations down; the 5-year TIPS breakeven fell to about 2.3% from 2.5%.\n\nSupply is the near-term test. Monday's $58 billion three-year note auction was indicated around 4.59%, against 4.932% at October's auction, the highest since 2006. The October CPI print due next week will also shape the December decision.",
+        "sources": [
+          "Business Times (Bloomberg)"
+        ],
+        "source_urls": [
+          "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/us-bonds-midterm-election-rally-skids-halt-after-strong-jobs-data"
+        ]
+      },
+      "coalition-closes-gap-poll-2026-11-09": {
+        "headline": "AFR/Redbridge poll: Labor primary falls to record-low 26%, Coalition 25%",
+        "summary": "Labor's primary vote slipped 2 points to 26% and the Coalition rose 4 to 25%, leaving the two majors statistically tied, both behind One Nation.",
+        "detail": "The Australian Financial Review's Redbridge Group/Accent Research poll shows Labor's primary vote at 26%, its lowest level on record, after a 2-point fall. The Coalition, led by Angus Taylor, rose 4 points to 25%, its highest in almost a year. The two parties are statistically tied and still trail One Nation.\n\nThe AFR ties the shift to concern over Labor's economic management after what it describes as a month of poor economic news. ABC coverage the same day reported a separate Resolve Political Monitor poll in which only 20% of Australians trusted the prime minister and just over 40% blamed Labor for rising living costs.\n\nThe AFR's headline reads the result as a blow to the Albanese government ahead of the Victorian election campaign, which is also drawing One Nation and Coalition attention.",
+        "sources": [
+          "AFR (Phillip Coorey)"
+        ],
+        "source_urls": [
+          "https://www.afr.com/politics/federal/blow-for-pm-as-coalition-closes-in-on-labor-20261108-p61cbv"
+        ]
+      },
+      "digital-duty-of-care-inquiry-2026-11-09": {
+        "headline": "Digital Duty of Care Senate inquiry starts: fines up to $109m, nudify apps banned",
+        "summary": "A two-day Senate inquiry into Labor's Digital Duty of Care bill opens today with parents and experts giving evidence; the bill passed the House in October without Coalition support.",
+        "detail": "The Senate inquiry into the government's Digital Duty of Care legislation begins today and runs for two days. Parents and experts are giving evidence. Communications Minister Anika Wells says algorithms and AI tools must be regulated to protect people from online harms, and that tech companies face fines of up to $109 million if they fail to mitigate risks.\n\nThe bill would ban nudify apps and give social media users the option to opt in or out of algorithmic feeds. It was introduced to the House and passed in October without Coalition support. Greens senator Sarah Hanson-Young says she will test whether the laws 'have teeth'.\n\nThe inquiry is the next procedural step; the bill has not yet passed the Senate.",
+        "sources": [
+          "ABC News"
+        ],
+        "source_urls": [
+          "https://www.abc.net.au/news/2026-11-09/federal-politics-live-blog-digital-duty-of-care-/107362100"
+        ]
+      },
+      "inflation-4-3-albanese-2026-11-09": {
+        "headline": "Albanese defends economic record as CPI inflation hits 4.3%",
+        "summary": "Albanese says his government has delivered savings in every budget; the PM also announced a $12m bushfire-readiness package ahead of a 'super El Niño' summer.",
+        "detail": "Inflation rose to 4.3% in the 12 months to September, according to ABS data. Prime Minister Anthony Albanese defended his government's management of inflation, saying it is lower than what Labor inherited in 2022 and that his government had delivered savings in every budget and economic statement. He acknowledged 'pressures on Australian families' and said the government needs to find savings in the budget.\n\nAlbanese linked the inflation pressure to the war in the Middle East and noted that the Bank of England had raised rates for the first time in a long while. Chalmers, per ABC headlines, has rejected blame for the local rate rise.\n\nSeparately, Albanese announced a package of $12 million to strengthen bushfire risk management: $5.8m for the Australian Fire Danger Rating System, $2.6m for national bushfire intelligence and $3m for responder wellbeing. Emergency Management Minister Kristy McBain said summer conditions are expected to be warm and dry, supercharged by El Niño.",
+        "sources": [
+          "ABC News"
+        ],
+        "source_urls": [
+          "https://www.abc.net.au/news/2026-11-09/federal-politics-live-blog-digital-duty-of-care-/107362100"
+        ]
+      },
+      "ecb-succession-eurogroup-2026-11-09": {
+        "headline": "Eurogroup reviews Lagarde successor shortlist: Hernández de Cos vs Knot",
+        "summary": "Spain and the Netherlands nominated Pablo Hernández de Cos and Klaas Knot; finance ministers take stock on 9 Nov, but no decision is expected at that meeting.",
+        "detail": "Reuters (6 Nov 2026)\n\nChristine Lagarde told the European Council on 29 October that she will resign as ECB president by 7 February 2027, ahead of the end of her term in autumn 2027. Two candidacies were received by the 6 November deadline: Pablo Hernández de Cos (Spain), general manager of the Bank for International Settlements and former Bank of Spain governor, and Klaas Knot (Netherlands), former president of De Nederlandsche Bank.\n\nThe Eurogroup, chaired by Kyriakos Pierrakakis, takes stock of the nominations at its 9 November meeting. The Dutch government says no decision is envisaged at that meeting, and the Eurogroup has announced neither an agreed candidate nor a timetable for the appointment.\n\nThe process is set by the EU treaties: a Council recommendation, then consultation with the European Parliament and ECB Governing Council (both opinions are mandatory but not binding), then a decision by euro-area leaders by reinforced qualified majority: at least 16 of 21 members representing 65% of the euro-area population. Politico notes two more executive board seats must also be filled next year (Isabel Schnabel leaving for the IMF; Philip Lane's term ending in May).\n\nReuters characterises both nominees as crisis-fighters, which it says signals continuity at the ECB.",
+        "sources": [
+          "Consilium (Eurogroup)",
+          "Reuters"
+        ],
+        "source_urls": [
+          "https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/statement-by-the-eurogroup-president-on-the-nominations-for-the-post-of-ecb-president/",
+          "https://www.streetinsider.com/Reuters/Central+banking+veterans+Knot+and+de+Cos+in+race+to+replace+Lagarde+at+ECB/27306043.html"
+        ]
+      },
+      "gpt-6-cyber-2026-11-09": {
+        "headline": "OpenAI launches GPT-6 Cyber, gated to approved security customers",
+        "summary": "OpenAI's cyber model scores 48.5% on ExploitGym (vs 32.1% for GPT-5.6 Cyber) and is available only to vetted Daybreak Red customers at $20/$100 per million tokens.",
+        "detail": "VentureBeat (Nov 2026)\n\nCyberScoop (Nov 2026)\n\nOpenAI announced GPT-6 Cyber on 5 November as a security-specialised variant of GPT-6 Astra with extra training on security investigations. On the ExploitGym benchmark it scores 48.5%, against 32.1% for GPT-5.6 Cyber, a 51% relative improvement. On a scope-following test it avoided out-of-scope attacks in 99.93% of cases without a deployment safety prompt, and in every tested case with one. OpenAI classifies it as 'Critical' in cybersecurity under its Preparedness Framework.\n\nOpenAI says the model reproduced 1,724 Linux vulnerabilities, developed working exploits for 948 of them, and found 81 previously unknown high-severity Firefox flaws. Those figures are OpenAI's own and have not been independently verified. Researchers also used it to validate a remote code execution flaw in the Brotli compression library.\n\nAccess is restricted: API and Codex access for approved Daybreak Red customers, with IP allowlisting by default and Private Safety Processing for Zero Data Retention users. VentureBeat lists API pricing at $20 per million input and $100 per million output tokens, above GPT-5.6 Cyber and above Anthropic's and Google's comparable offerings.\n\nCyberScoop reports OpenAI says it will expand access to all Daybreak Red customers 'soon'. The release is part of OpenAI's effort to sell defensive security tools while limiting offensive misuse.",
+        "sources": [
+          "OpenAI",
+          "VentureBeat",
+          "CyberScoop"
+        ],
+        "source_urls": [
+          "https://openai.com/index/introducing-gpt-6-cyber?radar=20261105",
+          "https://venturebeat.com/technology/openai-launches-gpt-6-cyber-with-stronger-exploit-research-and-higher-api-price-than-anthropic-and-google",
+          "https://cyberscoop.com/openai-gpt-6-cyber-security-model"
+        ]
+      },
+      "anthropic-project-eve-2026-11-09": {
+        "headline": "Anthropic's Project EVE: Claude trading experiments show profit gains and a teamwork blind spot",
+        "summary": "In a simulator replaying real EVE Online orders, newer Claude models were profitable in every two-week window; in EVE Frontier, teammates almost never caught a secret saboteur.",
+        "detail": "Anthropic published Project EVE on 6 November, research from its Fellows Program. In a simulator that replays real EVE Online market orders, Claude was told only to maximise profit and outperformed more than 20 simple rule-based strategies. Across nine two-week windows, Opus 4.7, Opus 4.8 and Fable 5 were profitable in all nine, growing capital by about 16%, 22% and 43% on average. Over roughly six-month runs, average outcomes rose from about 200% to 600% of starting capital between Opus 4.6 and Fable 5.\n\nMost models settled on capturing the gap between buy and sell prices. When told to bet on price direction, even Fable 5 was profitable in only about half its runs. In EVE Frontier, teams of four Claude agents (Opus 4.8 and Fable 5) ran long missions; when one agent was secretly told to undermine its team, teammates almost never detected it.\n\nAnthropic's stated limits: the replay cannot model how the market reacts to the agents' own orders, EVE's market is less efficient than a real exchange, and Anthropic does not expect the strategy to carry over to a real exchange. Note this summary is secondary; the primary Anthropic post should be checked before quoting figures.",
+        "sources": [
+          "Anthropic (as summarised by FORSMILE)"
+        ],
+        "source_urls": [
+          "https://forsmile.jp/en/ai-news/ai-news-20261108"
+        ]
+      },
+      "iran-talks-qeshm-2026-11-09": {
+        "headline": "Trump: renewed Iran strikes 'highly unlikely' if talks progress; US hits Qeshm island",
+        "summary": "Trump confirmed 'minor strikes' on Iranian air defences around Qeshm island while saying talks show 'a lot of progress'; Tehran says there has been no progress and is waiting.",
+        "detail": "Al Jazeera (7-8 Nov 2026)\n\nCNBC (7 Nov 2026)\n\nPresident Trump said on Sunday that renewed attacks on Iran are 'highly unlikely' if negotiations over Tehran's nuclear programme and the reopening of the Strait of Hormuz keep progressing. On Friday he said US forces had carried out 'minor strikes' against Iranian air-defence systems. Al Jazeera and AP report he confirmed strikes on Qeshm island, after reports that two missiles struck the island; Tasnim reported no official information on damage.\n\nCNBC reports that the US also struck Qeshm on the Monday before, which a US official described as a 'defensive measure'. Trump did not explicitly confirm that the reported Qeshm strikes were the ones he described.\n\nIranian Foreign Minister Abbas Araghchi said there has been no progress in talks with Washington and that Tehran is waiting to see whether the US position changes after the midterm 'shock'. Iranian warnings of heavy retaliation were also reported. The Strait of Hormuz and oil prices are central to the market impact seen in US bonds this week.",
+        "sources": [
+          "CNN",
+          "Al Jazeera",
+          "CNBC"
+        ],
+        "source_urls": [
+          "https://www.cnn.com/2026/11/08/politics/trump-interview-on-iran",
+          "https://www.aljazeera.com/news/2026/11/7/trump-confirms-new-us-strikes-on-irans-qeshm-island",
+          "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html"
+        ]
+      },
+      "kherson-truce-ends-2026-11-09": {
+        "headline": "Fighting resumes in Kherson as truce ends; 26 killed in Zaporizhzhia strike",
+        "summary": "The longest truce of the war (27 Oct–1 Nov, brokered by Melania Trump) ended with Russian strikes on Kherson; Kyiv says Russia refused to extend it.",
+        "detail": "France 24 (2 Nov 2026)\n\nBBC News (Nov 2026)\n\nNPR (3 Nov 2026)\n\nA local ceasefire in Ukraine's Kherson region, the longest pause in fighting since Russia's full-scale invasion, ran from 27 October to 1 November. It was brokered by US First Lady Melania Trump and Pope Leo XIV, according to NPR, and enabled a humanitarian mission to the Russian-occupied town of Oleshky, where hundreds of civilians were evacuated.\n\nKherson authorities said Russian drones struck a car in the Korabelny district on Monday morning, wounding a 62-year-old woman and a 73-year-old man. Ukraine's General Staff said Russia had used the pause to rotate units, deliver ammunition and expand anti-drone equipment. The Kremlin's Dmitry Peskov said it was 'reasonable to assume' Ukraine also regrouped, and said no similar initiatives are planned.\n\nFrance 24 reports that hours after the local truce ended, Russia struck a village in Zaporizhzhia, killing at least 26 people according to the acting regional governor, and that Moscow said nearly 500 drones aimed at the capital region were destroyed. Ukraine's military also said Russia had moved more than 1,000 troops to the left bank of Kherson during the pause, a figure from a Ukrainian brigade and not independently confirmed.\n\nEuronews notes US-mediated Russia-Ukraine talks are set to resume this month, but the Kremlin says it intends to press its offensive to seize the rest of eastern Ukraine.",
+        "sources": [
+          "Euronews",
+          "France 24",
+          "BBC News",
+          "NPR"
+        ],
+        "source_urls": [
+          "https://www.euronews.com/2026/11/02/russia-resumes-attacks-on-ukraines-kherson-region-after-truce-ends-kyiv-says",
+          "https://www.france24.com/en/europe/20261102-russia-pummels-ukraine-again-after-rare-pause-in-fighting-in-kherson",
+          "https://www.bbc.com/news/articles/ckg5jlyp66jzo"
+        ]
+      },
+      "egypt-al-ayyat-train-2026-11-09": {
+        "headline": "Egypt: two passenger trains collide in Giza, at least seven killed, 110+ injured",
+        "summary": "A Giza-Fayoum train hit the rear of a Cairo-Aswan train at Al-Ayyat on Sunday, derailing it; Sisi ordered an investigation.",
+        "detail": "Reuters via Yahoo News (8 Nov 2026)\n\nA passenger train travelling from Giza to Fayoum collided with the rear of a train travelling from Cairo to Aswan in Al-Ayyat district, on the edge of Cairo, on Sunday 8 November. The impact derailed the train. Egypt's Ministry of Health confirmed at least seven dead and more than 110 injured, with casualties taken to nearby hospitals.\n\nEmergency teams and cranes were sent to clear wreckage and restore services. President Abdel Fattah al-Sisi ordered a swift investigation and said anyone found negligent should be held accountable. The public prosecutor's office is investigating the technical causes.\n\nEgypt has one of the oldest and largest railway networks in the region, and casualty accidents are common, though the government is investing billions of pounds to modernise it. The same district saw a freight-train collision last September.",
+        "sources": [
+          "ABC News (AP/Reuters)",
+          "Times of Israel",
+          "Yahoo News (Reuters)"
+        ],
+        "source_urls": [
+          "https://www.abc.net.au/news/2026-11-09/train-collision-egypt-giza/107361794",
+          "https://www.yahoo.com/news/world/articles/train-collision-egypt-giza-province-151144669.html"
+        ]
+      },
+      "psilocybin-rewires-brain-2026-11-09": {
+        "headline": "Psilocybin rewires brain circuits through a pathway separate from hallucinations",
+        "summary": "UC Santa Cruz researchers found psilocybin's neuroplastic effects in layer-5 cortical neurons act through 5-HT2A receptors separately from its hallucinogenic effects.",
+        "detail": "Researchers at the University of California, Santa Cruz used two-photon microscopy to watch how psilocybin changes brain structure. The team, led by Yi Zuo's lab, found that the compound rapidly rewires neural circuits in ways scientists did not expect.\n\nThe study, published in Nature Neuroscience (Baker et al., 2026, DOI 10.1038/s41593-026-02490-y), locates the neuroplastic effect in 5-HT2A receptors on layer 5 pyramidal neurons. The authors report that these receptors mediate the circuit remodelling but not the hallucinogenic effects, which therefore run through distinct cellular pathways.\n\nThe authors suggest this could guide design of non-hallucinogenic analogues that keep fast, lasting antidepressant benefit without the altered state. The study also reports that psilocybin affects healthy and stressed brains differently, and may help restore circuits disrupted by stress.\n\nContext: the FDA held a public hearing in September 2026 on potential therapeutic use of psychedelic drugs. This is a preclinical/basic-science finding, not evidence of a treatment.",
+        "sources": [
+          "ScienceDaily (UC Santa Cruz)",
+          "Nature Neuroscience"
+        ],
+        "source_urls": [
+          "https://www.sciencedaily.com/releases/2026/11/261104012308.htm"
+        ]
+      }
     }
   }
 }

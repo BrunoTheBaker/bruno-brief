@@ -1,6 +1,142 @@
 {
   "days": [
     {
+      "date": "2026-11-09",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "Robin Brooks: long-end yield rise is fiscal risk premium, not AI debt",
+          "summary": "Brookings' Robin Brooks argues the post-midterm selloff shows long yields rising on US fiscal stress; the 10y10y forward did not fall with the 10-year.",
+          "sources": [
+            "Fortune"
+          ],
+          "slug": "fiscal-risk-premium-brooks-2026-11-09"
+        },
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "Treasury rally stalls after 165k jobs print; December hike odds rise",
+          "summary": "Strong October payrolls (+165k) pared the weekly bond rally; the 2-year touched 4.55% Friday and swaps price ~20bp of tightening for the 9 Dec FOMC.",
+          "sources": [
+            "Business Times (Bloomberg)"
+          ],
+          "slug": "treasury-rally-stalls-jobs-2026-11-09"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "AFR/Redbridge poll: Labor primary falls to record-low 26%, Coalition 25%",
+          "summary": "Labor's primary vote slipped 2 points to 26% and the Coalition rose 4 to 25%, leaving the two majors statistically tied, both behind One Nation.",
+          "sources": [
+            "AFR (Phillip Coorey)"
+          ],
+          "slug": "coalition-closes-gap-poll-2026-11-09"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Digital Duty of Care Senate inquiry starts: fines up to $109m, nudify apps banned",
+          "summary": "A two-day Senate inquiry into Labor's Digital Duty of Care bill opens today with parents and experts giving evidence; the bill passed the House in October without Coalition support.",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "digital-duty-of-care-inquiry-2026-11-09"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Albanese defends economic record as CPI inflation hits 4.3%",
+          "summary": "Albanese says his government has delivered savings in every budget; the PM also announced a $12m bushfire-readiness package ahead of a 'super El Niño' summer.",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "inflation-4-3-albanese-2026-11-09"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Eurogroup reviews Lagarde successor shortlist: Hernández de Cos vs Knot",
+          "summary": "Spain and the Netherlands nominated Pablo Hernández de Cos and Klaas Knot; finance ministers take stock on 9 Nov, but no decision is expected at that meeting.",
+          "sources": [
+            "Consilium (Eurogroup)",
+            "Reuters"
+          ],
+          "slug": "ecb-succession-eurogroup-2026-11-09"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "OpenAI launches GPT-6 Cyber, gated to approved security customers",
+          "summary": "OpenAI's cyber model scores 48.5% on ExploitGym (vs 32.1% for GPT-5.6 Cyber) and is available only to vetted Daybreak Red customers at $20/$100 per million tokens.",
+          "sources": [
+            "OpenAI",
+            "VentureBeat",
+            "CyberScoop"
+          ],
+          "slug": "gpt-6-cyber-2026-11-09"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Anthropic's Project EVE: Claude trading experiments show profit gains and a teamwork blind spot",
+          "summary": "In a simulator replaying real EVE Online orders, newer Claude models were profitable in every two-week window; in EVE Frontier, teammates almost never caught a secret saboteur.",
+          "sources": [
+            "Anthropic (as summarised by FORSMILE)"
+          ],
+          "slug": "anthropic-project-eve-2026-11-09"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Trump: renewed Iran strikes 'highly unlikely' if talks progress; US hits Qeshm island",
+          "summary": "Trump confirmed 'minor strikes' on Iranian air defences around Qeshm island while saying talks show 'a lot of progress'; Tehran says there has been no progress and is waiting.",
+          "sources": [
+            "CNN",
+            "Al Jazeera",
+            "CNBC"
+          ],
+          "slug": "iran-talks-qeshm-2026-11-09"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Fighting resumes in Kherson as truce ends; 26 killed in Zaporizhzhia strike",
+          "summary": "The longest truce of the war (27 Oct–1 Nov, brokered by Melania Trump) ended with Russian strikes on Kherson; Kyiv says Russia refused to extend it.",
+          "sources": [
+            "Euronews",
+            "France 24",
+            "BBC News",
+            "NPR"
+          ],
+          "slug": "kherson-truce-ends-2026-11-09"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Egypt: two passenger trains collide in Giza, at least seven killed, 110+ injured",
+          "summary": "A Giza-Fayoum train hit the rear of a Cairo-Aswan train at Al-Ayyat on Sunday, derailing it; Sisi ordered an investigation.",
+          "sources": [
+            "ABC News (AP/Reuters)",
+            "Times of Israel",
+            "Yahoo News (Reuters)"
+          ],
+          "slug": "egypt-al-ayyat-train-2026-11-09"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "Psilocybin rewires brain circuits through a pathway separate from hallucinations",
+          "summary": "UC Santa Cruz researchers found psilocybin's neuroplastic effects in layer-5 cortical neurons act through 5-HT2A receptors separately from its hallucinogenic effects.",
+          "sources": [
+            "ScienceDaily (UC Santa Cruz)",
+            "Nature Neuroscience"
+          ],
+          "slug": "psilocybin-rewires-brain-2026-11-09"
+        }
+      ]
+    },
+    {
       "date": "2026-11-08",
       "stories": [
         {
