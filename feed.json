@@ -1,6 +1,139 @@
 {
   "days": [
     {
+      "date": "2026-11-10",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "10-year Treasury holds near 4.88% as traders await October CPI",
+          "summary": "10-year yield 4.876%, 2-year 4.561%, 30-year 5.264% on Monday; October CPI due Tuesday, expected +0.3% headline and +0.2% core.",
+          "sources": [
+            "CNBC"
+          ],
+          "slug": "10y-steady-cpi-ahead-2026-11-10"
+        },
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "Goldman Sachs: 10-year yields may settle in a 4.75–5.0% range",
+          "summary": "Goldman says volatility fading and energy relief could let US 10-year yields trade 4.75–5.0%, down from above 5.25% in early October.",
+          "sources": [
+            "CNBC"
+          ],
+          "slug": "goldman-yield-range-2026-11-10"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Watt calls for end to leaking against Treasurer Chalmers",
+          "summary": "Environment Minister Murray Watt says he wants colleagues to stop undermining Jim Chalmers as Labor leaks dominate Canberra.",
+          "sources": [
+            "Sydney Morning Herald",
+            "The Nightly"
+          ],
+          "slug": "chalmers-leaks-watt-2026-11-10"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Just 20% of voters trust Albanese in new SMH poll",
+          "summary": "New Resolve Political Monitor polling shows trust in the PM at 20%, with about 42% blaming Labor for rising living costs.",
+          "sources": [
+            "Sydney Morning Herald",
+            "ABC News"
+          ],
+          "slug": "albanese-trust-20-poll-2026-11-10"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Merz ties EU budget deal to €45bn in Ukraine aid",
+          "summary": "German Chancellor Merz says no EU budget deal without fresh Ukraine support; Kyiv faces a €70bn 2027 shortfall, with the EU aiming to cover about €45bn.",
+          "sources": [
+            "Euronews"
+          ],
+          "slug": "merz-budget-ukraine-aid-2026-11-10"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "EU to fast-track Black Sea security hub with €50m",
+          "summary": "Von der Leyen, on a Romania visit, pledges €50m for a Black Sea Maritime Security Hub after attacks on shipping blamed on Russia, plus €10m for search-and-rescue.",
+          "sources": [
+            "POLITICO"
+          ],
+          "slug": "black-sea-security-hub-2026-11-10"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Anthropic launches Claude Fable 5.2 and Mythos 5.2, cuts input price to $8/M",
+          "summary": "Anthropic releases Fable 5.2 (all users) and Mythos 5.2 (vetted organisations only), claiming gains in coding and reasoning and undercutting OpenAI's GPT-6 Astra on price.",
+          "sources": [
+            "Fortune",
+            "PivotNews"
+          ],
+          "slug": "claude-fable-mythos-5-2-2026-11-10"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Trump says Ukraine will end with a 'different shape' ahead of Abu Dhabi talks",
+          "summary": "Trump predicts a deal 'soon' and suggests Ukraine's territory could change, as US-Ukraine-Russia talks are set for 10–11 November in Abu Dhabi.",
+          "sources": [
+            "Euronews"
+          ],
+          "slug": "ukraine-abu-dhabi-talks-2026-11-10"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Gaza storms flood about 70,000 displacement tents; embankment collapse kills four",
+          "summary": "Heavy rain and a sand embankment collapse in Gaza have killed four and flooded displacement tents; authorities declared a state of maximum emergency.",
+          "sources": [
+            "The Guardian"
+          ],
+          "slug": "gaza-floods-tents-2026-11-10"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "NASA accelerates plan to land astronauts on the Moon in 2028",
+          "summary": "NASA's revised plan puts SpaceX and Blue Origin landers at the centre of a 2028 crewed landing, with an orbital test scheduled for 2027.",
+          "sources": [
+            "ScienceDaily",
+            "NASA"
+          ],
+          "slug": "nasa-moon-2028-plan-2026-11-10"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Krakow market-square shooting: six dead, treated as terrorist offence",
+          "summary": "A 24-year-old gunman killed six and wounded 15 in Kraków's Main Market Square on 7 November; prosecutors treat it as terrorism. The gunman died of his injuries.",
+          "sources": [
+            "DW",
+            "Euronews",
+            "HSToday"
+          ],
+          "slug": "krakow-market-shooting-2026-11-10"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Nvidia board opens independent probe into Jensen Huang over alleged Chinese spy link",
+          "summary": "Nvidia's board is investigating whether CEO Jensen Huang was the target of a foreign intelligence effort; Huang remains CEO and says he will cooperate fully.",
+          "sources": [
+            "NVIDIA",
+            "AP",
+            "CNBC"
+          ],
+          "slug": "nvidia-huang-board-probe-2026-11-10"
+        }
+      ]
+    },
+    {
       "date": "2026-11-09",
       "stories": [
         {
