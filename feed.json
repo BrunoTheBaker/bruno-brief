@@ -1,6 +1,155 @@
 {
   "days": [
     {
+      "date": "2026-11-11",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "10-year Treasury yield back near 5% after hotter-than-expected October CPI",
+          "summary": "10-year yield rose about 13bp to ~4.99% on Tuesday after October CPI came in hotter than expected; a $42bn 10-year note auction was weak, and the 2-year jumped nearly 18bp.",
+          "sources": [
+            "CNBC",
+            "Wall Street Journal",
+            "Business Insider"
+          ],
+          "slug": "10y-cpi-hot-2026-11-11"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Albanese accepts all 18 recommendations of OpenAI-Medicare breach review, flags AI safety regulator",
+          "summary": "PM says government accepts all 18 recommendations of the rapid review into OpenAI's June breach of Services Australia; new AI safety regulator and mandatory AI incident reporting proposed.",
+          "sources": [
+            "The Guardian",
+            "Al Jazeera",
+            "The New Daily"
+          ],
+          "slug": "albanese-openai-ai-regulator-2026-11-11"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Europe wins a seat at Abu Dhabi Ukraine talks as Kyiv meets UK, France, Germany, Italy, EU and NATO",
+          "summary": "EU, France, Germany, Italy, UK, NATO and Ukraine met US envoys in Abu Dhabi on 10 Nov ahead of trilateral talks with Russia; joint line: any deal must respect sovereignty and give credible guarantees.",
+          "sources": [
+            "EUnews",
+            "Kyiv Independent",
+            "POLITICO Europe"
+          ],
+          "slug": "europe-abu-dhabi-seat-2026-11-11"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Merz ties EU budget to Ukraine aid; four member states push back",
+          "summary": "German Chancellor Merz links approval of the EU long-term budget to fresh Ukraine funding; Costa seeks to reassure him while Slovakia's Fico calls it 'blackmail' and four states resist.",
+          "sources": [
+            "Euronews"
+          ],
+          "slug": "merz-eu-budget-ukraine-aid-2026-11-11"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Google's Gemini Carbon agents generate six million lines of Lean proofs in four-week trial",
+          "summary": "Agents powered by Gemini Carbon produced over 6 million lines of Lean proofs in a four-week proof-of-concept with humans reviewing about 1% of the code; DeepMind claims first formal verification of a widely deployed crypto protocol's implementation.",
+          "sources": [
+            "AIBriefs",
+            "Google Keyword blog"
+          ],
+          "slug": "gemini-carbon-lean-proofs-2026-11-11"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "OpenAI's GPT-6 Cyber and Thinking Machines' Inkling 2 Small among latest confirmed releases",
+          "summary": "BenchLM's tracker confirms OpenAI released GPT-6 Cyber and Thinking Machines Lab released Inkling 2 Small on 5 November, each linked to primary-source announcements.",
+          "sources": [
+            "BenchLM",
+            "OpenAI",
+            "Thinking Machines Lab"
+          ],
+          "slug": "gpt6-cyber-inkling2-2026-11-11"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Iran strikes more ships near Hormuz as Pentagon moves aircraft from second UK base",
+          "summary": "IRGC says two more ships, including a supertanker, are on fire near the Strait of Hormuz; Iran claims 11 strikes on shipping in 10 days, while Tehran says it could reopen the strait within 48 hours if US meets its demands.",
+          "sources": [
+            "Democracy Now!",
+            "WSJ (via Democracy Now!)"
+          ],
+          "slug": "hormuz-ship-strikes-2026-11-11"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Russia-Ukraine-US trilateral talks resume in Abu Dhabi after nine-month pause",
+          "summary": "Trilateral US–Ukraine–Russia talks opened in Abu Dhabi on 10 Nov; Rubio called them 'very productive', Zelensky 'constructive and quite substantive', with humanitarian issues and POW swaps on the agenda.",
+          "sources": [
+            "The Guardian",
+            "Kyiv Independent",
+            "The Hindu"
+          ],
+          "slug": "trilateral-talks-abu-dhabi-2026-11-11"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "ALPS II axion experiment reports first results: no axions found, but sensitivity up 20x",
+          "summary": "DESY-led ALPS II light-shining-through-a-wall experiment reports first science campaign (Feb–May 2024) with no axion evidence; sensitivity more than 20 times beyond prior experiments.",
+          "sources": [
+            "Phys.org"
+          ],
+          "slug": "alps-ii-axion-2026-11-11"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "Perforin can kill cancer cells on its own by triggering ferroptosis",
+          "summary": "A University of Michigan-led study in Cell finds the immune protein perforin can kill tumour cells independently of granzymes, by driving iron-dependent ferroptosis; findings are lab and mouse data.",
+          "sources": [
+            "SciTechDaily",
+            "University of Michigan Rogel Cancer Center"
+          ],
+          "slug": "perforin-ferroptosis-2026-11-11"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "Carbon-doped boron nitride gives wafer-scale p-type 2D semiconductor",
+          "summary": "University of Tokyo-led team grows single-layer boron carbon nitride (BCN) on a 2-inch wafer; 224 transistors show hole mobility near 100 cm²/V·s and on/off ratio ~10⁸, published in Nature.",
+          "sources": [
+            "EurekAlert!",
+            "Nature"
+          ],
+          "slug": "bcn-p-type-2d-2026-11-11"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Nvidia shares fall 6.4% after board probes reports of foreign spy plot targeting CEO Jensen Huang",
+          "summary": "Nvidia plunged 6.4% to $174.7 after its board launched an independent investigation into reports Jensen Huang was targeted by a foreign intelligence operation; Trump says Huang told him he did not know; China calls the allegations smears.",
+          "sources": [
+            "Anadolu Agency"
+          ],
+          "slug": "nvidia-spy-probe-2026-11-11"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Massie files eight articles of impeachment against Defense Secretary Hegseth; House vote expected Wednesday",
+          "summary": "Rep. Thomas Massie introduced eight articles of impeachment against Defense Secretary Pete Hegseth on Monday, citing War Powers violations over Iran; House vote expected today, Trump says he will stand by Hegseth.",
+          "sources": [
+            "Democracy Now!"
+          ],
+          "slug": "hegseth-impeachment-2026-11-11"
+        }
+      ]
+    },
+    {
       "date": "2026-11-10",
       "stories": [
         {
