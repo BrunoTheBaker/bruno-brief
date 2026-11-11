@@ -1,6 +1,142 @@
 {
   "days": [
     {
+      "date": "2026-11-12",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "10-year Treasury yield tops 5% as hot CPI revives Fed hike bets",
+          "summary": "Core CPI rose 0.3% vs 0.2% expected; the 10-year jumped to 4.98% (briefly above 5%) and the 2-year posted its biggest one-day jump since April 2025.",
+          "sources": [
+            "CNN via Yahoo Finance",
+            "Bloomberg"
+          ],
+          "slug": "10y-tops-5pct-hot-cpi-2026-11-12"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Albanese makes Pacific climate plea at COP31 as Australia leads negotiations",
+          "summary": "Albanese urged world leaders at the COP31 summit in Turkey to act for Pacific nations facing rising seas, as Australia leads the annual climate negotiations.",
+          "sources": [
+            "The West Australian (AAP)"
+          ],
+          "slug": "albanese-cop31-pacific-plea-2026-11-12"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "One Nation drops Victorian candidate over Hitler comments",
+          "summary": "One Nation's Victorian leader Warren Pickering removed a Preston candidate over comments about Hitler, ahead of the 28 November Victorian election.",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "vic-one-nation-candidate-dumped-2026-11-12"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Burnham promises a 10-year plan to Commons before Christmas recess",
+          "summary": "UK Prime Minister Andy Burnham says his 10-year blueprint will go to the Commons by 17 December, as Labour faces a Reform-Tory race in the polls.",
+          "sources": [
+            "POLITICO Europe"
+          ],
+          "slug": "burnham-10-year-plan-2026-11-12"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Libya-Turkey maritime deal threatens to spill into Friday's EU summit",
+          "summary": "A controversial maritime border deal between Libya and Turkey has angered Greece and irritated the EU, and could intrude on Friday's leaders' summit.",
+          "sources": [
+            "POLITICO Europe"
+          ],
+          "slug": "eu-summit-turkey-greece-spat-2026-11-12"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Nvidia launches investigation into CEO Jensen Huang; $7.5B of chip shipments under scrutiny",
+          "summary": "Nvidia is investigating allegations that CEO Jensen Huang was targeted by a Chinese espionage operation, as reporting says an associate facilitated at least $7.5B in Nvidia chip shipments to Chinese firms.",
+          "sources": [
+            "Reuters",
+            "The Guardian",
+            "AP News",
+            "The New York Times"
+          ],
+          "slug": "nvidia-ceo-china-chip-probe-2026-11-12"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Russia and Ukraine agree large prisoner exchange; Abu Dhabi talks end without breakthrough",
+          "summary": "US-brokered talks in Abu Dhabi produced a large prisoner exchange but no major progress on ending the war; the security framework for Europe remains disputed.",
+          "sources": [
+            "AP News",
+            "BBC News",
+            "POLITICO Europe"
+          ],
+          "slug": "ukraine-talks-prisoner-swap-2026-11-12"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Tankers hit in Strait of Hormuz as US and Iran trade strikes and mines",
+          "summary": "Explosions and mine strikes have hit tankers in the Strait of Hormuz; the US carried out limited strikes on Qeshm Island while Iran reviews de-escalation proposals.",
+          "sources": [
+            "ABC News",
+            "Reuters",
+            "ISW"
+          ],
+          "slug": "hormuz-tanker-attacks-2026-11-12"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🚀",
+          "headline": "Caltech's ASTRA robot builds a truss section in orbit without astronauts",
+          "summary": "Caltech's autonomous robotic truss builder, ASTRA, assembled a structure in orbit, a first for autonomous space construction, funded under DARPA's NOM4D program.",
+          "sources": [
+            "Caltech",
+            "Phys.org",
+            "Labroots"
+          ],
+          "slug": "caltech-astra-orbit-robot-2026-11-12"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "Scientists create a room-temperature supersolid of light and matter",
+          "summary": "A Polish-led team reports a supersolid, a state combining a crystal's structure with frictionless superfluid flow, at room temperature using light-matter particles.",
+          "sources": [
+            "ScienceDaily",
+            "University of Warsaw"
+          ],
+          "slug": "room-temp-supersolid-light-2026-11-12"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🔥",
+          "headline": "Tens of thousands join Spain general strike; clashes in Barcelona",
+          "summary": "Main Spanish unions called a general strike over housing and the cost of living; BBC reports clashes in Barcelona as tens of thousands took part.",
+          "sources": [
+            "BBC News"
+          ],
+          "slug": "spain-general-strike-barcelona-2026-11-12"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🔥",
+          "headline": "Thousands of schools in Italy, Scotland and Northern Ireland hit by bomb hoax threats",
+          "summary": "More than 6,000 Italian schools received threats in a suspected hoax, with similar incidents in Scotland and Northern Ireland; authorities say there is no risk to the public.",
+          "sources": [
+            "BBC News"
+          ],
+          "slug": "school-bomb-hoax-italy-uk-2026-11-12"
+        }
+      ]
+    },
+    {
       "date": "2026-11-11",
       "stories": [
         {
