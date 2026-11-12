@@ -1,6 +1,137 @@
 {
   "days": [
     {
+      "date": "2026-11-13",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "Traders price ~90% odds of a December Fed hike after hot CPI",
+          "summary": "Markets priced a high chance of a December Fed rate increase after October CPI rose 0.4% (above the 0.3% forecast), with the 2-year yield up about 18bp to 4.75%.",
+          "sources": [
+            "Equiti",
+            "E8 Markets"
+          ],
+          "slug": "fed-dec-hike-odds-2026-11-13"
+        },
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "Weak $42bn 10-year note auction adds pressure to Treasuries",
+          "summary": "Dealers were left with about 10% of the 10-year auction, the most since May, adding to the sell-off as the 10-year sat near 5%.",
+          "sources": [
+            "JournalArta",
+            "CNBC"
+          ],
+          "slug": "10y-auction-weak-2026-11-13"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "16 health groups urge Albanese to redirect $1.5bn from Middle Arm to Royal Darwin Hospital",
+          "summary": "In an open letter, 16 organisations including the Australasian College for Emergency Medicine and the Australian College of Nursing asked the PM to cancel Middle Arm funding and fund new NT hospitals.",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "middle-arm-darwin-hospital-letter-2026-11-13"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Australia to introduce mandatory AI incident reporting after OpenAI hack",
+          "summary": "The government will introduce mandatory reporting after OpenAI did not notify Australia until mid-September, despite becoming aware of the incident in August; Labor and Albanese criticised the delay.",
+          "sources": [
+            "The Guardian"
+          ],
+          "slug": "au-mandatory-ai-incident-reporting-2026-11-13"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Dublin EPC summit: Europe seeks a seat at the Ukraine peace table",
+          "summary": "Leaders of 40+ countries met in Dublin on Nov 12 as US envoys and Ukraine's talks left Europe scrambling for a role; the forum makes no binding decisions.",
+          "sources": [
+            "RTÉ",
+            "AP"
+          ],
+          "slug": "dublin-epc-summit-europe-seat-2026-11-13"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Costa and von der Leyen: EU to present 22nd Russia sanctions package",
+          "summary": "After meeting Zelensky in Dublin, EU leaders said the Commission will present a 22nd sanctions package and that the 26–27 Nov European Council will discuss Ukraine's 2027 financing needs.",
+          "sources": [
+            "Consilium (European Council)"
+          ],
+          "slug": "eu-22nd-sanctions-ukraine-financing-2026-11-13"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Google releases Gemini 4 Carbon frontier model",
+          "summary": "Google's Gemini 4 Carbon is priced at $2/M input and $10/M output tokens; Google and AIBriefs cite benchmark leads (e.g., CursorBench 4.0), which are vendor-reported.",
+          "sources": [
+            "AIBriefs"
+          ],
+          "slug": "gemini-4-carbon-launch-2026-11-13"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Hacking group used the open-source Hermes agent framework to steal 2,000+ Tajik documents",
+          "summary": "A Kazakhstan-linked group dubbed Silent Lynx reportedly used the Hermes autonomous agent framework to plan an attack and exfiltrate more than 2,000 national security documents, per CloudSEK findings.",
+          "sources": [
+            "AI Weekly"
+          ],
+          "slug": "silent-lynx-hermes-agent-attack-2026-11-13"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Zelensky says Starshield speed limits are back, hampering drone interception",
+          "summary": "Ukraine says Starshield satellite comms are limited to 161 km/h again, which Zelensky says is helping Russia make more accurate strikes and harder-to-intercept drone attacks.",
+          "sources": [
+            "Kyiv Independent"
+          ],
+          "slug": "starshield-speed-limits-return-2026-11-13"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Russia strikes Kyiv hours after Abu Dhabi talks end; Putin calls foreign troops 'legitimate targets'",
+          "summary": "Russia fired ballistic missiles and drones at Kyiv after two days of US-brokered talks ended without a major breakthrough; one person was killed in the capital. Putin also said foreign troops in Ukraine are legitimate targets.",
+          "sources": [
+            "POLITICO",
+            "Kyiv Independent",
+            "DW"
+          ],
+          "slug": "kyiv-strikes-after-abu-dhabi-talks-2026-11-13"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "DeepMind's AlphaGenome 2 nearly doubles detection of expression-altering variants",
+          "summary": "DeepMind's AlphaGenome 2 identifies about 30% of causal variants on TenK10K versus 16% for AlphaGenome 1, and predicts cell-type-specific effects.",
+          "sources": [
+            "SiliconANGLE",
+            "AI Weekly"
+          ],
+          "slug": "alphagenome-2-variants-2026-11-13"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Russian colonel reportedly killed in car explosion near St Petersburg",
+          "summary": "Russian officers and figures tied to the invasion have previously been targeted in car bombings; this blast was reported on Nov 12 and remains unattributed in the reporting.",
+          "sources": [
+            "Kyiv Independent"
+          ],
+          "slug": "russian-colonel-car-blast-st-petersburg-2026-11-13"
+        }
+      ]
+    },
+    {
       "date": "2026-11-12",
       "stories": [
         {

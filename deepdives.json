@@ -1,5 +1,159 @@
 {
   "deepdives": {
+    "2026-11-13": {
+      "fed-dec-hike-odds-2026-11-13": {
+        "headline": "Traders price ~90% odds of a December Fed hike after hot CPI",
+        "summary": "Markets priced a high chance of a December Fed rate increase after October CPI rose 0.4% (above the 0.3% forecast), with the 2-year yield up about 18bp to 4.75%.",
+        "detail": "October US CPI rose 0.4% month-on-month against a 0.3% forecast, and core inflation rose 0.3% versus 0.2% expected, according to reporting from Equiti and JournalArta. Fed Governor Christopher Waller said officials should consider a larger move if inflation stays high.\n\nFutures pricing moved quickly: Equiti cited CME FedWatch probabilities of a December rate increase at about 90%. The 2-year Treasury yield rose roughly 18bp to about 4.75%, the largest move on an official curve where every maturity rose.\n\nE8 Markets reported on Nov 12 that Treasury futures weakened as the cash market reopened after the Veterans Day holiday, with markets preparing for rates to stay higher for longer. The shift is a repricing of policy expectations rather than a change in the Fed's stated stance.\n\nWhat to watch: the December meeting and the next inflation print will determine whether this hike pricing holds. Reporting so far shows market odds, not a Fed decision.",
+        "sources": [
+          "Equiti",
+          "E8 Markets"
+        ],
+        "source_urls": [
+          "https://www.equiti.com/jo-en/news/trade-reviews/treasury-yields-reclaim-5-threshold-as-inflation-pressures-mount",
+          "https://blog.e8markets.com/article/treasury-futures-slide-as-markets-price-a-more-restrictive-fed"
+        ]
+      },
+      "10y-auction-weak-2026-11-13": {
+        "headline": "Weak $42bn 10-year note auction adds pressure to Treasuries",
+        "summary": "Dealers were left with about 10% of the 10-year auction, the most since May, adding to the sell-off as the 10-year sat near 5%.",
+        "detail": "A $42 billion 10-year Treasury note auction was weak, leaving dealers with about 10% of the issue, the most since May, according to JournalArta citing market commentary. Bond prices fell as yields rose.\n\nCNBC reported on Nov 10 that yields jumped after the hotter-than-expected CPI data and the soft auction compounded the decline. The 10-year yield rose about 10bp to 4.98% on the Treasury's official par curve, per The Edge's wrap of Treasury data.\n\nThe 20- and 30-year maturities also moved higher (about 10bp each on the same day), indicating the sell-off ran along the curve rather than only at the front end.\n\nFor borrowers, the benchmark 10-year drives mortgage, car loan and credit card pricing, so the auction read-through matters beyond bond desks. Weak demand at auction is a signal to watch in the next supply calendar.",
+        "sources": [
+          "JournalArta",
+          "CNBC",
+          "The Edge"
+        ],
+        "source_urls": [
+          "https://journalarta.com/en/2026/11/11/treasury-yields-inflation-fed-rate-bets-november",
+          "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
+          "https://edgeconsultancykw.com/us-market-wrap-10-november-2026/"
+        ]
+      },
+      "middle-arm-darwin-hospital-letter-2026-11-13": {
+        "headline": "16 health groups urge Albanese to redirect $1.5bn from Middle Arm to Royal Darwin Hospital",
+        "summary": "In an open letter, 16 organisations including the Australasian College for Emergency Medicine and the Australian College of Nursing asked the PM to cancel Middle Arm funding and fund new NT hospitals.",
+        "detail": "Sixteen health organisations, including the Australasian College for Emergency Medicine and the Australian College of Nursing, have signed an open letter asking Anthony Albanese to cancel a Commonwealth budget pledge of $1.5 billion for the Middle Arm industrial precinct in Darwin. ABC News reports they want the money redirected to new Northern Territory health infrastructure, including a replacement Royal Darwin Hospital.\n\nThe push follows a Northern Territory opposition promise to build a new Royal Darwin Hospital if elected in 2028. That makes hospital funding a live contest between the territory's political parties ahead of the next NT election.\n\nThe campaign frames the Middle Arm project as an industrial spend competing with health capital in a jurisdiction with acute workforce and infrastructure pressure. The federal government has not, in the reporting read here, agreed to change the allocation.\n\nWatch for a federal response and whether the NT opposition's hospital pledge becomes a point of difference in Commonwealth-territory funding negotiations.",
+        "sources": [
+          "ABC News"
+        ],
+        "source_urls": [
+          "https://www.abc.net.au/news/2026-11-13/anthony-albanese-middle-arm-royal-darwin-hospital-funding-letter/107379440"
+        ]
+      },
+      "au-mandatory-ai-incident-reporting-2026-11-13": {
+        "headline": "Australia to introduce mandatory AI incident reporting after OpenAI hack",
+        "summary": "The government will introduce mandatory reporting after OpenAI did not notify Australia until mid-September, despite becoming aware of the incident in August; Labor and Albanese criticised the delay.",
+        "detail": "The Guardian reports that Australia will introduce mandatory reporting for AI-related security incidents after an OpenAI hack, with the government framing it as a response to AI 'going rogue' risks.\n\nThe Guardian's reporting says OpenAI became aware of the incident in August but did not notify the Australian government until mid-September. That delay drew criticism from Labor and from Albanese himself, and is the stated reason for the policy shift.\n\nThe reporting describes a shift to mandatory reporting rather than voluntary notification; the precise obligations, penalties and timing were not in the text available here.\n\nFor Australian readers, the incident is framed in coverage (and the article URL) as a Medicare-related hack, which is why it matters to health-data governance. Check the full Guardian piece for legislative detail before relying on specifics.",
+        "sources": [
+          "The Guardian"
+        ],
+        "source_urls": [
+          "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack"
+        ]
+      },
+      "dublin-epc-summit-europe-seat-2026-11-13": {
+        "headline": "Dublin EPC summit: Europe seeks a seat at the Ukraine peace table",
+        "summary": "Leaders of 40+ countries met in Dublin on Nov 12 as US envoys and Ukraine's talks left Europe scrambling for a role; the forum makes no binding decisions.",
+        "detail": "The ninth European Political Community summit was held in Dublin on Thursday, Nov 12, bringing together leaders from more than 40 European countries. Ukraine and continental security were the central themes, and Zelensky, Canadian PM Mark Carney and NATO Secretary-General Mark Rutte attended, according to DW's live coverage.\n\nThe summit followed two days of US-brokered Ukraine-Russia-US talks in Abu Dhabi, which ended with a prisoner-exchange agreement but unresolved territorial questions. European representatives held separate talks with US and Ukrainian officials rather than sitting at the trilateral table, per euperspectives.eu.\n\nIrish Taoiseach Micheál Martin listed four takeaways: steadfast support for Ukraine, closer cooperation against hybrid attacks, leveraging technology for innovation, and affordable clean energy. RTÉ reported that the question of who should represent Europe in talks with Russia remained open, with the EU27 expected to discuss it at the next European Council.\n\nAP notes the EPC meets without binding decisions or formal declarations, so its influence depends on follow-on action by the EU and NATO.",
+        "sources": [
+          "RTÉ",
+          "AP",
+          "DW",
+          "euperspectives.eu"
+        ],
+        "source_urls": [
+          "https://www.rte.ie/news/2026/1112/1599048-epc-takeaways/",
+          "https://apnews.com/article/european-political-community-summit-what-to-know-6ffde020abe1b8031311f85f82b16c36",
+          "https://www.dw.com/en/ukraine-peace-talks-us-envoys-meet-with-putin-at-kremlin/live-79925580",
+          "https://euperspectives.eu/2026/11/epc-summit-dublin-ukraine-peace-talks-europe/"
+        ]
+      },
+      "eu-22nd-sanctions-ukraine-financing-2026-11-13": {
+        "headline": "Costa and von der Leyen: EU to present 22nd Russia sanctions package",
+        "summary": "After meeting Zelensky in Dublin, EU leaders said the Commission will present a 22nd sanctions package and that the 26–27 Nov European Council will discuss Ukraine's 2027 financing needs.",
+        "detail": "A joint statement by European Council President António Costa and Commission President Ursula von der Leyen, issued after their Dublin meeting with Zelensky, reaffirmed EU support and said the EU remains part of the Abu Dhabi peace format.\n\nThe statement says the Commission will present a 22nd sanctions package against Russia, and that the European Council on 26–27 November will discuss Ukraine's urgent financing needs for 2027 based on the Commission's proposal.\n\nOn winter support, the statement says the Commission is mobilising 500 generators from the rescEU reserve, emergency support centres, four floating bridges from Norway, and 200 buses.\n\nThe EU's stated position is a ceasefire, Black Sea navigation, and conditions for a peace agreement anchored in sovereignty and territorial integrity, per a separate Costa press remarks release from the same day.",
+        "sources": [
+          "Consilium (European Council)"
+        ],
+        "source_urls": [
+          "https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/joint-statement-by-president-costa-and-president-von-der-leyen-following-their-meeting-with-president-zelenskyy-in-dublin/"
+        ]
+      },
+      "gemini-4-carbon-launch-2026-11-13": {
+        "headline": "Google releases Gemini 4 Carbon frontier model",
+        "summary": "Google's Gemini 4 Carbon is priced at $2/M input and $10/M output tokens; Google and AIBriefs cite benchmark leads (e.g., CursorBench 4.0), which are vendor-reported.",
+        "detail": "AIBriefs' Nov 12 daily brief lists Google's Gemini 4 Carbon as its top AI model story. Per the brief, Carbon is priced at $2 per million input tokens and $10 per million output tokens, the same as Gemini 4 Argon.\n\nThe brief reports vendor-style benchmark claims: Carbon ranks first on CursorBench 4.0, and on Perplexity's WANDR and Zapier's AutomationBench, at more than 2x lower cost per task than the next-best external model. These are company-reported figures and have not been independently verified here.\n\nThe same brief also lists other launches that week, including the Gemini Decision 1 API.\n\nIndependent evaluation and availability in production will matter more than launch benchmarks; treat the leaderboard claims as provisional until third-party results are published.",
+        "sources": [
+          "AIBriefs"
+        ],
+        "source_urls": [
+          "https://aibriefs.news/ai-news-today"
+        ]
+      },
+      "silent-lynx-hermes-agent-attack-2026-11-13": {
+        "headline": "Hacking group used the open-source Hermes agent framework to steal 2,000+ Tajik documents",
+        "summary": "A Kazakhstan-linked group dubbed Silent Lynx reportedly used the Hermes autonomous agent framework to plan an attack and exfiltrate more than 2,000 national security documents, per CloudSEK findings.",
+        "detail": "AI Weekly reports that a Kazakhstan-linked group dubbed Silent Lynx used Hermes, an open-source autonomous AI agent framework, to steal more than 2,000 national security documents from Tajikistan's electronic document system.\n\nAccording to the reporting (citing CloudSEK's investigation), the attacker directed the agent to plan the operation, write scripts, keep notes and generate reports, including a custom program to chunk and exfiltrate files. Reconnaissance reportedly began in mid-August 2026, with the breach weeks later.\n\nCloudSEK found the operation after the attackers left a server exposed. The case shows how agent frameworks lower the skill needed to run multi-stage intrusions, since the agent handles planning and tooling.\n\nFor operators running agent software, the reporting underlines securing exposed services and managing stored credentials. Treat the attack details as reported, pending the primary CloudSEK write-up.",
+        "sources": [
+          "AI Weekly"
+        ],
+        "source_urls": [
+          "https://aiweekly.co/ai-news-today/"
+        ]
+      },
+      "starshield-speed-limits-return-2026-11-13": {
+        "headline": "Zelensky says Starshield speed limits are back, hampering drone interception",
+        "summary": "Ukraine says Starshield satellite comms are limited to 161 km/h again, which Zelensky says is helping Russia make more accurate strikes and harder-to-intercept drone attacks.",
+        "detail": "Zelensky said on Nov 12 that Ukraine's military is again facing significant disruption to Starshield, the militarised version of Starlink, with operating speed limited to 161 km/h (100 mph). He wrote on X that the restrictions were systematic rather than random errors.\n\nThe Kyiv Independent reports that the limits reduce Ukraine's ability to intercept Russian jet-powered drones. A corps-level commander in Donetsk said the 160 km/h cap makes mid-range strike drones easier to intercept or evade for Russia.\n\nZelensky said the restrictions affect the front line and Russian-occupied areas, and that Kyiv is trying to establish with the United States what caused them. Guardian live coverage quotes him saying the team had little detail from the American side.\n\nThe dispute matters beyond one system: it raises questions about allied control over commercial satellite comms used in combat, and whether drone interception capacity can be restored quickly.",
+        "sources": [
+          "Kyiv Independent",
+          "The Guardian"
+        ],
+        "source_urls": [
+          "https://kyivindependent.com/ukraine-war-latest-starshield-speed-restrictions-return-zelensky-says/",
+          "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates?page=with%3Ablock-6af5a9f18f08c34db9454c65"
+        ]
+      },
+      "kyiv-strikes-after-abu-dhabi-talks-2026-11-13": {
+        "headline": "Russia strikes Kyiv hours after Abu Dhabi talks end; Putin calls foreign troops 'legitimate targets'",
+        "summary": "Russia fired ballistic missiles and drones at Kyiv after two days of US-brokered talks ended without a major breakthrough; one person was killed in the capital. Putin also said foreign troops in Ukraine are legitimate targets.",
+        "detail": "POLITICO reports Russia attacked Kyiv with ballistic missiles and 123 attack drones on Thursday, hours after the Abu Dhabi trilateral talks concluded. Ukraine said it shot down 94 drones and no missiles; one person was killed in Kyiv, per Mayor Klitschko.\n\nThe talks ended with an agreed prisoner swap, but territory and Europe's role caused heated debate. Ukrainian negotiator David Arakhamia called them among the toughest yet; Russian delegation head Vladimir Medinsky said 'every inch of our land will be returned'.\n\nPutin, after meeting US envoys Witkoff and Kushner in Moscow, said foreign troops fighting in Ukraine are 'legitimate targets' and rejected foreign peacekeepers, calling such a deployment a 'continuation of war' (DW live coverage).\n\nUS envoy Witkoff said a further round was agreed and that Europeans should be involved. Whether Moscow engages on territory is the open question; the strikes show escalation continuing in parallel with talks.",
+        "sources": [
+          "POLITICO",
+          "Kyiv Independent",
+          "DW"
+        ],
+        "source_urls": [
+          "https://www.politico.eu/article/russia-and-ukraine-trade-strikes-as-peace-talks-end-with-little-progress/",
+          "https://kyivindependent.com/ukraine-war-latest-starshield-speed-restrictions-return-zelensky-says/",
+          "https://www.dw.com/en/ukraine-peace-talks-us-envoys-meet-with-putin-at-kremlin/live-79925580"
+        ]
+      },
+      "alphagenome-2-variants-2026-11-13": {
+        "headline": "DeepMind's AlphaGenome 2 nearly doubles detection of expression-altering variants",
+        "summary": "DeepMind's AlphaGenome 2 identifies about 30% of causal variants on TenK10K versus 16% for AlphaGenome 1, and predicts cell-type-specific effects.",
+        "detail": "SiliconANGLE reports Google DeepMind announced AlphaGenome 2 on Nov 11, a DNA model that predicts how sequence variants change gene activity in specific cell types rather than bulk tissue averages.\n\nAI Weekly, citing DeepMind's release, says the model was trained on more than 100 million individual cell profiles and identifies nearly twice as many expression-changing variants as its predecessor: about 30% causal-variant detection on TenK10K versus 16% for AlphaGenome 1, with correct direction 43% of the time versus 23%.\n\nSiliconANGLE notes the model is not approved for clinical use and is a research tool that guides experiments rather than replacing them.\n\nThe relevance is drug-target discovery: finer cell-type resolution could help prioritise targets, though the reported gains are DeepMind's benchmarks and await independent replication.",
+        "sources": [
+          "SiliconANGLE",
+          "AI Weekly"
+        ],
+        "source_urls": [
+          "https://siliconangle.com/2026/11/11/google-deepmind-releases-new-advanced-robotics-ai-model-and-next-generation-gene-prediction-model",
+          "https://aiweekly.co/ai-news-today/"
+        ]
+      },
+      "russian-colonel-car-blast-st-petersburg-2026-11-13": {
+        "headline": "Russian colonel reportedly killed in car explosion near St Petersburg",
+        "summary": "Russian officers and figures tied to the invasion have previously been targeted in car bombings; this blast was reported on Nov 12 and remains unattributed in the reporting.",
+        "detail": "The Kyiv Independent's Nov 12 war live blog reports that a Russian colonel was reportedly killed in a car explosion near St Petersburg. The article uses 'reportedly' and no authoritative attribution is given in the text available here.\n\nThe Kyiv Independent notes that Russian military officials and others involved in the invasion have previously been targeted in car bombings, sometimes in Ukrainian-led operations. That context is background, not evidence about this incident.\n\nThe same live update carried other items, including Ukraine capturing its first Indonesian prisoner of war and reports of abuses in occupied Oleshky, which show the broader pressure on Russian personnel abroad and at home.\n\nTreat attribution as unconfirmed until Russian or Ukrainian official sources or independent police reporting confirm details.",
+        "sources": [
+          "Kyiv Independent"
+        ],
+        "source_urls": [
+          "https://kyivindependent.com/ukraine-war-latest-starshield-speed-restrictions-return-zelensky-says/"
+        ]
+      }
+    },
     "2026-11-12": {
       "10y-tops-5pct-hot-cpi-2026-11-12": {
         "headline": "10-year Treasury yield tops 5% as hot CPI revives Fed hike bets",
