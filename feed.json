@@ -1,6 +1,154 @@
 {
   "days": [
     {
+      "date": "2026-11-14",
+      "stories": [
+        {
+          "bucket": "US Bond Market",
+          "emoji": "🇺🇸",
+          "headline": "Treasuries sell off as December Fed hike fully priced; 10-year briefly tops 5%",
+          "summary": "After hotter October CPI and Fed Governor Waller backing a December hike, the 2-year yield jumped more than 18bp to about 4.74% and the 10-year briefly traded above 5%.",
+          "sources": [
+            "CNBC",
+            "Saxo Markets"
+          ],
+          "slug": "ust-10y-above-5pct-2026-11-14"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Victorian election: Coalition pledges to scrap Treaty; Greens open tickets in 15 seats",
+          "summary": "With the Victorian poll on 28 November, the Coalition says it would repeal Treaty laws within 100 days; a UN Indigenous rights adviser has criticised the plan, and the Greens' open-ticket preference move has angered Labor.",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "victoria-treaty-election-2026-11-14"
+        },
+        {
+          "bucket": "Australian Politics",
+          "emoji": "🇦🇺",
+          "headline": "Burke opens $76m Counter Terrorism Online Centre as AFP warns of 'terrorism 2.0'",
+          "summary": "The Commonwealth's $76 million Counter Terrorism Online Centre opened in Sydney, bringing AFP and ASIO together to target online radicalisation; AFP Commissioner Krissy Barrett says the threat has shifted online.",
+          "sources": [
+            "ABC News"
+          ],
+          "slug": "counter-terror-online-centre-2026-11-14"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Coalition of the Willing summit in Berlin on 19 November to fix 2027 Ukraine funding",
+          "summary": "Chancellor Merz says more than 20 heads of government will meet in Berlin on 19 November to fund Ukraine's defence for 2027 and agree a unified position ahead of future peace talks.",
+          "sources": [
+            "Ukrinform",
+            "Kyiv24"
+          ],
+          "slug": "coalition-of-willing-berlin-2026-11-14"
+        },
+        {
+          "bucket": "European Politics",
+          "emoji": "🇪🇺",
+          "headline": "Zelensky and Kushner confirm Europe will join next round of Ukraine–Russia talks",
+          "summary": "EU leaders say Europe's security architecture should not be negotiated away in Ukraine-Russia talks, but have not said who will speak for Europe, while Moscow says European participation requires an end to arms aid to Kyiv.",
+          "sources": [
+            "France 24",
+            "Conflict Tracker"
+          ],
+          "slug": "europe-seat-at-ukraine-talks-2026-11-14"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "Google launches Gemini 4 Hydrogen: cheaper than Argon, scores 51 on AA index",
+          "summary": "Google released Gemini 4 Hydrogen at $1.50 per million input and $7.50 per million output tokens, scoring 51 on the Artificial Analysis Intelligence Index versus 50 for the larger Gemini 4 Argon.",
+          "sources": [
+            "TLDR AI",
+            "AIpresso"
+          ],
+          "slug": "gemini-4-hydrogen-2026-11-14"
+        },
+        {
+          "bucket": "AI News",
+          "emoji": "🤖",
+          "headline": "OpenAI launches ChatGPT Wallet, letting agents make purchases with user approval",
+          "summary": "ChatGPT Wallet lets OpenAI's agents make purchases for users through American Express, Mastercard and Visa, with cardholders keeping existing rewards and explicit consent required before spending.",
+          "sources": [
+            "The Verge (via daily AI ledger)",
+            "The Token Reporter"
+          ],
+          "slug": "chatgpt-wallet-agents-2026-11-14"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "⚔️",
+          "headline": "Ukraine claims record ~3,000 Russian casualties in a day as first peace talks since Feb begin",
+          "summary": "Ukraine says it inflicted a record ~3,000 Russian casualties in one day as US-, Ukraine- and Russia-linked talks resume; Putin insists on full control of four annexed regions.",
+          "sources": [
+            "Al Jazeera",
+            "Conflict Tracker"
+          ],
+          "slug": "ukraine-russia-talks-casualties-2026-11-14"
+        },
+        {
+          "bucket": "Conflicts",
+          "emoji": "🌍",
+          "headline": "Gaza floods leave 200,000 without dry shelter as 150,000 tents stuck at borders",
+          "summary": "The first heavy rains of winter flooded Gaza's tent camps; UN says over 40,000 shelters damaged and 150,000 tents held up by Israeli restrictions, as an infant died of hypothermia in Khan Younis.",
+          "sources": [
+            "ABC News",
+            "Democracy Now",
+            "OCHA"
+          ],
+          "slug": "gaza-flood-shelter-2026-11-14"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🔬",
+          "headline": "Flinders team turns designed cracks into antimicrobial coating powered by a 9-volt battery",
+          "summary": "Researchers led from Flinders University's Biomedical Nanoengineering Lab built a flexible gallium-carbon nanotube coating whose self-formed microcracks can be used to fight drug-resistant superbugs.",
+          "sources": [
+            "Flinders University"
+          ],
+          "slug": "flinders-cracked-coating-superbugs-2026-11-14"
+        },
+        {
+          "bucket": "Science/Tech",
+          "emoji": "🚀",
+          "headline": "Chip-based lasers cool a trapped calcium ion near its quantum ground state in 150 µs",
+          "summary": "Chip-scale lasers cooled a trapped calcium ion close to its quantum ground state across three motion modes in 150 microseconds, a step toward compact quantum-computing hardware.",
+          "sources": [
+            "Interesting Engineering"
+          ],
+          "slug": "chip-laser-cooling-trapped-ion-2026-11-14"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🚨",
+          "headline": "Microsoft 365 outage hits 74 countries for 24+ hours; Microsoft 'deeply sorry'",
+          "summary": "A global Microsoft 365 outage knocked out Outlook, Teams, SharePoint and Copilot for more than 24 hours in 74 countries; Microsoft blamed a network capacity upgrade and says recovery is progressing.",
+          "sources": [
+            "Reuters",
+            "Al Jazeera",
+            "Deadline",
+            "Ookla"
+          ],
+          "slug": "microsoft-global-outage-2026-11-14"
+        },
+        {
+          "bucket": "Blowing Up Today",
+          "emoji": "🔥",
+          "headline": "Jensen Huang resigns as Nvidia CEO; CFO Colette Kress named interim CEO",
+          "summary": "Nvidia's board announced Jensen Huang has resigned as president and CEO, with CFO Colette Kress appointed interim CEO and Harvey C. Jones named the company's first-ever board chair.",
+          "sources": [
+            "NVIDIA Newsroom",
+            "CNBC",
+            "The Guardian"
+          ],
+          "slug": "jensen-huang-resigns-nvidia-2026-11-14"
+        }
+      ]
+    },
+    {
       "date": "2026-11-13",
       "stories": [
         {
